@@ -155,7 +155,7 @@
 	stacktype = /obj/item/stack/tile/floor
 	build_type = /obj/item/stack/tile/floor
 
-/obj/item/stack/tile/linoleum
+/obj/item/stack/tile/linoleum   //there is no sprite for this
 	name = "linoleum"
 	singular_name = "linoleum"
 	desc = "A piece of linoleum. It is the same size as a normal floor tile!"
