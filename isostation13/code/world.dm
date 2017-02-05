@@ -529,7 +529,7 @@ var/world_topic_spam_protect_time = world.timeofday
 
 /world/proc/update_status()
 
-	var/s = "<b>Alien Isolation 13</b> &#8212; "
+	var/s = "<b><font size = 3>Alien Isolation 13</font></b> &#8212; "
 //	var/s = ""
 
 //	if (config && config.server_name)
