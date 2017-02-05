@@ -57,8 +57,8 @@ var/global/datum/global_init/init = new ()
 	hub = "Exadv1.spacestation13"
 	hub_password = "kMZy3U5jJHSiBQjr"
 	name = "Alien Isolation 13"
-	status = "<br><font size = 100><span style = \"color:purple\">ALIEN ISOLATION 13(<a href = \"https://discord.gg/rpxvmMW\">DISCORD</a>)</span></font>"
-	//update_status() disabled for now, re-enable it to change this shit automatically
+//	status = "<br><font size = 100><span style = \"color:purple\">ALIEN ISOLATION 13(<a href = \"https://discord.gg/rpxvmMW\">DISCORD</a>)</span></font>"
+//	update_status() //disabled for now, re-enable it to change this shit automatically
 
 #define RECOMMENDED_VERSION 509
 /world/New()
@@ -527,12 +527,13 @@ var/world_topic_spam_protect_time = world.timeofday
 				var/datum/admins/D = new /datum/admins(title, rights, ckey)
 				D.associate(directory[ckey])
 
-/world/proc/update_status()//removed for now - Cherkir
-/*
-	var/s = ""
+/world/proc/update_status()
 
-	if (config && config.server_name)
-		s += "<b>[config.server_name]</b> &#8212; "
+	var/s = "<b>Alien Isolation 13</b> &#8212; "
+//	var/s = ""
+
+//	if (config && config.server_name)
+	//	s += "<b>[config.server_name]</b> &#8212; "
 
 	s += "<b>[station_name()]</b>";
 	s += " ("
@@ -581,7 +582,7 @@ var/world_topic_spam_protect_time = world.timeofday
 	/* does this help? I do not know */
 	if (src.status != s)
 		src.status = s
-		*/
+
 
 #define FAILED_DB_CONNECTION_CUTOFF 5
 var/failed_db_connections = 0
