@@ -13,45 +13,54 @@
 
 	var/obj/structure/ladder/target
 
-	initialize()
-		// the upper will connect to the lower
-		if(icon_state == "ladderup")
-			return
-
-		for(var/obj/structure/ladder/L in GetBelow(src))
-			if(L.icon_state == "ladderup")
-				target = L
-				L.target = src
-				return
-
-	Destroy()
-		if(target && icon_state == "ladderdown")
-			qdel(target)
-		return ..()
-
-	attackby(obj/item/C as obj, mob/user as mob)
-		. = ..()
-		attack_hand(user)
+/obj/structure/ladder/initialize()
+	// the upper will connect to the lower
+	if(icon_state == "ladderup")
 		return
 
-	attack_hand(var/mob/M)
-		if(!target || !istype(target.loc, /turf))
-			M << "<span class='notice'>\The [src] is incomplete and can't be climbed.</span>"
+	for(var/obj/structure/ladder/L in GetBelow(src))
+		if(L.icon_state == "ladderup")
+			target = L
+			L.target = src
 			return
 
-		var/turf/T = target.loc
-		for(var/atom/A in T)
-			if(A.density)
-				M << "<span class='notice'>\A [A] is blocking \the [src].</span>"
-				return
+/obj/structure/ladder/Destroy()
+	if(target && icon_state == "ladderdown")
+		qdel(target)
+	return ..()
 
-		M.visible_message("<span class='notice'>\A [M] climbs [icon_state == "ladderup" ? "up" : "down"] \a [src]!</span>",
-			"You climb [icon_state == "ladderup"  ? "up" : "down"] \the [src]!",
-			"You hear the grunting and clanging of a metal ladder being used.")
-		M.Move(T)
+/obj/structure/ladder/attackby(obj/item/C as obj, mob/user as mob)
+	. = ..()
+	attack_hand(user)
+	return
 
-	CanPass(obj/mover, turf/source, height, airflow)
-		return airflow || !density
+/obj/structure/ladder/attack_hand(var/mob/M)
+	if(!target || !istype(target.loc, /turf))
+		M << "<span class='notice'>\The [src] is incomplete and can't be climbed.</span>"
+		return
+
+	var/turf/T = target.loc
+	for(var/atom/A in T)
+		if(A.density)
+			M << "<span class='notice'>\A [A] is blocking \the [src].</span>"
+			return
+
+	M.visible_message("<span class='notice'>\A [M] climbs [icon_state == "ladderup" ? "up" : "down"] \a [src]!</span>",
+		"You climb [icon_state == "ladderup"  ? "up" : "down"] \the [src]!",
+		"You hear the grunting and clanging of a metal ladder being used.")
+	M.Move(T)
+
+/obj/structure/ladder/attack_ghost(mob/user as mob)
+	if(!target || !istype(target.loc, /turf))
+		user << "<span class='notice'>\The [src] is incomplete and can't be climbed.</span>"
+		return
+
+	user << "<span class='notice'>You float [icon_state == "ladderup"  ? "up" : "down"] \the [src]!"
+	user.Move(target.loc)
+
+
+/obj/structure/ladder/CanPass(obj/mover, turf/source, height, airflow)
+	return airflow || !density
 
 
 //old shitty stairs
@@ -145,10 +154,11 @@
 	if (ismob(M) && M:client)
 		M:client.moving = 0
 
-/obj/structure/stairs/active/Click()
-	usr.client.moving = 1
-	usr.Move(locate(src.x, src.y, targetZ()))
-	usr.client.moving = 0
+
+/obj/structure/stairs/active/attack_ghost(mob/user as mob)
+	user.client.moving = 1
+	user.Move(locate(src.x, src.y, targetZ()))
+	user.client.moving = 0
 
 /obj/structure/stairs/active/bottom
 	icon_state = "rampdark"
