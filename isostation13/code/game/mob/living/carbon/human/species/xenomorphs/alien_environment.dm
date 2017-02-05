@@ -11,7 +11,7 @@
 //	if((environment.gas["plasma"] > 0 && !regenerate(H) || weed/* (plant && plant.seed && plant.seed.name == "xenomorph")*/) && !regenerate(H))
 	if (weed && !regenerate(H))//short circuiting - if there's no weeds, no healing
 		var/obj/item/organ/xenos/plasmavessel/P = H.internal_organs_by_name["plasma vessel"]
-		P.stored_plasma += weeds_plasma_rate/2
+		P.stored_plasma += weeds_plasma_rate
 		P.stored_plasma = min(max(P.stored_plasma,0),P.max_plasma)
 	else
 		var/obj/item/organ/xenos/plasmavessel/P = H.internal_organs_by_name["plasma vessel"]

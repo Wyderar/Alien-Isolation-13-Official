@@ -151,23 +151,24 @@
 
 	last_special = world.time + 50
 
-	src << "<span class='alium'><i>You must stand still...</i></alium>"
+	visible_message("<span class='danger'>[src] extends their inner mouth...</span>", "<span class='alium'><i>You must stand still...</i></alium>")
 
 	var/original_g_affecting_loc = get_turf(G.affecting)
 	var/original_src_loc = get_turf(src)
 
-	spawn (pick(20,30))
+	spawn (pick(40,60))
 		if (get_turf(G.affecting) == original_g_affecting_loc)
 			if (get_turf(src) == original_src_loc)
-				visible_message("<span class='danger'><b>\The [src]</b> sends its inner mouth straight through [G.affecting]'s [pick("skull", "brain")]!</span>")
+				if (!src.incapacitated_any())
+					visible_message("<span class='danger'><b>\The [src]</b> sends its inner mouth straight through [G.affecting]'s [pick("skull", "brain")]!</span>")
 
-				if(istype(G.affecting,/mob/living/carbon/human))
-					var/mob/living/carbon/human/H = G.affecting
-					H.apply_damage(10000,BRUTE,"head")
-				else
-					var/mob/living/M = G.affecting
-					if(!istype(M)) return //wut
-					M.apply_damage(10000,BRUTE)
+					if(istype(G.affecting,/mob/living/carbon/human))
+						var/mob/living/carbon/human/H = G.affecting
+						H.apply_damage(10000,BRUTE,"head")
+					else
+						var/mob/living/M = G.affecting
+						if(!istype(M)) return //wut
+						M.apply_damage(10000,BRUTE)
 
 
 /mob/living/carbon/human/proc/gut()

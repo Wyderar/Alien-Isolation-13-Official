@@ -18,7 +18,7 @@
 		var/list/l = list()
 
 		for (var/mob/m in mob_list)
-			if (!humans.Find(m) && !alien_larvae.Find(m))
+			if (!find(m))
 				l += m
 
 		return l

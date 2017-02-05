@@ -8,6 +8,7 @@ var/list/admin_verbs_default = list(
 	/client/proc/debug_variables,		//allows us to -see- the variables of any instance in the game. +VAREDIT needed to modify,
 //	/client/proc/check_antagonists,		//shows all antags,
 	/client/proc/cmd_mentor_check_new_players
+
 //	/client/proc/deadchat				//toggles deadchat on/off,
 	)
 var/list/admin_verbs_admin = list(
@@ -87,7 +88,8 @@ var/list/admin_verbs_admin = list(
 	/client/proc/change_security_level,
 	/client/proc/view_chemical_reaction_logs,
 	/client/proc/makePAI,
-	/datum/admins/proc/paralyze_mob
+	/datum/admins/proc/paralyze_mob,
+	/client/proc/change_world_status
 )
 var/list/admin_verbs_ban = list(
 	/client/proc/unban_panel,
@@ -372,8 +374,13 @@ var/list/admin_verbs_mentor = list(
 	src << "<span class='interface'>All of your adminverbs are now visible.</span>"
 
 
-
-
+/client/proc/change_world_status(t as text)
+	set category = "Server"
+	set name = "Change World Status"
+	if (!holder)
+		return
+	if (check_rights(R_HOST, 1, usr))
+		world.status = t
 
 
 /client/proc/admin_ghost()
