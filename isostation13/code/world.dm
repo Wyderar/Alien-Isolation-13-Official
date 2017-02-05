@@ -86,7 +86,7 @@ var/global/datum/global_init/init = new ()
 	load_mods()
 	//end-emergency fix
 
-	src.update_status()
+	update_status()
 
 	. = ..()
 
@@ -586,8 +586,8 @@ var/world_topic_spam_protect_time = world.timeofday
 	//	s += ": [jointext(features, ", ")]"
 
 	/* does this help? I do not know */
-	if (src.status != s)
-		src.status = s
+	if (status != s)
+		status = s
 
 
 #define FAILED_DB_CONNECTION_CUTOFF 5

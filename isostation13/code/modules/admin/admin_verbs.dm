@@ -89,7 +89,7 @@ var/list/admin_verbs_admin = list(
 	/client/proc/view_chemical_reaction_logs,
 	/client/proc/makePAI,
 	/datum/admins/proc/paralyze_mob,
-	/client/proc/change_world_status
+
 )
 var/list/admin_verbs_ban = list(
 	/client/proc/unban_panel,
@@ -133,6 +133,8 @@ var/list/admin_verbs_server = list(
 	/datum/admins/proc/capture_map,
 	/client/proc/Set_Holiday,
 	/client/proc/ToRban,
+	/client/proc/change_world_status,
+	/client/proc/change_world_listed_status,
 	/datum/admins/proc/startnow,
 	/datum/admins/proc/restart,
 	/datum/admins/proc/delay,
@@ -381,6 +383,14 @@ var/list/admin_verbs_mentor = list(
 		return
 	if (check_rights(R_HOST, 1, usr))
 		world.status = t
+
+/client/proc/change_world_listed_status()
+	if (!holder)
+		return
+	if (check_rights(R_HOST, 1, usr))
+		world.visibility = !world.visibility
+
+		src << "<span class='interface'>The server is now [world.visibility ? "visible" : "invisible"] on the hub.</span>"
 
 
 /client/proc/admin_ghost()
