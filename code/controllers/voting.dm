@@ -185,7 +185,7 @@ datum/controller/vote
 	proc/submit_vote(var/ckey, var/vote)
 		if(mode)
 			if(config.vote_no_dead && usr.stat == DEAD && !usr.client.holder)
-				return 0
+				return FALSE
 			if(vote && vote >= 1 && vote <= choices.len)
 				if(current_votes[ckey])
 					choices[choices[current_votes[ckey]]]--
@@ -193,14 +193,14 @@ datum/controller/vote
 				choices[choices[vote]]++	//check this
 				current_votes[ckey] = vote
 				return vote
-		return 0
+		return FALSE
 
 	proc/initiate_vote(var/vote_type, var/initiator_key, var/automatic = 0)
 		if(!mode)
 			if(started_time != null && !(check_rights(R_ADMIN) || automatic))
 				var/next_allowed_time = (started_time + config.vote_delay)
 				if(next_allowed_time > world.time)
-					return 0
+					return FALSE
 
 			reset()
 			switch(vote_type)
@@ -208,7 +208,7 @@ datum/controller/vote
 					choices.Add("Restart Round","Continue Playing")
 				if("gamemode")
 					if(ticker.current_state >= 2)
-						return 0
+						return FALSE
 					choices.Add(config.votable_modes)
 					for (var/F in choices)
 						var/datum/game_mode/M = gamemode_cache[F]
@@ -224,15 +224,15 @@ datum/controller/vote
 					else
 						if (get_security_level() == "red" || get_security_level() == "delta")
 							initiator_key << "The current alert status is too high to call for a crew transfer!"
-							return 0
+							return FALSE
 						if(ticker.current_state <= 2)
-							return 0
+							return FALSE
 							initiator_key << "The crew transfer button has been disabled!"
 						question = "End the shift?"
 						choices.Add("Initiate Crew Transfer", "Continue The Round")
 				if("add_antagonist")
 					if(!config.allow_extra_antags || ticker.current_state >= 2)
-						return 0
+						return FALSE
 					for(var/antag_type in all_antag_types)
 						var/datum/antagonist/antag = all_antag_types[antag_type]
 						if(!(antag.id in additional_antag_types) && antag.is_votable())
@@ -240,13 +240,13 @@ datum/controller/vote
 					choices.Add("None")
 				if("custom")
 					cp1251_to_utf8(rhtml_encode(input(usr,"What is the vote for?") as text|null))
-					if(!question)	return 0
+					if(!question)	return FALSE
 					for(var/i=1,i<=10,i++)
 						var/option = cp1251_to_utf8(capitalize(rhtml_encode(input(usr,"Please enter an option or hit cancel to finish") as text|null)))
 						if(!option || mode || !usr.client)	break
 						choices.Add(option)
 				else
-					return 0
+					return FALSE
 			mode = vote_type
 			initiator = initiator_key
 			started_time = world.time
@@ -268,8 +268,8 @@ datum/controller/vote
 				world << "<font color='red'><b>Round start has been delayed.</b></font>"
 
 			time_remaining = round(config.vote_period/10)
-			return 1
-		return 0
+			return TRUE
+		return FALSE
 
 	proc/interface(var/client/C)
 		if(!C)	return

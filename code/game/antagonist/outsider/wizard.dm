@@ -74,7 +74,7 @@ var/datum/antagonist/wizard/wizards
 /datum/antagonist/wizard/equip(var/mob/living/carbon/human/wizard_mob)
 
 	if(!..())
-		return 0
+		return FALSE
 
 	wizard_mob.equip_to_slot_or_del(new /obj/item/device/radio/headset(wizard_mob), slot_l_ear)
 	wizard_mob.equip_to_slot_or_del(new /obj/item/clothing/under/lightpurple(wizard_mob), slot_w_uniform)
@@ -89,7 +89,7 @@ var/datum/antagonist/wizard/wizards
 	var/obj/item/I = new /obj/item/weapon/spellbook(get_turf(wizard_mob))
 	wizard_mob.put_in_hands(I) //makes sure to at least have it on the ground for the wizard, considering how important it is.
 	wizard_mob.update_icons()
-	return 1
+	return TRUE
 
 /datum/antagonist/wizard/check_victory()
 	var/survivor
@@ -118,17 +118,17 @@ obj/item/clothing
 Made a proc so this is not repeated 14 (or more) times.*/
 /mob/proc/wearing_wiz_garb()
 	src << "Silly creature, you're not a human. Only humans can cast this spell."
-	return 0
+	return FALSE
 
 // Humans can wear clothes.
 /mob/living/carbon/human/wearing_wiz_garb()
 	if(!is_wiz_garb(src.wear_suit) && (!src.species.hud || (slot_wear_suit in src.species.hud.equip_slots)))
 		src << "<span class='warning'>I don't feel strong enough without my robe.</span>"
-		return 0
+		return FALSE
 	if(!is_wiz_garb(src.shoes) && (!species.hud || (slot_shoes in src.species.hud.equip_slots)))
 		src << "<span class='warning'>I don't feel strong enough without my sandals.</span>"
-		return 0
+		return FALSE
 	if(!is_wiz_garb(src.head) && (!species.hud || (slot_head in src.species.hud.equip_slots)))
 		src << "<span class='warning'>I don't feel strong enough without my hat.</span>"
-		return 0
-	return 1
+		return FALSE
+	return TRUE

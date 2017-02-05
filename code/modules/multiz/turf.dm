@@ -16,7 +16,6 @@
 	ASSERT(HasBelow(z))
 
 /turf/simulated/open/Entered(var/atom/movable/mover)
-	. = ..()
 #ifdef USE_OPENSPACE
 	if(istype(mover, /mob/shadow))
 #endif USE_OPENSPACE
@@ -51,7 +50,7 @@
 				if(W.is_fulltile())
 					return
 		// Dont break here, since we still need to be sure that it isnt blocked
-		if(istype(A, /obj/structure/multiz/stairs))
+		if(istype(A, /obj/structure/stairs))
 			soft = 1
 
 	// We've made sure we can move, now.

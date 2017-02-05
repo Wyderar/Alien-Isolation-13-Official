@@ -98,6 +98,7 @@ var/list/gamemode_cache = list()
 	var/banappeals
 	var/wikiurl
 	var/forumurl
+	var/discordurl
 	var/githuburl
 
 	//Alert level description
@@ -218,6 +219,8 @@ var/list/gamemode_cache = list()
 	var/list/language_prefixes = list(",","#","-")//Default language prefixes
 
 	var/ghosts_can_possess_animals = 0
+
+	var/impenetrable_station_exterior = 0
 
 /datum/configuration/New()
 	var/list/L = typesof(/datum/game_mode) - /datum/game_mode
@@ -428,6 +431,9 @@ var/list/gamemode_cache = list()
 				if ("forumurl")
 					config.forumurl = value
 
+				if ("discordurl")
+					config.discordurl = value
+
 				if ("githuburl")
 					config.githuburl = value
 
@@ -626,6 +632,9 @@ var/list/gamemode_cache = list()
 
 				if("character_slots")
 					config.character_slots = text2num(value)
+
+				if("impenetrable_station_exterior")
+					config.impenetrable_station_exterior = 1
 
 				if("allow_drone_spawn")
 					config.allow_drone_spawn = text2num(value)

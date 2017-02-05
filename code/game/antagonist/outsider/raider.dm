@@ -108,7 +108,7 @@ var/datum/antagonist/raider/raiders
 /datum/antagonist/raider/create_global_objectives()
 
 	if(!..())
-		return 0
+		return FALSE
 
 	var/i = 1
 	var/max_objectives = pick(2,2,2,2,3,3,3,4)
@@ -131,7 +131,7 @@ var/datum/antagonist/raider/raiders
 		i++
 
 	global_objectives |= new /datum/objective/heist/preserve_crew
-	return 1
+	return TRUE
 
 /datum/antagonist/raider/check_victory()
 	// Totally overrides the base proc.
@@ -182,17 +182,17 @@ var/datum/antagonist/raider/raiders
 /datum/antagonist/raider/proc/is_raider_crew_safe()
 
 	if(!current_antagonists || current_antagonists.len == 0)
-		return 0
+		return FALSE
 
 	for(var/datum/mind/player in current_antagonists)
 		if(!player.current || get_area(player.current) != locate(/area/skipjack_station/start))
-			return 0
-	return 1
+			return FALSE
+	return TRUE
 
 /datum/antagonist/raider/equip(var/mob/living/carbon/human/player)
 
 	if(!..())
-		return 0
+		return FALSE
 		var/new_shoes =   pick(raider_shoes)
 		var/new_uniform = pick(raider_uniforms)
 		var/new_glasses = pick(raider_glasses)
@@ -215,7 +215,7 @@ var/datum/antagonist/raider/raiders
 	spawn_money(rand(50,150)*10,W)
 	create_radio(SYND_FREQ, player)
 
-	return 1
+	return TRUE
 
 /datum/antagonist/raider/proc/equip_weapons(var/mob/living/carbon/human/player)
 	var/new_gun = pick(raider_guns)

@@ -80,6 +80,7 @@
 					H.equip_to_slot_or_del(new /obj/item/clothing/under/rank/medical/blue(H), slot_w_uniform)
 					H.equip_to_slot_or_del(new /obj/item/clothing/suit/storage/toggle/labcoat(H), slot_wear_suit)
 					H.equip_to_slot_or_del(new /obj/item/clothing/head/surgery/blue(H), slot_head)
+					H.equip_to_slot_or_del(new /obj/item/clothing/gloves/latex(H), slot_gloves)
 				if("Virologist")
 					H.equip_to_slot_or_del(new /obj/item/clothing/under/rank/virologist(H), slot_w_uniform)
 					H.equip_to_slot_or_del(new /obj/item/clothing/suit/storage/toggle/labcoat/virologist(H), slot_wear_suit)

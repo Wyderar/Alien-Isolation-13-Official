@@ -33,4 +33,4 @@ var/datum/antagonist/deathsquad/mercenary/commandos
 
 	create_id("Commando", player)
 	create_radio(SYND_FREQ, player)
-	return 1
+	return TRUE

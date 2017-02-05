@@ -2,8 +2,8 @@
 #define SAVEFILE_VERSION_MAX	12
 
 /datum/preferences/proc/load_path(ckey,filename="preferences.sav")
-	if(!ckey)	return
-	path = "data/player_saves/[copytext(ckey,1,2)]/[ckey]/[filename]"
+	if(!client_ckey)	return
+	path = "data/player_saves/[copytext(client_ckey,1,2)]/[client_ckey]/[filename]"
 	savefile_version = SAVEFILE_VERSION_MAX
 
 /datum/preferences/proc/load_preferences()

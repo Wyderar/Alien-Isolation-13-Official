@@ -42,4 +42,4 @@ var/datum/antagonist/ert/ert
 	player.equip_to_slot_or_del(new /obj/item/clothing/glasses/sunglasses(src), slot_glasses)
 
 	create_id(role_text, player)
-	return 1
+	return TRUE

@@ -36,7 +36,7 @@ var/datum/antagonist/actor/actor
 	player.set_id_info(C)
 	player.equip_to_slot_or_del(C,slot_wear_id)
 
-	return 1
+	return TRUE
 
 
 /client/verb/join_as_actor()

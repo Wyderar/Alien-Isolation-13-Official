@@ -16,11 +16,11 @@ In short:
 	decay_rate = 5 // 5% chance of a turf decaying on lighting update/airflow (there's no actual tick for turfs)
 
 /datum/universal_state/hell/OnShuttleCall(var/mob/user)
-	return 1
+	return TRUE
 	/*
 	if(user)
 		user << "<span class='sinister'>All you hear on the frequency is static and panicked screaming. There will be no shuttle call today.</span>"
-	return 0
+	return FALSE
 	*/
 
 /datum/universal_state/hell/DecayTurf(var/turf/T)
@@ -66,7 +66,7 @@ In short:
 /datum/universal_state/hell/OverlayAndAmbientSet()
 	spawn(0)
 		for(var/atom/movable/lighting_overlay/L in world)
-			L.update_overlay(1, 0, 0)
+			L.update_lumcount(1, 0, 0)
 
 		for(var/turf/space/T in turfs)
 			OnTurfChange(T)

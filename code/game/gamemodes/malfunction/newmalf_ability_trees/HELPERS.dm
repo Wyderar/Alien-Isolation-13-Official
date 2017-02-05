@@ -97,57 +97,57 @@
 // Description: This is pre-check proc used to determine if the AI can use the ability.
 /proc/ability_prechecks(var/mob/living/silicon/ai/user = null, var/check_price = 0, var/override = 0)
 	if(!user)
-		return 0
+		return FALSE
 	if(!istype(user))
 		user << "GAME ERROR: You tried to use ability that is only available for malfunctioning AIs, but you are not AI! Please report this."
-		return 0
+		return FALSE
 	if(!user.malfunctioning)
 		user << "GAME ERROR: You tried to use ability that is only available for malfunctioning AIs, but you are not malfunctioning. Please report this."
-		return 0
+		return FALSE
 	if(!user.research)
 		user << "GAME ERROR: No research datum detected. Please report this."
-		return 0
+		return FALSE
 	if(user.research.max_cpu < check_price)
 		user << "Your CPU storage is not large enough to use this ability. Hack more APCs to continue."
-		return 0
+		return FALSE
 	if(user.research.stored_cpu < check_price)
 		user << "You do not have enough CPU power stored. Please wait a moment."
-		return 0
+		return FALSE
 	if(user.hacking && !override)
 		user << "Your system is busy processing another task. Please wait until completion."
-		return 0
+		return FALSE
 	if(user.APU_power && !override)
 		user << "Low power. Unable to proceed."
-		return 0
-	return 1
+		return FALSE
+	return TRUE
 
 // Proc: ability_pay()
 // Parameters 2 - (user - User from which we deduct CPU from, price - Amount of CPU power to use)
 // Description: Uses up certain amount of CPU power. Returns 1 on success, 0 on failure.
 /proc/ability_pay(var/mob/living/silicon/ai/user = null, var/price = 0)
 	if(!user)
-		return 0
+		return FALSE
 	if(user.APU_power)
 		user << "Low power. Unable to proceed."
-		return 0
+		return FALSE
 	if(!user.research)
 		user << "GAME ERROR: No research datum detected. Please report this."
-		return 0
+		return FALSE
 	if(user.research.max_cpu < price)
 		user << "Your CPU storage is not large enough to use this ability. Hack more APCs to continue."
-		return 0
+		return FALSE
 	if(user.research.stored_cpu < price)
 		user << "You do not have enough CPU power stored. Please wait a moment."
-		return 0
+		return FALSE
 	user.research.stored_cpu -= price
-	return 1
+	return TRUE
 
 // Proc: announce_hack_failure()
 // Parameters 2 - (user - hacking user, text - Used in alert text creation)
 // Description: Uses up certain amount of CPU power. Returns 1 on success, 0 on failure.
 /proc/announce_hack_failure(var/mob/living/silicon/ai/user = null, var/text)
 	if(!user || !text)
-		return 0
+		return FALSE
 	var/fulltext = ""
 	switch(user.hack_fails)
 		if(1)

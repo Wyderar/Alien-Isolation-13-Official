@@ -1,0 +1,3 @@
+#define SOUND_SMALL 1
+#define SOUND_MEDIUM 2
+#define SOUND_LOUD 3

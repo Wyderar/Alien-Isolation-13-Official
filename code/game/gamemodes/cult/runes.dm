@@ -134,7 +134,7 @@ var/list/sacrificed = list()
 					converting -= target
 					if(target.getFireLoss() < 100)
 						target.hallucination = min(target.hallucination, 500)
-					return 0
+					return FALSE
 
 				target.take_overall_damage(0, rand(5, 20)) // You dirty resister cannot handle the damage to your mind. Easily. - even cultists who accept right away should experience some effects
 				// Resist messages go!
@@ -184,7 +184,7 @@ var/list/sacrificed = list()
 							target.hallucination = 0 //sudden clarity
 
 				sleep(100) //proc once every 10 seconds
-			return 1
+			return TRUE
 
 /////////////////////////////////////////FOURTH RUNE
 
@@ -583,14 +583,14 @@ var/list/sacrificed = list()
 
 		// returns 0 if the rune is not used. returns 1 if the rune is used.
 		communicate()
-			. = 1 // Default output is 1. If the rune is deleted it will return 1
+			. = 1 // Default output is 1. If the rune is deleted it will return TRUE
 			var/input = input(usr, "Please choose a message to tell to the other acolytes.", "Voice of Blood", "")//sanitize() below, say() and whisper() have their own
 			if(!input)
 				if (istype(src))
 					fizzle()
-					return 0
+					return FALSE
 				else
-					return 0
+					return FALSE
 
 			if(istype(src,/obj/effect/rune))
 				usr.say("O bidai nabora se[pick("'","`")]sma!")
@@ -599,13 +599,13 @@ var/list/sacrificed = list()
 				usr.whisper("O bidai nabora se[pick("'","`")]sma!")
 				usr.whisper("[input]")
 
-			input = capitalize_cp1251(sanitize(input))
+			input = sanitize(input)
 			log_and_message_admins("used a communicate rune to say '[input]'")
 			for(var/datum/mind/H in cult.current_antagonists)
 				if (H.current)
 					H.current << "<span class='cult'>[input]</span>"
 			qdel(src)
-			return 1
+			return TRUE
 
 /////////////////////////////////////////FIFTEENTH RUNE
 

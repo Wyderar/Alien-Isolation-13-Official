@@ -26,7 +26,7 @@ var/global/datum/global_init/init = new ()
 	qdel(src) //we're done
 
 /datum/global_init/Destroy()
-	return 1
+	return TRUE
 
 /var/game_id = null
 /proc/generate_gameid()
@@ -54,7 +54,11 @@ var/global/datum/global_init/init = new ()
 	area = /area/space
 	view = "15x15"
 	cache_lifespan = 0	//stops player uploaded stuff from being kept in the rsc past the current session
-
+	hub = "Exadv1.spacestation13"
+	hub_password = "kMZy3U5jJHSiBQjr"
+	name = "Alien Isolation 13"
+	status = "<br><font size = 100><span style = \"color:purple\">ALIEN ISOLATION 13(<a href = \"https://discord.gg/rpxvmMW\">DISCORD</a>)</span></font>"
+	//update_status() disabled for now, re-enable it to change this shit automatically
 
 #define RECOMMENDED_VERSION 509
 /world/New()
@@ -315,7 +319,7 @@ var/world_topic_spam_protect_time = world.timeofday
 			info["hasbeenrev"] = M.mind ? M.mind.has_been_rev : "No mind"
 			info["stat"] = M.stat
 			info["type"] = M.type
-			if(isliving(M))
+			if(istype(M, /mob/living))
 				var/mob/living/L = M
 				info["damage"] = list2params(list(
 							oxy = L.getOxyLoss(),
@@ -447,7 +451,7 @@ var/world_topic_spam_protect_time = world.timeofday
 
 /hook/startup/proc/loadMode()
 	world.load_mode()
-	return 1
+	return TRUE
 
 /world/proc/load_mode()
 	var/list/Lines = file2list("data/mode.txt")
@@ -464,7 +468,7 @@ var/world_topic_spam_protect_time = world.timeofday
 
 /hook/startup/proc/loadMOTD()
 	world.load_motd()
-	return 1
+	return TRUE
 
 /world/proc/load_motd()
 	join_motd = russian_to_cp1251(file2text("config/motd.txt"))
@@ -480,7 +484,7 @@ var/world_topic_spam_protect_time = world.timeofday
 /hook/startup/proc/loadMods()
 	world.load_mods()
 	world.load_mentors() // no need to write another hook.
-	return 1
+	return TRUE
 
 /world/proc/load_mods()
 	if(config.admin_legacy_system)
@@ -523,7 +527,8 @@ var/world_topic_spam_protect_time = world.timeofday
 				var/datum/admins/D = new /datum/admins(title, rights, ckey)
 				D.associate(directory[ckey])
 
-/world/proc/update_status()
+/world/proc/update_status()//removed for now - Cherkir
+/*
 	var/s = ""
 
 	if (config && config.server_name)
@@ -576,6 +581,7 @@ var/world_topic_spam_protect_time = world.timeofday
 	/* does this help? I do not know */
 	if (src.status != s)
 		src.status = s
+		*/
 
 #define FAILED_DB_CONNECTION_CUTOFF 5
 var/failed_db_connections = 0
@@ -586,12 +592,12 @@ var/failed_old_db_connections = 0
 		world.log << "Your server failed to establish a connection with the feedback database."
 	else
 		world.log << "Feedback database connection established."
-	return 1
+	return TRUE
 
 proc/setup_database_connection()
 
 	if(failed_db_connections > FAILED_DB_CONNECTION_CUTOFF)	//If it failed to establish a connection more than 5 times in a row, don't bother attempting to conenct anymore.
-		return 0
+		return FALSE
 
 	if(!dbcon)
 		dbcon = new()
@@ -615,12 +621,12 @@ proc/setup_database_connection()
 //This proc ensures that the connection to the feedback database (global variable dbcon) is established
 proc/establish_db_connection()
 	if(failed_db_connections > FAILED_DB_CONNECTION_CUTOFF)
-		return 0
+		return FALSE
 
 	if(!dbcon || !dbcon.IsConnected())
 		return setup_database_connection()
 	else
-		return 1
+		return TRUE
 
 
 /hook/startup/proc/connectOldDB()
@@ -628,13 +634,13 @@ proc/establish_db_connection()
 		world.log << "Your server failed to establish a connection with the SQL database."
 	else
 		world.log << "SQL database connection established."
-	return 1
+	return TRUE
 
 //These two procs are for the old database, while it's being phased out. See the tgstation.sql file in the SQL folder for more information.
 proc/setup_old_database_connection()
 
 	if(failed_old_db_connections > FAILED_DB_CONNECTION_CUTOFF)	//If it failed to establish a connection more than 5 times in a row, don't bother attempting to conenct anymore.
-		return 0
+		return FALSE
 
 	if(!dbcon_old)
 		dbcon_old = new()
@@ -658,11 +664,11 @@ proc/setup_old_database_connection()
 //This proc ensures that the connection to the feedback database (global variable dbcon) is established
 proc/establish_old_db_connection()
 	if(failed_old_db_connections > FAILED_DB_CONNECTION_CUTOFF)
-		return 0
+		return FALSE
 
 	if(!dbcon_old || !dbcon_old.IsConnected())
 		return setup_old_database_connection()
 	else
-		return 1
+		return TRUE
 
 #undef FAILED_DB_CONNECTION_CUTOFF

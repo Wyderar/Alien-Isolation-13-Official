@@ -5,6 +5,7 @@ var/datum/antagonist/xenos/xenomorphs
 	role_text = "Xenomorph"
 	role_text_plural = "Xenomorphs"
 	mob_path = /mob/living/carbon/alien/larva
+	special_path = /datum/species/xenos
 	bantype = "Xenomorph"
 	flags = ANTAG_OVERRIDE_MOB | ANTAG_RANDSPAWN | ANTAG_OVERRIDE_JOB | ANTAG_VOTABLE
 	welcome_text = "Hiss! You are a larval alien. Hide and bide your time until you are ready to evolve."
@@ -18,8 +19,8 @@ var/datum/antagonist/xenos/xenomorphs
 
 	hard_cap = 5
 	hard_cap_round = 8
-	initial_spawn_req = 4
-	initial_spawn_target = 6
+	initial_spawn_req = 1
+	initial_spawn_target = 3
 
 	spawn_announcement = "Unidentified lifesigns detected coming aboard the station. Secure any exterior access, including ducting and ventilation."
 	spawn_announcement_title = "Lifesign Alert"
@@ -31,8 +32,54 @@ var/datum/antagonist/xenos/xenomorphs
 	if(!no_reference)
 		xenomorphs = src
 
+
+/*
+
+/datum/antagonist/xenos/proc/create_one_default_from_ghost(location)
+
+	var/datum/mind/player = attempt_random_spawn_one()
+
+	if (player == 0 || player == null)//player SHOULD be a mind
+		world << "NO PLAYER BAD"
+		return FALSE
+
+	world << "SUCCESS!"
+
+	world << player.type
+
+	player.current.loc = location
+
+	world << player.current.type
+
+	return TRUE*/
+
 /datum/antagonist/xenos/attempt_random_spawn()
-	if(config.aliens_allowed) ..()
+	if(config.aliens_allowed) return ..()
+
+/datum/antagonist/xenos/attempt_random_spawn_one()
+	if(config.aliens_allowed) return ..()
+
+/datum/antagonist/xenos/antags_are_dead()
+
+	var/to_return = TRUE
+
+
+	for (var/datum/mind/antag in current_antagonists)
+		if(!antag.current.client)
+			continue
+		if (!isalien(antag.current))
+			continue
+		if(antag.current.stat==2)
+			continue
+
+		to_return = FALSE
+
+	for (var/mob/living/carbon/c in mob_list)
+		if (isalienfather(c))//also checks if they're carbon
+			to_return = FALSE
+			break
+
+	return to_return
 
 /datum/antagonist/xenos/proc/get_vents()
 	var/list/vents = list()

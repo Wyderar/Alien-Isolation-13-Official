@@ -75,10 +75,10 @@ var/datum/antagonist/traitor/traitors
 /datum/antagonist/traitor/equip(var/mob/living/carbon/human/traitor_mob)
 	if(istype(traitor_mob, /mob/living/silicon)) // this needs to be here because ..() returns false if the mob isn't human
 		add_law_zero(traitor_mob)
-		return 1
+		return TRUE
 
 	if(!..())
-		return 0
+		return FALSE
 
 	spawn_uplink(traitor_mob)
 	// Tell them about people they might want to contact.

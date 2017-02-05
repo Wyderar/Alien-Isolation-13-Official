@@ -17,7 +17,7 @@
 	var/moving			= null
 	var/adminobs		= null
 	var/area			= null
-
+	var/pressing_move_key = 0
 	var/adminhelped = 0
 
 		///////////////

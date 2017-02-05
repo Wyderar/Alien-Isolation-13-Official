@@ -14,6 +14,9 @@ var/global/datum/controller/processScheduler/processScheduler
 	// Processes that are queued to run
 	var/tmp/datum/controller/process/list/queued = new
 
+	//	Processes that are queued but run first
+	var/tmp/datum/controller/process/list/priority_queued = new
+
 	// Process name -> process object map
 	var/tmp/datum/controller/process/list/nameToProcessMap = new
 
@@ -73,7 +76,7 @@ var/global/datum/controller/processScheduler/processScheduler
 	// There can be only one
 	if(processScheduler && (processScheduler != src))
 		del(src)
-		return 0
+		return FALSE
 
 	var/process
 	// Add all the processes we can find, except for the ticker
@@ -140,6 +143,8 @@ var/global/datum/controller/processScheduler/processScheduler
 			setQueuedProcessState(p)
 
 /datum/controller/processScheduler/proc/runQueuedProcesses()
+	for (var/datum/controller/process/p in priority_queued)
+		runProcess(p)
 	for(var/datum/controller/process/p in queued)
 		runProcess(p)
 
@@ -176,6 +181,7 @@ var/global/datum/controller/processScheduler/processScheduler
 	idle.Remove(oldProcess)
 	running.Remove(oldProcess)
 	queued.Remove(oldProcess)
+	priority_queued.Remove(oldProcess)
 	idle.Add(newProcess)
 
 	last_start.Remove(oldProcess)
@@ -221,6 +227,8 @@ var/global/datum/controller/processScheduler/processScheduler
 		running -= process
 	if (process in queued)
 		queued -= process
+	if (process.priority && process in priority_queued)
+		priority_queued -= process
 	if (!(process in idle))
 		idle += process
 
@@ -231,13 +239,18 @@ var/global/datum/controller/processScheduler/processScheduler
 		idle -= process
 	if (!(process in queued))
 		queued += process
+	if (!(process in priority_queued) && process.priority)
+		priority_queued += process
 
 	// The other state transitions are handled internally by the process.
 	process.queued()
+	process.priority_queued()
 
 /datum/controller/processScheduler/proc/setRunningProcessState(var/datum/controller/process/process)
 	if (process in queued)
 		queued -= process
+	if (process.priority && process in priority_queued)
+		priority_queued -= process
 	if (process in idle)
 		idle -= process
 	if (!(process in running))
@@ -315,7 +328,7 @@ var/global/datum/controller/processScheduler/processScheduler
 
 /datum/controller/processScheduler/proc/hasProcess(var/processName as text)
 	if (nameToProcessMap[processName])
-		return 1
+		return TRUE
 
 /datum/controller/processScheduler/proc/killProcess(var/processName as text)
 	restartProcess(processName)
@@ -341,7 +354,7 @@ var/global/datum/controller/processScheduler/processScheduler
 /datum/controller/processScheduler/proc/getCurrentTickElapsedTime()
 	if (world.time > currentTick)
 		updateCurrentTickData()
-		return 0
+		return FALSE
 	else
 		return TimeOfTick
 

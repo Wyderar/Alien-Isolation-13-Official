@@ -4,23 +4,26 @@
 	/**
 	 * State vars
 	 */
+	//do we come first
+	var/tmp/priority = FALSE
+
 	// Main controller ref
 	var/tmp/datum/controller/processScheduler/main
 
 	// 1 if process is not running or queued
-	var/tmp/idle = 1
+	var/tmp/idle = TRUE
 
 	// 1 if process is queued
-	var/tmp/queued = 0
+	var/tmp/queued = FALSE
 
 	// 1 if process is running
-	var/tmp/running = 0
+	var/tmp/running = FALSE
 
 	// 1 if process is blocked up
-	var/tmp/hung = 0
+	var/tmp/hung = FALSE
 
 	// 1 if process was killed
-	var/tmp/killed = 0
+	var/tmp/killed = FALSE
 
 	// Status text var
 	var/tmp/status
@@ -29,7 +32,7 @@
 	var/tmp/previousStatus
 
 	// 1 if process is disabled
-	var/tmp/disabled = 0
+	var/tmp/disabled = FALSE
 
 	/**
 	 * Config vars
@@ -148,11 +151,21 @@
 	setStatus(PROCESS_STATUS_IDLE)
 
 /datum/controller/process/proc/queued()
-	idle = 0
-	running = 0
-	queued = 1
-	hung = 0
-	setStatus(PROCESS_STATUS_QUEUED)
+	if (!priority)
+		idle = 0
+		running = 0
+		queued = 1
+		hung = 0
+		setStatus(PROCESS_STATUS_QUEUED)
+
+
+/datum/controller/process/proc/priority_queued()
+	if (priority)
+		idle = 0
+		running = 0
+		queued = 1
+		hung = 0
+		setStatus(PROCESS_STATUS_QUEUED)
 
 /datum/controller/process/proc/hung()
 	hung = 1

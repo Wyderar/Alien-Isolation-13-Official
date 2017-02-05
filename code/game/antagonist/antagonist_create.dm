@@ -6,7 +6,7 @@
 	update_antag_mob(target, preserve_appearance)
 	if(!target.current)
 		remove_antagonist(target)
-		return 0
+		return FALSE
 	if(flags & ANTAG_CHOOSE_NAME)
 		spawn(1)
 			set_antag_name(target.current)
@@ -19,7 +19,10 @@
 	if(!gag_announcement)
 		announce_antagonist_spawn()
 
-/datum/antagonist/proc/create_default(var/mob/source)
+	return target.current
+
+
+/datum/antagonist/proc/create_default(var/mob/source) //RETURN
 	var/mob/living/M
 	if(mob_path)
 		M = new mob_path(get_turf(source))
@@ -111,7 +114,7 @@
 		if (player.current.mind.assigned_role == "Clown")
 			player.current << "You have evolved beyond your clownish nature, allowing you to wield weapons without harming yourself."
 			player.current.mutations.Remove(CLUMSY)
-	return 1
+	return TRUE
 
 /datum/antagonist/proc/set_antag_name(var/mob/living/player)
 	// Choose a name, if any.

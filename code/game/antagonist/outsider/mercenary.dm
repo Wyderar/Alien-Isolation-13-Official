@@ -26,14 +26,14 @@ var/datum/antagonist/mercenary/mercs
 
 /datum/antagonist/mercenary/create_global_objectives()
 	if(!..())
-		return 0
+		return FALSE
 	global_objectives = list()
 	global_objectives |= new /datum/objective/nuclear
-	return 1
+	return TRUE
 
 /datum/antagonist/mercenary/equip(var/mob/living/carbon/human/player)
 	if(!..())
-		return 0
+		return FALSE
 
 	player.equip_to_slot_or_del(new /obj/item/clothing/under/syndicate(player), slot_w_uniform)
 	player.equip_to_slot_or_del(new /obj/item/clothing/shoes/black(player), slot_shoes)
@@ -51,4 +51,4 @@ var/datum/antagonist/mercenary/mercs
 
 	create_id("Mercenary", player)
 	create_radio(SYND_FREQ, player)
-	return 1
+	return TRUE

@@ -78,7 +78,7 @@ var/global/list/antag_names_to_ids = list()
 		if(only_offstation_roles && !(antag.flags & ANTAG_OVERRIDE_JOB))
 			continue
 		if(player in antag.current_antagonists)
-			return 1
+			return TRUE
 		if(player in antag.pending_antagonists)
-			return 1
-	return 0
+			return TRUE
+	return FALSE

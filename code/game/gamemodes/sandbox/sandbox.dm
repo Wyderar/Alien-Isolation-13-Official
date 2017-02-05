@@ -9,7 +9,7 @@
 /datum/game_mode/sandbox/pre_setup()
 	for(var/mob/M in player_list)
 		M.CanBuild()
-	return 1
+	return TRUE
 
 /datum/game_mode/sandbox/post_setup()
 	..()

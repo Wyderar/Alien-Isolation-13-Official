@@ -42,6 +42,6 @@
 
 
 	..()
-	return 1
+	return TRUE
 
 #undef METEOR_DELAY

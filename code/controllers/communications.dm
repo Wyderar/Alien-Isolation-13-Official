@@ -208,7 +208,7 @@ var/global/datum/controller/radio/radio_controller
 
 /hook/startup/proc/createRadioController()
 	radio_controller = new /datum/controller/radio()
-	return 1
+	return TRUE
 
 //callback used by objects to react to incoming radio signals
 /obj/proc/receive_signal(datum/signal/signal, receive_method, receive_param)
@@ -241,7 +241,7 @@ var/global/datum/controller/radio/radio_controller
 			qdel(frequency)
 			frequencies -= f_text
 
-	return 1
+	return TRUE
 
 /datum/controller/radio/proc/return_frequency(var/new_frequency as num)
 	var/f_text = num2text(new_frequency)
@@ -264,7 +264,7 @@ var/global/datum/controller/radio/radio_controller
 		start_point = get_turf(source)
 		if(!start_point)
 			qdel(signal)
-			return 0
+			return FALSE
 	if (filter)
 		send_to_filter(source, signal, filter, start_point, range)
 		send_to_filter(source, signal, RADIO_DEFAULT, start_point, range)

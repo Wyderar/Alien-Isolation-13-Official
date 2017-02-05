@@ -1,4 +1,11 @@
 #define DEBUG
+
+#define MIN_Z 1
+#define MAX_Z 5
+
+#define TRUE 1
+#define FALSE 0
+#define UNDEFINED -1
 // Turf-only flags.
 #define NOJAUNT 1 // This is used in literally one place, turf.dm, to block ethereal jaunt.
 

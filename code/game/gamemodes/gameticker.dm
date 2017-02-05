@@ -28,7 +28,17 @@ var/global/datum/controller/gameticker/ticker
 
 	var/round_end_announced = 0 // Spam Prevention. Announce round end only once.
 
+	//more specific pools for VERY commonly used things that should never be made with new() - which is inevitable with basic pools
+	var/datum/math_pool/math_datum_pool = null//speeds up projectiles quite a bit
+	var/datum/basic_mob_pool/basic_mob_pool = null//should speed up alien larva creation, which can be laggy, and they often burst near humans
+
+	var/novote = 1
+
 /datum/controller/gameticker/proc/pregame()
+	math_datum_pool = new/datum/math_pool()
+	basic_mob_pool = new/datum/basic_mob_pool()
+	for (var/obj/machinery/atmospherics/unary/vent_pump/somevent in world) //todo: move this to a better place
+		vent_list += somevent
 	login_music = pick(\
 	/*'sound/music/halloween/skeletons.ogg',\
 	'sound/music/halloween/halloween.ogg',\
@@ -49,18 +59,23 @@ var/global/datum/controller/gameticker/ticker
 		world << "<B><FONT color='blue'>Welcome to the pre-game lobby!</FONT></B>"
 		world << "Please, setup your character and select ready. Game will start in [pregame_timeleft] seconds"
 		while(current_state == GAME_STATE_PREGAME)
+
 			for(var/i=0, i<10, i++)
 				sleep(1)
-				vote.process()
+				if (!novote)
+					vote.process()
 			if(round_progressing)
 				pregame_timeleft--
+
 			if(pregame_timeleft == config.vote_autogamemode_timeleft)
 				if(!vote.time_remaining)
-					vote.autogamemode()	//Quit calling this over and over and over and over.
+					if (!novote)
+						vote.autogamemode()	//Quit calling this over and over and over and over.
 					while(vote.time_remaining)
 						for(var/i=0, i<10, i++)
 							sleep(1)
-							vote.process()
+							if (!novote)
+								vote.process()
 			if(pregame_timeleft <= 0)
 				current_state = GAME_STATE_SETTING_UP
 	while (!setup())
@@ -76,7 +91,7 @@ var/global/datum/controller/gameticker/ticker
 		if(!runnable_modes.len)
 			current_state = GAME_STATE_PREGAME
 			world << "<B>Unable to choose playable game mode.</B> Reverting to pre-game lobby."
-			return 0
+			return FALSE
 		if(secret_force_mode != "secret")
 			src.mode = config.pick_mode(secret_force_mode)
 		if(!src.mode)
@@ -90,7 +105,7 @@ var/global/datum/controller/gameticker/ticker
 	if(!src.mode)
 		current_state = GAME_STATE_PREGAME
 		world << "<span class='danger'>Serious error in mode setup!</span> Reverting to pre-game lobby."
-		return 0
+		return FALSE
 
 	job_master.ResetOccupations()
 	src.mode.create_antagonists()
@@ -103,7 +118,7 @@ var/global/datum/controller/gameticker/ticker
 		mode.fail_setup()
 		mode = null
 		job_master.ResetOccupations()
-		return 0
+		return FALSE
 
 	if(hide_mode)
 		world << "<B>The current game mode is - Secret!</B>"
@@ -160,7 +175,7 @@ var/global/datum/controller/gameticker/ticker
 	if(config.sql_enabled)
 		statistic_cycle() // Polls population totals regularly and stores them in an SQL DB -- TLE
 
-	return 1
+	return TRUE
 
 /datum/controller/gameticker
 	//station_explosion used to be a variable for every mob's hud. Which was a waste!
@@ -303,7 +318,7 @@ var/global/datum/controller/gameticker/ticker
 
 	proc/process()
 		if(current_state != GAME_STATE_PLAYING)
-			return 0
+			return FALSE
 
 		mode.process()
 
@@ -356,7 +371,7 @@ var/global/datum/controller/gameticker/ticker
 					round_end_announced = 1
 				vote.autotransfer()
 
-		return 1
+		return TRUE
 
 /datum/controller/gameticker/proc/declare_completion()
 	world << "<br><br><br><H1>A round of [mode.name] has ended!</H1>"
@@ -439,4 +454,4 @@ var/global/datum/controller/gameticker/ticker
 	for(var/i in total_antagonists)
 		log_game("[i]s[total_antagonists[i]].")
 
-	return 1
+	return TRUE

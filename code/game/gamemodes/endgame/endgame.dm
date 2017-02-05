@@ -39,9 +39,9 @@
 			F.ReplaceWithLattice()
 		return
 
-// Return 0 to cause shuttle call to fail.
+// return FALSE to cause shuttle call to fail.
 /datum/universal_state/proc/OnShuttleCall(var/mob/user)
-	return 1
+	return TRUE
 
 // Processed per tick
 /datum/universal_state/proc/OnTurfTick(var/turf/T)

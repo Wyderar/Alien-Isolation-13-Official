@@ -215,6 +215,7 @@
 
 	if(muzzle_flash)
 		set_light(0)
+		make_sound(SOUND_LOUD)
 
 //obtains the next projectile to fire
 /obj/item/weapon/gun/proc/consume_next_projectile()

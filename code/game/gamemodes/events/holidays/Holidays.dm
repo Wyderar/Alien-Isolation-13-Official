@@ -14,7 +14,7 @@ var/global/Holiday = null
 
 /hook/startup/proc/updateHoliday()
 	Get_Holiday()
-	return 1
+	return TRUE
 
 //sets up the Holiday global variable. Shouldbe called on game configuration or something.
 /proc/Get_Holiday()

@@ -11,16 +11,17 @@
 		src << "<span class='warning'>The wiki URL is not set in the server configuration.</span>"
 	return
 
-/client/verb/forum()
-	set name = "forum"
-	set desc = "Visit the forum."
+/client/verb/discord()
+	set name = "discord"
+	set desc = "Visit our discord channel."
 	set hidden = 1
-	if( config.forumurl )
-		if(alert("This will open the forum in your browser. Are you sure?",,"Yes","No")=="No")
+
+	if( config.discordurl )
+		if(alert("This will open the discord in your browser. Are you sure?",,"Yes","No")=="No")
 			return
-		src << link(config.forumurl)
+		src << link(config.discordurl)
 	else
-		src << "<span class='warning'>The forum URL is not set in the server configuration.</span>"
+		src << "<span class='warning'>The discord URL is not set in the server configuration.</span>"
 	return
 
 #define RULES_FILE "config/rules.html"

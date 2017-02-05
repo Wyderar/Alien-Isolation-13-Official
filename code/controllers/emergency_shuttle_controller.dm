@@ -120,26 +120,26 @@ var/global/datum/emergency_shuttle_controller/emergency_shuttle
 
 /datum/emergency_shuttle_controller/proc/can_call()
 	if (!universe.OnShuttleCall(null))
-		return 0
+		return FALSE
 	if (deny_shuttle)
-		return 0
+		return FALSE
 	if (shuttle.moving_status != SHUTTLE_IDLE || !shuttle.location)	//must be idle at centcom
-		return 0
+		return FALSE
 	if (wait_for_launch)	//already launching
-		return 0
-	return 1
+		return FALSE
+	return TRUE
 
 //this only returns 0 if it would absolutely make no sense to recall
 //e.g. the shuttle is already at the station or wasn't called to begin with
 //other reasons for the shuttle not being recallable should be handled elsewhere
 /datum/emergency_shuttle_controller/proc/can_recall()
 	if (shuttle.moving_status == SHUTTLE_INTRANSIT)	//if the shuttle is already in transit then it's too late
-		return 0
+		return FALSE
 	if (!shuttle.location)	//already at the station.
-		return 0
+		return FALSE
 	if (!wait_for_launch)	//we weren't going anywhere, anyways...
-		return 0
-	return 1
+		return FALSE
+	return TRUE
 
 /datum/emergency_shuttle_controller/proc/get_shuttle_prep_time()
 	// During mutiny rounds, the shuttle takes twice as long.
@@ -156,13 +156,13 @@ var/global/datum/emergency_shuttle_controller/emergency_shuttle
 //returns 1 if the shuttle is docked at the station and waiting to leave
 /datum/emergency_shuttle_controller/proc/waiting_to_leave()
 	if (shuttle.location)
-		return 0	//not at station
+		return FALSE	//not at station
 	return (wait_for_launch || shuttle.moving_status != SHUTTLE_INTRANSIT)
 
 //so we don't have emergency_shuttle.shuttle.location everywhere
 /datum/emergency_shuttle_controller/proc/location()
 	if (!shuttle)
-		return 1 	//if we dont have a shuttle datum, just act like it's at centcom
+		return TRUE 	//if we dont have a shuttle datum, just act like it's at centcom
 	return shuttle.location
 
 //returns the time left until the shuttle arrives at it's destination, in seconds
@@ -191,10 +191,10 @@ var/global/datum/emergency_shuttle_controller/emergency_shuttle
 //returns 1 if the shuttle is not idle at centcom
 /datum/emergency_shuttle_controller/proc/online()
 	if (!shuttle.location)	//not at centcom
-		return 1
+		return TRUE
 	if (wait_for_launch || shuttle.moving_status != SHUTTLE_IDLE)
-		return 1
-	return 0
+		return TRUE
+	return FALSE
 
 //returns 1 if the shuttle is currently in transit (or just leaving) to the station
 /datum/emergency_shuttle_controller/proc/going_to_station()

@@ -40,7 +40,7 @@
 
 /datum/game_mode/meme/can_start()
 	if(!..())
-		return 0
+		return FALSE
 
 	// for every 10 players, get 1 meme, and for each meme, get a host
 	// also make sure that there's at least one meme and one host
@@ -50,7 +50,7 @@
 
 	if(possible_memes.len < 2)
 		log_admin("MODE FAILURE: MEME. NOT ENOUGH MEME CANDIDATES.")
-		return 0 // not enough candidates for meme
+		return FALSE // not enough candidates for meme
 
 	// for each 2 possible memes, add one meme and one host
 	while(possible_memes.len >= 2)
@@ -68,10 +68,10 @@
 		meme.assigned_role = "MODE" //So they aren't chosen for other jobs.
 		meme.special_role = "Meme"
 
-	return 1
+	return TRUE
 
 /datum/game_mode/meme/pre_setup()
-	return 1
+	return TRUE
 
 
 /datum/game_mode/meme/post_setup()
@@ -141,4 +141,4 @@
 	if (memes_alive)
 		return ..()
 	else
-		return 1
+		return TRUE

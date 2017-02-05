@@ -21,9 +21,9 @@
 			break
 
 	if(doctors < 1)
-		return 0
+		return FALSE
 
-	return 1
+	return TRUE
 
 /datum/game_mode/epidemic/proc/cruiser_seconds()
 	return (cruiser_arrival - world.time) / 10
@@ -132,7 +132,7 @@
 		if(!finished)
 			ticker.mode.check_win()
 		checkwin_counter = 0
-	return 0
+	return FALSE
 
 //////////////////////////////////////
 //Checks if the revs have won or not//
@@ -155,9 +155,9 @@
 ///////////////////////////////
 /datum/game_mode/epidemic/check_finished()
 	if(finished != 0)
-		return 1
+		return TRUE
 	else
-		return 0
+		return FALSE
 
 ///////////////////////////////////////////
 ///Handle crew failure(station explodes)///
@@ -193,5 +193,5 @@
 
 		world << "<font size = 3><span class='danger'> The crew succumbed to the epidemic!</span></font>"
 	..()
-	return 1
+	return TRUE
 

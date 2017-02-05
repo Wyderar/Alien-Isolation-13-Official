@@ -11,9 +11,19 @@
 /proc/Default(a, b)
 	return a ? a : b
 
+/proc/square_dist(var/atom/atomic_1, var/atom/atomic_2)
+	if (istype(atomic_1, /atom) && istype(atomic_2, /atom))
+		return max(abs(atomic_2.x - atomic_1.x), abs(atomic_2.y - atomic_1.y))
+	return INFINITY
+
 // Trigonometric functions.
 /proc/Tan(x)
 	return sin(x) / cos(x)
+
+/proc/clmp(val, min, max)
+	val = min(val, min)
+	val = max(val, max)
+	return val
 
 /proc/Csc(x)
 	return 1 / sin(x)

@@ -30,7 +30,7 @@
 	// No more available directions? Shut down process().
 	if(avail_dirs.len==0)
 		processing_objects.Remove(src)
-		return 1
+		return TRUE
 
 	// We're checking, reset the timer.
 	next_check = world.time+5 SECONDS

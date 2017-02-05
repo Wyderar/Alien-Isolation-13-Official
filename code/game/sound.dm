@@ -46,12 +46,18 @@ var/list/swing_hit_sound = list('sound/weapons/genhit1.ogg', 'sound/weapons/genh
 var/list/hiss_sound = list('sound/voice/hiss1.ogg','sound/voice/hiss2.ogg','sound/voice/hiss3.ogg','sound/voice/hiss4.ogg')
 var/list/page_sound = list('sound/effects/pageturn1.ogg', 'sound/effects/pageturn2.ogg','sound/effects/pageturn3.ogg')
 var/list/keyboard_sound = list ('sound/effects/keyboard/keyboard1.ogg','sound/effects/keyboard/keyboard2.ogg', 'sound/effects/keyboard/keyboard3.ogg', 'sound/effects/keyboard/keyboard4.ogg')
-var/list/robot_talk_heavy_sound = list ('sound/machines/robots/robot_talk_heavy1.ogg','sound/machines/robots/robot_talk_heavy2.ogg','sound/machines/robots/robot_talk_heavy3.ogg','sound/machines/robots/robot_talk_heavy4.ogg')
-var/list/robot_talk_light_sound = list ('sound/machines/robots/robot_talk_light1.ogg','sound/machines/robots/robot_talk_light2.ogg','sound/machines/robots/robot_talk_light3.ogg','sound/machines/robots/robot_talk_light4.ogg','sound/machines/robots/robot_talk_light5.ogg')
 var/list/miss_sound = list ('sound/weapons/guns/misc/miss.ogg','sound/weapons/guns/misc/miss2.ogg','sound/weapons/guns/misc/miss3.ogg','sound/weapons/guns/misc/miss4.ogg')
 var/list/ric_sound = list ('sound/weapons/guns/misc/ric1.ogg','sound/weapons/guns/misc/ric2.ogg','sound/weapons/guns/misc/ric3.ogg','sound/weapons/guns/misc/ric4.ogg','sound/weapons/guns/misc/ric5.ogg')
 var/list/casing_sound = list ('sound/weapons/guns/misc/casingfall1.ogg','sound/weapons/guns/misc/casingfall2.ogg','sound/weapons/guns/misc/casingfall3.ogg')
 var/list/bullet_hit_object_sound = list('sound/weapons/guns/misc/bullethit.ogg')
+//aliens
+var/list/xenomorph_adult_hiss_sound = list('sound/alien/adult/hiss_0.ogg')
+var/list/xenomorph_adult_roar_sound = list('sound/alien/adult/roar_0.ogg','sound/alien/adult/roar_1.ogg','sound/alien/adult/roar_2.ogg')
+var/list/xenomorph_adult_snarl_sound = list('sound/alien/adult/snarl_0.ogg','sound/alien/adult/snarl_1.ogg')
+var/list/xenomorph_adult_speak_sound = list('sound/alien/adult/speak_0.ogg')
+
+var/list/xenomorph_facehugger_attack_sound = list('sound/alien/facehugger/attack_0.ogg','sound/alien/facehugger/attack_1.ogg')
+var/list/xenomorph_facehugger_death_sound = list('sound/alien/facehugger/death_0.ogg','sound/alien/facehugger/death_1.ogg')
 //var/list/gun_sound = list('sound/weapons/Gunshot.ogg', 'sound/weapons/Gunshot2.ogg','sound/weapons/Gunshot3.ogg','sound/weapons/Gunshot4.ogg')
 
 /proc/playsound(var/atom/source, soundin, vol as num, vary, extrarange as num, falloff, var/is_global)
@@ -183,11 +189,18 @@ var/const/FALLOFF_SOUNDS = 0.5
 			if ("hiss") soundin = pick(hiss_sound)
 			if ("pageturn") soundin = pick(page_sound)
 			if ("keyboard") soundin = pick(keyboard_sound)
-			if ("robot_talk_heavy") soundin = pick(robot_talk_heavy_sound)
-			if ("robot_talk_light") soundin = pick(robot_talk_light_sound)
 			if ("miss_sound") soundin = pick(miss_sound)
 			if ("ric_sound") soundin = pick(ric_sound)
 			if ("casing_sound") soundin = pick(casing_sound)
 			if ("hitobject") soundin = pick(bullet_hit_object_sound)
+
+			//XENOMORPH ADULT
+			if ("x_a_hiss") soundin = pick(xenomorph_adult_hiss_sound)
+			if ("x_a_roar") soundin = pick(xenomorph_adult_roar_sound)
+			if ("x_a_snarl") soundin = pick(xenomorph_adult_snarl_sound)
+			if ("x_a_speak") soundin = pick(xenomorph_adult_speak_sound)
+			//FACEHUGGER
+			if ("x_f_attack") soundin = pick(xenomorph_facehugger_attack_sound)
+			if ("x_f_death") soundin = pick(xenomorph_facehugger_death_sound)
 			//if ("gunshot") soundin = pick(gun_sound)
 	return soundin
