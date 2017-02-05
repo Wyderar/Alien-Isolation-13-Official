@@ -818,7 +818,6 @@ window "Telecomms IDE"
 		size = 70x20
 		anchor1 = 37,80
 		anchor2 = 49,83
-		background-color = none
 		saved-params = "is-checked"
 		text = "Clear Memory"
 		command = "tcsclearmem"
@@ -828,7 +827,6 @@ window "Telecomms IDE"
 		size = 52x20
 		anchor1 = 28,80
 		anchor2 = 37,83
-		background-color = none
 		saved-params = "is-checked"
 		text = "Revert"
 		command = "tcsrevert"
@@ -838,7 +836,6 @@ window "Telecomms IDE"
 		size = 52x20
 		anchor1 = 18,80
 		anchor2 = 28,83
-		background-color = none
 		saved-params = "is-checked"
 		text = "Execute"
 		command = "tcsrun"
@@ -857,7 +854,6 @@ window "Telecomms IDE"
 		size = 52x20
 		anchor1 = 9,80
 		anchor2 = 18,83
-		background-color = none
 		saved-params = "is-checked"
 		text = "Compile"
 		command = "tcscompile"
@@ -867,7 +863,6 @@ window "Telecomms IDE"
 		size = 53x20
 		anchor1 = 0,80
 		anchor2 = 9,83
-		background-color = none
 		saved-params = "is-checked"
 		text = "Apply"
 		command = "tcssave"
@@ -1010,21 +1005,20 @@ window "chemdispenser_reagents"
 window "mainwindow"
 	elem "mainwindow"
 		type = MAIN
-		pos = 281,0
+		pos = 509,0
 		size = 640x440
 		anchor1 = none
 		anchor2 = none
 		background-color = none
 		is-default = true
 		saved-params = "pos;size;is-minimized;is-maximized"
-		title = "Space Station 13"
-		is-maximized = true
+		title = "Alien Isolation 13 (ALPHA EDITION)"
 		icon = 'icons\\ss13_64.png'
 		macro = "macro"
 		menu = "menu"
 	elem "hotkey_toggle"
 		type = BUTTON
-		pos = 560,420
+		pos = -720,-66
 		size = 80x20
 		anchor1 = 100,100
 		anchor2 = none
@@ -1036,7 +1030,7 @@ window "mainwindow"
 	elem "mainvsplit"
 		type = CHILD
 		pos = 3,0
-		size = 634x416
+		size = 637x468
 		anchor1 = 0,0
 		anchor2 = 100,100
 		background-color = none
@@ -1045,8 +1039,8 @@ window "mainwindow"
 		is-vert = true
 	elem "input"
 		type = INPUT
-		pos = 3,420
-		size = 517x20
+		pos = 3,-66
+		size = 637x20
 		anchor1 = 0,100
 		anchor2 = 100,100
 		background-color = #d3b5b5
@@ -1055,7 +1049,7 @@ window "mainwindow"
 		saved-params = "command"
 	elem "saybutton"
 		type = BUTTON
-		pos = 520,420
+		pos = -760,-66
 		size = 40x20
 		anchor1 = 100,100
 		anchor2 = none
@@ -1072,7 +1066,6 @@ window "mapwindow"
 		size = 640x480
 		anchor1 = none
 		anchor2 = none
-		background-color = none
 		saved-params = "pos;size;is-minimized;is-maximized"
 		titlebar = false
 		statusbar = false
@@ -1100,7 +1093,6 @@ window "outputwindow"
 		size = 640x480
 		anchor1 = none
 		anchor2 = none
-		background-color = none
 		saved-params = "pos;size;is-minimized;is-maximized"
 		titlebar = false
 		statusbar = false
@@ -1126,7 +1118,6 @@ window "rpane"
 		size = 640x480
 		anchor1 = none
 		anchor2 = none
-		background-color = none
 		saved-params = "pos;size;is-minimized;is-maximized"
 		is-pane = true
 	elem "rpanewindow"
@@ -1135,7 +1126,6 @@ window "rpane"
 		size = 640x499
 		anchor1 = 0,0
 		anchor2 = 100,100
-		background-color = none
 		saved-params = "splitter"
 		right = "outputwindow"
 		is-vert = false
@@ -1145,7 +1135,6 @@ window "rpane"
 		size = 60x16
 		anchor1 = none
 		anchor2 = none
-		background-color = none
 		saved-params = "is-checked"
 		text = "Rules"
 		command = "rules"
@@ -1156,7 +1145,6 @@ window "rpane"
 		size = 67x16
 		anchor1 = none
 		anchor2 = none
-		background-color = none
 		saved-params = "is-checked"
 		text = "Changelog"
 		command = "Changelog"
@@ -1167,7 +1155,6 @@ window "rpane"
 		size = 60x16
 		anchor1 = none
 		anchor2 = none
-		background-color = none
 		saved-params = "is-checked"
 		text = "Discord"
 		command = "discord"
@@ -1178,7 +1165,6 @@ window "rpane"
 		size = 60x16
 		anchor1 = none
 		anchor2 = none
-		background-color = none
 		saved-params = "is-checked"
 		text = "Wiki"
 		command = "wiki"
@@ -1189,7 +1175,6 @@ window "rpane"
 		size = 60x16
 		anchor1 = none
 		anchor2 = none
-		background-color = none
 		is-visible = false
 		saved-params = "is-checked"
 		text = "Text"
@@ -1203,7 +1188,6 @@ window "rpane"
 		size = 60x16
 		anchor1 = none
 		anchor2 = none
-		background-color = none
 		is-visible = false
 		saved-params = "is-checked"
 		text = "Browser"
@@ -1216,7 +1200,6 @@ window "rpane"
 		size = 60x16
 		anchor1 = none
 		anchor2 = none
-		background-color = none
 		is-visible = false
 		saved-params = "is-checked"
 		text = "Info"

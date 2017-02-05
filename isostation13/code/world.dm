@@ -529,7 +529,7 @@ var/world_topic_spam_protect_time = world.timeofday
 
 /world/proc/update_status()
 
-	var/s = "<b><font size = 3><span style = \"color:purple\">Alien Isolation 13</span></font></b> &#8212; "
+	var/s = "<b><font size = 3><span style = \"color:purple\"><i>Alien Isolation 13</i></span></font></b> &#8212; "
 //	var/s = ""
 
 //	if (config && config.server_name)
@@ -542,7 +542,7 @@ var/world_topic_spam_protect_time = world.timeofday
 	s += "Discord"  //Replace this with something else. Or ever better, delete it and uncomment the game version.
 	s += "</a>"
 	s += "/"
-	s += "<a href=\"https://github.com/Cherkir/Isolation-Station-13\">" //Change this to wherever you want the hub to link to.
+	s += "<a href=\"https://github.com/Cherkir/Alien-Isolation-13\">" //Change this to wherever you want the hub to link to.
 //	s += "[game_version]"
 	s += "Github"  //Replace this with something else. Or ever better, delete it and uncomment the game version.
 	s += "</a>"
