@@ -643,7 +643,7 @@
 
 	if(ishuman(AM))
 		var/mob/living/carbon/human/H = AM
-		if(H.pull_damage())
+		if(H.pull_damage() && !isalien(src))
 			src << "\red <B>Pulling \the [H] in their current condition would probably be a bad idea.</B>"
 
 	//Attempted fix for people flying away through space when cuffed and dragged.
