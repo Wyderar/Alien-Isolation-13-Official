@@ -20,6 +20,10 @@
 
 /obj/item/weapon/handcuffs/attack(var/mob/living/carbon/C, var/mob/living/user)
 
+	if (isalien(C) && prob(85))
+		user << "<span class='warning'>You fail to handcuff [C]!</span>"
+		return
+
 	if(!user.IsAdvancedToolUser())
 		return
 
