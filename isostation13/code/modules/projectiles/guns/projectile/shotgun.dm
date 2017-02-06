@@ -50,6 +50,17 @@
 	max_shells = 7 //match the ammo box capacity, also it can hold a round in the chamber anyways, for a total of 8.
 	ammo_type = /obj/item/ammo_casing/shotgun
 
+/obj/item/weapon/gun/projectile/shotgun/pump/super
+	name = "Benelli 270"
+	desc = "Benelli manufactured superpump shotgun"
+	icon_state = "superpumpshotgun"
+	item_state = "dshotgun"
+	caliber = "super12"
+	load_method = MAGAZINE
+	max_shells = 10
+	w_class = 4
+	force= WEAPON_FORCE_PAINFULL
+
 /obj/item/weapon/gun/projectile/shotgun/doublebarrel
 	name = "double-barreled shotgun"
 	desc = "A true classic."

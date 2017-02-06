@@ -281,3 +281,95 @@
 	icon_state = (ammo_magazine)? "SMG-IS" : "SMG-IS-empty"
 	overlays.Cut()
 	update_charge()
+
+/obj/item/weapon/gun/projectile/automatic/SMG_sol/toby
+	name = "FS SMG 9x19 \"Warlord\""
+	desc = "A customized FS SMG used by a specific Ironhammer Operative. There is a small scrape covering the name of the owner."
+	icon_state = "SMG_toby"
+	item_state = "wt550"
+	w_class = 4
+	ammo_mag = "ih_smg"
+	load_method = MAGAZINE //yup. until someone sprites a magazine for it.
+	max_shells = 30
+	caliber = "9mm"
+	origin_tech = list(TECH_COMBAT = 4, TECH_MATERIAL = 2)
+	slot_flags = SLOT_BELT
+	multi_aim = 1
+	burst_delay = 2
+
+	firemodes = list(
+		list(mode_name="semiauto",       burst=1, fire_delay=0,    move_delay=null, burst_accuracy=null, dispersion=null),
+		list(mode_name="5-round bursts", burst=5, fire_delay=null, move_delay=4,    burst_accuracy=list(0,-1,-1),       dispersion=list(0.0, 0.6, 1.0)),
+		)
+
+/obj/item/weapon/gun/projectile/automatic/SMG_sol/toby/update_icon()
+	icon_state = (ammo_magazine)? "SMG_toby" : "SMG_toby_empty"
+	overlays.Cut()
+	update_charge()
+
+/obj/item/weapon/gun/projectile/automatic/m4a1
+	name = "M4A1 semi-automatic rifle"
+	desc = "A semi-automatic rifle part of the M4 series."
+	icon_state = "M4A1"
+	item_state = "wt550"
+	w_class = 4
+	ammo_mag = "5.56mm"
+	load_method = MAGAZINE
+	max_shells = 25
+	caliber = "5.56mm"
+	origin_tech = list(TECH_COMBAT = 3, TECH_MATERIAL = 2)
+	multi_aim = 1
+	burst_delay = 2
+
+	firemodes = list(
+		list(mode_name="semiauto",		burst=1, fire_delay=0,	move_delay=null, burst_accuracy_=null, dispersion=null)
+		)
+
+/obj/item/weapon/gun/projectile/automatic/m4a1/update_icon()
+	icon_state = (ammo_magazine)? "M4A1" : "M4A1_empty"
+	overlays.Cut()
+
+/obj/item/weapon/gun/projectile/automatic/m4a4
+	name = "M4A4 automatic rifle"
+	desc = "An automatic rifle part of the M4 series."
+	icon_state = "M4A4"
+	item_state = "wt550"
+	w_class = 4
+	ammo_mag = "5.56mm"
+	load_method = MAGAZINE
+	max_shells = 25
+	caliber = "5.56mm"
+	origin_tech = list(TECH_COMBAT = 5, TECH_MATERIAL = 3)
+	multi_aim = 1
+	burst_delay = 2
+
+	firemodes = list(
+		list(mode_name="3-round bursts",		burst=3, fire_delay=0,	mode_delay=null, burst_accuracy=list(0, -1, -1),       dispersion=list(0.0, 0.6, 1.0)),
+		)
+
+/obj/item/weapon/gun/projectile/automatic/m4a4/update_icon()
+	icon_state = (ammo_magazine)? "M4A4" : "M4A4_empty"
+	overlays.Cut ()
+
+/obj/item/weapon/gun/projectile/automatic/m4a10
+	name = "M4A10 advanced rifle"
+	desc = "An advanced version of earlier M4 series guns. Has burst and singleshot firemode."
+	icon_state = "M4A10"
+	item_state = "wt550"
+	w_class = 4
+	ammo_mag = "5.56mm"
+	load_method = MAGAZINE
+	max_shells = 25
+	caliber = "5.56mm"
+	origin_tech = list(TECH_COMBAT = 6, TECH_MATERIAL = 4)
+	multi_aim = 1
+	burst_delay = 2
+
+	firemodes = list(
+		list(mode_name="semiauto",		burst =1, fire_delay=0, mode_delay=null, burst_accuracy=null, dispersion=null),
+		list(mode_name="3-round bursts",	burst=3, fire_delay=0, mode_delay=null, burst_accuracy=list(0, -1, -1), dispersion=list(0.0, 0.6, 1.0))
+		)
+
+/obj/item/weapon/gun/projectile/automatic/m4a10/update_icon()
+	icon_state = (ammo_magazine)? "M4A10" : "M4A10_empty"
+	overlays.Cut ()

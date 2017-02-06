@@ -272,3 +272,26 @@
 	else
 		icon_state = "olivawcivil_empty"
 
+/obj/item/weapon/gun/projectile/surveyor
+	name = "FS HG .32 \"Surveyor\""
+	desc = "A service model of popular 'Frozen Star' pistol. The gun had an advanced three-round burst fire mode. Uses .32 rounds."
+	icon_state = "olivawih"
+	fire_sound = 'sound/weapons/guns/fire/pistol_fire.ogg'
+	caliber = ".32"
+	ammo_mag = "mag_cl32"
+	fire_delay = 1.0
+	origin_tech = list (TECH_COMBAT = 4, TECH_MATERIAL = 3)
+	load_method = MAGAZINE
+	accuracy = 1
+
+	firemodes = list(
+		list(mode_name="semiauto",       burst=1, fire_delay=1.0,    move_delay=null, burst_accuracy=null, dispersion=null),
+		list(mode_name="3-round bursts", burst=3, fire_delay=0.2, move_delay=4,    burst_accuracy=list(0,-1),       dispersion=list(1.2, 1.8)),
+		)
+
+/obj/item/weapon/gun/projectile/olivaw/update_icon()
+	..()
+	if(ammo_magazine && ammo_magazine.stored_ammo.len)
+		icon_state = "olivawih"
+	else
+		icon_state = "olivawih_empty"
