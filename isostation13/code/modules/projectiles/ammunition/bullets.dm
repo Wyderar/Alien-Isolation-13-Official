@@ -209,3 +209,18 @@
 	desc = "A .38 FS hollow point bullet casing."
 	caliber = ".38"
 	projectile_type = /obj/item/projectile/bullet/cl32/brute
+
+/obj/item/ammo_casing/m4/rubber
+	desc = "A 5.56mm rubber bullet casing."
+	caliber = "5.56mm"
+	projectile_type = /obj/item/projectile/bullet/m4/rubber
+
+/obj/item/ammo_casing/m4/brute
+	desc = "A 5.56mm hollow point bullet casing."
+	caliber = "5.56mm"
+	projectile_type = /obj/item/projectile/bullet/m4/brute
+
+/obj/item/ammo_casing/super/slug
+	desc = "A slug shotgun shell for Benelli 270."
+	caliber = "super12"
+	projectile_type = /obj/item/projectile/bullet/super/slug

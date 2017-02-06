@@ -226,6 +226,17 @@
 	max_ammo = 21
 	multiple_sprites = 1
 
+/obj/item/ammo_magazine/SMG_sol/brute/toby
+	name = "magazine (9mm hollow point 30-rounds)"
+	icon_state = "mg_ih_smg_9mm"
+	mag_type = MAGAZINE
+	ammo_mag = "ih_smg"
+	ammo_type = /obj/item/ammo_casing/SMG_sol/brute
+	matter = list(DEFAULT_WALL_MATERIAL = 2250)
+	caliber = "9mm"
+	max_ammo = 30
+	multiple_sprites = 1
+
 /obj/item/ammo_magazine/sl/cl44/rubber
 	name = "speed loader (.44 rubber)"
 	icon_state = "cl_ih_rv_38"
@@ -286,4 +297,37 @@
 	matter = list(DEFAULT_WALL_MATERIAL = 750)
 	caliber = ".32"
 	max_ammo = 7
+	multiple_sprites = 1
+
+/obj/item/ammo_magazine/m4/rubber
+	name = "magazine (5.56mm rubber)"
+	icon_state = "5.56mm"
+	mag_type = MAGAZINE
+	ammo_mag = "5.56mm"
+	ammo_type = /obj/item/ammo_casing/m4/rubber
+	matter = list(DEFAULT_WALL_MATERIAL = 1875)
+	caliber = "5.56mm"
+	max_ammo = 25
+	multiple_sprites = 1
+
+/obj/item/ammo_magazine/m4/brute
+	name = "magazine (5.56mm hollow point)"
+	icon_state = "5.56mm"
+	mag_type = MAGAZINE
+	ammo_mag = "5.56mm"
+	ammo_type = /obj/item/ammo_casing/m4/brute
+	matter = list(DEFAULT_WALL_MATERIAL = 1875)
+	caliber = "5.56"
+	max_ammo = 25
+	multiple_sprites = 1
+
+/obj/item/ammo_magazine/super/slug
+	name = "magazine (12gauge slug)"
+	icon_state = "super12"
+	mag_type = MAGAZINE
+	ammo_mag = "super12"
+	ammo_type = /obj/item/ammo_casing/super/slug
+	matter = list(DEFAULT_WALL_MATERIAL = 1000)
+	caliber = "super12"
+	max_ammo = 10
 	multiple_sprites = 1

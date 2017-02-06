@@ -692,7 +692,7 @@
 	desc = "A vendor with a wide variety of masks and gas tanks."
 	icon = 'icons/obj/objects.dmi'
 	icon_state = "dispenser"
-	product_paths = "/obj/item/weapon/tank/oxygen;/obj/item/weapon/tank/plasma;/obj/item/weapon/tank/emergency_oxygen;/obj/item/weapon/tank/emergency_oxygen/engi;/obj/item/clothing/mask/breath"
+	product_paths = "/obj/item/weapon/tank/oxygen;/obj/item/weapon/tank/phoron;/obj/item/weapon/tank/emergency_oxygen;/obj/item/weapon/tank/emergency_oxygen/engi;/obj/item/clothing/mask/breath"
 	productamounts = "10;10;10;5;25"
 	vend_delay = 0
 */
@@ -831,7 +831,7 @@
 
 
 //This one's from bay12
-/obj/machinery/vending/plasmaresearch
+/obj/machinery/vending/phoronresearch
 	name = "Toximate 3000"
 	desc = "All the fine parts you need in one vending machine!"
 	products = list(/obj/item/clothing/under/rank/scientist = 6,/obj/item/clothing/suit/bio_suit = 6,/obj/item/clothing/head/bio_hood = 6,
@@ -843,6 +843,7 @@
 	desc = "Wall-mounted Medical Equipment dispenser."
 	product_ads = "Go save some lives!;The best stuff for your medbay.;Only the finest tools.;Natural chemicals!;This stuff saves lives.;Don't you want some?"
 	icon_state = "wallmed"
+	light_color = "#e6fff2"
 	icon_deny = "wallmed-deny"
 	req_access = list(access_medical)
 	density = 0 //It is wall-mounted, and thus, not dense. --Superxpdude
@@ -853,6 +854,7 @@
 	name = "NanoMed"
 	desc = "Wall-mounted Medical Equipment dispenser."
 	icon_state = "wallmed"
+	light_color = "#e6fff2"
 	icon_deny = "wallmed-deny"
 	req_access = list(access_medical)
 	density = 0 //It is wall-mounted, and thus, not dense. --Superxpdude
@@ -1018,3 +1020,10 @@
 	desc = "A container that dispenses containers."
 	icon_state = "robotics"
 	products = list(/obj/structure/closet/crate/freezer = 2, /obj/structure/closet = 3, /obj/structure/closet/crate = 3)
+
+//FOR IRONHAMMER VENDING - The armory vendor
+/obj/machinery/vending/ironhammer
+	name = "Ironhammer Gunsafe"
+	desc = "Ironhammer PMC weapons vendor."
+	icon_state = "ironhammer"
+	products = list(/obj/item/weapon/gun/projectile/automatic/SMG_sol = 10, /obj/item/ammo_magazine/SMG_sol/brute = 20, /obj/item/weapon/gun/projectile/automatic/m4a1 = 10, /obj/item/ammo_magazine/m4/rubber = 20, /obj/item/weapon/gun/projectile/surveyor = 10, /obj/item/ammo_magazine/mg/cl32/brute = 20)
