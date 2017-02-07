@@ -241,7 +241,6 @@ meteor_act
 	if(!organ || (organ.dislocated == 2) || (organ.dislocated == -1) || blocked >= 2)
 		return FALSE
 	if(prob(W.force / (blocked+1)))
-		visible_message("<span class='danger'>[src]'s [organ.joint] [pick("gives way","caves in","crumbles","collapses")]!</span>")
 		organ.dislocate(1)
 		return TRUE
 	return FALSE

@@ -331,8 +331,11 @@
 
 	user.visible_message("<span class='warning'>[user] begins to dislocate [src]'s [organ.joint]!</span>")
 	if(do_after(user, 100, progress = 0))
+		if (prob(80) && isalien(src))
+			user.visible_message("<span class='warning'>[user] fails to dislocate [src]'s [organ.joint]!</span>")
+			return FALSE
+
 		organ.dislocate(1)
-		src.visible_message("<span class='danger'>[src]'s [organ.joint] [pick("gives way","caves in","crumbles","collapses")]!</span>")
 		return TRUE
 	return FALSE
 

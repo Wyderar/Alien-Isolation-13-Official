@@ -582,8 +582,8 @@ var/world_topic_spam_protect_time = world.timeofday
 	if (config && config.hostedby)
 		features += "hosted by <b>[config.hostedby]</b>"*/
  //apparently the hub fucks up with too much html and stuff so I'm removing this.
-	if (features)
-		s += features[1]
+//	if (features)
+	//	s += features[1]
 	//	s += ": [jointext(features, ", ")]"
 
 	/* does this help? I do not know */

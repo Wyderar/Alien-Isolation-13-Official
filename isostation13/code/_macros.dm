@@ -21,6 +21,8 @@
 #define isEye(A) istype(A, /mob/observer/eye)
 
 #define isnewplayer(A) istype(A, /mob/new_player)
+
+#define hasnoloc(A) (!isatom(A) || A:loc == null)
 //++++++++++++++++++++++++++++++++++++++++++++++
 
 #define isliving(A) istype(A, /mob/living)

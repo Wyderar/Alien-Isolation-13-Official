@@ -11,6 +11,11 @@
 /datum/controller/process/obj/doWork()
 	for(last_object in processing_objects)
 		var/datum/O = last_object
+		if (isatom(O))
+			var/atom/a = O
+			if (a.loc == null)
+				continue
+
 		if(isnull(O.gcDestroyed))
 			try
 				O:process()

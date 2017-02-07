@@ -18,10 +18,10 @@
 
 	eyes = "blank_eyes"
 
-	brute_mod = 0.1 // Hardened carapace.
-	burn_mod = 0.15 //a bit worse against fire
-	stun_mod = 0.2 //worst against stuns
-	agony_mod = 0.1//very good against paindmg
+	brute_mod = 0.2 // Hardened carapace.
+	burn_mod = 0.33 //worse against fire
+	stun_mod = 0.05 //worst against stuns
+	agony_mod = 0.05//very good against paindmg
 
 	warning_low_pressure = 50
 	hazard_low_pressure = -1

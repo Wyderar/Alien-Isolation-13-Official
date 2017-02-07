@@ -155,6 +155,8 @@
 		for(var/obj/item/organ/external/child in children)
 			child.dislocate()
 
+	owner.visible_message("<span class='danger'>[owner]'s [joint] [pick("gives way","caves in","crumbles","collapses")]!</span>")
+
 /obj/item/organ/external/proc/undislocate()
 	if(dislocated != -1)
 		dislocated = 0

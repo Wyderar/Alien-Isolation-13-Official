@@ -1,6 +1,8 @@
 var/list/gamemode_cache = list()
 
 /datum/configuration
+	var/debug_mode_on = 0
+
 	var/server_name = null				// server name (for world name / status)
 	var/server_suffix = 0				// generate numeric suffix based on server port
 
@@ -266,6 +268,10 @@ var/list/gamemode_cache = list()
 
 		if(type == "config")
 			switch (name)
+				if ("debug_mode_on")
+					config.debug_mode_on = 1
+					world << "Debug mode is on."
+
 				if ("resource_urls")
 					config.resource_urls = splittext(value, " ")
 

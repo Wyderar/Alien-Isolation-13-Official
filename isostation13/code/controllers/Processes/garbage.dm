@@ -58,7 +58,7 @@ world/loop_checks = 0
 			#endif
 			break // Server's already pretty pounded, everything else can wait 2 seconds
 		var/refID = destroyed[1]
-		if (istype(refID, /atom))
+		if (istype(refID, /atom) && config.debug_mode_on)
 			world << refID:type
 		var/GCd_at_time = destroyed[refID]
 		if(GCd_at_time > time_to_kill)
