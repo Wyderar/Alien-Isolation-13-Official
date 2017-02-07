@@ -282,3 +282,6 @@
 	embed = 0
 	sharp = 0
 
+/obj/item/projectile/bullet/m4/rubber //toby... thatsssz some nicccce bulletsss you got therrrre, would NOT be a shame if you compiled before pushing
+/obj/item/projectile/bullet/m4/brute
+/obj/item/projectile/bullet/super/slug

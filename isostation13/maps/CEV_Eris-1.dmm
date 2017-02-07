@@ -5576,7 +5576,7 @@
 "cdl" = (/obj/effect/floor_decal/corner/purple{dir = 9},/obj/effect/floor_decal/corner/purple{dir = 5},/turf/simulated/floor/tiled/white,/area/rnd/mixing)
 "cdm" = (/obj/structure/closet/secure_closet/scientist,/obj/machinery/alarm{pixel_y = 26},/obj/effect/floor_decal/corner/purple{dir = 5},/obj/effect/floor_decal/corner/purple{dir = 10},/turf/simulated/floor/tiled/white,/area/rnd/mixing)
 "cdn" = (/obj/structure/closet/secure_closet/scientist,/obj/effect/floor_decal/corner/purple{dir = 5},/obj/effect/floor_decal/corner/purple{dir = 10},/turf/simulated/floor/tiled/white,/area/rnd/mixing)
-"cdo" = (/obj/machinery/vending/plasmaresearch,/obj/effect/floor_decal/corner/purple{dir = 6},/obj/effect/floor_decal/corner/purple{dir = 9},/turf/simulated/floor/tiled/white,/area/rnd/mixing)
+"cdo" = (/obj/machinery/vending/phoronresearch,/obj/effect/floor_decal/corner/purple{dir = 6},/obj/effect/floor_decal/corner/purple{dir = 9},/turf/simulated/floor/tiled/white,/area/rnd/mixing)
 "cdp" = (/obj/structure/closet/bombcloset,/obj/effect/floor_decal/corner/purple{dir = 6},/obj/effect/floor_decal/corner/purple{dir = 9},/turf/simulated/floor/tiled/white,/area/rnd/mixing)
 "cdq" = (/obj/structure/closet/bombcloset,/obj/structure/disposalpipe/segment{dir = 4; icon_state = "pipe-c"},/obj/effect/floor_decal/corner/purple{dir = 6},/obj/effect/floor_decal/corner/purple{dir = 9},/turf/simulated/floor/tiled/white,/area/rnd/mixing)
 "cdr" = (/obj/machinery/disposal,/obj/structure/disposalpipe/trunk{dir = 8},/obj/structure/noticeboard{pixel_y = 32},/obj/effect/floor_decal/corner/purple{dir = 6},/obj/effect/floor_decal/corner/purple{dir = 9},/obj/effect/floor_decal/industrial/warning{dir = 4},/turf/simulated/floor/tiled/white,/area/rnd/mixing)
