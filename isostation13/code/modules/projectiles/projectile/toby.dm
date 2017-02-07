@@ -3,8 +3,6 @@
 	icon_state = "smg_0"
 	damage = WEAPON_FORCE_PAINFULL
 	damage_type = BRUTE
-	sharp = FALSE
-	embed = FALSE
 
 /obj/item/projectile/bullet/m4/rubber
 	name = "rubber m4 bullet"
@@ -18,5 +16,4 @@
 	icon_state = "smg_0"
 	damage = WEAPON_FORCE_PAINFULL * 2
 	damage_type = BRUTE
-	sharp = FALSE
-	embed = FALSE
+

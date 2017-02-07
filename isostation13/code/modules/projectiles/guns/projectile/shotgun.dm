@@ -60,6 +60,7 @@
 	max_shells = 10
 	w_class = 4
 	force= WEAPON_FORCE_PAINFULL
+	ammo_type = /obj/item/ammo_casing/super/slug
 
 /obj/item/weapon/gun/projectile/shotgun/doublebarrel
 	name = "double-barreled shotgun"
