@@ -1657,6 +1657,7 @@
 #include "code\modules\projectiles\projectile\energy.dm"
 #include "code\modules\projectiles\projectile\force.dm"
 #include "code\modules\projectiles\projectile\special.dm"
+#include "code\modules\projectiles\projectile\toby.dm"
 #include "code\modules\projectiles\targeting\targeting_client.dm"
 #include "code\modules\projectiles\targeting\targeting_gun.dm"
 #include "code\modules\projectiles\targeting\targeting_helpers.dm"

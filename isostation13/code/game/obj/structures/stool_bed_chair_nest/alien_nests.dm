@@ -20,7 +20,7 @@
 	var/list/stages[STAGE_LAST]
 
 /obj/structure/bed/nest/overlay
-	layer = MOB_LAYER + 0.1
+	layer = MOB_LAYER + 0.01
 
 
 /obj/structure/bed/nest/New()
@@ -130,7 +130,7 @@
 				if (prob(1) || progress >= 500)
 					if (!stages[STAGE_INCORPORATION])
 						buckled_mob.visible_message(\
-							"<span class='notice'>[buckled_mob.name] is utterly incorporated into [src], which has become an egg.</span>",\
+							"<span class='notice'>[buckled_mob.name] is totally incorporated into [src], which has become an egg.</span>",\
 							"<span class='danger'>[src] has morphed your body into an egg.</span>",\
 							"<span class='warning'>You hear loud squelching...</span>")
 						buckled_mob.gib()

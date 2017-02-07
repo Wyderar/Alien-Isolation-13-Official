@@ -152,7 +152,7 @@ var/global/datum/global_init/init = new ()
 			ToRban_autoupdate()
 
 #undef RECOMMENDED_VERSION
-
+	movement_loop()
 	return
 
 var/world_topic_spam_protect_ip = "0.0.0.0"

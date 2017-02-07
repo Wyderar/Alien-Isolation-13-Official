@@ -57,7 +57,7 @@
 		"allow movement"   = list("type" = /obj/screen/gun/move,       "loc" = "16,3"),
 		"allow item use"   = list("type" = /obj/screen/gun/item,       "loc" = "15,2"),
 		"allow radio use"   = list("type" = /obj/screen/gun/radio,       "loc" = "15,3"),
-		"toggle invetory"   = list("type" = /obj/screen/toggle_inventory,       "loc" = "2,0")
+		"toggle inventory"   = list("type" = /obj/screen/toggle_inventory,       "loc" = "2,0")
 		)
 
 //		"painoverlay" = list("type" = /obj/screen/damageoverlay, "loc" = "WEST,SOUTH to EAST,NORTH", "icon" =  'icons/mob/screen1_full.dmi')
