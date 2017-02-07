@@ -84,7 +84,15 @@
 	item_state = "deagleg"
 	auto_eject_sound = 'sound/weapons/smg_empty_alarm.ogg'
 
-
+/obj/item/weapon/gun/projectile/glock
+	name = "glock 17"
+	desc = "a tatical pistol"
+	magazine_type = /obj/item/ammo_magazine/glock_mag
+	icon_state = "glock"
+	caliber = "9mm"
+	origin_tech = list(TECH_COMBAT = 2, TECH_MATERIAL = 2)
+	fire_sound = 'sound/weapons/guns/fire/pistol_fire.ogg'
+	load_method = MAGAZINE
 
 /obj/item/weapon/gun/projectile/gyropistol
 	name = "gyrojet pistol"

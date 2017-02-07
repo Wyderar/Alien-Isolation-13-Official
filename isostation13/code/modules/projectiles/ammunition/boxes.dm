@@ -76,6 +76,14 @@
 
 /obj/item/ammo_magazine/c9mm/empty
 	initial_ammo = 0
+/obj/item/ammo_magazine/glock_mag
+	name = "a glock mag"
+	icon_state = "glock_mag"
+	mag_type = MAGAZINE
+	ammo_type = /obj/item/ammo_casing/g9mm
+	matter = list(DEFAULT_WALL_MATERIAL = 1200)
+	caliber = "9mm"
+	max_ammo = 20
 
 /obj/item/ammo_magazine/mc9mmt
 	name = "top mounted magazine (9mm)"
