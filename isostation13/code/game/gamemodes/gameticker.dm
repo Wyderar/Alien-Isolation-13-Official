@@ -39,6 +39,7 @@ var/global/datum/controller/gameticker/ticker
 	basic_mob_pool = new/datum/basic_mob_pool()
 	for (var/obj/machinery/atmospherics/unary/vent_pump/somevent in world) //todo: move this to a better place
 		vent_list += somevent
+
 	login_music = pick(\
 	/*'sound/music/halloween/skeletons.ogg',\
 	'sound/music/halloween/halloween.ogg',\

@@ -290,6 +290,7 @@
 	w_class = 4
 	ammo_mag = "ih_smg"
 	load_method = MAGAZINE //yup. until someone sprites a magazine for it.
+	magazine_type = /obj/item/projectile/bullet/cl32/brute
 	max_shells = 30
 	caliber = "9mm"
 	origin_tech = list(TECH_COMBAT = 4, TECH_MATERIAL = 2)
@@ -315,6 +316,7 @@
 	w_class = 4
 	ammo_mag = "5.56mm"
 	load_method = MAGAZINE
+	magazine_type = /obj/item/ammo_magazine/m4/brute
 	max_shells = 25
 	caliber = "5.56mm"
 	origin_tech = list(TECH_COMBAT = 3, TECH_MATERIAL = 2)
@@ -337,6 +339,7 @@
 	w_class = 4
 	ammo_mag = "5.56mm"
 	load_method = MAGAZINE
+	magazine_type = /obj/item/ammo_magazine/m4/brute
 	max_shells = 25
 	caliber = "5.56mm"
 	origin_tech = list(TECH_COMBAT = 5, TECH_MATERIAL = 3)
@@ -359,6 +362,7 @@
 	w_class = 4
 	ammo_mag = "5.56mm"
 	load_method = MAGAZINE
+	magazine_type = /obj/item/ammo_magazine/m4/brute
 	max_shells = 25
 	caliber = "5.56mm"
 	origin_tech = list(TECH_COMBAT = 6, TECH_MATERIAL = 4)
