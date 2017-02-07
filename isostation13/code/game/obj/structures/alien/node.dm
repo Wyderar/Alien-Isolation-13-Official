@@ -48,7 +48,13 @@
 
 	var/obj/w = new/obj/structure/alien/weed(locate(x, y, z), "creep_center")
 	var/turf/w_turf = get_turf(w)
-	w.layer = w_turf.layer + 0.01
+	w.layer = w_turf.layer + 0.001
+
+	var/obj/c = locate(/obj/structure/catwalk) in w_turf
+
+	if (c)
+		w.layer = c.layer + 0.001
+
 	weeds += w
 
 	var/count = 0
@@ -86,5 +92,12 @@
 
 				if (no_dense_atoms)
 					var/obj/o = new/obj/structure/alien/weed(the_turf, old_d)
-					o.layer = the_turf.layer + 0.01
+
+					o.layer = the_turf.layer + 0.001//just above the floor
+
+					c = locate(/obj/structure/catwalk) in the_turf
+
+					if (c)
+						o.layer = c.layer + 0.001
+
 					weeds += o

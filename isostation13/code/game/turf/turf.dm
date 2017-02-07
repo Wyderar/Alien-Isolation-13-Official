@@ -38,9 +38,12 @@
 	else
 		luminosity = 1
 
+/turf/proc/is_space_turf()
+	return (oxygen == 0)
+
 /turf/proc/is_exterior()
 	for (var/turf/t in orange(1, src))
-		if (istype(t, /turf/space))
+		if (istype(t, /turf/space) || t.is_space_turf())
 			return TRUE
 	return FALSE
 

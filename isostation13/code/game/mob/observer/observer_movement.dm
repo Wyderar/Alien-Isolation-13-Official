@@ -1,5 +1,11 @@
+var/mob/living/carbon/human/H = null
+
 /mob/observer/movement_delay()
 
-	var/tally = 0
+	if (!H)
+		H = new(locate(1,1,1))
+		H.icon = null
+		H.layer = -1
+		H.set_species("xenomorph")
 
-	return ((tally+config.human_delay)*2)
+	return H.movement_delay()

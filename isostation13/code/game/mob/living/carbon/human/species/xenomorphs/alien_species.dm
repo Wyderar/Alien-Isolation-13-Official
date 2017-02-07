@@ -6,7 +6,7 @@
 	default_language = "Xenomorph"
 	language = "Hivemind"
 	unarmed_types = list(/datum/unarmed_attack/claws/strong, /datum/unarmed_attack/bite/strong)
-	speech_sounds = list("x_a_speak")
+
 
 	hud_type = /datum/hud_data/alien
 	rarity_value = 3
@@ -41,8 +41,9 @@
 	death_message = "lets out a waning guttural screech, green blood bubbling from its maw."
 	death_sound = 'sound/voice/hiss6.ogg'
 
-	speech_sounds = list('sound/voice/hiss1.ogg','sound/voice/hiss2.ogg','sound/voice/hiss3.ogg','sound/voice/hiss4.ogg')
+//	speech_sounds = list('sound/voice/hiss1.ogg','sound/voice/hiss2.ogg','sound/voice/hiss3.ogg','sound/voice/hiss4.ogg')
 	speech_chance = 100
+	speech_sounds = list("x_a_speak")
 
 	breath_type = null
 	poison_type = null

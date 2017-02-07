@@ -30,7 +30,7 @@
 		M << "<span class='danger'>BANG</span>"						// Called during the loop that bangs people in lockers/containers and when banging
 		playsound(src.loc, 'sound/effects/bang.ogg', 50, 1, 5)		// people in normal view.  Could theroetically be called during other explosions.
 																	// -- Polymorph
-
+		make_sound(SOUND_LOUD)
 //Checking for protections
 		var/eye_safety = 0
 		var/ear_safety = 0

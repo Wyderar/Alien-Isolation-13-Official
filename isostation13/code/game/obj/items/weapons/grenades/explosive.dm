@@ -66,6 +66,7 @@
 /obj/item/weapon/grenade/explosive/proc/on_explosion(var/turf/O)
 	if(explosion_size)
 		explosion(O, -1, -1, 2, round(explosion_size/2), 0)
+		make_sound(SOUND_LOUD)
 
 /obj/item/weapon/grenade/explosive/frag
 	name = "fragmentation grenade"

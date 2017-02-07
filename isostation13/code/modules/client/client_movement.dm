@@ -1,4 +1,34 @@
 /client/Move(n, direct)
+
+
+	if(!mob)
+		return // Moved here to avoid nullrefs below
+
+	if(world.time < move_delay)	return//everything should be affected by move delays now
+
+	move_delay = world.time//set move delay immediately to prevent this proc being run too many times, saving CPU
+
+	if (isliving(mob) && !mob.control_object && !mob.incorporeal_move && !isobserver(mob))
+
+		switch(mob.m_intent)
+			if("run")
+				if(mob.drowsyness > 0)
+					move_delay += 6
+				move_delay += 1+config.run_speed
+				if (!isalien(mob) && prob(1)) mob.make_sound(SOUND_MEDIUM)
+			if("walk")
+				move_delay += 7+config.walk_speed
+	else
+		move_delay += ((1+config.run_speed)/5)
+
+	move_delay += mob.movement_delay()
+
+	if (move_delay == world.time) //failsafe to prevent infinite loops
+
+		move_delay += ((1+config.run_speed))/5
+
+	//putting alien code stuff down here which may make movement code a lot faster
+
 	if (isturf(n))//not if we're going into an object
 
 		if (mob && !isalien(mob) && !istype(mob.loc, /atom/movable))//human being seen by alien
@@ -25,18 +55,14 @@
 					else
 						player.seen_by_hive = FALSE
 
-	if(!mob)
-		return // Moved here to avoid nullrefs below
-
-	if(mob.control_object)	Move_object(direct)
+	if(mob.control_object)
+		Move_object(direct)
 
 	if(mob.incorporeal_move && isobserver(mob))
 		Process_Incorpmove(direct)
 		return
 
 	if(moving)	return FALSE
-
-	if(world.time < move_delay)	return
 
 	if(locate(/obj/effect/stop/, mob.loc))
 		for(var/obj/effect/stop/S in mob.loc)
@@ -47,8 +73,10 @@
 		mob.ghostize()
 		return
 
-	// handle possible Eye movement
+	// handle possible Eye movement - this has its own move delay for the new processing movement system
 	if(mob.eyeobj)
+		move_delay = world.time
+		move_delay += 1+config.run_speed
 		return mob.EyeMove(n,direct)
 
 	if(mob.transforming)	return//This is sota the goto stop mobs from moving var
@@ -56,6 +84,8 @@
 	if(isliving(mob))
 		var/mob/living/L = mob
 		if(L.incorporeal_move)//Move though walls
+			move_delay = world.time
+			move_delay += 1+config.run_speed
 			Process_Incorpmove(direct)
 			return
 		if(mob.client)
@@ -108,18 +138,7 @@
 			src << "\blue You're pinned to a wall by [mob.pinned[1]]!"
 			return FALSE
 
-		move_delay = world.time//set move delay
 
-		switch(mob.m_intent)
-			if("run")
-				if(mob.drowsyness > 0)
-					move_delay += 6
-				move_delay += 1+config.run_speed
-				if (!isalien(mob) && prob(1)) mob.make_sound(SOUND_MEDIUM)
-			if("walk")
-				move_delay += 7+config.walk_speed
-
-		move_delay += mob.movement_delay()
 
 		var/tickcomp = 0 //moved this out here so we can use it for vehicles
 		if(config.Tickcomp)
