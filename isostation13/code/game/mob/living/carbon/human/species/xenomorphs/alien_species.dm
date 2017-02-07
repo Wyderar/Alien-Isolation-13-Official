@@ -11,7 +11,8 @@
 	hud_type = /datum/hud_data/alien
 	rarity_value = 3
 
-	has_fine_manipulation = 0
+	has_fine_manipulation = FALSE
+	can_pick_up_stuff = FALSE
 	siemens_coefficient = 0
 	gluttonous = GLUT_ANYTHING
 

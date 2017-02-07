@@ -1,8 +1,8 @@
 // The time a datum was destroyed by the GC, or null if it hasn't been
 /datum/var/gcDestroyed
-#define GC_COLLECTIONS_PER_RUN 300
+#define GC_COLLECTIONS_PER_RUN 10//was 300
 #define GC_COLLECTION_TIMEOUT (30 SECONDS)
-#define GC_FORCE_DEL_PER_RUN 30
+#define GC_FORCE_DEL_PER_RUN 10//was 30
 
 var/datum/controller/process/garbage_collector/garbage_collector
 var/list/delayed_garbage = list()
@@ -19,10 +19,11 @@ var/list/delayed_garbage = list()
 
 	var/list/logging = list()	// list of all types that have failed to GC associated with the number of times that's happened.
 								// the types are stored as strings
+	var/tick_usage_threshold = 75//we won't collect garbage if tick_usage is over this
 
 /datum/controller/process/garbage_collector/setup()
 	name = "garbage"
-	schedule_interval = 5 SECONDS
+	schedule_interval = 1 SECONDS//was 5 SECONDS
 	start_delay = 3
 
 	if(!garbage_collector)
@@ -30,6 +31,7 @@ var/list/delayed_garbage = list()
 
 	for(var/garbage in delayed_garbage)
 		qdel(garbage)
+
 	delayed_garbage.Cut()
 	delayed_garbage = null
 
@@ -39,6 +41,9 @@ world/loop_checks = 0
 
 /datum/controller/process/garbage_collector/doWork()
 	if(!garbage_collect)
+		return
+
+	if (world.tick_usage > tick_usage_threshold)
 		return
 
 	tick_dels = 0
@@ -53,6 +58,8 @@ world/loop_checks = 0
 			#endif
 			break // Server's already pretty pounded, everything else can wait 2 seconds
 		var/refID = destroyed[1]
+		if (istype(refID, /atom))
+			world << refID:type
 		var/GCd_at_time = destroyed[refID]
 		if(GCd_at_time > time_to_kill)
 			#ifdef GC_DEBUG

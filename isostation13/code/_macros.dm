@@ -4,7 +4,13 @@
 
 //MOB LEVEL
 
+#define isatom(A) istype(A, /atom)
+
 #define ismob(A) istype(A, /mob)
+
+#define isobj(A) istype(A, /obj)
+
+#define isitem(A) istype(A, /obj/item)
 
 #define iscarbon(A) istype(A, /mob/living/carbon)
 

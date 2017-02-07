@@ -121,8 +121,9 @@
 
 	// Body/form vars.
 	var/list/inherent_verbs 	  // Species-specific verbs.
-	var/has_fine_manipulation = 1 // Can use small items.
-	var/siemens_coefficient = 1   // The lower, the thicker the skin and better the insulation.
+	var/can_pick_up_stuff = TRUE
+	var/has_fine_manipulation = TRUE // Can use small items.
+	var/siemens_coefficient = TRUE   // The lower, the thicker the skin and better the insulation.
 	var/darksight = 2             // Native darksight distance.
 	var/flags = 0                 // Various specific features.
 	var/appearance_flags = 0      // Appearance/display related features.
