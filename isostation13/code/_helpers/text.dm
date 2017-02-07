@@ -292,7 +292,7 @@ proc/TextPreview(var/string,var/len=40)
 		if(!lentext(string))
 			return "\[...\]"
 		else
-			return string
+			return html_encode(string)
 	else
 		return "[copytext_preserve_html(string, 1, 37)]..."
 
