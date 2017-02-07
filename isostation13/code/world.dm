@@ -530,7 +530,7 @@ var/world_topic_spam_protect_time = world.timeofday
 
 /world/proc/update_status()
 
-	var/s = "<b><font size = 3>Alien Isolation 13</font></b> &#8212; "
+	var/s = "<b><font size = 3><i><span style = \"color:purple\">Alien Isolation 13</span></i></font></b> &#8212; "
 //	var/s = ""
 
 //	if (config && config.server_name)
@@ -583,7 +583,7 @@ var/world_topic_spam_protect_time = world.timeofday
 		features += "hosted by <b>[config.hostedby]</b>"*/
  //apparently the hub fucks up with too much html and stuff so I'm removing this.
 	if (features)
-		s += features
+		s += features[1]
 	//	s += ": [jointext(features, ", ")]"
 
 	/* does this help? I do not know */
