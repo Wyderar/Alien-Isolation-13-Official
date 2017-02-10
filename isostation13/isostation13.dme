@@ -643,8 +643,6 @@
 #include "code\game\mob\living\carbon\human\species\station\monkey.dm"
 #include "code\game\mob\living\carbon\human\species\station\slime.dm"
 #include "code\game\mob\living\carbon\human\species\station\station.dm"
-#include "code\game\mob\living\carbon\human\species\workingjoe\working_joe_hud.dm"
-#include "code\game\mob\living\carbon\human\species\workingjoe\workingjoe_species.dm"
 #include "code\game\mob\living\carbon\human\species\xenomorphs\alien_environment.dm"
 #include "code\game\mob\living\carbon\human\species\xenomorphs\alien_facehugger.dm"
 #include "code\game\mob\living\carbon\human\species\xenomorphs\alien_hud.dm"
