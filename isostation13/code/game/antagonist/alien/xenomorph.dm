@@ -1,4 +1,5 @@
 var/datum/antagonist/xenos/xenomorphs
+var/list/xenomorph_occupied_vents = list()
 
 /datum/antagonist/xenos
 	id = MODE_XENOMORPH
@@ -105,4 +106,9 @@ var/datum/antagonist/xenos/xenomorphs
 	player.objectives += new /datum/objective/escape()
 
 /datum/antagonist/xenos/place_mob(var/mob/living/player)
-	player.forceMove(get_turf(pick(get_vents())))
+	var/vent = pick(get_vents())
+	while (vent in working_joe_occupied_vents)
+		vent = pick(get_vents())
+
+	xenomorph_occupied_vents += vent
+	player.forceMove(get_turf(vent))

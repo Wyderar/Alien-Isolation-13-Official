@@ -548,6 +548,8 @@
 #include "code\game\mob\transform_procs.dm"
 #include "code\game\mob\typing_indicator.dm"
 #include "code\game\mob\update_icons.dm"
+#include "code\game\mob\living\living_resist.dm"
+#include "code\game\mob\living\living_rest.dm"
 #include "code\game\mob\language\generic.dm"
 #include "code\game\mob\language\language.dm"
 #include "code\game\mob\language\monkey.dm"

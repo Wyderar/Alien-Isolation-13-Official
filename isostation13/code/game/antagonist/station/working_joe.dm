@@ -1,21 +1,28 @@
 var/datum/antagonist/working_joe/working_joes
+var/list/working_joe_occupied_vents = list()
 
 /datum/antagonist/working_joe
 	role_text = "Working Joe"
 	role_text_plural = "Working Joes"
 	welcome_text = "You are a Working Joe, a Seegson Synthetic. Your sole purpose in life is to serve your human masters. Above all else, do not harm any human."
 	id = MODE_WORKING_JOE
-	flags = 0//for now
+	flags = ANTAG_OVERRIDE_MOB | ANTAG_RANDSPAWN | ANTAG_OVERRIDE_JOB | ANTAG_VOTABLE
 
 	//no limit to how many people can be working joe.
 	hard_cap = 500
 	hard_cap_round = 500
-	initial_spawn_req = 0
+	initial_spawn_req = 1
 	initial_spawn_target = 500
 
 /datum/antagonist/working_joe/New()
 	..()
 	working_joes = src
+
+
+/datum/antagonist/working_joe/attempt_spawn(var/spawn_target = null)
+	..()
+	if (config.debug_mode_on)
+		world << "Spawning WORKING JOES for the gamemode."
 
 
 /datum/antagonist/working_joe/create_objectives(var/datum/mind/player)
@@ -36,6 +43,7 @@ var/datum/antagonist/working_joe/working_joes
 
 	if (config.debug_mode_on)
 		world << "Built candidates list for working joe antag, now returning."
+		world << "First person in the list is [candidates[1]]"
 
 	return candidates
 
@@ -48,3 +56,21 @@ var/datum/antagonist/working_joe/working_joes
 			var/mob/living/carbon/human/H = mind.current
 			H.set_species("Working Joe")
 	//		H.equip_to_slot(/obj/item/clothing/under/rank/engineer, slot_wear_suit)
+
+/datum/antagonist/working_joe/proc/get_vents()
+	var/list/vents = list()
+	for(var/obj/machinery/atmospherics/unary/vent_pump/temp_vent in machines)
+		if(!temp_vent.welded && temp_vent.network && temp_vent.loc.z in config.station_levels)
+			if(temp_vent.network.normal_members.len > 50)
+				vents += temp_vent
+	return vents
+
+/datum/antagonist/working_joe/place_mob(var/mob/living/player)
+
+	var/vent = pick(get_vents())
+	while (vent in xenomorph_occupied_vents)
+		vent = pick(get_vents())
+
+	working_joe_occupied_vents += vent
+	player.forceMove(get_turf(vent))
+

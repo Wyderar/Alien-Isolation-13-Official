@@ -14,6 +14,7 @@
 
 #define iscarbon(A) istype(A, /mob/living/carbon)
 
+
 #define isobserver(A) istype(A, /mob/observer)
 
 #define isghost(A) istype(A, /mob/observer/ghost)
@@ -39,11 +40,14 @@
 
 #define isalien_oralienfather(A) (isalien(A) || isalienfather(A))
 
+
 #define isslime(A) istype(A, /mob/living/carbon/slime)
 
 #define isbrain(A) istype(A, /mob/living/carbon/brain)
 
 #define ishuman(A) istype(A, /mob/living/carbon/human)
+
+#define isworkingjoe(A) (ishuman(A) && istype(A:species, /datum/species/working_joe))
 //---------------------------------------------------
 
 #define isanimal(A) istype(A, /mob/living/simple_animal)

@@ -18,7 +18,7 @@
 	//damage
 	virus_immune = TRUE
 	blood_volume = 5000//about 9x humans
-	brute_mod =     0.25                    // Physical damage multiplier.
+	brute_mod =     0.3                    // Physical damage multiplier.
 	burn_mod =      3                    // Burn damage multiplier.
 	oxy_mod =       0                    // Oxyloss modifier
 	toxins_mod =    0                    // Toxloss modifier
