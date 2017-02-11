@@ -385,6 +385,8 @@ var/list/admin_verbs_mentor = list(
 		world.status = t
 
 /client/proc/change_world_listed_status()
+	set category = "Server"
+	set name = "Change World Listed Status"
 	if (!holder)
 		return
 	if (check_rights(R_HOST, 1, usr))

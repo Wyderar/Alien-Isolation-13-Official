@@ -65,6 +65,10 @@ var/list/working_joe_occupied_vents = list()
 				vents += temp_vent
 	return vents
 
+/datum/antagonist/working_joe/antags_are_dead()
+
+	return TRUE
+
 /datum/antagonist/working_joe/place_mob(var/mob/living/player)
 
 	var/vent = pick(get_vents())

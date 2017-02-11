@@ -57,5 +57,6 @@
 	H.equip_to_slot(new/obj/item/weapon/storage/belt/utility/full, slot_belt)
 	H.equip_to_slot(new/obj/item/clothing/shoes/workboots, slot_shoes)
 	H.equip_to_slot(new/obj/item/device/radio/headset/headset_eng, slot_l_ear)
+	H.equip_to_slot(new/obj/item/weapon/card/id/engie, slot_wear_id)
 	make_synthetic(H)
 	..()
