@@ -34,9 +34,14 @@ var/datum/antagonist/working_joe/working_joes
 		if (!mind.current || !(working_joe_whitelist.Find(mind.current.ckey) || working_joe_whitelist.Find(mind.current.key)))
 			candidates -= mind
 
+	if (config.debug_mode_on)
+		world << "Built candidates list for working joe antag, now returning."
+
 	return candidates
 
 /datum/antagonist/working_joe/finalize_spawn()
+	if (config.debug_mode_on)
+		world << "Finalizing spawn for working joe antag."
 	var/list/spawned = ..()
 	for (var/datum/mind/mind in spawned)
 		if (ishuman(mind.current))

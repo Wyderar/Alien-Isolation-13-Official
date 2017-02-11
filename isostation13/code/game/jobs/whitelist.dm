@@ -1,7 +1,6 @@
 #define WHITELISTFILE "data/whitelist.txt"
 
 var/list/whitelist = list()
-var/list/whitelist_synths = file2list("config/whitelistsynth.txt")
 
 /hook/startup/proc/loadWhitelist()
 	if(config.usewhitelist)
@@ -21,13 +20,5 @@ var/list/whitelist_synths = file2list("config/whitelistsynth.txt")
 /proc/is_alien_whitelisted(mob/M, var/species)
 	// always return true because we don't have xenos and related whitelist
 	return 1
-
-/proc/is_synth_whitelisted(mob/M)
-	if (config.debug_mode_on)
-		world << "synth WL debugging"
-		world << whitelist_synths
-		world << whitelist_synths[1]
-
-	return (whitelist_synths.Find(M.ckey) || whitelist_synths.Find(M.key))
 
 #undef WHITELISTFILE

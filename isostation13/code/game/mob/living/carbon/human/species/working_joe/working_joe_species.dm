@@ -4,11 +4,13 @@
 
 	icobase = 'icons/mob/human_races/r_working_joe.dmi'
 	deform = 'icons/mob/human_races/r_working_joe.dmi'
+
 	//special icons until we have delimbing for these guys
-	icon_template = 'icons/mob/human_races/r_working_joe.dmi'
-	forced_stand_icon_state = "base_s"
-	forced_rest_icon_state = "base_l"
-	forced_dead_icon_state = "base_d"
+//	icon_template = 'icons/mob/human_races/r_working_joe.dmi'
+
+//	forced_stand_icon_state = "base_s"
+//	forced_rest_icon_state = "base_l"
+//	forced_dead_icon_state = "base_d"
 //	uses_no_overlays = 1
 
 	//damage

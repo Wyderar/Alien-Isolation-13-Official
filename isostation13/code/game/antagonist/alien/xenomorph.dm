@@ -31,6 +31,7 @@ var/datum/antagonist/xenos/xenomorphs
 
 /datum/antagonist/xenos/New(var/no_reference)
 	..()
+
 	if(!no_reference)
 		xenomorphs = src
 
@@ -38,13 +39,13 @@ var/datum/antagonist/xenos/xenomorphs
 
 /datum/antagonist/xenos/attempt_spawn(var/spawn_target = null)
 	..()
+	if (config.debug_mode_on)
+		world << "Spawning xenos for the gamemode."
 	if (working_joes)
 		working_joes.attempt_spawn()
 
 /datum/antagonist/xenos/attempt_auto_spawn()
 	..()
-	if (working_joes)
-		working_joes.attempt_auto_spawn()
 
 /*
 

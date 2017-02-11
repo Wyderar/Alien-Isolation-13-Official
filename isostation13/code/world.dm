@@ -94,8 +94,6 @@ var/global/datum/global_init/init = new ()
 
 	. = ..()
 
-	working_joe_whitelist = file2list("config/working_joe_whitelist.txt")//working joe whitelist after world/global lists set up
-
 #ifndef UNIT_TEST
 
 	sleep_offline = 1
@@ -149,6 +147,7 @@ var/global/datum/global_init/init = new ()
 #ifdef UNIT_TEST
 		initialize_unit_tests()
 #endif
+		working_joe_whitelist = file2list("config/working_joe_whitelist.txt")//working joe whitelist after world/global lists set up
 
 
 
