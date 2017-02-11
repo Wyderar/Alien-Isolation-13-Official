@@ -19,6 +19,7 @@
 /datum/category_item/player_setup_item/antagonism/candidacy/content(var/mob/user)
 	. += "<b>Special Role Availability:</b><br>"
 	. += "<table>"
+
 	for(var/antag_type in all_antag_types)
 		if (istype(all_antag_types[antag_type], /datum/antagonist/working_joe))
 			if (!working_joe_whitelist.Find(usr.ckey) && !working_joe_whitelist.Find(usr.key))

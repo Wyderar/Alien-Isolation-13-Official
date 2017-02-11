@@ -36,6 +36,11 @@ var/datum/antagonist/xenos/xenomorphs
 
 	working_joes = new
 
+/datum/antagonist/xenos/attempt_spawn(var/spawn_target = null)
+	..()
+	if (working_joes)
+		working_joes.attempt_spawn()
+
 /datum/antagonist/xenos/attempt_auto_spawn()
 	..()
 	if (working_joes)
