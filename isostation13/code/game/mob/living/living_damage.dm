@@ -67,6 +67,16 @@
 
 
 /mob/living/proc/apply_effects(var/stun = 0, var/weaken = 0, var/paralyze = 0, var/irradiate = 0, var/stutter = 0, var/eyeblur = 0, var/drowsy = 0, var/agony = 0, var/blocked = 0)
+
+	if (ishuman(src))
+		var/mob/living/carbon/human/H = src
+		var/datum/species/s = H.species
+		stun *= s.stun_mod
+		weaken *= s.stun_mod
+		paralyze *= s.stun_mod
+		stutter *= s.stun_mod
+		agony *= s.agony_mod
+
 	if(blocked >= 2)	return FALSE
 	if(stun)		apply_effect(stun, STUN, blocked)
 	if(weaken)		apply_effect(weaken, WEAKEN, blocked)
