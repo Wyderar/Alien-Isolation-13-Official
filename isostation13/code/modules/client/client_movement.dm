@@ -19,7 +19,7 @@
 			if("walk")
 				move_delay += 7+config.walk_speed
 	else
-		move_delay += ((1+config.run_speed)/5)
+		move_delay += ((1+config.run_speed)/10)
 
 	move_delay += mob.movement_delay()
 
