@@ -140,7 +140,7 @@
 	var/mob/target = null
 
 	for (var/mob/m in get_step(src, src.dir)) //let's allow instant headbiting of nested hosts
-		if (m.buckled && istype(m.buckled, /obj/structure/bed/nest))
+		if (m.buckled)
 			target = m
 			goto _skippedgrab_
 

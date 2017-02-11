@@ -337,7 +337,7 @@
 
 
 /mob/living/carbon/human/proc/make_nest() // -- cherkir
-	set name = "Make Nest (75)"
+	set name = "Make Nest (50)"
 	set desc = "Secrete tough, malleable resin in the shape of a nest, used to restrain hosts."
 	set category = "Abilities"
 
@@ -345,12 +345,28 @@
 		src << "\red You cannot make a nest in your current state."
 		return
 
-	if(!check_alien_ability(75,1,"resin spinner"))
+	if(!check_alien_ability(50,1,"resin spinner"))
 		return
 
 	visible_message("<span class='warning'><b>[src] vomits up a thick purple substance and begins to shape it!</b></span>", "<span class='alium'>You shape a nest.</span>")
 
 	new /obj/structure/bed/nest(get_turf(src))
+
+/mob/living/carbon/human/proc/make_cocoon() // -- cherkir
+	set name = "Make Cocoon (50)"
+	set desc = "Secrete tough, malleable resin in the shape of a cocoon, used to eggmorph hosts."
+	set category = "Abilities"
+
+	if (incapacitated_any())
+		src << "\red You cannot make a nest in your current state."
+		return
+
+	if(!check_alien_ability(50,1,"resin spinner"))
+		return
+
+	visible_message("<span class='warning'><b>[src] vomits up a thick purple substance and begins to shape it!</b></span>", "<span class='alium'>You shape a cocoon.</span>")
+
+	new /obj/structure/bed/cocoon(get_turf(src))
 
 mob/living/carbon/human/proc/xeno_infest(mob/living/carbon/human/M as mob in oview())
 	set name = "Infest (500)"

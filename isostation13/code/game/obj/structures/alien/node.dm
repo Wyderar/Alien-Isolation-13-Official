@@ -19,7 +19,7 @@
 	..()
 
 /obj/structure/alien/node/process()
-	if (prob(2))
+	if (prob(1))//lag prevention.
 		for (var/obj/structure/alien/weed/weeds in weeds)
 			for (var/obj/item/organ/organ in get_turf(weeds))
 				if (prob(33))

@@ -1,14 +1,5 @@
 //Alium nests. Essentially beds with an unbuckle delay that only aliums can buckle mobs to.
-#define NEST_RESIST_TIME 1200
-
-#define STAGE_FIRST 1
-#define STAGE_CONTRACTION_ONE 1
-#define STAGE_CONTRACTION_TWO 2
-#define STAGE_ABSORBTION 3
-#define STAGE_INCORPORATION 4
-#define STAGE_RESIN_OVERLAY_ADDED 5
-#define STAGE_CONTRACTION_FAILED 6
-#define STAGE_LAST 6
+#define NEST_RESIST_TIME 500
 
 /obj/structure/bed/nest
 	name = "alien nest"
@@ -16,136 +7,18 @@
 	icon = 'icons/mob/alien_new.dmi'
 	icon_state = "nest"
 	var/health = 100
-	var/progress = 0
-	var/list/stages[STAGE_LAST]
-
-/obj/structure/bed/nest/overlay
-	layer = MOB_LAYER + 0.01
-
 
 /obj/structure/bed/nest/New()
 	..()
-	progress = 0
-
-	reset_stages()
-	if (overlays.len)
-		clear_overlays()
-
-	processing_objects += src
 
 /obj/structure/bed/nest/Destroy()
-	clear_overlays()
-	processing_objects -= src
 	..()
-
-
-/obj/structure/bed/nest/proc/resin_overlay()
-	if (!stages[STAGE_RESIN_OVERLAY_ADDED])
-		overlays += /obj/structure/bed/nest/overlay
-		stages[STAGE_RESIN_OVERLAY_ADDED] = 1
-
-/obj/structure/bed/nest/proc/clear_overlays()
-	overlays = list()
-
-/obj/structure/bed/nest/proc/stages_need_reset()
-	for (var/v = STAGE_FIRST, v <= STAGE_LAST, v++)
-		if (stages[v] != FALSE)
-			return TRUE
-	return FALSE
-
-/obj/structure/bed/nest/proc/reset_stages()
-	if (!stages_need_reset())
-		return
-
-	stages[STAGE_CONTRACTION_ONE] = FALSE
-	stages[STAGE_CONTRACTION_TWO] = FALSE
-	stages[STAGE_ABSORBTION] = FALSE
-	stages[STAGE_INCORPORATION] = FALSE
-	stages[STAGE_RESIN_OVERLAY_ADDED] = FALSE
-	stages[STAGE_CONTRACTION_FAILED] = FALSE
-
-/obj/structure/bed/nest/process()//probably shouldn't use ..()
-	if (!buckled_mob)
-		progress = 0
-		reset_stages()
-		if (overlays.len)
-			clear_overlays()
-	else
-		++progress
-		if (ishuman(buckled_mob) && buckled_mob:alien_embryo != null || ishuman(buckled_mob) && istype(buckled_mob:head, /obj/item/clothing/mask/facehugger) || issynthetic(buckled_mob))
-			if (!stages[STAGE_CONTRACTION_FAILED])
-				buckled_mob.visible_message(\
-					"<span class='notice'>[src] starts to wrap around [buckled_mob.name]'s body, but suddenly stops.</span>",\
-					"<span class='danger'>[src] starts contracting around your body, but suddenly stops.</span>",\
-					"<span class='warning'>You hear squelching...</span>")
-				stages[STAGE_CONTRACTION_FAILED] = TRUE
-			return
-		switch (progress)
-			if (20 to 30)
-				if (!stages[STAGE_CONTRACTION_ONE])
-					buckled_mob.visible_message(\
-						"<span class='notice'>[src] starts to wrap around [buckled_mob.name]'s body.</span>",\
-						"<span class='danger'>[src] contracts around your body.</span>",\
-						"<span class='warning'>You hear squelching...</span>")
-					stages[STAGE_CONTRACTION_ONE] = TRUE
-				else if (prob(30))
-					buckled_mob.visible_message(\
-						"<span class='notice'>[src] squeezes [buckled_mob.name].</span>",\
-						"<span class='danger'>[src] squeezes you a bit.</span>",\
-						"<span class='warning'>You hear squelching...</span>")
-
-			if (31 to 50)
-				if (!stages[STAGE_CONTRACTION_TWO])
-					buckled_mob.visible_message(\
-						"<span class='notice'>[src] squishes [buckled_mob.name]'s body, starting to absorb them.</span>",\
-						"<span class='danger'>[src] is starting to absorb you. This is really unpleasant.</span>",\
-						"<span class='warning'>You hear squelching...</span>")
-					stages[STAGE_CONTRACTION_TWO] = TRUE
-				if (prob(5))
-					buckled_mob.adjustBruteLoss(pick(1,2))
-					if (prob(40))
-						buckled_mob.emote("scream", forced = TRUE)
-
-			//give them a false sense of security for 10 ticks
-			if (60 to 120)
-			/*
-				if (buckled_mob.stat == 2)//if they're already dead here, doesn't matter in incorporation stage
-					buckled_mob.visible_message(\
-						"<span class='danger'>[src] releases [buckled_mob.name]!</span>",\
-						"<span class='notice'>[src] releases your corpse.</span>",\
-						"<span class='notice'>You hear loud squelching...</span>")
-					var/mob/m = buckled_mob
-					buckled_mob = null
-					m.loc = get_turf(src)*/
-
-				if ((prob(3) && !stages[STAGE_ABSORBTION]) || (progress > 110 && !stages[STAGE_ABSORBTION]))//probably once or twice? At least once
-					resin_overlay()
-					buckled_mob.visible_message(\
-						"<span class='notice'>[src] fully absorbs [buckled_mob.name]!</span>",\
-						"<span class='danger'>[src] fully contracts around your body! You've been absorbed by the nest!</span>",\
-						"<span class='warning'>You hear loud squelching...</span>")
-					stages[STAGE_ABSORBTION] = TRUE
-
-			if (150 to INFINITY)
-				if (prob(1) || progress >= 500)
-					if (!stages[STAGE_INCORPORATION])
-						buckled_mob.visible_message(\
-							"<span class='notice'>[buckled_mob.name] is totally incorporated into [src], which has become an egg.</span>",\
-							"<span class='danger'>[src] has morphed your body into an egg.</span>",\
-							"<span class='warning'>You hear loud squelching...</span>")
-						buckled_mob.gib()
-						buckled_mob = null
-						new/obj/structure/alien/egg(get_turf(src))
-						qdel(src)
-						stages[STAGE_INCORPORATION] = TRUE
-
 
 
 /obj/structure/bed/nest/update_icon()
 	return
 
 /obj/structure/bed/nest/user_unbuckle_mob(mob/user as mob)
-	if (stages[STAGE_ABSORBTION]) return
 	if(buckled_mob)
 		if(buckled_mob.buckled == src)
 			if(buckled_mob != user)

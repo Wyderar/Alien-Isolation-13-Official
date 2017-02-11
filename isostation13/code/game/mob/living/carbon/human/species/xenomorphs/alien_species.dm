@@ -123,6 +123,7 @@
 	for (var/mob/living/carbon/human/H in player_list)
 		if (istype(H) && H.species && H.species == src)
 			alien_message("[H] has been slain at [get_area(H)]!")
+			return
 
 /datum/species/xenos/handle_post_spawn(var/mob/living/carbon/human/H)
 
@@ -180,6 +181,7 @@
 	//	/mob/living/carbon/human/proc/evolve,
 	//	/mob/living/carbon/human/proc/resin,
 		/mob/living/carbon/human/proc/make_nest,
+		/mob/living/carbon/human/proc/make_cocoon,
 		/mob/living/carbon/human/proc/corrosive_acid,
 	//	/mob/living/carbon/human/proc/tackle,
 		/mob/living/carbon/human/proc/headbite,
