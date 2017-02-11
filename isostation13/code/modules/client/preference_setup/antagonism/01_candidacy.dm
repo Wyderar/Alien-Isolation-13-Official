@@ -20,6 +20,11 @@
 	. += "<b>Special Role Availability:</b><br>"
 	. += "<table>"
 	for(var/antag_type in all_antag_types)
+		if (istype(all_antag_types[antag_type], /datum/antagonist/working_joe))
+			if (!working_joe_whitelist.Find(usr.ckey) && !working_joe_whitelist.Find(usr.key))
+				if (config.debug_mode_on)
+					world << "debug1"
+				continue
 		var/datum/antagonist/antag = all_antag_types[antag_type]
 		. += "<tr><td>[antag.role_text]: </td><td>"
 		if(jobban_isbanned(preference_mob(), antag.bantype))

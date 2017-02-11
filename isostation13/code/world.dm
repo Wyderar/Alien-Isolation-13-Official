@@ -63,6 +63,9 @@ var/global/datum/global_init/init = new ()
 
 #define RECOMMENDED_VERSION 509
 /world/New()
+
+
+
 	//logs
 	var/date_string = time2text(world.realtime, "YYYY/MM-Month/DD-Day")
 	href_logfile = file("data/logs/[date_string] hrefs.htm")
@@ -90,6 +93,8 @@ var/global/datum/global_init/init = new ()
 	update_status()
 
 	. = ..()
+
+	working_joe_whitelist = file2list("config/working_joe_whitelist.txt")//working joe whitelist after world/global lists set up
 
 #ifndef UNIT_TEST
 

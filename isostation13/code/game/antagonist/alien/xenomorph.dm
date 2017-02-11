@@ -27,11 +27,19 @@ var/datum/antagonist/xenos/xenomorphs
 	spawn_announcement_sound = 'sound/AI/aliens.ogg'
 	spawn_announcement_delay = 5000
 
+	var/datum/antagonist/working_joe/working_joes
+
 /datum/antagonist/xenos/New(var/no_reference)
 	..()
 	if(!no_reference)
 		xenomorphs = src
 
+	working_joes = new
+
+/datum/antagonist/xenos/attempt_auto_spawn()
+	..()
+	if (working_joes)
+		working_joes.attempt_auto_spawn()
 
 /*
 

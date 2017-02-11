@@ -20,6 +20,12 @@
 			H << "\red You can't use your hand."
 			return
 
+		if (H.species.no_harm_intent && H.a_intent == I_HURT)
+			if (H != src)//you can still commit suicide
+				if (istype(species, /datum/species/human) || istype(species, /datum/species/working_joe))
+					H << "\red You feel as though it is impossible to harm [src]."
+					return
+
 		if (istype(H.species, /datum/species/xenos))
 			destroy_structure(src)
 

@@ -38,6 +38,8 @@ var/global/list/playable_species = list("Human")    // A list of ALL playable sp
 // Posters
 var/global/list/poster_designs = list()
 
+//working joes
+var/list/working_joe_whitelist = list()
 // Uplinks
 var/list/obj/item/device/uplink/world_uplinks = list()
 

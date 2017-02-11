@@ -35,6 +35,10 @@ var/global/datum/controller/gameticker/ticker
 	var/novote = 1
 
 /datum/controller/gameticker/proc/pregame()
+	if (config.debug_mode_on)
+		for (var/v in working_joe_whitelist)
+			world << v
+
 	math_datum_pool = new/datum/math_pool()
 	basic_mob_pool = new/datum/basic_mob_pool()
 	for (var/obj/machinery/atmospherics/unary/vent_pump/somevent in world) //todo: move this to a better place

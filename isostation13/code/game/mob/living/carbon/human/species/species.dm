@@ -52,6 +52,7 @@
 	var/name_language = "Galactic Common"    // The language to use when determining names for this species, or null to use the first name/last name generator
 
 	// Combat vars.
+	var/no_harm_intent = FALSE
 	var/total_health = 100                   // Point at which the mob will enter crit.
 	var/list/unarmed_types = list(           // Possible unarmed attacks that the mob will use in combat,
 		/datum/unarmed_attack,
@@ -66,6 +67,7 @@
 	var/flash_mod =     1                    // Stun from blindness modifier.
 	var/stun_mod =      1					 // Stun from guns, etc
 	var/agony_mod =     1					 // Agony damage taken
+
 	var/vision_flags = SEE_SELF              // Same flags as glasses.
 	var/darksight_addendum = 0
 	// Death vars.
@@ -169,6 +171,12 @@
 	var/swap_flags = ~HEAVY	// What can we swap place with?
 
 	var/pass_flags = 0
+
+/datum/species/proc/make_synthetic(var/mob/living/carbon/human/H)
+	H.synthetic = TRUE
+
+/datum/species/proc/make_biological(var/mob/living/carbon/human/H)
+	H.synthetic = FALSE
 
 /datum/species/proc/table_climb_time()
 	return 50

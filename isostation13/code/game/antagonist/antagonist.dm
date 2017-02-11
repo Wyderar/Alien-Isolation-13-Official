@@ -215,14 +215,20 @@
 
 //Spawns all pending_antagonists. This is done separately from attempt_spawn in case the game mode setup fails.
 /datum/antagonist/proc/finalize_spawn()
+	var/list/spawned_players = list()
+
 	if(!pending_antagonists)
 		return
 
 	for(var/datum/mind/player in pending_antagonists)
 		pending_antagonists -= player
+		spawned_players += player
 		add_antagonist(player,0,0,1)
 
 	reset_antag_selection()
+
+	return spawned_players
+
 
 /datum/antagonist/proc/finalize_spawn_one()
 	var/returns = null
