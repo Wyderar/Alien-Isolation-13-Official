@@ -53,7 +53,7 @@
 	darksight_addendum = 3 //fix it
 
 	has_organ = list(
-		"heart" =           /obj/item/organ/heart,
+	//	"heart" =           /obj/item/organ/heart,
 		"brain" =           /obj/item/organ/brain/xeno,
 		"plasma vessel" =   /obj/item/organ/xenos/plasmavessel,
 		"hive node" =       /obj/item/organ/xenos/hivenode,
