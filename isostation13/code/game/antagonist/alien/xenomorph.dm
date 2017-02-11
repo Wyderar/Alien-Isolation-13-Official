@@ -27,7 +27,6 @@ var/datum/antagonist/xenos/xenomorphs
 	spawn_announcement_sound = 'sound/AI/aliens.ogg'
 	spawn_announcement_delay = 5000
 
-	var/datum/antagonist/working_joe/working_joes
 
 /datum/antagonist/xenos/New(var/no_reference)
 	..()
@@ -35,14 +34,10 @@ var/datum/antagonist/xenos/xenomorphs
 	if(!no_reference)
 		xenomorphs = src
 
-	working_joes = new
-
 /datum/antagonist/xenos/attempt_spawn(var/spawn_target = null)
 	..()
 	if (config.debug_mode_on)
 		world << "Spawning xenos for the gamemode."
-	if (working_joes)
-		working_joes.attempt_spawn()
 
 /datum/antagonist/xenos/attempt_auto_spawn()
 	..()

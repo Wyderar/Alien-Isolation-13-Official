@@ -5,13 +5,15 @@
 	icobase = 'icons/mob/human_races/r_working_joe.dmi'
 	deform = 'icons/mob/human_races/r_working_joe.dmi'
 
-	//special icons until we have delimbing for these guys
-//	icon_template = 'icons/mob/human_races/r_working_joe.dmi'
+	//special icons until we have better parts icons for these guys
+	icon_template = 'icons/mob/human_races/r_working_joe_old.dmi'
 
-//	forced_stand_icon_state = "base_s"
-//	forced_rest_icon_state = "base_l"
-//	forced_dead_icon_state = "base_d"
-//	uses_no_overlays = 1
+	forced_stand_icon_state = "base_s"
+	forced_rest_icon_state = "base_l"
+	forced_dead_icon_state = "base_d"
+	uses_no_overlays = 1
+
+	has_organ = list()
 
 	//damage
 	virus_immune = TRUE

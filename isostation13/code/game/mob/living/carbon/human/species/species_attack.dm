@@ -6,14 +6,14 @@
 	edge = 1
 
 /datum/unarmed_attack/working_joe_punch
-	attack_verb = list("smashed")
+	attack_verb = list("smashed", "clobbered", "punched")
 	shredding = 0
 	sharp = 0
 	edge = 0
-	damage = 5
+	damage = 10
 	New()
 		..()
-		damage += rand(0,3)
+		damage += rand(0,5)
 
 /datum/unarmed_attack/claws
 	attack_verb = list("scratched", "clawed", "slashed")

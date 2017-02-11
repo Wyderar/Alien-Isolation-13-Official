@@ -8,3 +8,4 @@
 	end_on_antag_death = 1
 //	antag_scaling_coeff = 10
 	antag_tags = list(MODE_XENOMORPH)
+	antag_templates = list(MODE_WORKING_JOE)

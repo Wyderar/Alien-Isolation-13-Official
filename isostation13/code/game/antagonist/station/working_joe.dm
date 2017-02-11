@@ -4,7 +4,7 @@ var/datum/antagonist/working_joe/working_joes
 	role_text = "Working Joe"
 	role_text_plural = "Working Joes"
 	welcome_text = "You are a Working Joe, a Seegson Synthetic. Your sole purpose in life is to serve your human masters. Above all else, do not harm any human."
-//	id = MODE_WORKING_JOE
+	id = MODE_WORKING_JOE
 	flags = 0//for now
 
 	//no limit to how many people can be working joe.
