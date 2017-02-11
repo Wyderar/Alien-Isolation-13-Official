@@ -55,5 +55,7 @@
 	H.name = H.real_name
 	H.equip_to_slot(new/obj/item/clothing/under/rank/engineer, slot_w_uniform)
 	H.equip_to_slot(new/obj/item/weapon/storage/belt/utility/full, slot_belt)
+	H.equip_to_slot(new/obj/item/clothing/shoes/workboots, slot_shoes)
+	H.equip_to_slot(new/obj/item/device/radio/headset/headset_eng, slot_l_ear)
 	make_synthetic(H)
 	..()

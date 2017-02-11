@@ -48,6 +48,8 @@
 #define ishuman(A) istype(A, /mob/living/carbon/human)
 
 #define isworkingjoe(A) (ishuman(A) && istype(A:species, /datum/species/working_joe))
+
+#define issynthetic(A) (ishuman(A) && A:synthetic)
 //---------------------------------------------------
 
 #define isanimal(A) istype(A, /mob/living/simple_animal)
