@@ -73,6 +73,14 @@ var/list/xenomorph_occupied_vents = list()
 
 	var/to_return = TRUE
 
+	var/alive_humans = 0
+	for (var/mob/living/carbon/human/h in player_list)
+		if (h.client && !ishumanoidalien(h) && h.stat != DEAD)
+			++alive_humans
+
+	if (alive_humans == 0)
+		return to_return
+
 
 	for (var/datum/mind/antag in current_antagonists)
 		if(!antag.current.client)

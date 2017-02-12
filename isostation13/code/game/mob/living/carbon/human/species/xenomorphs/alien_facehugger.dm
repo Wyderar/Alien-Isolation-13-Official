@@ -24,6 +24,8 @@ var/const/MAX_ACTIVE_TIME = 400
 	var/strength = 5
 	var/attached = 0
 
+	layer = MOB_LAYER + 0.05
+
 /obj/item/clothing/mask/facehugger/attack_hand(user as mob)
 
 	if((stat == CONSCIOUS && !sterile))

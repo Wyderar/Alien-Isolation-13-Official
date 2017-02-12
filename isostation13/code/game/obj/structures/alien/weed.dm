@@ -13,6 +13,11 @@
 		icon_state = state
 		set_light(3,3, rgb(100,50,100))
 
+		for (var/obj/structure/alien/weed/w in loc)
+			if (w != src)
+				qdel(w)
+
+
 	Del()
 		..()
 

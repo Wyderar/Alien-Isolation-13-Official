@@ -65,7 +65,13 @@
 
 		var/hard_to_resist = FALSE
 		if (isalien(G.assailant) || isworkingjoe(G.assailant))
-			hard_to_resist = TRUE
+			if (!isalien(G.affecting) && !isworkingjoe(G.affecting))
+				hard_to_resist = TRUE
+
+		var/easy_to_resist = FALSE
+		if (!isalien(G.assailant) && !isworkingjoe(G.assailant))
+			if (isalien(G.affecting) || isworkingjoe(G.affecting))
+				easy_to_resist = TRUE
 
 		resisting++
 		switch(G.state)
@@ -74,14 +80,14 @@
 					goto _skipbody_
 				qdel(G)
 			if(GRAB_AGGRESSIVE)
-				if(prob(60)) //same chance of breaking the grab as disarm
+				if(prob(60 + (easy_to_resist ? 30 : 0))) //same chance of breaking the grab as disarm
 					if (hard_to_resist && prob(80))
 						goto _skipbody_
 					visible_message("<span class='warning'>[src] has broken free of [G.assailant]'s grip!</span>")
 					qdel(G)
 			if(GRAB_NECK)
 				//If the you move when grabbing someone then it's easier for them to break free. Same if the affected mob is immune to stun.
-				if (((world.time - G.assailant.l_move_time < 30 || !stunned) && prob(15)) || prob(3))
+				if (((world.time - G.assailant.l_move_time < 30 || !stunned) && prob(15 + (easy_to_resist ? 35 : 0))) || prob(3 + (easy_to_resist ? 10 : 0)))
 					if (hard_to_resist && prob(80))
 						goto _skipbody_
 					visible_message("<span class='warning'>[src] has broken free of [G.assailant]'s headlock!</span>")

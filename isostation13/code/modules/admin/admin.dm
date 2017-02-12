@@ -576,10 +576,17 @@ proc/admin_notice(var/message, var/rights)
 /datum/admins/proc/Game()
 	if(!check_rights(0))	return
 
-	var/dat = {"
-		<center><B>Game Panel</B></center><hr>\n
-		<A href='?src=\ref[src];c_mode=1'>Change Game Mode</A><br>
-		"}
+	var/dat = ""
+
+	if (!config.no_changing_game_mode || check_rights(R_HOST, 0, owner))
+		dat = {"
+			<center><B>Game Panel</B></center><hr>\n
+			<A href='?src=\ref[src];c_mode=1'>Change Game Mode</A><br>
+			"}
+	else
+		dat = {"
+			<center><B><i>Changing the game mode is currently disabled.</i></B></center>
+			"}
 	if(master_mode == "secret")
 		dat += "<A href='?src=\ref[src];f_secret=1'>(Force Secret Mode)</A><br>"
 

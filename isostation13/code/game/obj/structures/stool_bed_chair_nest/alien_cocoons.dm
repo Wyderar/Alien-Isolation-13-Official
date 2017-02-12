@@ -25,6 +25,7 @@
 /obj/structure/bed/cocoon/New()
 	..()
 	progress = 0
+	pixel_y = 16
 
 	reset_stages()
 	if (overlays.len)

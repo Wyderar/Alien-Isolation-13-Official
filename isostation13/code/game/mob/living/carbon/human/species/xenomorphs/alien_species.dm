@@ -70,6 +70,8 @@
 	//verb helpers
 	var/delays[100]
 
+	var/list/image_map[0]
+
 /datum/species/xenos/proc/alerted(atomic, alerted)
 	if (!alerted)
 		return
@@ -343,6 +345,25 @@
 	else
 		H.real_name = "alien princess ([alien_number])"
 		H.name = H.real_name
+
+/datum/species/xenos/handle_vision(var/mob/living/carbon/human/H)
+	//no species.handle_vision()
+	H.sight = 0
+
+	if (H.client)
+		for (var/v in 1 to image_map.len)
+			if (image_map[v] != FALSE && istype(image_map[v], /image))
+				if (square_dist(H,image_map[v]) > 5)
+					image_map[v] = FALSE
+
+		for (var/atom/a in range(5, H))
+			if (!image_map[a])
+				image_map[a] = image(a.icon, get_turf(a), a.icon_state, a.layer, a.dir)
+				image_map["[a]_overlay"] = image('icons/obj/hud_small.dmi', get_turf(a), "thermal", a.layer + 0.001)
+
+		for (var/v in 1 to image_map.len)
+			if (image_map[v] != FALSE && istype(image_map[v], /image))
+				H.client.screen += image_map[v]
 
 /datum/hud_data/alien
 

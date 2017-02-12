@@ -41,6 +41,8 @@
 #undef HUMAN_EATING_NO_MOUTH
 #undef HUMAN_EATING_BLOCKED_MOUTH
 
+var/obj/item/clothing/glasses/thermal/internal_thermal = null
+
 /mob/living/carbon/human/proc/update_equipment_vision()
 	flash_protection = 0
 	equipment_tint_total = 0

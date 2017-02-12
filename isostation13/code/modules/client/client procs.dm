@@ -109,6 +109,11 @@
 		del(src)
 		return
 
+	if (config.developer_mode_on && !admins.Find(ckeyEx(key)))
+		alert(src,"This server is on developer mode. If you are a developer, PM Cherkir to get access.")
+		del(src)
+		return
+
 	// Change the way they should download resources.
 	if(config.resource_urls)
 		src.preload_rsc = pick(config.resource_urls)

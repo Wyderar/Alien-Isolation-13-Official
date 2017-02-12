@@ -388,3 +388,4 @@
 		H.client.screen |= overlay
 
 	return TRUE
+

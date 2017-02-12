@@ -2,6 +2,8 @@ var/list/gamemode_cache = list()
 
 /datum/configuration
 	var/debug_mode_on = 0
+	var/developer_mode_on = 0
+	var/no_changing_game_mode = 0
 
 	var/server_name = null				// server name (for world name / status)
 	var/server_suffix = 0				// generate numeric suffix based on server port
@@ -271,6 +273,13 @@ var/list/gamemode_cache = list()
 				if ("debug_mode_on")
 					config.debug_mode_on = 1
 					world << "Debug mode is on."
+
+				if ("developer_mode_on")
+					config.developer_mode_on = 1
+					world << "Developer mode is on. Players cannot join."
+
+				if ("no_changing_game_mode")
+					config.no_changing_game_mode = 1
 
 				if ("resource_urls")
 					config.resource_urls = splittext(value, " ")

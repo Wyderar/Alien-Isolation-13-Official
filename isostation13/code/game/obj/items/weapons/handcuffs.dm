@@ -20,9 +20,6 @@
 
 /obj/item/weapon/handcuffs/attack(var/mob/living/carbon/C, var/mob/living/user)
 
-	if (isalien(C) && prob(85))
-		user << "<span class='warning'>You fail to handcuff [C]!</span>"
-		return
 
 	if(!user.IsAdvancedToolUser())
 		return
@@ -69,7 +66,11 @@
 
 	//user.visible_message("<span class='danger'>\The [user] is attempting to put [cuff_type] on \the [H]!</span>")
 
-	if(!do_after(user,0, target))
+	if(!do_after(user,20, target))
+		return FALSE
+
+	if (isalien(target) && prob(85))
+		user << "<span class='warning'>You fail to handcuff [target]!</span>"
 		return FALSE
 
 	H.attack_log += text("\[[time_stamp()]\] <font color='orange'>Has been handcuffed by [user.name] ([user.ckey])</font>")
