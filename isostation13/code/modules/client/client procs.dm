@@ -109,10 +109,7 @@
 		del(src)
 		return
 
-	if (config.developer_mode_on && !admins.Find(ckeyEx(key)))
-		alert(src,"This server is on developer mode. If you are a developer, PM Cherkir to get access.")
-		del(src)
-		return
+
 
 	// Change the way they should download resources.
 	if(config.resource_urls)
@@ -130,6 +127,11 @@
 	if(holder)
 		admins += src
 		holder.owner = src
+
+	if (config.developer_mode_on && !holder)
+		alert(src,"This server is on developer mode. If you are a developer, PM Cherkir to get access.")
+		del(src)
+		return
 
 	//preferences datum - also holds some persistant data for the client (because we may as well keep these datums to a minimum)
 	prefs = preferences_datums[ckey]
