@@ -361,8 +361,13 @@
 		src << "\red You cannot make a nest in your current state."
 		return
 
+	if (!istype(get_step(src, src.dir),/turf/simulated/wall) || src.dir != NORTH)
+		src << "\red The cocoon must hang from a forward-facing wall."
+		return
+
 	if(!check_alien_ability(50,1,"resin spinner"))
 		return
+
 
 	visible_message("<span class='warning'><b>[src] vomits up a thick purple substance and begins to shape it!</b></span>", "<span class='alium'>You shape a cocoon.</span>")
 

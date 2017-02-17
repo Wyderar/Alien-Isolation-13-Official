@@ -20,6 +20,8 @@
 	var/list/stages[STAGE_LAST]
 	buckle_lying = -1
 	layer = MOB_LAYER + 0.02//above the husk stuff
+	pixel_y = 16
+	density = 0
 
 
 /obj/structure/bed/cocoon/New()
@@ -160,6 +162,7 @@
 				buckled_mob.pixel_y = 0
 				buckled_mob.old_y = 0
 				unbuckle_mob()
+				buckled_mob.density = 1
 			else
 				if(world.time <= buckled_mob.last_special+COCOON_RESIST_TIME)
 					return
@@ -174,6 +177,7 @@
 						buckled_mob.pixel_y = 0
 						buckled_mob.old_y = 0
 						unbuckle_mob()
+						buckled_mob.density = 1
 			src.add_fingerprint(user)
 	return
 
@@ -206,8 +210,9 @@
 	M.loc = src.loc
 	M.set_dir(src.dir)
 	M.update_canmove()
-	M.pixel_y = 6
+	M.pixel_y = pixel_y
 	M.old_y = 6
+	M.density = 0
 	src.buckled_mob = M
 	src.add_fingerprint(user)
 	return

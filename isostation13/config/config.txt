@@ -1,5 +1,5 @@
 ## debug mode on
-#DEBUG_MODE_ON
+DEBUG_MODE_ON
 
 ## can admins NOT change the game mode?
 NO_CHANGING_GAME_MODE
