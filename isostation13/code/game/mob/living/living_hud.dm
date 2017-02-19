@@ -33,6 +33,7 @@
 		for (var/i=1,i<=HUDtech.len,i++)
 			var/p = HUDtech[i]
 			src.client.screen += HUDtech[p]
+
 //For HUD checking needs
 /mob/living/proc/check_HUD()//Main HUD check process
 	return

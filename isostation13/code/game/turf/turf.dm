@@ -25,6 +25,7 @@
 
 	var/list/decals
 
+
 /turf/New()
 	..()
 	for(var/atom/movable/AM as mob|obj in src)
@@ -41,12 +42,22 @@
 /turf/proc/is_space_turf()
 	return (oxygen == 0)
 
-/turf/proc/is_exterior()
+/turf/proc/is_exterior(var/mob/m)
+	if (m && istype(m.loc, /turf/space))
+		return FALSE
 	for (var/turf/t in orange(1, src))
 		if (istype(t, /turf/space) || t.is_space_turf())
 			return TRUE
 	return FALSE
 
+/turf/proc/highest_object()
+	var/atom/to_return = src
+
+	for (var/atom/a in src)
+		if (a.layer > to_return.layer && (isobj(a) || ismob(a)) && !istype(a, /obj/screen))
+			to_return = a
+
+	return to_return
 
 /turf/proc/update_icon()
 	return

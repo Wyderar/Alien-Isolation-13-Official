@@ -226,6 +226,10 @@
 
 		moving = 0
 
+		if (ishuman(mob))
+			var/mob/living/carbon/human/H = mob
+			H.species.onMove(H)
+
 		return .
 
 	return

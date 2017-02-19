@@ -1,5 +1,6 @@
 #define MIN_LARVA_BLOOD_DRINK 0.5
 
+
 //Larvae regenerate health and nutrition from plasma and alien weeds.
 /mob/living/carbon/alien/larva/handle_environment(var/datum/gas_mixture/environment)
 

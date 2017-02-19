@@ -183,7 +183,7 @@
 /obj/structure/attack_generic(var/mob/user, var/damage, var/attack_verb, var/wallbreaker)
 	if(!breakable || !damage || !wallbreaker)
 		return FALSE
-	if (is_exterior() && config.impenetrable_station_exterior)
+	if (is_exterior(user) && config.impenetrable_station_exterior)
 		return FALSE
 	visible_message("<span class='danger'>[user] [attack_verb] the [src] apart!</span>")
 	attack_animation(user)

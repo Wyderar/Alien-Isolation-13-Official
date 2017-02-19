@@ -1,17 +1,20 @@
 /mob/living/carbon/proc/alien_infected()
-	var/x = new/obj/alien_embryo(src)
+	var/x = new/obj/item/organ/alien_embryo(src)
 	alien_embryo = x
+	if (ishuman(src))
+		var/mob/living/carbon/human/H = src
+		H.internal_organs_by_name["alien_embryo"] = x
 
 
-/obj/alien_embryo/New()
+/obj/item/organ/alien_embryo/New()
 	..()
 	processing_objects += src
 
-/obj/alien_embryo/Destroy()
+/obj/item/organ/alien_embryo/Destroy()
 	processing_objects -= src
 	..()
 
-/obj/alien_embryo
+/obj/item/organ/alien_embryo
 	var/mob/living/carbon/holder = null
 	var/ticks = 0//should be about equivalent to seconds
 
@@ -23,6 +26,11 @@
 		if (!holder)
 			qdel(src)
 			return
+		if (ishuman(holder))
+			var/mob/living/carbon/human/H = holder
+			if (H.internal_organs_by_name["alien_embryo"] != src)
+				qdel(src)
+				return
 
 		++ticks
 

@@ -197,6 +197,8 @@
 			var/turf/simulated/floor/F = O
 			if(F.flooring && (F.flooring.flags & TURF_ACID_IMMUNE))
 				cannot_melt = 1
+			if (F.z == 1)//no melting to space
+				cannot_melt = 1
 
 	if(cannot_melt)
 		src << "<span class='alium'>You cannot dissolve this object.</span>"
@@ -359,19 +361,32 @@
 
 	if (incapacitated_any())
 		src << "\red You cannot make a nest in your current state."
-		return
+		return FALSE
 
-	if (!istype(get_step(src, src.dir),/turf/simulated/wall) || src.dir != NORTH)
-		src << "\red The cocoon must hang from a forward-facing wall."
-		return
+	var/can_continue = FALSE
+
+	if (istype(get_step(src, src.dir), /turf/simulated/wall))
+		if (src.dir == NORTH)
+			can_continue = TRUE
+
+	var/obj/structure/struct = locate(/obj/structure) in get_step(src, src.dir)
+	if (struct && struct.density && !istype(struct, /obj/structure/table) && !istype(struct, /obj/structure/closet))
+		if (src.dir == NORTH)
+			can_continue = TRUE
+
+	if (!can_continue)
+		src << "\red The cocoon must be on a forward facing wall or structure."
+		return FALSE
 
 	if(!check_alien_ability(50,1,"resin spinner"))
-		return
+		return FALSE
 
 
 	visible_message("<span class='warning'><b>[src] vomits up a thick purple substance and begins to shape it!</b></span>", "<span class='alium'>You shape a cocoon.</span>")
 
 	new /obj/structure/bed/cocoon(get_turf(src))
+
+	return TRUE
 
 mob/living/carbon/human/proc/xeno_infest(mob/living/carbon/human/M as mob in oview())
 	set name = "Infest (500)"

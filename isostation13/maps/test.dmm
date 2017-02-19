@@ -1,0 +1,16 @@
+"a" = (/turf/simulated/floor/carpet,/area/space)
+"b" = (/obj/machinery/atmospherics/unary/vent_pump,/turf/simulated/floor/carpet,/area/space)
+"c" = (/obj/machinery/atmospherics/pipe/vent,/turf/simulated/floor/carpet,/area/space)
+
+(1,1,1) = {"
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaba
+aaaaaaaaaa
+aacaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+"}

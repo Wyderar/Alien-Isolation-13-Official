@@ -43,26 +43,6 @@ var/list/xenomorph_occupied_vents = list()
 /datum/antagonist/xenos/attempt_auto_spawn()
 	..()
 
-/*
-
-/datum/antagonist/xenos/proc/create_one_default_from_ghost(location)
-
-	var/datum/mind/player = attempt_random_spawn_one()
-
-	if (player == 0 || player == null)//player SHOULD be a mind
-		world << "NO PLAYER BAD"
-		return FALSE
-
-	world << "SUCCESS!"
-
-	world << player.type
-
-	player.current.loc = location
-
-	world << player.current.type
-
-	return TRUE*/
-
 /datum/antagonist/xenos/attempt_random_spawn()
 	if(config.aliens_allowed) return ..()
 
@@ -84,6 +64,8 @@ var/list/xenomorph_occupied_vents = list()
 
 
 	for (var/datum/mind/antag in current_antagonists)
+		if (!antag.current)
+			continue
 		if(!antag.current.client)
 			continue
 		if (!isalien(antag.current))
@@ -108,12 +90,6 @@ var/list/xenomorph_occupied_vents = list()
 				vents += temp_vent
 	return vents
 
-/datum/antagonist/xenos/create_objectives(var/datum/mind/player)
-	if(!..())
-		return
-	player.objectives += new /datum/objective/survive()
-	player.objectives += new /datum/objective/escape()
-
 /datum/antagonist/xenos/place_mob(var/mob/living/player)
 	var/vent = pick(get_vents())
 	while (vent in working_joe_occupied_vents)
@@ -121,3 +97,17 @@ var/list/xenomorph_occupied_vents = list()
 
 	xenomorph_occupied_vents += vent
 	player.forceMove(get_turf(vent))
+
+/datum/antagonist/xenos/create_objectives(var/datum/mind/xeno)
+	if(!..())
+		return FALSE
+
+	var/datum/objective/xeno/survive/s = new/datum/objective/xeno/survive
+	s.owner = xeno
+	xeno.objectives += s
+
+	var/datum/objective/xeno/expand/e = new/datum/objective/xeno/expand
+	e.owner = xeno
+	xeno.objectives += e
+
+	return TRUE

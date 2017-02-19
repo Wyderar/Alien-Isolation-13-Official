@@ -5,9 +5,9 @@
 		var/mob/moving_mob = mover
 		if ((other_mobs && moving_mob.other_mobs))
 			return TRUE
-		return (!mover.density || !density || lying)
+		return (!mover.density || !density || lying || buckled && istype(buckled, /obj/structure/bed/cocoon))
 	else
-		return (!mover.density || !density || lying)
+		return (!mover.density || !density || lying || buckled && istype(buckled, /obj/structure/bed/cocoon))
 	return
 
 

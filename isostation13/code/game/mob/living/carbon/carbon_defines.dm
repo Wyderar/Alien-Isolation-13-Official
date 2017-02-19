@@ -30,4 +30,6 @@
 
 	var/obj/item/weapon/tank/internal = null//Human/Monkey
 
-	var/obj/alien_embryo/alien_embryo = null
+	var/obj/item/organ/alien_embryo = null
+
+	var/list/HUDinfrared = list() //What HUD object need process

@@ -327,8 +327,8 @@ var/global/list/additional_antag_types = list()
 
 /datum/game_mode/proc/send_intercept()
 
-	var/intercepttext = "<FONT size = 3><B>Cent. Com. Update</B> Requested status information:</FONT><HR>"
-	intercepttext += "<B> In case you have misplaced your copy, attached is a list of personnel whom reliable sources&trade; suspect may be affiliated with subversive elements:</B><br>"
+	var/intercepttext = "<font size = 3><b>Cent. Com. Update</b> Requested status information:</font><hr>"
+	intercepttext += "<b> In case you have misplaced your copy, attached is a list of personnel whom reliable sources&trade; suspect may be affiliated with subversive elements:</b><br>"
 
 	var/list/disregard_roles = list()
 	for(var/antag_type in all_antag_types)

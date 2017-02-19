@@ -227,6 +227,9 @@
 	src.thrower = null
 	src.throw_source = null
 
+	if (ishuman(src))
+		var/mob/living/carbon/human/H = src
+		H.species.onMove(H)
 
 //Overlays
 /atom/movable/overlay

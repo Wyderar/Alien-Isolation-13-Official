@@ -389,3 +389,5 @@
 
 	return TRUE
 
+/datum/species/proc/onMove(H)
+	return handle_vision(H)

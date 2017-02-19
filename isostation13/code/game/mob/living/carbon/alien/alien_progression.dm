@@ -59,6 +59,10 @@
 /mob/living/carbon/alien/proc/update_progression()
 	if(amount_grown < max_grown)
 		amount_grown++
+	else
+		if (!got_evolution_message)
+			got_evolution_message = TRUE
+			src << "<span class = 'alium'>You feel ready to evolve.</span>"
 	return
 
 /mob/living/carbon/alien/proc/confirm_evolution()

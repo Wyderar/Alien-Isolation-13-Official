@@ -162,7 +162,6 @@
 				buckled_mob.pixel_y = 0
 				buckled_mob.old_y = 0
 				unbuckle_mob()
-				buckled_mob.density = 1
 			else
 				if(world.time <= buckled_mob.last_special+COCOON_RESIST_TIME)
 					return
@@ -177,7 +176,6 @@
 						buckled_mob.pixel_y = 0
 						buckled_mob.old_y = 0
 						unbuckle_mob()
-						buckled_mob.density = 1
 			src.add_fingerprint(user)
 	return
 
@@ -186,7 +184,6 @@
 		return
 
 	//if (!M.lying && istype(M, /mob/living/carbon)) return
-	if (M.lying && istype(M, /mob/living/carbon)) return
 
 	unbuckle_mob()
 
@@ -206,18 +203,20 @@
 			"<span class='notice'>[user.name] secretes a thick vile goo, securing [M.name] into [src]!</span>",\
 			"<span class='warning'>[user.name] drenches you in a foul-smelling resin, trapping you in the [src]!</span>",\
 			"<span class='notice'>You hear squelching...</span>")
+	M.lying = FALSE
 	M.buckled = src
 	M.loc = src.loc
 	M.set_dir(src.dir)
 	M.update_canmove()
 	M.pixel_y = pixel_y
 	M.old_y = 6
-	M.density = 0
 	src.buckled_mob = M
 	src.add_fingerprint(user)
 	return
 
 /obj/structure/bed/cocoon/attackby(obj/item/weapon/W as obj, mob/user as mob)
+	if (buckled_mob == user)
+		return
 	var/aforce = W.force
 	health = max(0, health - aforce)
 	playsound(loc, 'sound/effects/attackblob.ogg', 100, 1)

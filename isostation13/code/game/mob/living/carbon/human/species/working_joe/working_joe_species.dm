@@ -57,6 +57,32 @@
 	H.equip_to_slot(new/obj/item/weapon/storage/belt/utility/full, slot_belt)
 	H.equip_to_slot(new/obj/item/clothing/shoes/workboots, slot_shoes)
 	H.equip_to_slot(new/obj/item/device/radio/headset/headset_eng, slot_l_ear)
-	H.equip_to_slot(new/obj/item/weapon/card/id/engie, slot_wear_id)
+	H.equip_to_slot(handle_id_card(H), slot_wear_id)
 	make_synthetic(H)
+	handle_id_card(H)
 	..()
+
+/datum/species/working_joe/proc/handle_id_card(var/mob/living/carbon/human/H)
+
+	var/obj/item/weapon/card/id/engie/id = new/obj/item/weapon/card/id/engie()
+	id.registered_name = H.name
+	id.access = ENGINEER|ATMOSTECH
+	id.rank = "Working Joe"
+	id.assignment = "Working Joe"
+
+	return id
+/*
+
+	var/age = "\[UNSET\]"
+	var/blood_type = "\[UNSET\]"
+	var/dna_hash = "\[UNSET\]"
+	var/fingerprint_hash = "\[UNSET\]"
+	var/sex = "\[UNSET\]"
+	var/icon/front
+	var/icon/side
+
+	//alt titles are handled a bit weirdly in order to unobtrusively integrate into existing ID system
+	var/assignment = null	//can be alt title or the actual job
+	var/rank = null			//actual job
+	var/dorm = 0			// determines if this ID has claimed a dorm already
+*/

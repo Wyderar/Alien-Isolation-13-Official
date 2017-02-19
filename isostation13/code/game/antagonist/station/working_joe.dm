@@ -25,15 +25,6 @@ var/list/working_joe_occupied_vents = list()
 		world << "Spawning WORKING JOES for the gamemode."
 
 
-/datum/antagonist/working_joe/create_objectives(var/datum/mind/player)
-
-	if(!..())
-		return
-
-	var/datum/objective/survive/survive = new
-	survive.owner = player
-	player.objectives |= survive
-
 /datum/antagonist/working_joe/build_candidate_list()
 	var/list/candidates = ..()
 
@@ -78,3 +69,13 @@ var/list/working_joe_occupied_vents = list()
 	working_joe_occupied_vents += vent
 	player.forceMove(get_turf(vent))
 
+
+/datum/antagonist/working_joe/create_objectives(var/datum/mind/joe)
+	if(!..())
+		return FALSE
+
+	var/datum/objective/working_joe/ph = new/datum/objective/working_joe/protect_humans
+	ph.owner = joe
+	joe.objectives += ph
+
+	return TRUE
