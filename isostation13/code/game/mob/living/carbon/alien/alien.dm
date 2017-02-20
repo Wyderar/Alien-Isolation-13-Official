@@ -12,12 +12,14 @@
 	var/adult_form
 	var/dead_icon
 	var/amount_grown = 0
-	var/max_grown = 75
+	var/max_grown = 1300
 	var/time_of_birth
 	var/language
 	var/death_msg = "lets out a waning guttural screech, green blood bubbling from its maw."
 
 	var/did_evolve = FALSE
+
+	var/got_evolution_message = FALSE
 
 /mob/living/carbon/alien/New()
 
@@ -29,6 +31,8 @@
 	name = "[initial(name)] ([rand(1, 1000)])"
 	real_name = name
 	regenerate_icons()
+
+	max_grown = pick(1000,1100,1200,1300,1400,1500)
 
 	if(language)
 		add_language(language)
@@ -53,4 +57,4 @@
 	return //Consider adding cuffs and hats to this, for the sake of fun.
 
 /mob/living/carbon/alien/cannot_use_vents()
-	return
+	return FALSE

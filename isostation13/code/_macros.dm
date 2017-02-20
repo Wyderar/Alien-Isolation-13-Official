@@ -14,7 +14,6 @@
 
 #define iscarbon(A) istype(A, /mob/living/carbon)
 
-
 #define isobserver(A) istype(A, /mob/observer)
 
 #define isghost(A) istype(A, /mob/observer/ghost)
@@ -32,6 +31,7 @@
 #define iscarbon(A) istype(A, /mob/living/carbon)
 
 #define ishumanoidalien(A) (istype(A, /mob/living/carbon/human) && (istype(A:species, /datum/species/xenos) || (A:species.get_bodytype() == "Xenomorph")))
+
 #define isnonhumanoidalien(A) istype(A, /mob/living/carbon/alien)
 
 #define isalien(A) (ishumanoidalien(A) || isnonhumanoidalien(A))

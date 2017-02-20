@@ -43,10 +43,10 @@
 		else
 			user << "<span class='notice'>There is a thick layer of silicate covering it.</span>"
 
-/obj/structure/window/proc/take_damage(var/damage = 0,  var/sound_effect = 1)
+/obj/structure/window/proc/take_damage(var/damage = 0,  var/sound_effect = 1, var/mob/damagedealer = null)
 	var/initialhealth = health
 
-	if (!is_exterior() || !config.impenetrable_station_exterior)
+	if (!is_exterior(damagedealer) || !config.impenetrable_station_exterior)
 
 		if(silicate)
 			damage = damage * (1 - silicate / 200)
@@ -207,7 +207,7 @@
 		return
 	if(damage >= 10)
 		visible_message("<span class='danger'>[user] smashes into [src]!</span>")
-		take_damage(damage)
+		take_damage(damage, 1, user)
 	else
 		visible_message("<span class='notice'>\The [user] bonks \the [src] harmlessly.</span>")
 	return TRUE

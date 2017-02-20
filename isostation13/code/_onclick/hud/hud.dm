@@ -3,6 +3,7 @@
 	Uses the same visual objects for all players.
 */
 var/datum/global_hud/global_hud = new()
+
 var/list/global_huds = list(
 		global_hud.druggy,
 		global_hud.blurry,
@@ -11,7 +12,9 @@ var/list/global_huds = list(
 		global_hud.nvg,
 		global_hud.thermal,
 		global_hud.meson,
+		global_hud.infrared_overlay,
 		global_hud.science)
+
 /*
 /datum/hud/var/obj/screen/grab_intent
 /datum/hud/var/obj/screen/hurt_intent
@@ -26,6 +29,7 @@ var/list/global_huds = list(
 	var/obj/screen/nvg
 	var/obj/screen/thermal
 	var/obj/screen/meson
+	var/obj/screen/infrared_overlay
 	var/obj/screen/science
 
 /datum/global_hud/proc/setup_overlay(var/icon_state)
@@ -37,6 +41,7 @@ var/list/global_huds = list(
 	screen.mouse_opacity = 0
 
 	return screen
+
 
 /datum/global_hud/New()
 	//420erryday psychedellic colours screen overlay for when you are high
@@ -52,6 +57,12 @@ var/list/global_huds = list(
 	blurry.icon_state = "blurry"
 	blurry.layer = 17
 	blurry.mouse_opacity = 0
+
+	infrared_overlay = new /obj/screen()
+	infrared_overlay.screen_loc = ui_entire_screen
+	infrared_overlay.icon_state = "infrared"
+	infrared_overlay.layer = 17
+	infrared_overlay.mouse_opacity = 0
 
 	nvg = setup_overlay("nvg_hud")
 	thermal = setup_overlay("thermal_hud")
@@ -106,6 +117,28 @@ var/list/global_huds = list(
 		O.icon_state = "black"
 		O.layer = 17
 		O.mouse_opacity = 0
+
+	//infrared overlay for aliens, based on welding mask dither above
+/*
+	for(var/x = 0, x <= world.view, ++x)
+		for (var/y = 0, y <= world.view, ++y)
+			infraredMask3x3[(x * y) + x] = new/obj/screen()
+			O = infraredMask3x3[(x * y) + x]
+			var/xx = "+[x]"
+			var/yy = "+[y]"
+
+			if (x == 0)
+				xx = ""
+			if (y == 0)
+				yy = ""
+
+			O.screen_loc = "CENTER[xx],CENTER[yy]"
+			if (x == 3 && y == 3)
+				ASSERT(O.screen_loc == "CENTER+3,CENTER+3")
+			O.icon_state = (x <= 3 && y <= 3) ? "infrared" : "dark128"
+			O.layer = 17
+			O.mouse_opacity = 0
+*/
 
 /*
 	The hud datum

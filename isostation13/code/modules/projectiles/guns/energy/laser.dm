@@ -11,6 +11,20 @@
 	matter = list(DEFAULT_WALL_MATERIAL = 2000)
 	projectile_type = /obj/item/projectile/beam/midlaser
 
+/obj/item/weapon/gun/energy/laser/advanced
+	name = "advanced laser carbine"
+	desc = "An Hesphaistos Industries G40E carbine, designed to kill with concentrated energy blasts."
+	icon_state = "laser"
+	item_state = "laser"
+	fire_sound = 'sound/weapons/Laser.ogg'
+	slot_flags = SLOT_BELT|SLOT_BACK
+	w_class = 3
+	force = WEAPON_FORCE_NORMAL * 2
+	origin_tech = list(TECH_COMBAT = 3, TECH_MAGNET = 2)
+	matter = list(DEFAULT_WALL_MATERIAL = 2000)
+	projectile_type = /obj/item/projectile/beam/midlaser
+
+
 /obj/item/weapon/gun/energy/laser/mounted
 	self_recharge = 1
 	use_external_power = 1

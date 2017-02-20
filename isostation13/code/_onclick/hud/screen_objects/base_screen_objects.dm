@@ -6,6 +6,8 @@
 	They are used with the client/screen list and the screen_loc var.
 	For more information, see the byond documentation on the screen_loc and screen vars.
 */
+
+
 /obj/screen
 	name = ""
 	icon = 'icons/mob/screen1.dmi'
@@ -892,6 +894,22 @@
 		underlays += global_hud.blurry
 	if (parentmob.druggy)
 		underlays += global_hud.druggy
+
+/obj/screen/infraredoverlay
+	icon = 'icons/mob/screen1_full.dmi'
+	icon_state = "blank"
+	name = "infrared"
+	screen_loc = "WEST,SOUTH to EAST,NORTH"
+	mouse_opacity = 0
+	process_flag = 1
+	layer = 18.1
+
+/obj/screen/infraredoverlay/process()
+	update_icon()
+
+/obj/screen/infraredoverlay/update_icon()
+	underlays.Cut()
+	underlays += global_hud.infrared_overlay
 
 /obj/screen/damageoverlay
 	icon = 'icons/mob/screen1_full.dmi'

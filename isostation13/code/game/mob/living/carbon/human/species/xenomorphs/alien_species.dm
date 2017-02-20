@@ -44,7 +44,7 @@
 
 //	speech_sounds = list('sound/voice/hiss1.ogg','sound/voice/hiss2.ogg','sound/voice/hiss3.ogg','sound/voice/hiss4.ogg')
 	speech_chance = 100
-	speech_sounds = list("x_a_speak")
+	speech_sounds = list("x_a_hiss")
 
 	breath_type = null
 	poison_type = null
@@ -70,7 +70,8 @@
 	//verb helpers
 	var/delays[100]
 
-	var/list/image_map[0]
+	var/image_map[1000]
+	var/image_map_active_position = 1
 
 /datum/species/xenos/proc/alerted(atomic, alerted)
 	if (!alerted)
@@ -348,22 +349,66 @@
 
 /datum/species/xenos/handle_vision(var/mob/living/carbon/human/H)
 	//no species.handle_vision()
-	H.sight = 0
+
+	H.sight = SEE_MOBS|SEE_TURFS|SEE_OBJS|SEE_SELF
 
 	if (H.client)
-		for (var/v in 1 to image_map.len)
-			if (image_map[v] != FALSE && istype(image_map[v], /image))
-				if (square_dist(H,image_map[v]) > 5)
-					image_map[v] = FALSE
 
-		for (var/atom/a in range(5, H))
-			if (!image_map[a])
-				image_map[a] = image(a.icon, get_turf(a), a.icon_state, a.layer, a.dir)
-				image_map["[a]_overlay"] = image('icons/obj/hud_small.dmi', get_turf(a), "thermal", a.layer + 0.001)
+	//	H.client.view = ceil(world.view / 2)
 
-		for (var/v in 1 to image_map.len)
-			if (image_map[v] != FALSE && istype(image_map[v], /image))
-				H.client.screen += image_map[v]
+	//	var/obj/screen/infraredoverlay/i = new/obj/screen/infraredoverlay
+	//	H.client.screen += i
+/*
+		var/list/old = H.client.images.Copy()
+
+	//	var/list/used_atoms = list()
+
+		for (var/turf/t in range(H.client.view, H))
+			if (square_dist(t, H) <= 3)
+				H.client.images += image('icons/obj/hud_small.dmi', t.highest_object(), "thermal", global.below_screenobj_layer)
+			else
+				H.client.images += image('icons/obj/hud_small.dmi', t.highest_object(), "blacked_out", global.below_screenobj_layer)
+
+		H.client.images -= old*/
+
+	//	H.client.screen |= partial_hud_1.darkness
+	//	H.client.screen |= partial_hud_2.infrared
+
+/*
+		for (var/atom/a in range(3, H))
+
+	/*
+			var/atom/right_atom = a
+
+			if (isturf(a))
+				for (var/atom/b in a)
+					if (b.layer > right_atom.layer)
+						right_atom = b
+
+			if (!used_atoms.Find(right_atom))
+				H.client.images += image('icons/obj/hud_small.dmi', !isturf(right_atom) ? get_turf(right_atom) : right_atom, "thermal", right_atom.layer + 0.001)
+
+			used_atoms += a*/
+
+		for (var/atom/a in range(H.client.view, H))//for speed, only add darkness to the atoms with the highest overlay
+			/*
+			if (square_dist(a, H) <= 3)
+				continue
+
+
+			var/atom/right_atom = a
+			if (isturf(a))
+				for (var/atom/b in a)
+					if (b.layer > right_atom.layer)
+						right_atom = b
+
+			if (!used_atoms.Find(right_atom))
+				H.client.images += image('icons/obj/hud_small.dmi', !isturf(right_atom) ? get_turf(right_atom) : right_atom, "blacked_out", right_atom.layer + 0.001)
+
+			used_atoms += a
+				*/
+				*/
+	return H.sight
 
 /datum/hud_data/alien
 

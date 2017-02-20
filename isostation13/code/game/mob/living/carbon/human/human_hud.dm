@@ -93,7 +93,6 @@
 	create_HUDneed()
 	create_HUDfrippery()
 	create_HUDtech()
-
 /mob/living/carbon/human/create_HUDinventory()
 	var/mob/living/carbon/human/H = src
 	var/datum/hud/human/HUDdatum = global.HUDdatums[H.defaultHUD]
@@ -172,3 +171,15 @@
 		if (HUD.process_flag)//Если худ нужно процессить
 			H.HUDprocess += HUD//Вливаем в соотвествующий список
 	return
+
+	//Добавляем Элементы ХУДа (украшения)
+
+	/*
+	for (var/list/whistle in HUDdatum.HUDfrippery)
+		var/obj/screen/frippery/perdelka = new (whistle["icon_state"],whistle["loc"], whistle["dir"],H)
+		perdelka.icon = HUDdatum.icon
+		if(whistle["hideflag"])
+			perdelka.hideflag = whistle["hideflag"]
+		H.HUDfrippery += perdelka
+	return
+*/

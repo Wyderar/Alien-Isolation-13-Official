@@ -850,6 +850,7 @@ datum/objective/heist/salvage
 	else
 		return TRUE
 
+
 /datum/objective/cult/eldergod
 	explanation_text = "Summon Nar-Sie via the use of the appropriate rune (Hell join self). It will only work if nine cultists stand on and around it. The convert rune is join blood self."
 
@@ -871,6 +872,69 @@ datum/objective/heist/salvage
 
 /datum/objective/cult/sacrifice/check_completion()
 	return (target && cult && !cult.sacrificed.Find(target))
+
+//XENOMORPH MODE OBJECTIVES
+/datum/objective/working_joe/protect_humans
+	explanation_text = "You must ensure that 70% of the station's population survives the shift."
+	var/percentage = 50
+
+/datum/objective/working_joe/protect_humans/New()
+	..()
+	percentage = pick(40,50,60,70)
+	explanation_text = "Ensure that [percentage]% of the station's population survives the shift."
+
+/datum/objective/working_joe/protect_humans/check_completion()
+
+	var/alive = 0
+	var/alive_needed = 0
+
+	for (var/mob/living/carbon/human/H in player_list)
+		if (istype(H) && H.client)
+			alive++
+			alive_needed++
+
+	for (var/mob/living/carbon/human/H in dead_mob_list)
+		if (istype(H) && H.stat == DEAD)
+			alive_needed++
+
+	if (alive >= (alive_needed * (percentage/100)))
+		return TRUE
+
+	return FALSE
+
+
+/datum/objective/xeno/survive
+	explanation_text = "You must survive, for the sake of the glorious Queen Mother."
+	target_amount = 0//what
+
+/datum/objective/xeno/survive/New()
+	..()
+
+/datum/objective/xeno/survive/check_completion()
+	return (owner.current.stat != DEAD && !istype(owner.current, /mob/observer))
+
+/datum/objective/xeno/expand
+	explanation_text = "Expand the hive, birthing new sisters."
+	target_amount = 6
+
+/datum/objective/xeno/expand/New()
+	..()
+	target_amount += rand(-2,2)
+	explanation_text = "You must expand the hive to at least [target_amount] sisters, or survive the humans with [target_amount] sisters."
+
+
+/datum/objective/xeno/expand/check_completion()
+	var/aliens = 0
+
+	for (var/mob/m in alien_list)
+		if (isalien(m) && m.stat != DEAD && m.loc != null && m.client)//checks to make sure we aren't a pooled mob
+			++aliens
+
+	if (aliens >= target_amount)
+		return TRUE
+
+	return FALSE
+
 
 /datum/objective/rev/find_target()
 	..()

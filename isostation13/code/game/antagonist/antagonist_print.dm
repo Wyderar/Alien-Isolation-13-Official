@@ -8,7 +8,7 @@
 		text += print_player_full(P)
 		text += get_special_objective_text(P)
 		if(!global_objectives.len && P.objectives && P.objectives.len)
-			var/failed
+			var/failed = FALSE
 			var/num = 1
 			for(var/datum/objective/O in P.objectives)
 				text += print_objective(O, num)
@@ -17,8 +17,8 @@
 
 				else
 					text += "<font color='red'>Fail.</font>"
+					failed = TRUE
 
-					failed = 1
 				num++
 				if(failed)
 					text += "<br><font color='red'><B>The [role_text] has failed.</B></font>"

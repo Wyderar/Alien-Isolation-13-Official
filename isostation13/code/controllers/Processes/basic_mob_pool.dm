@@ -10,6 +10,15 @@
 			humans += new/mob/living/carbon/human()
 			alien_larvae += new/mob/living/carbon/alien/larva()
 
+		for (var/mob/m in alien_larvae)
+			alien_list -= m
+
+		for (var/mob/m in humans)
+			living_mob_list -= m
+			human_mob_list -= m
+
+
+
 		var/finish_time = world.time
 		var/total_time = (finish_time - init_time)/10
 		world << "<b><span style = \"color:red\">Finished generating pooled mobs. Took [total_time] seconds.</span></b>"

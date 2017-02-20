@@ -6,9 +6,11 @@
 	var/icon/icon = null
 	var/list/HUDfrippery
 	var/list/HUDoverlays
+	var/list/HUDinfrared
 //	var/Xbags
 //	var/Ybags
 	var/list/ConteinerData
+
 /datum/hud/human
 	name = "ErisStyle"
 	icon = 'icons/mob/screen/ErisStyle.dmi'
@@ -61,7 +63,10 @@
 		)
 
 //		"painoverlay" = list("type" = /obj/screen/damageoverlay, "loc" = "WEST,SOUTH to EAST,NORTH", "icon" =  'icons/mob/screen1_full.dmi')
+	HUDinfrared = list (
 
+
+	)
 	slot_data = list (
 		"i_clothing" =   list("loc" = "2,1",  "name" = "Uniform",         "state" = "center",  "hideflag" = TOGGLE_INVENTORY_FLAG),
 		"o_clothing" =   list("loc" = "3,1",  "name" = "Suit",            "state" = "equip",   "hideflag" = TOGGLE_INVENTORY_FLAG),
