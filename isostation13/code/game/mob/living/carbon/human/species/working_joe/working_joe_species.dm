@@ -51,24 +51,30 @@
 	no_harm_intent = TRUE
 
 /datum/species/working_joe/handle_post_spawn(var/mob/living/carbon/human/H)
+	..(H)
 	H.real_name = "Working Joe ([rand(1, 1000)])"
 	H.name = H.real_name
-	H.equip_to_slot(new/obj/item/clothing/under/rank/engineer, slot_w_uniform)
-	H.equip_to_slot(new/obj/item/weapon/storage/belt/utility/full, slot_belt)
-	H.equip_to_slot(new/obj/item/clothing/shoes/workboots, slot_shoes)
-	H.equip_to_slot(new/obj/item/device/radio/headset/headset_eng, slot_l_ear)
-	H.equip_to_slot(handle_id_card(H), slot_wear_id)
+	H.equip_to_slot_if_possible(new/obj/item/clothing/under/rank/engineer(get_turf(H)), slot_w_uniform)
+	H.equip_to_slot_if_possible(new/obj/item/weapon/storage/belt/utility/full(get_turf(H)), slot_belt)
+	H.equip_to_slot_if_possible(new/obj/item/clothing/shoes/workboots(get_turf(H)), slot_shoes)
+	H.equip_to_slot_if_possible(new/obj/item/device/radio/headset/headset_eng(get_turf(H)), slot_l_ear)
+	H.equip_to_slot_if_possible(handle_id_card(H), slot_wear_id)
 	make_synthetic(H)
-	handle_id_card(H)
-	..()
 
 /datum/species/working_joe/proc/handle_id_card(var/mob/living/carbon/human/H)
 
-	var/obj/item/weapon/card/id/engie/id = new/obj/item/weapon/card/id/engie()
+	var/obj/item/weapon/card/id/engie/id = new/obj/item/weapon/card/id/engie(get_turf(H))
 	id.registered_name = H.name
 	id.access = ENGINEER|ATMOSTECH
 	id.rank = "Working Joe"
 	id.assignment = "Working Joe"
+
+	id.age = "N/A"
+	id.blood_type = "N/A"
+	id.dna_hash = "N/A"
+	id.sex = "N/A"
+	id.fingerprint_hash = "N/A"
+
 
 	return id
 /*
