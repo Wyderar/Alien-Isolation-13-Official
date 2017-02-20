@@ -2,6 +2,7 @@
 	name = "Summon Nar-Sie"
 
 /datum/admin_secret_item/final_solution/summon_narsie/execute(var/mob/user)
+	if(!check_rights(R_ADMIN|R_FUN,1,user))	return
 	. = ..()
 	if(!.)
 		return

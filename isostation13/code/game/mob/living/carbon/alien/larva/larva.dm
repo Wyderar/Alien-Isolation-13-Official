@@ -16,24 +16,11 @@
 	create_reagents(100)
 	alien_message("[src] has been born at [get_area(src)]!")
 
-/mob/living/carbon/alien/larva/verb/Doorcrawl()
-	set name = "Door Crawl"
-	set category = "Abilities"
+	verbs += /mob/living/carbon/proc/sense_hive
 
-	if (incapacitated_any())
-		src << "\red You cannot doorcrawl in your current state."
-		return
 
-	var/obj/machinery/door/airlock/door = null
 
-	for (var/obj/machinery/door/airlock/al in get_step(src, src.dir))
-		if (istype(al))
-			door = al
-			break
-
-	if (istype(door, /obj/machinery/door/airlock))
-		src << "\red You start to squeeze through the door."
-		if (do_after(src, rand(15,25), door))
-			loc = get_step(src, src.dir)
-			src << "\red You squeeze through the door."
+/mob/living/carbon/alien/larva/Stat()
+	..()
+	stat(null, "Progress: [amount_grown]/[max_grown]")
 

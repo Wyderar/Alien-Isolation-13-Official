@@ -1,4 +1,6 @@
-<h1>Welcome to <b>Horror Station 13: Eris Edition</b></h1>
+<font size = 3><span style = \"color:purple\">Welcome to <b>Alien Isolation 13</b></span></font>
+<br>
 
--<i>This server is running <a href="http://baystation12.net/">Baystation 12</a> code.</i>
-<br><br>
+<b><font size = 2>Please consider donating <a href="https://www.paypal.me/KrisCherven">here</a> so we can replace the current VPS with a less laggy one. We need $40 a month in donations to keep the server stably running. A donation of at least $15 will let you permanently play as a Working Joe. PM Cherkir on the Discord for more information. </font></b>
+<br>
+<i><font size = 2>Check out our <a href="https://github.com/Cherkir/Alien-Isolation-13/issues">Github</a> if you want to contribute or report a bug.</font></i>

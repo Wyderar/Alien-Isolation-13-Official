@@ -350,6 +350,10 @@
 	if(!check_alien_ability(50,1,"resin spinner"))
 		return
 
+	if (find_alien_obj(get_turf(src)))
+		src << "\red There is already something here."
+		return FALSE
+
 	visible_message("<span class='warning'><b>[src] vomits up a thick purple substance and begins to shape it!</b></span>", "<span class='alium'>You shape a nest.</span>")
 
 	new /obj/structure/bed/nest(get_turf(src))
@@ -378,9 +382,12 @@
 		src << "\red The cocoon must be on a forward facing wall or structure."
 		return FALSE
 
-	if(!check_alien_ability(50,1,"resin spinner"))
+	if (find_alien_obj(get_turf(src)))
+		src << "\red There is already something here."
 		return FALSE
 
+	if(!check_alien_ability(50,1,"resin spinner"))
+		return FALSE
 
 	visible_message("<span class='warning'><b>[src] vomits up a thick purple substance and begins to shape it!</b></span>", "<span class='alium'>You shape a cocoon.</span>")
 

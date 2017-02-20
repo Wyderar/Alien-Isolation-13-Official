@@ -873,6 +873,8 @@ datum/objective/heist/salvage
 /datum/objective/cult/sacrifice/check_completion()
 	return (target && cult && !cult.sacrificed.Find(target))
 
+var/working_joe_survive_percentage = null
+var/xeno_survive_amount = null
 //XENOMORPH MODE OBJECTIVES
 /datum/objective/working_joe/protect_humans
 	explanation_text = "You must ensure that 70% of the station's population survives the shift."
@@ -880,7 +882,11 @@ datum/objective/heist/salvage
 
 /datum/objective/working_joe/protect_humans/New()
 	..()
-	percentage = pick(40,50,60,70)
+
+	percentage = working_joe_survive_percentage ? working_joe_survive_percentage : pick(40,50,60,70)
+	if (!working_joe_survive_percentage)
+		working_joe_survive_percentage = percentage
+
 	explanation_text = "Ensure that [percentage]% of the station's population survives the shift."
 
 /datum/objective/working_joe/protect_humans/check_completion()
@@ -919,7 +925,11 @@ datum/objective/heist/salvage
 
 /datum/objective/xeno/expand/New()
 	..()
-	target_amount += rand(-2,2)
+
+	target_amount = xeno_survive_amount ? xeno_survive_amount : (target_amount += rand(-2,2))
+	if (!xeno_survive_amount)
+		xeno_survive_amount = target_amount
+
 	explanation_text = "You must expand the hive to at least [target_amount] sisters, or survive the humans with [target_amount] sisters."
 
 

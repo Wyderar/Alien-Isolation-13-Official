@@ -7,6 +7,7 @@
 	language = "Hivemind"
 	unarmed_types = list(/datum/unarmed_attack/claws/strong, /datum/unarmed_attack/bite/strong)
 
+	darksight = 5
 
 	hud_type = /datum/hud_data/alien
 	rarity_value = 3
@@ -19,7 +20,7 @@
 	eyes = "blank_eyes"
 
 	brute_mod = 0.2
-	burn_mod = 0.33
+	burn_mod = 0.45
 	stun_mod = 0.01
 	agony_mod = 0.01
 
@@ -44,7 +45,7 @@
 
 //	speech_sounds = list('sound/voice/hiss1.ogg','sound/voice/hiss2.ogg','sound/voice/hiss3.ogg','sound/voice/hiss4.ogg')
 	speech_chance = 100
-	speech_sounds = list("x_a_hiss")
+	speech_sounds = list("x_a_speak")
 
 	breath_type = null
 	poison_type = null
@@ -141,6 +142,8 @@
 	alien_list += src
 
 	delays["tear girder"] = -1
+
+	H.verbs += /mob/living/carbon/proc/sense_hive
 
 	..()
 
@@ -351,8 +354,10 @@
 	//no species.handle_vision()
 
 	H.sight = SEE_MOBS|SEE_TURFS|SEE_OBJS|SEE_SELF
+	H.see_invisible = SEE_INVISIBLE_LIVING
 
 	if (H.client)
+
 
 	//	H.client.view = ceil(world.view / 2)
 

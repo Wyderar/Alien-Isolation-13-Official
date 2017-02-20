@@ -1,3 +1,4 @@
+
 /obj/structure/alien/weed
 	name = "weeds"
 	desc = "Some kind of strange, black weeds."

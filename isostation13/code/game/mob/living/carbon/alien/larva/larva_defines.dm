@@ -1,0 +1,2 @@
+#define MAX_GROWN_STATE_1_MULT 0.2
+#define MAX_GROWN_STATE_2_MULT 0.8

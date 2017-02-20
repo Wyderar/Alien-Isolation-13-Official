@@ -4,6 +4,20 @@
 	icon = 'icons/mob/alien_new.dmi'
 	var/health = 50
 
+/proc/find_alien_obj(var/atom/a)
+	var/t = isturf(a) ? a : get_turf(a)
+
+	var/to_return = FALSE
+
+	for (var/obj/structure/alien/alien_structure in t)
+		if (!istype(alien_structure, /obj/structure/alien/weed) && !istype(alien_structure, /obj/structure/alien/node))
+			to_return = TRUE
+
+	if (locate(/obj/structure/bed) in t)
+		to_return = TRUE
+
+	return to_return
+
 /obj/structure/alien/proc/healthcheck()
 	if(health <=0)
 		density = 0

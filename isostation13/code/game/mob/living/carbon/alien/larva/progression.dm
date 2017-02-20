@@ -11,6 +11,10 @@
 /mob/living/carbon/alien/larva/confirm_evolution()
 	return "Xenomorph"
 
-
 /mob/living/carbon/alien/larva/show_evolution_blurb()
 	return
+
+/mob/living/carbon/alien/larva/proc/get_prefix()
+	if (amount_grown < (MAX_GROWN_STATE_1_MULT * max_grown))
+		return "Bloody"
+	return null

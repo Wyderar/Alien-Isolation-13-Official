@@ -110,3 +110,28 @@
 		src << "<span class='danger'>You crawl out of \the [H]'s [affected.name] and plop to the ground.</span>"
 	else
 		src << "<span class='danger'>You plop to the ground.</span>"
+
+
+/mob/living/carbon/alien/larva/verb/Doorcrawl()
+	set name = "Crawl Under Door"
+	set category = "Abilities"
+
+	if (incapacitated_any())
+		src << "\red You cannot doorcrawl in your current state."
+		return
+
+	var/obj/machinery/door/airlock/door = null
+
+	for (var/obj/machinery/door/airlock/al in get_step(src, src.dir))
+		if (istype(al))
+			door = al
+			break
+
+	if (istype(door, /obj/machinery/door/airlock))
+		src << "\red You start to squeeze through the door."
+		if (do_after(src, rand(15,25), door))
+			loc = get_step(src, src.dir)
+			src << "\red You squeeze through the door."
+			layer = door.layer - 0.01
+			spawn (rand(3,5))
+				layer = initial(layer)

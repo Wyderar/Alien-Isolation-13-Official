@@ -227,5 +227,8 @@
 /obj/structure/bed/cocoon/proc/healthcheck()
 	if(health <=0)
 		density = 0
+		if (buckled_mob)
+			buckled_mob.pixel_y = 0
+			buckled_mob.old_y = 0
 		qdel(src)
 	return
