@@ -53,6 +53,7 @@ var/global/datum/controller/gameticker/ticker
 	'sound/music/title2.ogg',\
 	'sound/music/clouds.s3m',\
 	'sound/music/space.ogg',\*/
+	'sound/music/lower_hospital(or_whatever_its_called).ogg',\
 	'sound/music/tonspender_irritations.ogg',\
 	'sound/music/i_am_waiting_for_you_last_summer_neon_fever.ogg',\
 	'sound/music/paradise_cracked_skytown.ogg',\
