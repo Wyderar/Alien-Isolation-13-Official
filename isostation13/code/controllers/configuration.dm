@@ -4,6 +4,7 @@ var/list/gamemode_cache = list()
 	var/debug_mode_on = 0
 	var/developer_mode_on = 0
 	var/no_changing_game_mode = 0
+	var/long_lasting_power_nets = FALSE
 
 	var/server_name = null				// server name (for world name / status)
 	var/server_suffix = 0				// generate numeric suffix based on server port
@@ -280,6 +281,9 @@ var/list/gamemode_cache = list()
 
 				if ("no_changing_game_mode")
 					config.no_changing_game_mode = 1
+
+				if ("long_lasting_power_nets")
+					config.long_lasting_power_nets = 1
 
 				if ("resource_urls")
 					config.resource_urls = splittext(value, " ")

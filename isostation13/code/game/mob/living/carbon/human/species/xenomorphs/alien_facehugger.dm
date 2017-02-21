@@ -26,6 +26,7 @@ var/const/MAX_ACTIVE_TIME = 400
 
 	layer = MOB_LAYER + 0.05
 
+
 /obj/item/clothing/mask/facehugger/attack_hand(user as mob)
 
 	if((stat == CONSCIOUS && !sterile))
@@ -43,8 +44,20 @@ var/const/MAX_ACTIVE_TIME = 400
 /obj/item/clothing/mask/facehugger/New()
 	if(config.aliens_allowed)
 		..()
+		processing_objects += src
 	else
 		qdel(src)
+
+/obj/item/clothing/mask/facehugger/Destroy()
+	processing_objects -= src
+	..()
+
+/obj/item/clothing/mask/facehugger/process()
+	for (var/mob/m in view(1, src))
+		if (!isalien(m) && iscarbon(m) || !isalien(m) && iscorgi(m))
+			if (prob(30))
+				Attach(m)
+
 
 /obj/item/clothing/mask/facehugger/examine(mob/user)
 	..(user)
@@ -58,7 +71,7 @@ var/const/MAX_ACTIVE_TIME = 400
 	return
 
 /obj/item/clothing/mask/facehugger/attackby(obj/item/I, mob/user)
-	if(I.force)
+	if(I.force && prob((I.force * 10) + 20))
 		user.do_attack_animation(src)
 		Die()
 	return
@@ -136,7 +149,7 @@ var/const/MAX_ACTIVE_TIME = 400
 	if(!sterile) L.take_organ_damage(strength,0) //done here so that even borgs and humans in helmets take damage
 
 	L.visible_message("\red \b [src] leaps at [L]'s face!")
-	playsound(L, "x_f_attack", 100)
+	playsound(get_turf(L), "x_f_attack", 100)
 
 	if(iscarbon(M))
 		var/mob/living/carbon/target = L
@@ -152,7 +165,9 @@ var/const/MAX_ACTIVE_TIME = 400
 		target.equip_to_slot(src, slot_wear_mask)
 		target.contents += src // Monkey sanity check - Snapshot
 
-		if(!sterile) L.Paralyse(MAX_IMPREGNATION_TIME/6) //something like 25 ticks = 20 seconds with the default settings
+		if(!sterile)
+			L.Paralyse(MAX_IMPREGNATION_TIME/6) //something like 25 ticks = 20 seconds with the default settings
+			L.Weaken(5)
 	/*
 	else if (iscorgi(M))
 		var/mob/living/simple_animal/corgi/corgi = M
@@ -230,7 +245,7 @@ var/const/MAX_ACTIVE_TIME = 400
 	stat = DEAD
 
 	src.visible_message("\red \b[src] curls up into a ball!")
-	playsound(src, "x_f_death", 100)
+	playsound(get_turf(src), "x_f_death", 100)
 
 	return
 

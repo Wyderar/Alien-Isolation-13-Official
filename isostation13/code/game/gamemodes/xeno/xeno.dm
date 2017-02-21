@@ -6,6 +6,7 @@
 	required_players = 1
 	required_enemies = 1
 	end_on_antag_death = 1
+	shuttle_delay = 6
 //	antag_scaling_coeff = 10
 //	antag_tags = list(MODE_XENOMORPH)
 //	antag_templates = list(MODE_WORKING_JOE)
@@ -15,6 +16,7 @@
 		..()
 		if (!config.debug_mode_on)
 			required_players = 2
+		shuttle_delay = pick(6,7)
 
 
 /datum/game_mode/xeno/declare_completion()

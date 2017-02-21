@@ -22,6 +22,8 @@
 
 /datum/powernet/New()
 	powernets += src
+	if (config.long_lasting_power_nets) //experiment - Cherkir
+		avail += 5000000
 	..()
 
 /datum/powernet/Destroy()
@@ -40,6 +42,8 @@
 	return max(avail - load, 0)
 
 /datum/powernet/proc/draw_power(var/amount)
+
+
 	var/draw = between(0, amount, avail - load)
 	load += draw
 	return draw
