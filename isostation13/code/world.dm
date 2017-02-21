@@ -58,7 +58,7 @@ var/global/datum/global_init/init = new ()
 	hub_password = "kMZy3U5jJHSiBQjr"
 	name = "Alien Isolation 13"
 	status = ""//might be necessary
-	fps = 30//experiment by Cherkir
+//	fps = 30//experiment by Cherkir
 //	status = "<br><font size = 100><span style = \"color:purple\">ALIEN ISOLATION 13(<a href = \"https://discord.gg/rpxvmMW\">DISCORD</a>)</span></font>"
 //	update_status() //disabled for now, re-enable it to change this shit automatically
 
