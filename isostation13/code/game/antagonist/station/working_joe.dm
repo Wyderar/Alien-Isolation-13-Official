@@ -62,13 +62,15 @@ var/list/working_joe_occupied_vents = list()
 
 /datum/antagonist/working_joe/place_mob(var/mob/living/player)
 
+	player.forceMove(pick(wj_spawn))
+/*
 	var/vent = pick(get_vents())
 	while (vent in xenomorph_occupied_vents)
 		vent = pick(get_vents())
 
 	working_joe_occupied_vents += vent
 	player.forceMove(get_turf(vent))
-
+*/
 
 /datum/antagonist/working_joe/create_objectives(var/datum/mind/joe)
 	if(!..())

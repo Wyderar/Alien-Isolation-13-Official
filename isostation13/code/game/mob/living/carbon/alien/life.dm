@@ -10,7 +10,9 @@
 	..()
 
 	if (stat != DEAD && can_progress())
-		update_progression()
+		if (istype(src, /mob/living/carbon/alien/larva))
+			var/mob/living/carbon/alien/larva/l = src
+			l.update_progression()
 
 	blinded = null
 

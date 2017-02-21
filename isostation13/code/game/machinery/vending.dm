@@ -1026,4 +1026,7 @@
 	name = "Ironhammer Gunsafe"
 	desc = "Ironhammer PMC weapons vendor."
 	icon_state = "ironhammer"
-	products = list(/obj/item/weapon/gun/projectile/automatic/SMG_sol = 10, /obj/item/weapon/gun/energy/laser/advanced = 10, /obj/item/ammo_magazine/SMG_sol/brute = 20, /obj/item/weapon/gun/projectile/automatic/m4a1 = 10, /obj/item/ammo_magazine/m4/rubber = 20, /obj/item/weapon/gun/projectile/surveyor = 10, /obj/item/ammo_magazine/m4/brute = 20)
+	products = list(/obj/item/weapon/gun/projectile/automatic/SMG_sol = 10, /obj/item/weapon/gun/energy/laser/advanced = 10, /obj/item/weapon/gun/energy/retro = 5, /obj/item/ammo_magazine/SMG_sol/brute = 20, /obj/item/weapon/gun/projectile/automatic/m4a1 = 10, /obj/item/ammo_magazine/m4/rubber = 20, /obj/item/weapon/gun/projectile/surveyor = 10, /obj/item/ammo_magazine/m4/brute = 20)
+
+//WIP - a vendor that has kewl lasers or something?
+///obj/machinery/vending/ironhammer/elite

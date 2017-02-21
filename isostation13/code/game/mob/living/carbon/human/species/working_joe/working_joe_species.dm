@@ -65,7 +65,7 @@
 
 	var/obj/item/weapon/card/id/engie/id = new/obj/item/weapon/card/id/engie(get_turf(H))
 	id.registered_name = H.name
-	id.access = ENGINEER|ATMOSTECH
+	id.access = list(access_security, access_eva, access_sec_doors, access_brig, access_armory, access_maint_tunnels, access_morgue, access_external_airlocks)
 	id.rank = "Working Joe"
 	id.assignment = "Working Joe"
 

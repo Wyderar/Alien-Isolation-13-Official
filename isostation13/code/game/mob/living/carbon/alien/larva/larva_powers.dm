@@ -123,7 +123,7 @@
 	var/obj/machinery/door/airlock/door = null
 
 	for (var/obj/machinery/door/airlock/al in get_step(src, src.dir))
-		if (istype(al))
+		if (istype(al) && al.density)
 			door = al
 			break
 

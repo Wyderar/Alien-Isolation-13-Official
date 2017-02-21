@@ -51,6 +51,9 @@ var/list/xenomorph_occupied_vents = list()
 
 /datum/antagonist/xenos/antags_are_dead()
 
+	if (prob(98)) //This means that if the only xeno crashes, he'll have to be logged out for 50 or so ticks before roundend
+		return FALSE
+
 	var/to_return = TRUE
 
 

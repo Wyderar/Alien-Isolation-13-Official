@@ -887,7 +887,7 @@ var/xeno_survive_amount = null
 	if (!working_joe_survive_percentage)
 		working_joe_survive_percentage = percentage
 
-	explanation_text = "Ensure that [percentage]% of the station's population survives the shift."
+	explanation_text = "Ensure that at least [percentage]% of the station's population survives the shift."
 
 /datum/objective/working_joe/protect_humans/check_completion()
 
@@ -917,7 +917,7 @@ var/xeno_survive_amount = null
 	..()
 
 /datum/objective/xeno/survive/check_completion()
-	return (owner.current.stat != DEAD && !istype(owner.current, /mob/observer))
+	return (owner.current.stat != DEAD && isalien(owner.current))
 
 /datum/objective/xeno/expand
 	explanation_text = "Expand the hive, birthing new sisters."

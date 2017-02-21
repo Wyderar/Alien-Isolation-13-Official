@@ -4,7 +4,7 @@ var/list/gamemode_cache = list()
 	var/debug_mode_on = 0
 	var/developer_mode_on = 0
 	var/no_changing_game_mode = 0
-	var/long_lasting_power_nets = FALSE
+	var/long_lasting_power_nets = 0
 
 	var/server_name = null				// server name (for world name / status)
 	var/server_suffix = 0				// generate numeric suffix based on server port

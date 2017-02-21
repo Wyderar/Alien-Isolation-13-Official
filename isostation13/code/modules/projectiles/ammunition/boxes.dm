@@ -303,7 +303,7 @@
 	ammo_mag = "mag_cl32"
 	ammo_type = /obj/item/ammo_casing/cl32/brute
 	matter = list(DEFAULT_WALL_MATERIAL = 750)
-	caliber = ".32"
+	caliber = "9mm"
 	max_ammo = 7
 	multiple_sprites = 1
 
@@ -325,7 +325,7 @@
 	ammo_mag = "5.56mm"
 	ammo_type = /obj/item/ammo_casing/m4/brute
 	matter = list(DEFAULT_WALL_MATERIAL = 1875)
-	caliber = "5.56"
+	caliber = "5.56mm"
 	max_ammo = 25
 	multiple_sprites = 1
 

@@ -290,7 +290,7 @@
 	w_class = 4
 	ammo_mag = "ih_smg"
 	load_method = MAGAZINE //yup. until someone sprites a magazine for it.
-	magazine_type = /obj/item/projectile/bullet/cl32/brute
+	magazine_type = /obj/item/ammo_magazine/mg/cl32/brute
 	max_shells = 30
 	caliber = "9mm"
 	origin_tech = list(TECH_COMBAT = 4, TECH_MATERIAL = 2)

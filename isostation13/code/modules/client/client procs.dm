@@ -172,7 +172,7 @@
 		if(config.aggressive_changelog)
 			src.changes()
 
-	fps = 30
+	src.fps = 25
 
 
 	//////////////
