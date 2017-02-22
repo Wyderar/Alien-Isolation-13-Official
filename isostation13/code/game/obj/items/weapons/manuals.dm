@@ -116,16 +116,19 @@
 				<br>
 				<h2>STARTUP PROCEDURE</h2>
 				<ol>
-				<li>Fill reactor loop and radiator loop with two (2) standard canisters of nitrogen gas each.</li>
-				<li>Ensure that pumps and filters are on and operating at maximum power.</li>
-				<li>Fire <del>5</del> <del>15</del> <del>2</del> <del>UNKNOWN</del> 8-12 pulses from emitter at supermatter crystal. Reactor blast doors must be open for this procedure.</li>
+				<li>Fill reactor loop(cyan) with two (2) and radiator loop(green/black) with two to four (2-4) standard canisters of nitrogen gas each.</li>
+				<li>Ensure that pumps and filters are on and operating at maximum power.(except the one to the north of suppermatter, use it for regulating pressure in chamber)</li>
+				<li>Ensure that coolant input(console south of supermatter next to meter) and chamber output/input(console in the middle) are maximized.</li>
+				<li>Fire <del>5</del> <del>15</del> <del>2</del> <del>UNKNOWN</del> 8 pulses from emitter at supermatter crystal. Reactor blast doors must be open for this procedure.</li>
+				<li>If possible ask atmospheric technician to open N2 to engine passive gate. if not possible do it ASAP.</li>
 				</ol>
 				<br>
 				<h2>OPERATION AND MAINTENANCE</h2>
 				<ol>
 				<li>Ensure that radiation protection and meson goggles are worn at all times while working in the engine room.</li>
 				<li>Ensure that reactor and radiator loops are undamaged and unobstructed.</li>
-				<li>Ensure that plasma and oxygen gas exhaust from filters is properly contained or disposed. Do not allow exhaust pressure to exceed 4500 kPa.</li>
+				<li>Adjust high power pump(south of the suppermatter) to adjust pressure in chamber.</li>
+				<li>Ensure that plasma and oxygen gas exhaust from filters is properly contained or disposed. Do not allow exhaust pressure to exceed 4500 kPa(adjust core to space passive gate at bottom floor).</li>
 				<li>Ensure that engine room Area Power Controller (APC) and engine Superconducting Magnetic Energy Storage unit (SMES) are properly charged.</li>
 				<li>Ensure that reactor temperature does not exceed 5000K. In event of reactor temperature exceeding 5000K, see EMERGENCY COOLING PROCEDURE.</li>
 				<li>In event of imminent and/or unavoidable delamination, see EJECTION PROCEDURE.</li>
@@ -141,7 +144,7 @@
 				<h2>EJECTION PROCEDURE</h2>
 				<ol>
 				<li>Press Engine Ventilatory Control button to open engine core vent to space.</li>
-				<li>Press Emergency Core Eject button to eject supermatter crystal. NOTE: Attempting crystal ejection while engine core vent is closed will result in ejection failure.</li>
+				<li>Press Emergency Core Eject button to eject supermatter crystal.</li>
 				<li>In event of ejection failure, <i>pending</i></li>
 				</ol>
 				</body>
