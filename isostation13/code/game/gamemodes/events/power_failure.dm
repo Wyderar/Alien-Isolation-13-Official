@@ -29,6 +29,7 @@
 		S.update_icon()
 		S.power_change()
 
+
 /proc/power_restore_quick(var/announce = 1)
 
 	if(announce)

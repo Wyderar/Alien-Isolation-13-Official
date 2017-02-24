@@ -55,6 +55,10 @@
 	if(!..())
 		return 0
 
+	if (istype(A, /obj/machinery/light) || istype(A, /obj/machinery/camera))
+		src << "<span class = 'alium'>You can't reach that.</span>"
+		return
+
 	A.attack_generic(src,rand(5,6),"bitten")
 
 /*

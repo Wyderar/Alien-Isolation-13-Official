@@ -45,12 +45,8 @@ var/global/datum/controller/gameticker/ticker
 		vent_list += somevent
 
 	if (config.long_lasting_power_nets && config.debug_mode_on)
-		world << "'Long lasting power nets' config setting is on. This message is debug-mode only. Updating machinery."
-		for (var/obj/machinery/m in world)
-			m.idle_power_usage = min(m.idle_power_usage/10, 1)
-			m.active_power_usage = min(m.active_power_usage/10,1)
-		world << "Finished updating machinery."
-
+		world << "'Long lasting power nets' config setting is on. This message is debug-mode only."
+/*
 	login_music = pick(\
 	/*'sound/music/halloween/skeletons.ogg',\
 	'sound/music/halloween/halloween.ogg',\
@@ -67,6 +63,8 @@ var/global/datum/controller/gameticker/ticker
 	'sound/music/nervous_testpilot _my_beautiful_escape.ogg',\
 	'sound/music/deus_ex_unatco_nervous_testpilot_remix.ogg',\
 	'sound/music/paradise_cracked_title03.ogg') //Ground Control to Major Tom, this song is cool, what's going on?
+*/
+	login_music = 'sound/music/lower_hospital.ogg' //spooky alien music
 
 	do
 		pregame_timeleft = 180

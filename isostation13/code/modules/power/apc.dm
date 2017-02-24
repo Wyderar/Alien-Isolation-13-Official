@@ -118,6 +118,7 @@
 	var/global/list/status_overlays_equipment
 	var/global/list/status_overlays_lighting
 	var/global/list/status_overlays_environ
+	unacidable = TRUE
 
 /obj/machinery/power/apc/updateDialog()
 	if (stat & (BROKEN|MAINT))
@@ -989,8 +990,10 @@
 
 	if(stat & (BROKEN|MAINT))
 		return
+
 	if(!area.requires_power)
 		return
+
 	if(failure_timer)
 		update()
 		queue_icon_update()
@@ -1033,6 +1036,8 @@
 	if(cell && !shorted)
 		// draw power from cell as before to power the area
 		var/cellused = min(cell.charge, CELLRATE * lastused_total)	// clamp deduction to a max, amount left in cell
+		if (config && config.long_lasting_power_nets)
+			cellused/=20
 		cell.use(cellused)
 
 		if(excess > lastused_total)		// if power excess recharge the cell

@@ -35,6 +35,10 @@
 
 	processing_objects += src
 
+	for (var/atom/a in get_turf(src))
+		if (a.layer > layer)
+			layer = a.layer + 0.01
+
 /obj/structure/bed/cocoon/overlay
 	layer = MOB_LAYER + 0.01
 	icon_state = "overlay_husk"

@@ -6,6 +6,12 @@
 	var/datum/light_source/light
 	var/list/light_sources
 
+	var/xeno = FALSE
+
+/atom/proc/make_xeno_light()
+	xeno = TRUE
+
+
 /atom/proc/set_light(l_range, l_power, l_color)
 	. = 0 //make it less costly if nothing's changed
 
@@ -39,6 +45,8 @@
 			light.update(.)
 		else
 			light = new /datum/light_source(src, .)
+			if (xeno)
+				light.xeno = TRUE
 
 /atom/New()
 	. = ..()

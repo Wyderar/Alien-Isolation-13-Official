@@ -50,6 +50,8 @@
 	var/obj/machinery/power/terminal/terminal = null
 	var/should_be_mapped = 0 // If this is set to 0 it will send out warning on New()
 
+	unacidable = TRUE
+
 /obj/machinery/power/smes/drain_power(var/drain_check, var/surge, var/amount = 0)
 
 	if(drain_check)
@@ -246,8 +248,12 @@
 	ui_interact(user)
 
 /obj/machinery/power/smes/attack_hand(mob/user)
+	if (ishumanoidalien(user))
+		user << "<span class = 'alium'>You have no idea of what this is.</span>"
+		return FALSE
 	add_fingerprint(user)
 	ui_interact(user)
+	return TRUE
 
 
 /obj/machinery/power/smes/attackby(var/obj/item/weapon/W as obj, var/mob/user as mob)

@@ -6,9 +6,9 @@
 
 	//no real better place to put this
 	if (get_prefix())
-		real_name = "[get_prefix()] Larva"
+		real_name = "[get_prefix()] Larva ([number])"
 	else
-		real_name = "Alien Larva"
+		real_name = "Larva ([number])"
 
 	name = real_name
 

@@ -171,7 +171,10 @@
 	var/rigged = 0				// true if rigged to explode
 	var/firealarmed = 0
 	var/atmosalarmed = 0
+
+//	var/obj/machinery/light/invisible_light/xeno/xeno_light = null
 // the smaller bulb light fixture
+
 
 /obj/machinery/light/floor
 	name = "floorlight fixture"
@@ -237,6 +240,9 @@
 					broken(1)
 		spawn(1)
 			update(0)
+
+//	if (!istype(src, /obj/machinery/light/invisible_light)) //prevent horrible infinite loop
+	//	xeno_light = new(src)
 
 /obj/machinery/light/Destroy()
 	var/area/A = get_area(src)
@@ -777,3 +783,31 @@
 		sharp = 1
 		playsound(src.loc, 'sound/effects/Glasshit.ogg', 75, 1)
 		update()
+
+
+//INVISIBLE LIGHTS
+
+/obj/machinery/light/invisible_light
+	name = null
+	icon = null
+	base_state = null		// base description and icon_state
+	icon_state = null
+	desc = null
+	use_power = 0
+	idle_power_usage = 0
+	active_power_usage = 0
+	on = 1					// 1 if on, 0 if off
+
+/obj/machinery/light/invisible_light/New(var/obj/machinery/light/parent)
+	..()
+	brightness_range = parent.brightness_range
+	brightness_power = parent.brightness_power
+	brightness_color = parent.brightness_color
+	loc = get_turf(parent)
+
+/obj/machinery/light/invisible_light/xeno
+	xeno = TRUE
+
+/obj/machinery/light/invisible_light/xeno/New(var/obj/machinery/light/parent)
+	..(parent)
+	brightness_color = "#FF0000"

@@ -12,7 +12,7 @@
 	var/adult_form
 	var/dead_icon
 	var/amount_grown = 0
-	var/max_grown = 1300
+	var/max_grown = 500
 	var/time_of_birth
 	var/language
 	var/death_msg = "lets out a waning guttural screech, green blood bubbling from its maw."
@@ -21,6 +21,8 @@
 
 	var/got_evolution_message = FALSE
 
+	var/number = "-1"
+
 /mob/living/carbon/alien/New()
 
 	time_of_birth = world.time
@@ -28,11 +30,9 @@
 	verbs += /mob/living/proc/ventcrawl
 	verbs += /mob/living/proc/hide
 
-	name = "[initial(name)] ([rand(1, 1000)])"
+	number = "[rand(1, 1000)]"
 	real_name = name
 	regenerate_icons()
-
-	max_grown = pick(1000,1100,1200,1300,1400,1500)
 
 	if(language)
 		add_language(language)
@@ -42,6 +42,11 @@
 	alien_list += src
 
 	..()
+
+	spawn (pick(65,75))
+		if (alien_list.len == 1 || alien_list.len == 2)
+			max_grown /= (alien_list.len == 1 ? 3 : 2)
+			src << "<span class = 'alium'>Due to a lack of sisters, your evolution has been sped up.</span>"
 
 /mob/living/carbon/alien/u_equip(obj/item/W as obj)
 	return

@@ -28,6 +28,8 @@
 	var/destroyed
 	var/force_update
 
+	var/xeno = FALSE
+
 /datum/light_source/New(atom/owner, atom/top)
 	source_atom = owner
 	if(!source_atom.light_sources) source_atom.light_sources = list()
@@ -156,6 +158,8 @@
 	if(istype(source_turf))
 		FOR_DVIEW(var/turf/T, light_range, source_turf, INVISIBILITY_LIGHTING)
 			if(T.lighting_overlay)
+				if (xeno)
+					T.lighting_overlay.xeno = TRUE
 				var/strength
 				LUM_FALLOFF(strength, T, source_turf)
 				strength *= light_power
@@ -191,10 +195,12 @@
 			T.affecting_lights -= src
 
 		if(T.lighting_overlay)
+			if (xeno)
+				T.lighting_overlay.xeno = TRUE
 			var/str = effect_str[i]
 			T.lighting_overlay.update_lumcount(
-				-str * applied_lum_r, 
-				-str * applied_lum_g, 
+				-str * applied_lum_r,
+				-str * applied_lum_g,
 				-str * applied_lum_b
 			)
 
@@ -215,6 +221,8 @@
 	var/list/new_turfs = view - effect_turf //This will result with all the tiles that are added.
 	for(var/turf/T in new_turfs)
 		if(T.lighting_overlay)
+			if (xeno)
+				T.lighting_overlay.xeno = TRUE
 			LUM_FALLOFF(., T, source_turf)
 			. *= light_power
 
@@ -248,6 +256,8 @@
 			T.affecting_lights -= src
 
 		if(T.lighting_overlay)
+			if (xeno)
+				T.lighting_overlay.xeno = TRUE
 			var/str = effect_str[idx]
 			T.lighting_overlay.update_lumcount(-str * applied_lum_r, -str * applied_lum_g, -str * applied_lum_b)
 
@@ -255,7 +265,7 @@
 		effect_str.Cut(idx, idx + 1)
 
 //Whoop yet not another copy pasta because speed ~~~~BYOND.
-//Calculates and applies lighting for a single turf. This is intended for when a turf switches to 
+//Calculates and applies lighting for a single turf. This is intended for when a turf switches to
 //using dynamic lighting when it was not doing so previously (when constructing a floor on space, for example).
 //Assumes the turf is visible and such.
 //For the love of god don't call this proc when it's not needed! Lighting artifacts WILL happen!
@@ -265,6 +275,8 @@
 		return	//WHY.
 
 	if(T.lighting_overlay)
+		if (xeno)
+			T.lighting_overlay.xeno = TRUE
 	  #if LIGHTING_FALLOFF == 1 // circular
 		. = (T.lighting_overlay.x - source_turf.x)**2 + (T.lighting_overlay.y - source_turf.y)**2 + LIGHTING_HEIGHT
 	   #if LIGHTING_LAMBERTIAN == 1

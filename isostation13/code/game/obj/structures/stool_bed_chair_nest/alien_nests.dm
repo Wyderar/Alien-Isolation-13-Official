@@ -8,6 +8,7 @@
 	icon_state = "nest"
 	var/health = 100
 
+
 /obj/structure/bed/nest/New()
 	..()
 

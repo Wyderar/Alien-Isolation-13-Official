@@ -422,6 +422,10 @@
 	return attack_hand(user)
 
 /obj/machinery/vending/attack_hand(mob/user as mob)
+	if (ishumanoidalien(user))
+		user << "<span class = 'alium'>You do not know how to use this machine.</span>"
+		return FALSE
+
 	if(stat & (BROKEN|NOPOWER))
 		return
 
@@ -431,6 +435,8 @@
 
 	wires.Interact(user)
 	ui_interact(user)
+
+	return TRUE
 
 /**
  *  Display the NanoUI window for the vending machine.

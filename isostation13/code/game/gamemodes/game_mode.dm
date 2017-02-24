@@ -307,6 +307,19 @@ var/global/list/additional_antag_types = list()
 			if(isghost(M))
 				ghosts++
 
+	if (locate(/datum/antagonist/xenos) in antag_tags)
+		for (var/datum/antagonist/xenos/xeno in antag_tags)
+			if (istype(xeno))
+				for (var/datum/mind/mind in xeno.current_antagonists)
+					var/mob/M = mind.current
+					if(M.stat != DEAD)
+						surviving_total--
+						if(M.loc && M.loc.loc && M.loc.loc.type in escape_locations)
+							escaped_total--
+
+					if(isghost(M))
+						ghosts--
+
 	var/text = "<font size = 3>"
 	if(surviving_total > 0)
 		text += "<br>There [surviving_total>1 ? "were <b>[surviving_total] survivors</b>" : "was <b>one survivor</b>"]"

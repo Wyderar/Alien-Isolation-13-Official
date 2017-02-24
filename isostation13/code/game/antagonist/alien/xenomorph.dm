@@ -51,9 +51,6 @@ var/list/xenomorph_occupied_vents = list()
 
 /datum/antagonist/xenos/antags_are_dead()
 
-	if (prob(98)) //This means that if the only xeno crashes, he'll have to be logged out for 50 or so ticks before roundend
-		return FALSE
-
 	var/to_return = TRUE
 
 
@@ -63,14 +60,15 @@ var/list/xenomorph_occupied_vents = list()
 			++alive_humans
 
 	if (alive_humans == 0)
-		return TRUE
+		return TRUE //always end immediately if no humans are alive.
 
 
 	for (var/datum/mind/antag in current_antagonists)
 		if (!antag.current)
 			continue
 		if(!antag.current.client)
-			continue
+			if (prob(1)) //don't count them as dead until a few minutes
+				continue
 		if (!isalien(antag.current))
 			continue
 		if(antag.current.stat==2)

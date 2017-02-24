@@ -12,7 +12,8 @@ var/list/global_huds = list(
 		global_hud.nvg,
 		global_hud.thermal,
 		global_hud.meson,
-		global_hud.infrared_overlay,
+		global_hud.xeno_vision_thermal,
+		global_hud.xeno_vision_cover,
 		global_hud.science)
 
 /*
@@ -29,15 +30,16 @@ var/list/global_huds = list(
 	var/obj/screen/nvg
 	var/obj/screen/thermal
 	var/obj/screen/meson
-	var/obj/screen/infrared_overlay
+	var/obj/screen/xeno_vision_thermal
+	var/obj/screen/xeno_vision_cover
 	var/obj/screen/science
 
-/datum/global_hud/proc/setup_overlay(var/icon_state)
+/datum/global_hud/proc/setup_overlay(var/icon_state, var/optional_layer)
 	var/obj/screen/screen = new /obj/screen()
 	screen.screen_loc = "1,1"
 	screen.icon = 'icons/obj/hud_full.dmi'
 	screen.icon_state = icon_state
-	screen.layer = SCREEN_LAYER
+	screen.layer = optional_layer ? optional_layer : SCREEN_LAYER
 	screen.mouse_opacity = 0
 
 	return screen
@@ -58,16 +60,12 @@ var/list/global_huds = list(
 	blurry.layer = 17
 	blurry.mouse_opacity = 0
 
-	infrared_overlay = new /obj/screen()
-	infrared_overlay.screen_loc = ui_entire_screen
-	infrared_overlay.icon_state = "infrared"
-	infrared_overlay.layer = 17
-	infrared_overlay.mouse_opacity = 0
-
 	nvg = setup_overlay("nvg_hud")
 	thermal = setup_overlay("thermal_hud")
 	meson = setup_overlay("meson_hud")
 	science = setup_overlay("science_hud")
+	xeno_vision_thermal = setup_overlay("xeno_vision_thermal_hud", 17)
+	xeno_vision_cover = setup_overlay("xeno_vision_cover_hud", 17.1)
 
 	var/obj/screen/O
 	var/i

@@ -570,6 +570,7 @@
 #include "code\game\mob\living\living_resist.dm"
 #include "code\game\mob\living\living_rest.dm"
 #include "code\game\mob\living\living_say.dm"
+#include "code\game\mob\living\living_vision.dm"
 #include "code\game\mob\living\login.dm"
 #include "code\game\mob\living\logout.dm"
 #include "code\game\mob\living\bot\bot.dm"

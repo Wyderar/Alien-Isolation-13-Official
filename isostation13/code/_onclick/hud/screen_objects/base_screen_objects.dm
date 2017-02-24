@@ -895,22 +895,6 @@
 	if (parentmob.druggy)
 		underlays += global_hud.druggy
 
-/obj/screen/infraredoverlay
-	icon = 'icons/mob/screen1_full.dmi'
-	icon_state = "blank"
-	name = "infrared"
-	screen_loc = "WEST,SOUTH to EAST,NORTH"
-	mouse_opacity = 0
-	process_flag = 1
-	layer = 18.1
-
-/obj/screen/infraredoverlay/process()
-	update_icon()
-
-/obj/screen/infraredoverlay/update_icon()
-	underlays.Cut()
-	underlays += global_hud.infrared_overlay
-
 /obj/screen/damageoverlay
 	icon = 'icons/mob/screen1_full.dmi'
 	icon_state = "oxydamageoverlay0"

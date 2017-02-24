@@ -19,8 +19,8 @@
 
 	eyes = "blank_eyes"
 
-	brute_mod = 0.2
-	burn_mod = 0.45
+	brute_mod = 0.3
+	burn_mod = 0.4
 	stun_mod = 0.01
 	agony_mod = 0.01
 
@@ -143,7 +143,7 @@
 
 	delays["tear girder"] = -1
 
-	H.verbs += /mob/living/carbon/proc/sense_hive
+	H.verbs += /mob/living/carbon/proc/Sense_Hive
 
 	..()
 
@@ -193,7 +193,7 @@
 		/mob/living/carbon/human/proc/headbite,
 		/mob/living/carbon/human/proc/leap,
 		/mob/living/carbon/human/proc/psychic_whisper,
-		/mob/living/carbon/human/proc/neurotoxin,
+	//	/mob/living/carbon/human/proc/neurotoxin,
 		///mob/living/carbon/human/proc/lay_egg,
 		/mob/living/carbon/human/proc/transfer_plasma,
 	//	/mob/living/carbon/human/proc/xeno_infest,
@@ -354,9 +354,12 @@
 	//no species.handle_vision()
 
 	H.sight = SEE_MOBS|SEE_TURFS|SEE_OBJS|SEE_SELF
-	H.see_invisible = SEE_INVISIBLE_LIVING
+	H.see_invisible = SEE_INVISIBLE_NOLIGHTING
 
 	if (H.client)
+
+		H.client.screen |= global_hud.xeno_vision_thermal
+		H.client.screen |= global_hud.xeno_vision_cover
 
 
 	//	H.client.view = ceil(world.view / 2)

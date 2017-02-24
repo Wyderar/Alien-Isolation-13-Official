@@ -19,6 +19,9 @@
 	//Status updates, death etc.
 	update_icons()
 
+	//make their screen red.
+	handle_vision()
+
 /mob/living/carbon/alien/proc/can_progress()
 	return TRUE
 

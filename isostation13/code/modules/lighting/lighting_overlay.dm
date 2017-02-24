@@ -16,7 +16,12 @@
 
 	var/needs_update
 
+	xeno = FALSE
+
+
 /atom/movable/lighting_overlay/New()
+	if (xeno)
+		invisibility = INVISIBILITY_XLIGHTING
 	. = ..()
 	verbs.Cut()
 
@@ -24,6 +29,8 @@
 	T.luminosity = 0
 
 /atom/movable/lighting_overlay/proc/update_lumcount(delta_r, delta_g, delta_b)
+	if (xeno)
+		invisibility = INVISIBILITY_XLIGHTING
 	if(!delta_r && !delta_g && !delta_b) //Nothing is being changed all together.
 		return
 
@@ -51,7 +58,10 @@
 		needs_update = 1
 		lighting_update_overlays += src
 
+
 /atom/movable/lighting_overlay/proc/update_overlay()
+	if (xeno)
+		invisibility = INVISIBILITY_XLIGHTING
 	var/turf/T = loc
 
 	if(istype(T)) //Incase we're not on a turf, pool ourselves, something happened.
@@ -92,11 +102,14 @@
 
 	needs_update = 0
 
+	if (xeno)
+		invisibility = INVISIBILITY_XLIGHTING
+
 /atom/movable/lighting_overlay/Destroy()
 	lighting_update_overlays -= src
 
 	var/turf/T = loc
 	if(istype(T))
 		T.lighting_overlay = null
-	
+
 	..()

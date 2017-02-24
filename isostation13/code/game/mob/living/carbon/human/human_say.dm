@@ -1,4 +1,8 @@
 /mob/living/carbon/human/say(var/message)
+	if (istype(wear_mask, /obj/item/clothing/mask/facehugger))
+		visible_message("\red [src] tries to speak, but can't say a word!")
+		return FALSE
+
 	var/alt_name = ""
 	if(name != rank_prefix_name(GetVoice()))
 		alt_name = "(as [rank_prefix_name(get_id_name())])"

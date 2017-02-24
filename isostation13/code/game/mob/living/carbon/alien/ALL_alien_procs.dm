@@ -1,4 +1,4 @@
-/mob/living/carbon/proc/sense_hive()
+/mob/living/carbon/proc/Sense_Hive()
 
 	set category = "Abilities"
 
@@ -7,6 +7,8 @@
 		var/n = 0
 		for (var/mob/m in alien_list)
 			if (m == src)
+				continue
+			if (!m.client)
 				continue
 			++n
 			switch (m.stat)
@@ -24,4 +26,10 @@
 /proc/alien_message(t)
 	for (var/mob/m in alien_list)
 		if (m.client)
-			m << "<span class = \"alium\">[t]</span>"
+			if (m.stat == CONSCIOUS)
+				m << "<span class = 'alium'>[t]</span>"
+			else if (m.stat == UNCONSCIOUS)
+				if (prob(50))
+					m << "<span class = 'alium'>[t]</span>"
+				else
+					m << "<span class = 'alium'>You almost hear something over the hivemind...</span>"
