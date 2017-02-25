@@ -9,7 +9,7 @@
 /var/list/view_variables_no_assoc = list("verbs", "contents","screen","images")
 
 // Acceptable 'in world', as VV would be incredibly hampered otherwise
-/client/proc/debug_variables(datum/D in world - basic_mob_list)
+/client/proc/debug_variables(datum/D in world)//world - basic_mob_list.mobs?
 	set category = "Debug"
 	set name = "View Variables"
 

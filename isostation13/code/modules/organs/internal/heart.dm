@@ -49,6 +49,8 @@
 		return
 	if(owner.stat == DEAD && owner.bodytemperature >= 170)	//Dead or cryosleep people do not pump the blood.
 		return
+	if (ishumanoidalien(owner))
+		return
 
 	var/blood_volume_raw = owner.vessel.get_reagent_amount("blood")
 	var/blood_volume = round((blood_volume_raw/species.blood_volume)*100) // Percentage.

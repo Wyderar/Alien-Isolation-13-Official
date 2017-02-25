@@ -26,6 +26,7 @@
 	..()
 
 /datum/species/xenos/proc/regenerate(var/mob/living/carbon/human/H)
+	H.nutrition = min(H.nutrition + 10, 1000)
 	var/heal_rate = weeds_heal_rate
 	var/mend_prob = 10
 
@@ -58,5 +59,7 @@
 				if (E.mend_fracture())
 					H << "<span class='alium'>You feel something mend itself inside your [E.name].</span>"
 			return TRUE
+
+
 
 	return FALSE

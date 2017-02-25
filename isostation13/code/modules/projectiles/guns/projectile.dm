@@ -66,6 +66,7 @@
 
 	if (chambered)
 		return chambered.BB
+
 	return null
 
 /obj/item/weapon/gun/projectile/handle_post_fire()
