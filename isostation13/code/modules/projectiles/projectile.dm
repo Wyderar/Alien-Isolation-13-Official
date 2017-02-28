@@ -332,11 +332,11 @@
 		offset = rand(-radius, radius)
 
 	// plot the initial trajectory
-	trajectory = new()
+	trajectory = ticker.math_pool.get("plot_vector")
 	trajectory.setup(starting, original, pixel_x, pixel_y, angle_offset=offset)
 
 	// generate this now since all visual effects the projectile makes can use it
-	effect_transform = new()
+	effect_transform = ticker.math_pool.get("matrix")
 	effect_transform.Scale(trajectory.return_hypotenuse(), 1)
 	effect_transform.Turn(-trajectory.return_angle())		//no idea why this has to be inverted, but it works
 

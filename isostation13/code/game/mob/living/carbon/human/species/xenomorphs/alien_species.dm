@@ -16,6 +16,7 @@
 	can_pick_up_stuff = FALSE
 	siemens_coefficient = 0
 	gluttonous = GLUT_ANYTHING
+	hunger_factor = 0
 
 	eyes = "blank_eyes"
 
@@ -206,6 +207,102 @@
 	H.real_name = "Xenomorph ([alien_number])"
 	H.name = H.real_name
 	alien_list += H
+
+	if (!istype(src, /datum/species/xenos/new_xeno/alpha) && !istype(src, /datum/species/xenos/new_xeno/queen))
+		for (var/mob/living/carbon/human/HH in alien_list)
+			if (!istype(HH.species, /datum/species/xenos/new_xeno/alpha))
+				if (prob(15))
+					H.species = new/datum/species/xenos/new_xeno/alpha
+					spawn (15)
+						H << "<span class = 'alium'><font size = 2>You are the Alpha Xenomorph.</font></span>"
+				return
+
+/datum/species/xenos/new_xeno/alpha
+	name = "Alpha Xenomorph"
+	caste_name = "Alpha"
+	weeds_plasma_rate = 25
+	brute_mod = 0.1
+	burn_mod = 0.15
+	unarmed_types = list(/datum/unarmed_attack/claws/strongest, /datum/unarmed_attack/bite/strong)
+	icobase = 'icons/mob/human_races/xenos/r_xenos_drone.dmi'
+	deform =  'icons/mob/human_races/xenos/r_xenos_drone.dmi'
+	icon_template = 'icons/mob/alien_alpha.dmi'
+	forced_stand_icon_state = "base_s"
+	forced_rest_icon_state = "base_l"
+	forced_dead_icon_state = "base_d"
+
+	inherent_verbs = list(
+		/mob/living/proc/ventcrawl,
+		/mob/living/carbon/human/proc/regurgitate,
+		/mob/living/carbon/human/proc/plant,
+		/mob/living/carbon/human/proc/transfer_plasma,
+		/mob/living/carbon/human/proc/tear_girder,
+	//	/mob/living/carbon/human/proc/evolve,
+	//	/mob/living/carbon/human/proc/resin,
+		/mob/living/carbon/human/proc/make_nest,
+		/mob/living/carbon/human/proc/make_cocoon,
+		/mob/living/carbon/human/proc/corrosive_acid,
+	//	/mob/living/carbon/human/proc/tackle,
+		/mob/living/carbon/human/proc/headbite,
+		/mob/living/carbon/human/proc/leap,
+		/mob/living/carbon/human/proc/psychic_whisper,
+	//	/mob/living/carbon/human/proc/neurotoxin,
+		///mob/living/carbon/human/proc/lay_egg,
+		/mob/living/carbon/human/proc/transfer_plasma,
+	//	/mob/living/carbon/human/proc/xeno_infest,
+		/mob/living/carbon/human/proc/prydoor,
+		/mob/living/carbon/human/proc/impale
+
+		)
+
+
+/datum/species/xenos/new_xeno/alpha/handle_post_spawn(var/mob/living/carbon/human/H)
+	..()
+	H.real_name = "Alpha Xenomorph"
+	H.name = H.real_name
+
+/datum/species/xenos/new_xeno/queen
+	name = "Xenomorph Queen"
+	caste_name = "Alpha"
+	weeds_plasma_rate = 25
+	brute_mod = 0.1
+	burn_mod = 0.15
+	unarmed_types = list(/datum/unarmed_attack/claws/stronger, /datum/unarmed_attack/bite/strong)
+	icobase = 'icons/mob/human_races/xenos/r_xenos_drone.dmi'
+	deform =  'icons/mob/human_races/xenos/r_xenos_drone.dmi'
+	icon_template = 'icons/mob/alien_queen.dmi'
+	forced_stand_icon_state = "queen_s"
+	forced_rest_icon_state = "queen_sleep"
+	forced_dead_icon_state = "queen_dead"
+
+	inherent_verbs = list(
+		/mob/living/proc/ventcrawl,
+		/mob/living/carbon/human/proc/regurgitate,
+		/mob/living/carbon/human/proc/plant,
+		/mob/living/carbon/human/proc/transfer_plasma,
+		/mob/living/carbon/human/proc/tear_girder,
+	//	/mob/living/carbon/human/proc/evolve,
+	//	/mob/living/carbon/human/proc/resin,
+		/mob/living/carbon/human/proc/make_nest,
+		/mob/living/carbon/human/proc/make_cocoon,
+		/mob/living/carbon/human/proc/corrosive_acid,
+	//	/mob/living/carbon/human/proc/tackle,
+		/mob/living/carbon/human/proc/headbite,
+		/mob/living/carbon/human/proc/leap,
+		/mob/living/carbon/human/proc/psychic_whisper,
+	//	/mob/living/carbon/human/proc/neurotoxin,
+		///mob/living/carbon/human/proc/lay_egg,
+		/mob/living/carbon/human/proc/transfer_plasma,
+	//	/mob/living/carbon/human/proc/xeno_infest,
+		/mob/living/carbon/human/proc/prydoor
+		//no impale
+
+		)
+
+/datum/species/xenos/new_xeno/queen/handle_post_spawn(var/mob/living/carbon/human/H)
+	..()
+	H.real_name = "Alien Queen"
+	H.name = H.real_name
 
 //end "new xenos"
 

@@ -53,17 +53,17 @@
 
 		health = max(0, health - damage)
 
-	if(health <= 0)
-		shatter()
-	else
-		if(sound_effect)
-			playsound(loc, 'sound/effects/Glasshit.ogg', 100, 1)
-		if(health < maxhealth / 4 && initialhealth >= maxhealth / 4)
-			visible_message("<span class = 'warning'>[src] looks like it's about to shatter!</span>" )
-		else if(health < maxhealth / 2 && initialhealth >= maxhealth / 2)
-			visible_message("<span class = 'warning'>[src] looks seriously damaged!</span>" )
-		else if(health < maxhealth * 3/4 && initialhealth >= maxhealth * 3/4)
-			visible_message("<span class = 'warning'>Cracks begin to appear in [src]!</span>" )
+		if(health <= 0)
+			shatter()
+		else
+			if(sound_effect)
+				playsound(loc, 'sound/effects/Glasshit.ogg', 100, 1)
+			if(health < maxhealth / 4 && initialhealth >= maxhealth / 4)
+				visible_message("<span class = 'warning'>[src] looks like it's about to shatter!</span>" )
+			else if(health < maxhealth / 2 && initialhealth >= maxhealth / 2)
+				visible_message("<span class = 'warning'>[src] looks seriously damaged!</span>" )
+			else if(health < maxhealth * 3/4 && initialhealth >= maxhealth * 3/4)
+				visible_message("<span class = 'warning'>Cracks begin to appear in [src]!</span>" )
 	return
 
 /obj/structure/window/proc/apply_silicate(var/amount)
@@ -85,21 +85,22 @@
 	overlays += img
 
 /obj/structure/window/proc/shatter(var/display_message = 1)
-	playsound(src, "shatter", 70, 1)
-	if(display_message)
-		visible_message("[src] shatters!")
-	if(dir == SOUTHWEST)
-		var/index = null
-		index = 0
-		while(index < 2)
+	if (!is_exterior() || !config.impenetrable_station_exterior)
+		playsound(src, "shatter", 70, 1)
+		if(display_message)
+			visible_message("[src] shatters!")
+		if(dir == SOUTHWEST)
+			var/index = null
+			index = 0
+			while(index < 2)
+				new shardtype(loc) //todo pooling?
+				if(reinf) PoolOrNew(/obj/item/stack/rods, loc)
+				index++
+		else
 			new shardtype(loc) //todo pooling?
 			if(reinf) PoolOrNew(/obj/item/stack/rods, loc)
-			index++
-	else
-		new shardtype(loc) //todo pooling?
-		if(reinf) PoolOrNew(/obj/item/stack/rods, loc)
-	qdel(src)
-	return
+		qdel(src)
+		return
 
 
 /obj/structure/window/bullet_act(var/obj/item/projectile/Proj)

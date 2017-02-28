@@ -15,7 +15,7 @@
 	while (TRUE == TRUE)
 		sleep(1)
 		for (var/mob/m in player_list)
-			if (m.client && m.client.pressing_move_key > 0)
+			if (m.client && m.client.pressing_move_key == TRUE)
 				switch (m.dir)
 					if (NORTH)
 						m.client.North(1)
@@ -25,3 +25,4 @@
 						m.client.East(1)
 					if (WEST)
 						m.client.West(1)
+				m.client.pressing_move_key = FALSE

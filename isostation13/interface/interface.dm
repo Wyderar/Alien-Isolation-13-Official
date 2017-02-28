@@ -24,6 +24,19 @@
 		src << "<span class='warning'>The discord URL is not set in the server configuration.</span>"
 	return
 
+/client/verb/github()
+	set name = "github"
+	set desc = "Visit our github."
+	set hidden = 1
+
+	if( config.githuburl )
+		if(alert("This will open the Github in your browser. Are you sure?",,"Yes","No")=="No")
+			return
+		src << link(config.githuburl)
+	else
+		src << "<span class='warning'>The Github URL is not set in the server configuration.</span>"
+	return
+
 #define RULES_FILE "config/rules.html"
 /client/verb/rules()
 	set name = "Rules"

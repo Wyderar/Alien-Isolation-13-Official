@@ -15,14 +15,20 @@
 	var/ticks = 0
 	var/target_strength = 0
 
+/obj/effect/acid/powerful
+	name = "strong acid"
+
 /obj/effect/acid/New(loc, supplied_target)
 	..(loc)
 	target = supplied_target
 
-	if(isturf(target)) // Turf take twice as long to take down.
+	if(isturf(target) && !istype(src, /obj/effect/acid/powerful)) // Turf take twice as long to take down.
 		target_strength = 8
 	else
-		target_strength = 4
+		if (istype(src, /obj/effect/acid/powerful))
+			target_strength = pick(2,3)
+		else
+			target_strength = 4
 	tick()
 
 /obj/effect/acid/proc/tick()

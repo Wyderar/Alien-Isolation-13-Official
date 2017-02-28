@@ -52,6 +52,19 @@
 	P.stored_plasma -= cost
 	return TRUE
 
+/mob/living/carbon/human/proc/deweld()
+	var/obj/machinery/door/airlock/door = locate(/obj/machinery/door/airlock) in get_step(src, src.dir)
+	var/obj/machinery/atmospherics/unary/vent_pump/vent = locate(/obj/machinery/atmospherics/unary/vent_pump) in get_step(src, src.dir)
+
+	if (door && istype(door) || vent && istype(vent))
+		if (do_after(src, 30, door ? door : vent))
+			if (door) //door takes priority
+				door.welded = FALSE
+			else if (vent)
+				vent.welded = FALSE
+
+			visible_message("<span class = 'danger'>[src] unwelds the [door ? "door" : "vent"]</span>", "<span class = 'alium'>You unweld the [door ? "door" : "vent"].</span>")
+
 /mob/living/carbon/human/proc/tear_girder()
 	set name = "Tear Girders"
 	set desc = "Tear apart a wall or girder."
@@ -73,12 +86,12 @@
 
 	if (wall && istype(wall))
 		visible_message("<span class='danger'>[src] furiously scratches against the wall!</span>")
-		if (prob(7))
-			wall.take_damage(rand(20,30))
+		if (prob(4))
+			qdel(wall)
 
 	else if (girder && istype(girder))
 		visible_message("<span class='danger'>[src] furiously scratches against the girder!</span>")
-		if (prob(14))
+		if (prob(7))
 			qdel(girder)
 
 // Free abilities.
@@ -173,6 +186,17 @@
 	set desc = "Drench an object in acid, destroying it over time."
 	set category = "Abilities"
 
+	if (isobj(O))
+		var/obj/obj = O
+		if (obj.is_exterior(src))
+			src << "\red You cannot corrode this."
+			return FALSE
+	else if (isturf(O))
+		var/turf/turf = O
+		if (turf.is_exterior(src))
+			src << "\red You cannot corrode this."
+			return FALSE
+
 	if (incapacitated_any())
 		src << "\red You cannot corrode something in your current state."
 		return
@@ -205,7 +229,7 @@
 		return
 
 	if(check_alien_ability(200,0,"acid gland"))
-		new /obj/effect/acid(get_turf(O), O)
+		new /obj/effect/acid/powerful(get_turf(O), O)
 		visible_message("<span class='alium'><B>[src] vomits globs of vile stuff all over [O]. It begins to sizzle and melt under the bubbling mess of acid!</B></span>")
 
 	return
@@ -352,6 +376,12 @@
 
 	if (find_alien_obj(get_turf(src)))
 		src << "\red There is already something here."
+		return FALSE
+
+	var/obj/machinery/atmospherics/unary/vent_pump/vent = locate(get_turf(src))
+
+	if (vent && istype(vent))
+		src << "\red It would be a real dick move to make that there."
 		return FALSE
 
 	visible_message("<span class='warning'><b>[src] vomits up a thick purple substance and begins to shape it!</b></span>", "<span class='alium'>You shape a nest.</span>")

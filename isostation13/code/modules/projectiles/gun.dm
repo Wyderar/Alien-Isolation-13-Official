@@ -144,10 +144,8 @@
 		PreFire(A,user,params) //They're using the new gun system, locate what they're aiming at.
 		return
 
-	if(user && user.a_intent == I_HELP) //regardless of what happens, refuse to shoot if help intent is on
-		user << "<span class='warning'>You refrain from firing your [src] as your intent is set to help.</span>"
-	else
-		Fire(A,user,params) //Otherwise, fire normally.
+
+	Fire(A,user,params)
 
 /obj/item/weapon/gun/attack(atom/A, mob/living/user, def_zone)
 	if (A == user && user.targeted_organ == "mouth" && !mouthshoot)
@@ -336,7 +334,7 @@
 	mouthshoot = 1
 	M.visible_message("<span class='danger'>[user] sticks their gun in their mouth, ready to pull the trigger...</span>")
 	if(!do_after(user, 40, progress=0))
-		M.visible_message("<span class='notice'>[user] decided life was worth living</span>")
+		M.visible_message("<span class='notice'>[user] decided life was worth living.</span>")
 		mouthshoot = 0
 		return
 	var/obj/item/projectile/in_chamber = consume_next_projectile()

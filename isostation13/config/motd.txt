@@ -1,6 +1,7 @@
-<font size = 3><span style = \"color:purple\">Welcome to <b>Alien Isolation 13</b></span></font>
+<b><font size = 2>Welcome to the Alpha release of AI13, a server themed around Alien Isolation. We have a lot of bugs right now, so don't expect a perfectly bug-free playing experience. You can donate <a href="https://www.paypal.me/KrisCherven">here</a> to help fund our server. PM Cherkir on the discord for more information.</font></b>
 <br>
-
-<b><font size = 2>Please consider donating <a href="https://www.paypal.me/KrisCherven">here</a> so we can replace the current VPS with a less laggy one. We need $40 a month in donations to keep the server stably running. A donation of at least $15 will let you permanently play as a Working Joe. PM Cherkir on the Discord for more information. </font></b>
+<i><font size = 2>This is our <a href="https://github.com/Cherkir/Alien-Isolation-13/issues">Github</a> if you want to contribute or report a bug.</font></i>
 <br>
-<i><font size = 2>Check out our <a href="https://github.com/Cherkir/Alien-Isolation-13/issues">Github</a> if you want to contribute or report a bug.</font></i>
+<i><font size = 2>Check out our <a href="https://discord.gg/9yrKk">Discord</a> to stay up to date on server updates.</font></i>
+<br>
+<i><font size = 2>We would love to have more players, so <b>send your friends this IP for them to join: byond://104.237.2.199:5000</b>. It's the best way to bring in new people.</font></i>

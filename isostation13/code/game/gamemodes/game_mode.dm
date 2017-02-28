@@ -35,6 +35,7 @@ var/global/list/additional_antag_types = list()
 	var/event_delay_mod_moderate             // Modifies the timing of random events.
 	var/event_delay_mod_major                // As above.
 
+	var/aspects = list()
 /datum/game_mode/New()
 	..()
 	// Enforce some formatting.

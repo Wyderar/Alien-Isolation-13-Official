@@ -1009,7 +1009,6 @@ window "mainwindow"
 		size = 640x440
 		anchor1 = none
 		anchor2 = none
-		background-color = none
 		is-default = true
 		saved-params = "pos;size;is-minimized;is-maximized"
 		title = "Alien Isolation 13: ALPHA EDITION"
@@ -1023,7 +1022,6 @@ window "mainwindow"
 		size = 80x20
 		anchor1 = 100,100
 		anchor2 = none
-		background-color = none
 		saved-params = ""
 		text = "Hotkey Toggle"
 		command = ".winset \"mainwindow.macro!=macro ? mainwindow.macro=macro hotkey_toggle.is-checked=false input.focus=true : mainwindow.macro=hotkeymode hotkey_toggle.is-checked=true mapwindow.map.focus=true\""
@@ -1034,7 +1032,6 @@ window "mainwindow"
 		size = 634x416
 		anchor1 = 0,0
 		anchor2 = 100,100
-		background-color = none
 		saved-params = "splitter"
 		right = "rpane"
 		is-vert = true
@@ -1054,7 +1051,6 @@ window "mainwindow"
 		size = 40x20
 		anchor1 = 100,100
 		anchor2 = none
-		background-color = none
 		saved-params = "is-checked"
 		text = "Chat"
 		command = ".winset \"saybutton.is-checked=true?input.command=\"!say \\\"\" macrobutton.is-checked=false:input.command=\""
@@ -1119,6 +1115,7 @@ window "rpane"
 		size = 640x480
 		anchor1 = none
 		anchor2 = none
+		background-color = none
 		saved-params = "pos;size;is-minimized;is-maximized"
 		is-pane = true
 	elem "rpanewindow"
@@ -1127,6 +1124,7 @@ window "rpane"
 		size = 640x499
 		anchor1 = 0,0
 		anchor2 = 100,100
+		background-color = none
 		saved-params = "splitter"
 		right = "outputwindow"
 		is-vert = false
@@ -1136,19 +1134,22 @@ window "rpane"
 		size = 60x16
 		anchor1 = none
 		anchor2 = none
+		background-color = none
 		saved-params = "is-checked"
 		text = "Rules"
 		command = "rules"
 		group = "rpanemode"
-	elem "changelog"
+	elem "github"
 		type = BUTTON
 		pos = 341,0
 		size = 67x16
 		anchor1 = none
 		anchor2 = none
+		text-color = #c0c0c0
+		background-color = #8000ff
 		saved-params = "is-checked"
-		text = "Changelog"
-		command = "Changelog"
+		text = "Github"
+		command = "github"
 		group = "rpanemode"
 	elem "forumb"
 		type = BUTTON
@@ -1156,6 +1157,8 @@ window "rpane"
 		size = 60x16
 		anchor1 = none
 		anchor2 = none
+		text-color = #c0c0c0
+		background-color = #a20051
 		saved-params = "is-checked"
 		text = "Discord"
 		command = "discord"
@@ -1166,6 +1169,7 @@ window "rpane"
 		size = 60x16
 		anchor1 = none
 		anchor2 = none
+		background-color = none
 		saved-params = "is-checked"
 		text = "Wiki"
 		command = "wiki"
@@ -1176,6 +1180,7 @@ window "rpane"
 		size = 60x16
 		anchor1 = none
 		anchor2 = none
+		background-color = none
 		is-visible = false
 		saved-params = "is-checked"
 		text = "Text"
@@ -1189,6 +1194,7 @@ window "rpane"
 		size = 60x16
 		anchor1 = none
 		anchor2 = none
+		background-color = none
 		is-visible = false
 		saved-params = "is-checked"
 		text = "Browser"
@@ -1201,6 +1207,7 @@ window "rpane"
 		size = 60x16
 		anchor1 = none
 		anchor2 = none
+		background-color = none
 		is-visible = false
 		saved-params = "is-checked"
 		text = "Info"
@@ -1211,7 +1218,7 @@ window "rpane"
 window "browserwindow"
 	elem "browserwindow"
 		type = MAIN
-		pos = 281,0
+		pos = 509,0
 		size = 640x480
 		anchor1 = none
 		anchor2 = none
@@ -1233,7 +1240,7 @@ window "browserwindow"
 window "infowindow"
 	elem "infowindow"
 		type = MAIN
-		pos = 281,0
+		pos = 509,0
 		size = 640x480
 		anchor1 = none
 		anchor2 = none

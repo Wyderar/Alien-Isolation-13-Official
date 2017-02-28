@@ -47,6 +47,32 @@
 			O.show_message(text("\red <B>[] [failed ? "tried to tackle" : "has tackled"] down []!</B>", src, T), 1)
 
 
+/mob/living/carbon/human/proc/impale()
+	set category = "Abilities"
+	set name = "Impale"
+	set desc = "Impale a target with your tail."
+
+	if(last_special > world.time)
+		return
+
+	if(incapacitated_any())
+		src << "\red You cannot leap in your current state."
+		return
+
+	var/mob/living/T = locate(/mob/living) in get_step(src, src.dir)
+
+	if(!T) return
+
+	last_special = world.time + pick(50,60)
+
+	src.visible_message("<span class='danger'>[src] impales [T] with their sharp tail!</span>")
+	playsound(src.loc, 'sound/weapons/slash.ogg', 100, 1)
+
+	T.Weaken(10)
+
+	T.apply_damage(rand(25,30), BRUTE, "chest")
+
+	T.emote("scream")
 
 /mob/living/carbon/human/proc/leap()
 	set category = "Abilities"
@@ -82,14 +108,14 @@
 	if(last_special > world.time)
 		return
 
-	last_special = world.time + 75
+	last_special = world.time + 35
 	status_flags |= LEAPING
 
 	src.visible_message("<span class='danger'>\The [src] leaps at [T]!</span>")
 	src.throw_at(get_step(get_turf(T),get_turf(src)), 4, 1, src)
 	playsound(src.loc, 'sound/voice/shriek1.ogg', 50, 1)
 
-	sleep(5)
+	sleep(pick(1,2))
 
 	if(status_flags & LEAPING) status_flags &= ~LEAPING
 
@@ -97,13 +123,13 @@
 		src << "<span class='warning'>You miss!</span>"
 		return
 
-	T.Weaken(3)
+	T.Weaken(rand(5,7))
 
 	// Pariahs are not good at leaping. This is snowflakey, pls fix.
 	if(species.name == "Vox Pariah")
 		src.Weaken(5)
 		return
-/* grabbing was too buggy, removed it - Cherkir
+/* grabbing was too buggy, removed it for now - Cherkir
 	var/use_hand = "left"
 	if(l_hand)
 		if(r_hand)

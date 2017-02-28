@@ -678,6 +678,7 @@
 		M.see(message)
 
 /mob/Stat()
+	sleep(10)
 	..()
 	. = (is_client_active(10 MINUTES))
 

@@ -694,6 +694,10 @@
 //		return
 	if(!user)
 		return
+
+	if (isalien(user))
+		return
+
 	src.add_fingerprint(user)
 
 	//Human mob special interaction goes here.

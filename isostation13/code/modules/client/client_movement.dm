@@ -241,9 +241,7 @@
 	if (!auto)
 		if (mob)
 			mob.dir = NORTH
-			pressing_move_key++
-			spawn (4)
-				pressing_move_key--
+			pressing_move_key = TRUE
 			return
 	..()
 
@@ -254,9 +252,7 @@
 	if (!auto)
 		if (mob)
 			mob.dir = SOUTH
-			pressing_move_key++
-			spawn (4)
-				pressing_move_key--
+			pressing_move_key = TRUE
 			return
 	..()
 
@@ -267,9 +263,7 @@
 	if (!auto)
 		if (mob)
 			mob.dir = WEST
-			pressing_move_key++
-			spawn (4)
-				pressing_move_key--
+			pressing_move_key = TRUE
 			return
 	..()
 
@@ -280,9 +274,7 @@
 	if (!auto)
 		if (mob)
 			mob.dir = EAST
-			pressing_move_key++
-			spawn (4)
-				pressing_move_key--
+			pressing_move_key = TRUE
 			return
 	..()
 

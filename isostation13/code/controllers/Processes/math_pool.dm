@@ -7,7 +7,7 @@
 		..()
 		world << "<b><span style = \"color:red\">Generating pooled datums...</span></b>"
 		var/init_time = world.time
-		for (var/i in 1 to 100)
+		for (var/i in 1 to 5000)
 			plot_vectors += new/datum/plot_vector()
 			vector_locs += new/datum/vector_loc()
 			matrices += new/matrix()
@@ -23,22 +23,25 @@
 				plot_vectors -= x
 				if (x == null)
 					x = new/datum/plot_vector()
-				spawn (50)
-					plot_vectors += new/datum/plot_vector()
+				if (plot_vectors.len < 100)
+					spawn (50)
+						plot_vectors += new/datum/plot_vector()
 				return x
 			if ("vector_locs")
 				var/x = pick(vector_locs)
 				if (x == null)
 					x = new/datum/vector_loc()
 				vector_locs -= x
-				spawn (50)
-					vector_locs += new/datum/vector_loc()
+				if (vector_locs.len < 100)
+					spawn (50)
+						vector_locs += new/datum/vector_loc()
 				return x
 			if ("matrix")
 				var/x = pick(matrices)
 				matrices -= x
 				if (x == null)
 					x = new/matrix()
-				spawn (50)
-					matrices += new/matrix()
+				if (matrices.len < 100)
+					spawn (50)
+						matrices += new/matrix()
 				return x

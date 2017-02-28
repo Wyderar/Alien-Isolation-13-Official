@@ -91,7 +91,7 @@
 						no_dense_atoms = 0
 
 				if (no_dense_atoms)
-					var/obj/o = new/obj/structure/alien/weed(the_turf, old_d)
+					var/obj/o = depool_weed(the_turf, old_d)
 
 					o.layer = the_turf.layer + 0.001//just above the floor
 

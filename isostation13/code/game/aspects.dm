@@ -1,27 +1,26 @@
 var/global/list/aspects = list()
 
 /datum/aspect
-	var/datum/game_mode/assigned_mode = null
 
-
-	New(mode)
-		..()
-		assigned_mode = mode
-		global.aspects += src
-
-	proc/begin()
+	proc/begin() //happens at roundstart or later
 		return
 
-/datum/aspect/xeno/rogue_command
-
-	New(mode)
-		if (istype(mode, /datum/game_mode/xeno))
-			..(mode)
-		else
-			qdel(src)
+/datum/aspect/xeno/donors_always_get_WJ()
 
 	begin()
-		for (var/mob/living/carbon/human/H in player_list)
-			if (H.client && H.stat == CONSCIOUS)
-				if (H.mind.assigned_role in command_positions)
-					return //to be continued
+		//change the settings of the WJ antag-tag?
+
+/datum/aspect/xeno/anyone_can_be_WJ()
+
+	begin()
+		//change the settings of the WJ antag-tag?
+
+/datum/aspect/xeno/WJs_are_always_rogue()
+	var/loyalty = "Command"
+
+	New(new_loyalty)
+		..()
+		loyalty = new_loyalty
+
+	begin()
+		return

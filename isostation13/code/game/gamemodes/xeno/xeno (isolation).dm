@@ -1,7 +1,7 @@
-/datum/game_mode/xeno
+/datum/game_mode/xeno/isolation
 	name = "Xenomorph"
-	round_description = "There is a xenomorphic alien loose on the station. Stop it at all costs!"
-	extended_round_description = "There is a xenomorphic alien loose on the station. Stop it at all costs!"
+	round_description = "A terrible monster has taken over the CEV Eris. You must survive."
+	extended_round_description = "A terrible monster has taken over the CEV Eris. You must survive."
 	config_tag = "xeno"
 	required_players = 1
 	required_enemies = 1
@@ -12,11 +12,32 @@
 //	antag_templates = list(MODE_WORKING_JOE)
 	antag_tags = list(MODE_XENOMORPH, MODE_WORKING_JOE)
 
+
+
 	New()
 		..()
 		if (!config.debug_mode_on)
 			required_players = 2
 		shuttle_delay = pick(6,7)
+
+		aspects += new/datum/aspect/anyone_can_be_WJ() //allow all players to play as a working joe
+		aspects += new/datum/aspect/donors_always_get_WJ()
+
+		if (prob(50))//1/2 chance
+			aspects += new/datum/aspect/WJs_are_always_rogue(pick("command", "command", "command-traitor"))
+		else
+			if (prob(25))//1/8 chance
+				aspects += new/datum/aspect/WJs_are_sometimes_rogue(pick("command", "command", "command-traitor"))
+			//otherwise, 37.5% chance, no WJs are rogue
+
+		aspects += new/datum/aspect/some_broken_lights() //some broken lights
+
+		aspects += new/datum/aspect/minimized_job_amounts("security", "command", "engineering")
+		//less com
+		aspects += new/datum/aspect/random_materials_in_maint()
+
+		aspects += new/datum/aspects/few_deadly_xenos()
+
 
 
 /datum/game_mode/xeno/declare_completion()

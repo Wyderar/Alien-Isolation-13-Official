@@ -49,7 +49,7 @@
 #define MODE_MALFUNCTION "malf"
 #define MODE_TRAITOR "traitor"
 #define MODE_WORKING_JOE "workingjoe"
-
+#define MODE_IH_RAIDER "ih_raider"
 #define DEFAULT_TELECRYSTAL_AMOUNT 25
 
 /////////////////
