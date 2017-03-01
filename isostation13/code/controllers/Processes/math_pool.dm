@@ -27,7 +27,7 @@
 					spawn (50)
 						plot_vectors += new/datum/plot_vector()
 				return x
-			if ("vector_locs")
+			if ("vector_loc")
 				var/x = pick(vector_locs)
 				if (x == null)
 					x = new/datum/vector_loc()

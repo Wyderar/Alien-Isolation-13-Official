@@ -198,7 +198,8 @@
 		///mob/living/carbon/human/proc/lay_egg,
 		/mob/living/carbon/human/proc/transfer_plasma,
 	//	/mob/living/carbon/human/proc/xeno_infest,
-		/mob/living/carbon/human/proc/prydoor
+		/mob/living/carbon/human/proc/prydoor,
+		/mob/living/carbon/human/proc/deweld
 		)
 
 
@@ -211,10 +212,10 @@
 	if (!istype(src, /datum/species/xenos/new_xeno/alpha) && !istype(src, /datum/species/xenos/new_xeno/queen))
 		for (var/mob/living/carbon/human/HH in alien_list)
 			if (!istype(HH.species, /datum/species/xenos/new_xeno/alpha))
-				if (prob(15))
-					H.species = new/datum/species/xenos/new_xeno/alpha
+				if (prob(15) || config.debug_mode_on)
 					spawn (15)
 						H << "<span class = 'alium'><font size = 2>You are the Alpha Xenomorph.</font></span>"
+						H.set_species("Alpha Xenomorph")
 				return
 
 /datum/species/xenos/new_xeno/alpha
@@ -251,8 +252,8 @@
 		/mob/living/carbon/human/proc/transfer_plasma,
 	//	/mob/living/carbon/human/proc/xeno_infest,
 		/mob/living/carbon/human/proc/prydoor,
-		/mob/living/carbon/human/proc/impale
-
+		/mob/living/carbon/human/proc/impale,
+		/mob/living/carbon/human/proc/deweld
 		)
 
 
@@ -294,7 +295,8 @@
 		///mob/living/carbon/human/proc/lay_egg,
 		/mob/living/carbon/human/proc/transfer_plasma,
 	//	/mob/living/carbon/human/proc/xeno_infest,
-		/mob/living/carbon/human/proc/prydoor
+		/mob/living/carbon/human/proc/prydoor,
+		/mob/living/carbon/human/proc/deweld
 		//no impale
 
 		)

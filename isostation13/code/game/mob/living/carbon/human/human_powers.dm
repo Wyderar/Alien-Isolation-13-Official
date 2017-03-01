@@ -56,7 +56,7 @@
 		return
 
 	if(incapacitated_any())
-		src << "\red You cannot leap in your current state."
+		src << "\red You cannot impale anyone in your current state."
 		return
 
 	var/mob/living/T = locate(/mob/living) in get_step(src, src.dir)

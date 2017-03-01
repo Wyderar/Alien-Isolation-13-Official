@@ -53,10 +53,17 @@
 	return TRUE
 
 /mob/living/carbon/human/proc/deweld()
+	set name = "Deweld"
+	set desc = "Unweld an airlock or vent."
+	set category = "Abilities"
+
 	var/obj/machinery/door/airlock/door = locate(/obj/machinery/door/airlock) in get_step(src, src.dir)
 	var/obj/machinery/atmospherics/unary/vent_pump/vent = locate(/obj/machinery/atmospherics/unary/vent_pump) in get_step(src, src.dir)
 
 	if (door && istype(door) || vent && istype(vent))
+
+		visible_message("<span class = 'danger'>[src] starts to unweld the [door ? "door" : "vent"]</span>", "<span class = 'alium'>You start to unweld the [door ? "door" : "vent"].</span>")
+
 		if (do_after(src, 30, door ? door : vent))
 			if (door) //door takes priority
 				door.welded = FALSE
@@ -83,6 +90,12 @@
 
 	var/obj/structure/girder/girder = locate() in get_step(src, src.dir)
 	var/turf/simulated/wall/wall = get_step(src, src.dir)
+
+	if (girder && istype(girder) && girder.is_exterior(src))
+		return
+
+	if (wall && istype(wall) && wall.is_exterior(src))
+		return
 
 	if (wall && istype(wall))
 		visible_message("<span class='danger'>[src] furiously scratches against the wall!</span>")
@@ -378,7 +391,7 @@
 		src << "\red There is already something here."
 		return FALSE
 
-	var/obj/machinery/atmospherics/unary/vent_pump/vent = locate(get_turf(src))
+	var/obj/machinery/atmospherics/unary/vent_pump/vent = locate(/obj/machinery/atmospherics/unary/vent_pump) in get_turf(src)
 
 	if (vent && istype(vent))
 		src << "\red It would be a real dick move to make that there."

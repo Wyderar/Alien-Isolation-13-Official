@@ -1,3 +1,4 @@
+var/global/last_movement_loop = -1
 
 /datum/controller/process/movement/setup()
 	name = "movement"
@@ -13,6 +14,10 @@
 /proc/movement_loop()
 	set background = 1
 	while (TRUE == TRUE)
+		if (config.debug_mode_on)
+			world << "movement loop"
+		last_movement_loop = world.realtime //this is here so that when restarting the loop, it happens immediately
+		//and only once
 		sleep(1)
 		for (var/mob/m in player_list)
 			if (m.client && m.client.pressing_move_key == TRUE)

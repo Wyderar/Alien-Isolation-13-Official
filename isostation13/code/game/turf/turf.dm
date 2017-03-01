@@ -46,7 +46,7 @@
 	if (m && istype(m.loc, /turf/space))
 		return FALSE
 	for (var/turf/t in orange(1, src))
-		if (istype(t, /turf/space) || t.is_space_turf())
+		if (istype(t, /turf/space) || t.is_space_turf() || istype(t, /turf/simulated/floor/hull))
 			return TRUE
 	return FALSE
 

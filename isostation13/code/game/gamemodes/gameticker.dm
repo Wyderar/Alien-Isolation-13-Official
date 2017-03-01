@@ -41,6 +41,7 @@ var/global/datum/controller/gameticker/ticker
 
 	math_pool = new/datum/math_pool()
 	basic_mob_pool = new/datum/basic_mob_pool()
+
 	for (var/obj/machinery/atmospherics/unary/vent_pump/somevent in world) //todo: move this to a better place
 		vent_list += somevent
 

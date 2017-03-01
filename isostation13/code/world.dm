@@ -535,13 +535,14 @@ var/world_topic_spam_protect_time = world.timeofday
 
 /world/proc/update_status()
 
-	var/s = "<b><font size = 3><i><span style = \"color:purple\">Alien Isolation 13 (ALPHA EDITION)</span></i></font></b> &#8212; "
+	var/s = "<b><font size = 3><span style = \"color:purple\"><a href = 'https://discord.gg/Xj8qJQr'>Alien Isolation 13 &#8212; CEV Eris</a></span></font></b>"
 //	var/s = ""
 
 //	if (config && config.server_name)
 	//	s += "<b>[config.server_name]</b> &#8212; "
-
+/*
 	s += "<b>[station_name()]</b>";
+
 	s += " ("
 	s += "<a href=\"https://discord.gg/CTDTEjW\">" //Change this to wherever you want the hub to link to.
 //	s += "[game_version]"
@@ -553,15 +554,16 @@ var/world_topic_spam_protect_time = world.timeofday
 	s += "Github"  //Replace this with something else. Or ever better, delete it and uncomment the game version.
 	s += "</a>"
 	s += ")"
+	*/
 
-	var/list/features = list()
-
+	var/features = list()
+/*
 	if(ticker)
 		if(master_mode)
 			features += master_mode
 	else
 		features += "<b>STARTING</b>"
-/*
+
 	if (!config.enter_allowed)
 		features += "closed"
 
@@ -585,15 +587,18 @@ var/world_topic_spam_protect_time = world.timeofday
 
 
 	if (config && config.hostedby)
-		features += "hosted by <b>[config.hostedby]</b>"*/
- //apparently the hub fucks up with too much html and stuff so I'm removing this.
-//	if (features)
-	//	s += features[1]
-	//	s += ": [jointext(features, ", ")]"
+		features += "hosted by <b>[config.hostedby]</b>"
+
+	if (features)
+		s += features[1]
+		s += ": [jointext(features, ", ")]"*/
+
+	s += "<br><br><img src = 'https://puu.sh/un7Eu/3e7b90aa08.png' alt = 'a'></img>"
 
 	/* does this help? I do not know */
 	if (status != s)
 		status = s
+
 
 
 #define FAILED_DB_CONNECTION_CUTOFF 5
