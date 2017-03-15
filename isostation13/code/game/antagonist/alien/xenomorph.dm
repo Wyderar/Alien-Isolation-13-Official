@@ -28,6 +28,13 @@ var/list/xenomorph_occupied_vents = list()
 	spawn_announcement_sound = 'sound/AI/aliens.ogg'
 	spawn_announcement_delay = 5000
 
+/datum/antagonist/xenos
+	id = MODE_XENOMORPH_BLOATED
+	hard_cap = 15
+	hard_cap_round = 15
+	initial_spawn_req = 1
+	initial_spawn_target = 15
+
 
 /datum/antagonist/xenos/New(var/no_reference)
 	..()

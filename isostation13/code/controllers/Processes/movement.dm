@@ -14,8 +14,6 @@ var/global/last_movement_loop = -1
 /proc/movement_loop()
 	set background = 1
 	while (TRUE == TRUE)
-		if (config.debug_mode_on)
-			world << "movement loop"
 		last_movement_loop = world.realtime //this is here so that when restarting the loop, it happens immediately
 		//and only once
 		sleep(1)

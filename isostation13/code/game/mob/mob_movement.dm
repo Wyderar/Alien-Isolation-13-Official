@@ -173,6 +173,11 @@
 
 	//Check to see if we slipped
 	if(prob(slip_chance(5)) && !buckled)
+		if (istype(back, /obj/item/weapon/tank/jetpack))
+			var/obj/item/weapon/tank/jetpack/jetpack = back
+			if (jetpack.on)
+				return FALSE
+
 		src << "<span class='warning'>You slipped!</span>"
 		src.inertia_dir = src.last_move
 		step(src, src.inertia_dir)

@@ -26,8 +26,8 @@
 	return distance == -1 || (get_dist(src, user) <= distance)
 
 /obj/proc/is_exterior(var/mob/m)
-	if (m && istype(m.loc, /turf/space))
-		return FALSE
+//	if (m && istype(m.loc, /turf/space))
+	//	return FALSE
 	if (istype(src, /obj/item))
 		return FALSE
 	for (var/turf/t in orange(1, src))

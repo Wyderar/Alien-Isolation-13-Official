@@ -99,6 +99,16 @@
 	src.air_contents.adjust_gas("plasma", (3*ONE_ATMOSPHERE)*70/(R_IDEAL_GAS_EQUATION*T20C))
 	return
 
+/obj/item/weapon/tank/plasma/big
+
+	New()
+
+		..()
+
+		src.air_contents.adjust_gas("plasma", (3*ONE_ATMOSPHERE)*200/(R_IDEAL_GAS_EQUATION*T20C))
+		return
+
+
 /obj/item/weapon/tank/plasma/attackby(obj/item/weapon/W as obj, mob/user as mob)
 	..()
 

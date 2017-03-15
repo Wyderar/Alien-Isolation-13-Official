@@ -1,5 +1,5 @@
 ## debug mode on
-DEBUG_MODE_ON
+#DEBUG_MODE_ON
 
 ## can admins NOT change the game mode?
 NO_CHANGING_GAME_MODE
@@ -116,6 +116,7 @@ MOD_JOB_TEMPBAN_MAX 1440
 ## default probablity is 1, increase to make that mode more likely to be picked
 ## set to 0 to disable that mode
 PROBABILITY XENO 1
+PROBABILITY XENO_RAID 1
 # PROBABILITY EXTENDED 1
 # PROBABILITY MALFUNCTION 1
 # PROBABILITY MERCENARY 1
@@ -215,7 +216,7 @@ GUEST_JOBBAN
 # FORUMURL http://example.com
 
 ## discord address
-DISCORDURL https://discord.gg/CTDTEjW
+DISCORDURL https://discord.gg/Xj8qJQr
 
 ## Wiki address
 # WIKIURL http://example.com

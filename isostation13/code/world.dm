@@ -535,7 +535,8 @@ var/world_topic_spam_protect_time = world.timeofday
 
 /world/proc/update_status()
 
-	var/s = "<b><font size = 3><span style = \"color:purple\"><a href = 'https://discord.gg/Xj8qJQr'>Alien Isolation 13 &#8212; CEV Eris</a></span></font></b>"
+	var/s = "<b><font size = 3><span style = \"color:purple\"><a href = 'https://discord.gg/Xj8qJQr'>Alien Isolation 13 &#8212; CEV Eris</a></span></font></b><br>"
+	s += "Hosted by <b>Cherkir</b>"
 //	var/s = ""
 
 //	if (config && config.server_name)

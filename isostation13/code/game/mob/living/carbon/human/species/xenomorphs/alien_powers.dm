@@ -67,8 +67,10 @@
 		if (do_after(src, 30, door ? door : vent))
 			if (door) //door takes priority
 				door.welded = FALSE
+				door.update_icon()
 			else if (vent)
 				vent.welded = FALSE
+				vent.update_icon()
 
 			visible_message("<span class = 'danger'>[src] unwelds the [door ? "door" : "vent"]</span>", "<span class = 'alium'>You unweld the [door ? "door" : "vent"].</span>")
 

@@ -7,11 +7,12 @@
 	do_evolve()
 
 
-/mob/living/carbon/alien/proc/force_evolve()
+/mob/living/carbon/alien/proc/force_evolve(flagslist)
 	amount_grown = max_grown
-	do_evolve()
+	do_evolve(flagslist)
 
-/mob/living/carbon/alien/proc/do_evolve()
+
+/mob/living/carbon/alien/proc/do_evolve(flagslist)
 
 	if(stat != CONSCIOUS)
 		return
@@ -37,6 +38,11 @@
 
 	var/mob/living/carbon/human/adult = new adult_form(get_turf(src))
 	adult.set_species(new_species)
+
+	if ("ELITE" in flagslist)
+		adult.species.brute_mod /= 2
+		adult.species.burn_mod /= 2
+
 
 	spawn (3)//this might fix the "larva ded" message, as it may or may not give time for the adult ayy to be created
 

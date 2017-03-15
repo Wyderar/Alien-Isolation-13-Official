@@ -8,7 +8,7 @@
 	unarmed_types = list(/datum/unarmed_attack/claws/strong, /datum/unarmed_attack/bite/strong)
 
 	darksight = 5
-
+	genders = list(FEMALE)
 	hud_type = /datum/hud_data/alien
 	rarity_value = 3
 
@@ -216,6 +216,11 @@
 					spawn (15)
 						H << "<span class = 'alium'><font size = 2>You are the Alpha Xenomorph.</font></span>"
 						H.set_species("Alpha Xenomorph")
+				else
+					if (prob(40) && MODE_IH_RAIDER in ticker.mode.antag_tags)
+						spawn (15)
+							H << "<span class = 'alium'><font size = 2>You are the Alpha Xenomorph.</font></span>"
+							H.set_species("Alpha Xenomorph")
 				return
 
 /datum/species/xenos/new_xeno/alpha

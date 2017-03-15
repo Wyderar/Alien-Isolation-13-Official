@@ -59,6 +59,10 @@
 			xeno_spawn += loc
 			delete_me = 1
 			return
+		if ("ih_raider_spawn")
+			ih_raider_spawn += loc
+			delete_me = 1
+			return
 		if ("wj_spawn")
 			wj_spawn += loc
 			delete_me = 1
