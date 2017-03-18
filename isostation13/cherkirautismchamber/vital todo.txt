@@ -12,10 +12,13 @@ refine mod bullshit for xenos
 
 
 VITAL:
+
+disable ert
 you can join as IHSO on non IH modes, thisi s bad
 fix vents(check)
 LARVAE ARE DAMAGE IMMUNE FUCK(check)
 fuck all can fit on belts(check)
+make ops start with the right headset
 shitty active hand tele spot(check)
 dedicated testing server #testingmode on
 you can hear sounds from the SHUTTLE(check)
@@ -24,6 +27,28 @@ add special spawn that makes people who didn't toggle anything spawn as ops(do)
 
 OTHER:
 
+This is   Alpha Xenomorph, a Alpha Xenomorph!
+He has blood-stained feet!
+He has a fresh skin on his upper body.
+He has a pair of fresh skins on his lower body.
+He has a fresh skin and what might be a small scab on his head.
+He has a pair of fresh skins on his left arm.
+He has a pair of fresh skins on his right arm.
+He has a fresh skin on his left leg.
+He has a fresh skin on his right leg.
+He has what might be a fresh skin on his right hand.
+He has a small scab on his left foot.
+He has a ugly ripped cut on his right foot.
+His right foot is dented and swollen! <-- all of that takes a long time to heal
+bad_external_organs list, and change how organs heal(external)
+
+xeno regeneration via cocoons
+autorespawn system on xeno_raid(respawn time variable for game mode?
+remove the nuke
+parrying with eswords is shit
+
+fix gamemode ending
+fix the fucking doors
 
 
   Xenomorph Dominatrix: special ops have no money for food on their card

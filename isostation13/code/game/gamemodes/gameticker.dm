@@ -74,6 +74,7 @@ var/global/datum/controller/gameticker/ticker
 		pregame_timeleft = 180
 		world << "<B><FONT color='blue'>Welcome to the pre-game lobby!</FONT></B>"
 		world << "Please, setup your character and select ready. Game will start in [pregame_timeleft] seconds"
+		discord_bot.send_to_announce("Server is now at the lobby screen.")
 		while(current_state == GAME_STATE_PREGAME)
 
 			for(var/i=0, i<10, i++)
@@ -107,6 +108,7 @@ var/global/datum/controller/gameticker/ticker
 		if(!runnable_modes.len)
 			current_state = GAME_STATE_PREGAME
 			world << "<B>Unable to choose playable game mode.</B> Reverting to pre-game lobby."
+			discord_bot.send_to_announce("Server was unable to start, going back to the lobby.")
 			return FALSE
 		if(secret_force_mode != "secret")
 			src.mode = config.pick_mode(secret_force_mode)
@@ -147,6 +149,8 @@ var/global/datum/controller/gameticker/ticker
 				world << "<B>Possibilities:</B> [english_list(tmpmodes)]"
 	else
 		src.mode.announce()
+
+	discord_bot.send_to_announce("Game has started.")
 
 	setup_economy()
 	current_state = GAME_STATE_PLAYING

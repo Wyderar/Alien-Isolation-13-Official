@@ -5,7 +5,6 @@
 	icon = 'icons/mob/AI.dmi'
 	icon_state = "0"
 	var/icon_dead = null
-	see_in_dark = 6
 	var/maxHealth = 200
 	var/health = 200
 	var/melee_damage_lower = 80
