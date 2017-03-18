@@ -4,12 +4,12 @@
 	name = "\improper AI core"
 	icon = 'icons/mob/AI.dmi'
 	icon_state = "0"
-	icon_dead = null
+	var/icon_dead = null
 	see_in_dark = 6
 	var/maxHealth = 200
 	var/health = 200
-	melee_damage_lower = 80
-	melee_damage_upper = 70
+	var/melee_damage_lower = 80
+	var/melee_damage_upper = 70
 	var/state = 0
 	var/datum/ai_laws/laws = new /datum/ai_laws/nanotrasen
 	var/obj/item/weapon/circuitboard/circuit = null
