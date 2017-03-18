@@ -1,6 +1,12 @@
 var/list/gamemode_cache = list()
 
 /datum/configuration
+	var/no_memes_allowed = 0
+
+	var/use_discord_bot = 0
+	var/discord_bot_host = "localhost"
+	var/discord_bot_port = 0
+
 	var/debug_mode_on = 0
 	var/developer_mode_on = 0
 	var/no_changing_game_mode = 0
@@ -624,6 +630,19 @@ var/list/gamemode_cache = list()
 				if("comms_password")
 					config.comms_password = value
 
+				if("no_memes_allowed")
+					config.no_memes_allowed = 1
+
+				if("use_discord_bot")
+					config.use_discord_bot = 1
+
+				if("discord_bot_host")
+					config.discord_bot_host = value
+
+				if("discord_bot_port")
+					config.discord_bot_port = value
+
+
 				if("irc_bot_host")
 					config.irc_bot_host = value
 
@@ -797,6 +816,23 @@ var/list/gamemode_cache = list()
 
 				else
 					log_misc("Unknown setting in configuration: '[name]'")
+
+		else if (type == "discord")
+			// Ideally, this would never happen. But just in case.
+			if (!discord_bot)
+				log_debug("BOREALIS: Attempted to read config/discord.txt before initializing the bot.")
+				return
+
+			switch (name)
+				if ("token")
+					discord_bot.auth_token = value
+				if ("active")
+					discord_bot.active = 1
+				if ("robust_debug")
+					discord_bot.robust_debug = 1
+				else
+					log_misc("Unknown setting in discord configuration: '[name]'")
+
 
 /datum/configuration/proc/loadsql(filename)  // -- TLE
 	var/list/Lines = file2list(filename)

@@ -1,5 +1,17 @@
+## Uncomment this to use the discord bot.
+USE_DISCORD_BOT
+
+## The host address of the discord bot.
+DISCORD_BOT_HOST 74.91.124.62
+
+## The port number which the discord bot is listening for nudges.
+DISCORD_BOT_PORT 5000
+
 ## debug mode on
 DEBUG_MODE_ON
+
+## disallow meme lobby screens?
+NO_MEMES_ALLOWED
 
 ## can admins NOT change the game mode?
 NO_CHANGING_GAME_MODE
@@ -279,7 +291,7 @@ USEALIENWHITELIST
 #GHOST_INTERACTION
 
 ## Password used for authorizing ircbot and other external tools.
-#COMMS_PASSWORD
+COMMS_PASSWORD ircdiscord777666
 
 ## Uncomment to enable sending data to the IRC bot.
 #USE_IRC_BOT
