@@ -598,6 +598,10 @@ var/world_topic_spam_protect_time = world.timeofday
 	var/i2 = "http://bit.ly/2n16HVL"
 	var/i3 = "http://bit.ly/2ntuLOX"
 
+	if (config.no_memes_allowed)
+		i1 = i3
+		i2 = i3
+
 	s += "<br><br><img src = '[pick(i1,i2,i3)]' alt = 'a' width = '500' height = '200'>"
 
 	/* does this help? I do not know */

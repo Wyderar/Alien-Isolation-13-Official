@@ -10,6 +10,9 @@ DISCORD_BOT_PORT 5000
 ## debug mode on
 DEBUG_MODE_ON
 
+## disallow meme lobby screens?
+NO_MEMES_ALLOWED
+
 ## can admins NOT change the game mode?
 NO_CHANGING_GAME_MODE
 

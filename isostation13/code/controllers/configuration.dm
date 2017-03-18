@@ -1,6 +1,8 @@
 var/list/gamemode_cache = list()
 
 /datum/configuration
+	var/no_memes_allowed = 0
+
 	var/use_discord_bot = 0
 	var/discord_bot_host = "localhost"
 	var/discord_bot_port = 0
@@ -628,6 +630,8 @@ var/list/gamemode_cache = list()
 				if("comms_password")
 					config.comms_password = value
 
+				if("no_memes_allowed")
+					config.no_memes_allowed = 1
 
 				if("use_discord_bot")
 					config.use_discord_bot = 1
