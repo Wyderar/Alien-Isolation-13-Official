@@ -134,6 +134,7 @@ var/list/admin_verbs_server = list(
 	/client/proc/Set_Holiday,
 	/client/proc/ToRban,
 	/client/proc/change_world_status,
+	/client/proc/update_world_status,
 	/client/proc/change_world_listed_status,
 	/datum/admins/proc/startnow,
 	/datum/admins/proc/restart,
@@ -380,20 +381,31 @@ var/list/admin_verbs_mentor = list(
 	set category = "Server"
 	set name = "Change World Status"
 	if (!holder)
+		src << "Invalid permissions."
 		return
 	if (check_rights(R_HOST, 1, usr))
 		world.status = t
+	else
+		src << "Invalid permissions."
 
 /client/proc/change_world_listed_status()
 	set category = "Server"
 	set name = "Change World Listed Status"
 	if (!holder)
+		src << "Invalid permissions."
 		return
 	if (check_rights(R_HOST, 1, usr))
 		world.visibility = !world.visibility
 
 		src << "<span class='interface'>The server is now [world.visibility ? "visible" : "invisible"] on the hub.</span>"
 
+	else
+		src << "Invalid permissions."
+
+/client/proc/update_world_status()
+	set category = "Server"
+	set name = "Update World Status"
+	world.update_status()
 
 /client/proc/admin_ghost()
 	set category = "Admin"

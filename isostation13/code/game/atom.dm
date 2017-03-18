@@ -90,6 +90,9 @@
 	if (rx != INFINITY && ry != INFINITY)
 		for (var/mob/living/carbon/human/H in alien_list)
 			if (istype(H) && H.client)
+				if (get_area(src) == "Ironhammer Special Operatives Base")
+					if (get_area(H) != "Ironhammer Special Operatives Base")
+						continue
 				for (var/z2 in zs_to_search)
 					if ((H.z+z2) == z)
 						if (abs(H.x - x) <= rx)
@@ -100,6 +103,9 @@
 	else
 		for (var/mob/living/carbon/human/H in alien_list)
 			if (istype(H) && H.client)
+				if (get_area(src) == "Ironhammer Special Operatives Base")
+					if (get_area(H) != "Ironhammer Special Operatives Base")
+						continue
 				for (var/z2 in zs_to_search)
 					if ((H.z+z2) == z)
 						var/datum/species/xenos/x = H.species

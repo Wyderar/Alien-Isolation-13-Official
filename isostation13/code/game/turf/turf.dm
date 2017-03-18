@@ -43,10 +43,10 @@
 	return (oxygen == 0)
 
 /turf/proc/is_exterior(var/mob/m)
-	if (m && istype(m.loc, /turf/space))
-		return FALSE
+//	if (m && istype(m.loc, /turf/space)) //removed, thanks shitters
+	//	return FALSE
 	for (var/turf/t in orange(1, src))
-		if (istype(t, /turf/space) || t.is_space_turf())
+		if (istype(t, /turf/space) || t.is_space_turf() || istype(t, /turf/simulated/floor/hull))
 			return TRUE
 	return FALSE
 

@@ -99,8 +99,6 @@
 		new /obj/item/clothing/accessory/badge/hos(src)
 		return
 
-
-
 /obj/structure/closet/secure_closet/warden
 	name = "Gunnery Sergeant's locker"
 	req_access = list(access_armory)

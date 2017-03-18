@@ -99,6 +99,16 @@
 	src.air_contents.adjust_gas("plasma", (3*ONE_ATMOSPHERE)*70/(R_IDEAL_GAS_EQUATION*T20C))
 	return
 
+/obj/item/weapon/tank/plasma/big
+
+	New()
+
+		..()
+
+		src.air_contents.adjust_gas("plasma", (3*ONE_ATMOSPHERE)*500/(R_IDEAL_GAS_EQUATION*T20C))
+		return
+
+
 /obj/item/weapon/tank/plasma/attackby(obj/item/weapon/W as obj, mob/user as mob)
 	..()
 
@@ -144,6 +154,11 @@
 	name = "extended-capacity emergency oxygen tank"
 	icon_state = "emergency_engi"
 	volume = 6
+
+/obj/item/weapon/tank/emergency_oxygen/super
+	name = "super extended-capacity emergency oxygen tank"
+	icon_state = "emergency_engi"
+	volume = 15
 
 /obj/item/weapon/tank/emergency_oxygen/double
 	name = "double emergency oxygen tank"

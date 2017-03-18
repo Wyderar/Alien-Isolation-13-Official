@@ -146,6 +146,9 @@ area/space/atmosalert()
 	sound_env = SMALL_ENCLOSED
 	base_turf = /turf/space
 
+/area/shuttle/ironhammer_specialops
+	name = "Ironhammer Special Operatives Base"
+
 /area/shuttle/arrival
 	name = "\improper Arrival Shuttle"
 

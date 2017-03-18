@@ -155,10 +155,21 @@ var/const/MAX_ACTIVE_TIME = 400
 		var/mob/living/carbon/target = L
 
 		if(target.wear_mask)
-			if(prob(20))	return
+			if(prob(70))
+				target.visible_message("\red \b [src] is repelled by [target]'s [target.wear_mask]!")
+				if (prob(60))
+					Die()
+				return
+
 			var/obj/item/clothing/W = target.wear_mask
+
 			if(!W.canremove)	return
 			target.drop_from_inventory(W)
+
+			if (ishuman(target))
+				var/mob/living/carbon/human/human = target
+				var/obj/item/clothing/H = human.head
+				target.drop_from_inventory(H)
 
 			target.visible_message("\red \b [src] tears [W] off of [target]'s face!")
 

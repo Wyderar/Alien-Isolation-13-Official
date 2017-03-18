@@ -236,53 +236,60 @@
 
 
 /client/North(auto = 0)
+	if (last_movement_loop != -1 && (world.realtime - last_movement_loop) > 100)
+		movement_loop()
+
 	if (!processScheduler || !processScheduler.isRunning)
 		auto = 1
+
 	if (!auto)
 		if (mob)
 			mob.dir = NORTH
-			pressing_move_key++
-			spawn (4)
-				pressing_move_key--
+			pressing_move_key = TRUE
 			return
 	..()
 
 
 /client/South(auto = 0)
+	if (last_movement_loop != -1 && (world.realtime - last_movement_loop) > 100)
+		movement_loop()
+
 	if (!processScheduler || !processScheduler.isRunning)
 		auto = 1
+
 	if (!auto)
 		if (mob)
 			mob.dir = SOUTH
-			pressing_move_key++
-			spawn (4)
-				pressing_move_key--
+			pressing_move_key = TRUE
 			return
 	..()
 
 
 /client/West(auto = 0)
+	if (last_movement_loop != -1 && (world.realtime - last_movement_loop) > 100)
+		movement_loop()
+
 	if (!processScheduler || !processScheduler.isRunning)
 		auto = 1
+
 	if (!auto)
 		if (mob)
 			mob.dir = WEST
-			pressing_move_key++
-			spawn (4)
-				pressing_move_key--
+			pressing_move_key = TRUE
 			return
 	..()
 
 
 /client/East(auto = 0)
+	if (last_movement_loop != -1 && (world.realtime - last_movement_loop) > 100)
+		movement_loop()
+
 	if (!processScheduler || !processScheduler.isRunning)
 		auto = 1
 	if (!auto)
 		if (mob)
 			mob.dir = EAST
-			pressing_move_key++
-			spawn (4)
-				pressing_move_key--
+			pressing_move_key = TRUE
 			return
 	..()
 

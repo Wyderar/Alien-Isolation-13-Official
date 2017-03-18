@@ -29,7 +29,7 @@ var/global/datum/controller/gameticker/ticker
 	var/round_end_announced = 0 // Spam Prevention. Announce round end only once.
 
 	//more specific pools for VERY commonly used things that should never be made with new() - which is inevitable with basic pools
-	var/datum/math_pool/math_datum_pool = null//speeds up projectiles quite a bit
+	var/datum/math_pool/math_pool = null//speeds up projectiles quite a bit
 	var/datum/basic_mob_pool/basic_mob_pool = null//should speed up alien larva creation, which can be laggy, and they often burst near humans
 
 	var/novote = 1
@@ -39,10 +39,14 @@ var/global/datum/controller/gameticker/ticker
 		for (var/v in working_joe_whitelist)
 			world << v
 
-	math_datum_pool = new/datum/math_pool()
+	math_pool = new/datum/math_pool()
 	basic_mob_pool = new/datum/basic_mob_pool()
+
 	for (var/obj/machinery/atmospherics/unary/vent_pump/somevent in world) //todo: move this to a better place
 		vent_list += somevent
+
+	for (var/v in 1 to 5000)
+		weed_pool += new/obj/structure/alien/weed
 
 	if (config.long_lasting_power_nets && config.debug_mode_on)
 		world << "'Long lasting power nets' config setting is on. This message is debug-mode only."

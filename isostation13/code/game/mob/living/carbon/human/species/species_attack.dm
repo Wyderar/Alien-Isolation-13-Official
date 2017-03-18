@@ -25,6 +25,7 @@
 	sharp = 1
 	edge = 1
 
+
 /datum/unarmed_attack/claws/show_attack(var/mob/living/carbon/human/user, var/mob/living/carbon/human/target, var/zone, var/attack_damage)
 	var/obj/item/organ/external/affecting = target.get_organ(zone)
 
@@ -58,6 +59,17 @@
 	attack_verb = list("slashed")
 	damage = 5
 	shredding = 1
+
+/datum/unarmed_attack/claws/stronger
+	attack_verb = list("slashed")
+	damage = 7
+	shredding = 1
+
+/datum/unarmed_attack/claws/strongest
+	attack_verb = list("slashed")
+	damage = 10
+	shredding = 1
+
 
 /datum/unarmed_attack/bite/strong
 	attack_verb = list("mauled")

@@ -4,6 +4,11 @@
 	icon = 'icons/mob/alien_new.dmi'
 	var/health = 50
 
+/obj/structure/alien/fire_act()
+	if (prob(20))
+		src.visible_message("\red [src] melts!")
+		qdel(src)
+
 /proc/find_alien_obj(var/atom/a)
 	var/t = isturf(a) ? a : get_turf(a)
 

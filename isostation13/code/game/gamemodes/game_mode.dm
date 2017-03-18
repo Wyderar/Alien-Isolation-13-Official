@@ -35,6 +35,7 @@ var/global/list/additional_antag_types = list()
 	var/event_delay_mod_moderate             // Modifies the timing of random events.
 	var/event_delay_mod_major                // As above.
 
+	var/aspects = list()
 /datum/game_mode/New()
 	..()
 	// Enforce some formatting.
@@ -126,6 +127,8 @@ var/global/list/additional_antag_types = list()
 		var/antag_summary = "<b>Possible antagonist types:</b> "
 		var/i = 1
 		for(var/datum/antagonist/antag in antag_templates)
+			if (istype(antag, /datum/antagonist/working_joe))
+				continue
 			if(i > 1)
 				if(i == antag_templates.len)
 					antag_summary += " and "

@@ -16,6 +16,7 @@
 	return ""
 
 /datum/antagonist/proc/check_victory()
+
 	var/result = 1
 	if(config.objectives_disabled)
 		return TRUE

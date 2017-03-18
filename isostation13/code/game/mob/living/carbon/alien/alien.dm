@@ -43,10 +43,12 @@
 
 	..()
 
-	spawn (pick(65,75))
-		if (alien_list.len == 1 || alien_list.len == 2)
-			max_grown /= (alien_list.len == 1 ? 3 : 2)
-			src << "<span class = 'alium'>Due to a lack of sisters, your evolution has been sped up.</span>"
+	if (ticker && ticker.mode && !MODE_XENOMORPH_BLOATED in ticker.mode.antag_tags)
+
+		spawn (pick(65,75))
+			if (alien_list.len == 1 || alien_list.len == 2)
+				max_grown /= (alien_list.len == 1 ? 3 : 2)
+				src << "<span class = 'alium'>Due to a lack of sisters, your evolution has been sped up.</span>"
 
 /mob/living/carbon/alien/u_equip(obj/item/W as obj)
 	return

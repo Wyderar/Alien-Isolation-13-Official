@@ -29,6 +29,7 @@
 // Mode/antag template macros.
 #define MODE_BORER "borer"
 #define MODE_XENOMORPH "xeno"
+#define MODE_XENOMORPH_BLOATED "xeno_bloated"
 #define MODE_LOYALIST "loyalist"
 #define MODE_MUTINEER "mutineer"
 #define MODE_COMMANDO "commando"
@@ -49,7 +50,7 @@
 #define MODE_MALFUNCTION "malf"
 #define MODE_TRAITOR "traitor"
 #define MODE_WORKING_JOE "workingjoe"
-
+#define MODE_IH_RAIDER "ih_raider"
 #define DEFAULT_TELECRYSTAL_AMOUNT 25
 
 /////////////////

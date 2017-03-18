@@ -617,6 +617,7 @@ default behaviour is:
 			if(!v.welded)
 				if(v.Adjacent(src))
 					vent_found = v
+
 	if(!vent_found)
 		src << "You'll need a non-welded vent to crawl into!"
 		return
@@ -671,28 +672,33 @@ default behaviour is:
 	if(!target_vent)
 		return
 
-	for(var/mob/O in viewers(src, null))
-		O.show_message(text("<B>[src] scrambles into the ventillation ducts!</B>"), 1)
-	loc = target_vent
+	for (var/mob/O in viewers(src, null))
+		O.show_message(text("<b>[src] start going into the ventilation ducts!</b>"), 1)
 
-	var/travel_time = round(get_dist(loc, target_vent.loc) / 2)
+	if (do_after(src, 20, target_vent))
 
-	spawn(travel_time)
+		for(var/mob/O in viewers(src, null))
+			O.show_message(text("<B>[src] scrambles into the ventillation ducts!</B>"), 1)
+		loc = target_vent
 
-		if(!target_vent)	return
-		for(var/mob/O in hearers(target_vent,null))
-			O.show_message("You hear something squeezing through the ventilation ducts.",2)
+		var/travel_time = round(get_dist(loc, target_vent.loc) / 2)
 
-		sleep(travel_time)
+		spawn(travel_time)
 
-		if(!target_vent)	return
-		if(target_vent.welded)			//the vent can be welded while alien scrolled through the list or travelled.
-			target_vent = vent_found 	//travel back. No additional time required.
-			src << "\red The vent you were heading to appears to be welded."
-		loc = target_vent.loc
-		var/area/new_area = get_area(loc)
-		if(new_area)
-			new_area.Entered(src)
+			if(!target_vent)	return
+			for(var/mob/O in hearers(target_vent,null))
+				O.show_message("You hear something squeezing through the ventilation ducts.",2)
+
+			sleep(travel_time)
+
+			if(!target_vent)	return
+			if(target_vent.welded)			//the vent can be welded while alien scrolled through the list or travelled.
+				target_vent = vent_found 	//travel back. No additional time required.
+				src << "\red The vent you were heading to appears to be welded."
+			loc = target_vent.loc
+			var/area/new_area = get_area(loc)
+			if(new_area)
+				new_area.Entered(src)
 
 /mob/living/proc/cannot_use_vents()
 	return "You can't fit into that vent."
