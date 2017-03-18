@@ -12,8 +12,12 @@
 	New()
 		..()
 
-		for (var/i in 1 to 5)
+
+		for (var/i in 1 to 15)
 			new/obj/item/weapon/tank/plasma/big(src)
 
-		for (var/i in 1 to 2)
+		for (var/i in 1 to 5)
 			new/obj/item/weapon/flamethrower/advanced/full(src)
+
+		for (var/i in 1 to 3)
+			new/obj/item/weapon/grenade/explosive/frag(src)

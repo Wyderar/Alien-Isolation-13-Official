@@ -105,7 +105,7 @@
 
 		..()
 
-		src.air_contents.adjust_gas("plasma", (3*ONE_ATMOSPHERE)*200/(R_IDEAL_GAS_EQUATION*T20C))
+		src.air_contents.adjust_gas("plasma", (3*ONE_ATMOSPHERE)*500/(R_IDEAL_GAS_EQUATION*T20C))
 		return
 
 
@@ -154,6 +154,11 @@
 	name = "extended-capacity emergency oxygen tank"
 	icon_state = "emergency_engi"
 	volume = 6
+
+/obj/item/weapon/tank/emergency_oxygen/super
+	name = "super extended-capacity emergency oxygen tank"
+	icon_state = "emergency_engi"
+	volume = 15
 
 /obj/item/weapon/tank/emergency_oxygen/double
 	name = "double emergency oxygen tank"

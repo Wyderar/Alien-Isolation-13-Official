@@ -44,6 +44,12 @@ proc/depool_weed(nloc, state)
 		..()
 
 
+/obj/structure/alien/weed/fire_act()
+	if (prob(80))
+		src.visible_message("\red [src] melts!")
+		qdel(src)
+
+
 /obj/structure/alien/weed/ex_act(severity)
 	switch(severity)
 		if(1.0 to 2.0)

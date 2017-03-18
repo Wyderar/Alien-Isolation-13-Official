@@ -1,0 +1,64 @@
+
+
+KingPhilipIII: Cherkir. For the record. This mode will need some map edits. Like the place should already be covered in resin, the power should be out, maybe leave some gibs about. Etc.
+
+fix the one gamemode bullshit
+
+FINAL SOLUTION to breaching
+
+healing still doesn't heal bones
+
+refine mod bullshit for xenos
+
+
+VITAL:
+you can join as IHSO on non IH modes, thisi s bad
+fix vents(check)
+LARVAE ARE DAMAGE IMMUNE FUCK(check)
+fuck all can fit on belts(check)
+shitty active hand tele spot(check)
+dedicated testing server #testingmode on
+you can hear sounds from the SHUTTLE(check)
+prevent round from ending with a system that checks for available antags from all necessary parties
+add special spawn that makes people who didn't toggle anything spawn as ops(do)
+
+OTHER:
+
+
+
+  Xenomorph Dominatrix: special ops have no money for food on their card
+  Xenomorph Dominatrix: they should prob have some thing that lets them use any money-based vendor infinitely
+alphas take WAY TOO MUCH burn damage
+
+allow warping past windows
+make telecode less half-assed
+  Xenomorph Dominatrix: like a government backdoor
+  Cherkir: couldn't I just give them a storeroom full of food
+  Xenomorph Dominatrix: we'd need backpacks
+  Xenomorph Dominatrix: or a jetpack that works like a backpack
+  RandomColonist: Кайф.
+  Xenomorph Dominatrix: or a jetpack that can be fixed to a backpack like holsters on suits
+shields don't block impale
+  RandomColonist: я
+  Xenomorph Dominatrix: webbing I mean not holsters
+
+You have taken over the station. You know that the humans are coming back to reclaim it. You must defend your new hive to the death!
+You have taken over the station. You know that the humans are coming back to reclaim it. You must defend your new hive to the death!
+You have taken over the station. You know that the humans are coming back to reclaim it. You must defend your new hive to the death! NO WE'RE ALL ALPHAS
+
+where the hell are item states? move from items.dmi flashlight state(FUCK)
+
+end the round when either antag is dead(do)
+make xenos start evolved(check)
+You sense Alpha Xenomorph. They're alive and well at Bridge Hallway!
+You sense Alpha Xenomorph. They're alive and well at Bridge Hallway!
+You sense Alpha Xenomorph. They're alive and well at Bridge Hallway! only 2
+disable shuttle calling
+check victory shit
+impaaa
+
+Alpha Xenomorph has been slain at Escape Hangar B!
+Alpha Xenomorph has been slain at Escape Hangar B!
+Alpha Xenomorph has been slain at Escape Hangar B! only slain once
+
+allow opening of all airlocks(check)

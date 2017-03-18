@@ -313,6 +313,13 @@
 		qdel(src)
 		return
 
+	else if (character.mind.assigned_role == "Ironhammer Special Operative")
+
+		character.loc = pick(ih_raider_spawn)
+		ticker.mode.handle_latejoin(character)
+		qdel(src)
+		return
+
 	//Find our spawning point.
 	var/join_message = job_master.LateSpawn(character.client, rank)
 
@@ -330,9 +337,11 @@
 
 		//Grab some data from the character prefs for use in random news procs.
 
-		AnnounceArrival(character, rank, join_message)
+		if (!MODE_IH_RAIDER in ticker.mode.antag_tags)
+			AnnounceArrival(character, rank, join_message)
 	else
-		AnnounceCyborg(character, rank, join_message)
+		if (!MODE_IH_RAIDER in ticker.mode.antag_tags)
+			AnnounceCyborg(character, rank, join_message)
 
 	qdel(src)
 
@@ -361,6 +370,11 @@
 
 	dat += "Choose from the following open/valid positions:<br>"
 	for(var/datum/job/job in job_master.occupations)
+
+		if (ticker && MODE_IH_RAIDER in ticker.mode.antag_tags)
+			if (!istype(job, /datum/job/ih_raider))
+				continue
+
 		if(job && IsJobAvailable(job.title))
 			if(job.minimum_character_age && (client.prefs.age < job.minimum_character_age))
 				continue

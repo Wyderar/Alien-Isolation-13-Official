@@ -109,6 +109,18 @@
 	air_contents.adjust_gas("carbon_dioxide", (6*ONE_ATMOSPHERE)*volume/(R_IDEAL_GAS_EQUATION*T20C))
 	return
 
+/obj/item/weapon/tank/jetpack/carbondioxide/super
+	name = "super jetpack (carbon dioxide)"
+	desc = "A tank of compressed carbon dioxide for use as propulsion in zero-gravity areas. Painted black to indicate that it should not be used as a source for internals. This one is really big."
+	distribute_pressure = 0
+	icon_state = "jetpack-black"
+	item_state =  "jetpack-black"
+
+/obj/item/weapon/tank/jetpack/carbondioxide/super/New()
+	..()
+	air_contents.adjust_gas("carbon_dioxide", (15*ONE_ATMOSPHERE)*volume/(R_IDEAL_GAS_EQUATION*T20C))
+	return
+
 /obj/item/weapon/tank/jetpack/rig
 	name = "jetpack"
 	var/obj/item/weapon/rig/holder

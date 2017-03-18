@@ -11,6 +11,8 @@ proc/create_new_xenomorph(var/alien_caste,var/target)
 
 	return new_alien
 
+
+
 /mob/living/carbon/human/xdrone/New(var/new_loc)
 	h_style = "Bald"
 	defaultHUD = "Xenos"
@@ -20,6 +22,9 @@ proc/create_new_xenomorph(var/alien_caste,var/target)
 	h_style = "Bald"
 	defaultHUD = "Xenos"
 	..(new_loc, "Xenomorph")
+	if (species)
+		species.handle_post_spawn(src)
+
 
 /mob/living/carbon/human/xsentinel/New(var/new_loc)
 	h_style = "Bald"

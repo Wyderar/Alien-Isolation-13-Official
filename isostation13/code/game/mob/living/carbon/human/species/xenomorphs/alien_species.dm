@@ -210,25 +210,23 @@
 	alien_list += H
 
 	if (!istype(src, /datum/species/xenos/new_xeno/alpha) && !istype(src, /datum/species/xenos/new_xeno/queen))
-		for (var/mob/living/carbon/human/HH in alien_list)
-			if (!istype(HH.species, /datum/species/xenos/new_xeno/alpha))
-				if (prob(15) || config.debug_mode_on)
-					spawn (15)
-						H << "<span class = 'alium'><font size = 2>You are the Alpha Xenomorph.</font></span>"
-						H.set_species("Alpha Xenomorph")
-				else
-					if (prob(40) && MODE_IH_RAIDER in ticker.mode.antag_tags)
-						spawn (15)
-							H << "<span class = 'alium'><font size = 2>You are the Alpha Xenomorph.</font></span>"
-							H.set_species("Alpha Xenomorph")
-				return
+		if (prob(15))
+			spawn (15)
+				H << "<span class = 'alium'><font size = 2>You are the Alpha Xenomorph.</font></span>"
+				H.set_species("Alpha Xenomorph")
+		else
+			if (prob(40) && MODE_IH_RAIDER in ticker.mode.antag_tags)
+				spawn (15)
+					H << "<span class = 'alium'><font size = 2>You are the Alpha Xenomorph.</font></span>"
+					H.set_species("Alpha Xenomorph")
+		return
 
 /datum/species/xenos/new_xeno/alpha
 	name = "Alpha Xenomorph"
 	caste_name = "Alpha"
 	weeds_plasma_rate = 25
-	brute_mod = 0.1
-	burn_mod = 0.15
+	brute_mod = 0.2
+	burn_mod = 0.3
 	unarmed_types = list(/datum/unarmed_attack/claws/strongest, /datum/unarmed_attack/bite/strong)
 	icobase = 'icons/mob/human_races/xenos/r_xenos_drone.dmi'
 	deform =  'icons/mob/human_races/xenos/r_xenos_drone.dmi'

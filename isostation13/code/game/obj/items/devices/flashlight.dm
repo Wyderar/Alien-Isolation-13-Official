@@ -119,8 +119,8 @@
 	name = "security flashlight"
 	desc = "A hand-held security flashlight. Very robust."
 	icon = 'icons/obj/lighting.dmi'
-	icon_state = "seclite"
-	item_state = "seclite"
+	icon_state = "flashlight"//todo: find the seclight icon
+	item_state = "flashlight"
 	brightness_on = 5
 	force = WEAPON_FORCE_NORMAL
 	hitsound = 'sound/weapons/genhit1.ogg'

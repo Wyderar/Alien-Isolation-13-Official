@@ -128,12 +128,6 @@
 		return
 	else if (ishuman(M) && M:species.flags & NOSLIP)
 		return
-	if(M.m_intent == "run")
-		if(prob(75))
-			M.adjustBruteLoss(5)
-			M.weakened += 3
-			M << "<span class='warning'>You tripped over!</span>"
-			return
 
 /turf/simulated/shuttle/plating/vox //Skipjack plating
 	oxygen = 0

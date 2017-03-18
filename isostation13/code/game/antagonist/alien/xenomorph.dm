@@ -11,7 +11,8 @@ var/list/xenomorph_occupied_vents = list()
 	flags = ANTAG_OVERRIDE_MOB | ANTAG_RANDSPAWN | ANTAG_OVERRIDE_JOB | ANTAG_VOTABLE
 	welcome_text = "Hiss! You are a larval alien. Hide and bide your time until you are ready to evolve."
 	antaghud_indicator = "hudalien"
-
+	victory_text = "Xenomorph Major Victory!"
+	loss_text = "Human Major Victory!"
 	faction_role_text = "Xenomorph Thrall"
 	faction_descriptor = "Hive"
 	faction_welcome = "Your will is ripped away as your humanity merges with the xenomorph overmind. You are now \
@@ -28,12 +29,7 @@ var/list/xenomorph_occupied_vents = list()
 	spawn_announcement_sound = 'sound/AI/aliens.ogg'
 	spawn_announcement_delay = 5000
 
-/datum/antagonist/xenos
-	id = MODE_XENOMORPH_BLOATED
-	hard_cap = 15
-	hard_cap_round = 15
-	initial_spawn_req = 1
-	initial_spawn_target = 15
+
 
 
 /datum/antagonist/xenos/New(var/no_reference)
@@ -99,6 +95,7 @@ var/list/xenomorph_occupied_vents = list()
 	return vents
 
 /datum/antagonist/xenos/place_mob(var/mob/living/player)
+
 	var/vent = pick(get_vents())
 	while (vent in working_joe_occupied_vents)
 		vent = pick(get_vents())
@@ -110,12 +107,34 @@ var/list/xenomorph_occupied_vents = list()
 	if(!..())
 		return FALSE
 
-	var/datum/objective/xeno/survive/s = new/datum/objective/xeno/survive
-	s.owner = xeno
-	xeno.objectives += s
+//	var/datum/objective/xeno/survive/s = new/datum/objective/xeno/survive
+//	s.owner = xeno
+//	xeno.objectives += s
 
 	var/datum/objective/xeno/expand/e = new/datum/objective/xeno/expand
 	e.owner = xeno
 	xeno.objectives += e
 
 	return TRUE
+
+/datum/antagonist/xenos/bloated
+	role_text = "Elite Xenomorph"
+	role_text_plural = "Elite Xenomorph"
+	id = MODE_XENOMORPH_BLOATED
+	mob_path = /mob/living/carbon/human/xgeneric
+	hard_cap = 15
+	hard_cap_round = 15
+	initial_spawn_req = 1
+	initial_spawn_target = 15
+
+
+/datum/antagonist/xenos/bloated/New(var/no_reference)
+	..()
+
+	if(!no_reference)
+		xenomorphs = src
+
+/datum/antagonist/xenos/bloated/antags_are_dead()
+
+	return ..()
+

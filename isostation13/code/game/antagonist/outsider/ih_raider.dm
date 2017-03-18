@@ -8,6 +8,7 @@ var/datum/antagonist/ih_raider/ih_raider
 	flags = ANTAG_OVERRIDE_JOB | ANTAG_OVERRIDE_MOB | ANTAG_HAS_LEADER | ANTAG_RANDOM_EXCEPTED
 	default_access = list(access_cent_general, access_cent_specops, access_cent_living, access_cent_storage)
 	antaghud_indicator = "huddeathsquad"
+	faction = "Station"
 
 	hard_cap = 20
 	hard_cap_round = 20
@@ -28,30 +29,28 @@ var/datum/antagonist/ih_raider/ih_raider
 		deployed = 1
 
 
-	for (var/datum/job/j in world)
-		if (!istype(j, /datum/job/ih_raider))
-			qdel(j)
-
 
 /datum/antagonist/ih_raider/place_mob(var/mob/living/player)
-	for (var/obj/effect/landmark/landmark in world)
-		if (landmark.name == "ih_raider_spawn")
-			player.forceMove(get_turf(landmark))
+
+	player.forceMove(pick(ih_raider_spawn))
+
+	if (!istype(get_area(player), /area/shuttle/ironhammer_specialops))
+		player.forceMove(pick(ih_raider_spawn))
+
+	if (!istype(get_area(player), /area/shuttle/ironhammer_specialops))
+		player.forceMove(locate(121,8,1))
 
 /datum/antagonist/ih_raider/equip(var/mob/living/carbon/human/player)
 	if(!..())
 		return
 
 
-	player.equip_to_slot_or_del(new /obj/item/clothing/under/color/green(player), slot_w_uniform)
+	player.equip_to_slot_or_del(new /obj/item/clothing/under/color/black(player), slot_w_uniform)
 	player.equip_to_slot_or_del(new /obj/item/clothing/shoes/swat(player), slot_shoes)
 	player.equip_to_slot_or_del(new /obj/item/clothing/gloves/thick/swat(player), slot_gloves)
 	player.equip_to_slot_or_del(new /obj/item/clothing/glasses/thermal(player), slot_glasses)
 	player.equip_to_slot_or_del(new /obj/item/clothing/mask/gas/swat(player), slot_wear_mask)
-	player.equip_to_slot_or_del(new /obj/item/device/flashlight/seclite(player), slot_belt)
-	player.equip_to_slot_or_del(new /obj/item/weapon/melee/energy/sword(player), slot_s_store)
-	player.equip_to_slot_or_del(new /obj/item/weapon/material/knife/butch(player), slot_s_store)
-
+	player.equip_to_slot_or_del(new /obj/item/weapon/storage/belt/security/tactical(player), slot_belt)
 
 	player.implant_loyalty(player)
 
@@ -93,3 +92,7 @@ var/datum/antagonist/ih_raider/ih_raider
 /datum/antagonist/ih_raider/create_antagonist()
 	if(..() && !deployed)
 		deployed = 1
+
+/datum/antagonist/ih_raider/antags_are_dead()
+
+	return ..()

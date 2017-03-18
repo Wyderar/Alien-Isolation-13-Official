@@ -22,9 +22,6 @@
 
 	..()
 
-	if (config.debug_mode_on)
-		world << "ASSERT HANDLE VISION PROC"
-
 	sight = SEE_MOBS|SEE_TURFS|SEE_OBJS|SEE_SELF
 	see_invisible = SEE_INVISIBLE_NOLIGHTING
 

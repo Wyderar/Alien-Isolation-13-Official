@@ -122,8 +122,28 @@
 	if(!src.Adjacent(T))
 		src << "<span class='warning'>You miss!</span>"
 		return
+	else
+		var/obj/item/weapon/shield/shield = null
+		if (istype(T.r_hand, /obj/item/weapon/shield))
+			shield = T.r_hand
+		else
+			shield = T.l_hand
 
-	T.Weaken(rand(5,7))
+		if (shield)
+			if (istype(shield, /obj/item/weapon/shield/energy))
+				var/obj/item/weapon/shield/energy/energy = shield
+				if (energy.active)
+					if (prob(65))
+						src.visible_message("<span class='dainger'>\The [src] is blocked by [T]'s sheild!</span>")
+						return FALSE
+			else if (shield)
+				if (prob(55))
+					src.visible_message("<span class='dainger'>\The [src] is blocked by [T]'s sheild!</span>")
+					return FALSE
+
+		T.Weaken(rand(5,7))
+
+		return TRUE
 
 	// Pariahs are not good at leaping. This is snowflakey, pls fix.
 	if(species.name == "Vox Pariah")

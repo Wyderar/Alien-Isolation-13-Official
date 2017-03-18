@@ -536,7 +536,7 @@ var/world_topic_spam_protect_time = world.timeofday
 /world/proc/update_status()
 
 	var/s = "<b><font size = 3><span style = \"color:purple\"><a href = 'https://discord.gg/Xj8qJQr'>Alien Isolation 13 &#8212; CEV Eris</a></span></font></b><br>"
-	s += "Hosted by <b>Cherkir</b>"
+	s += "Hosted by <b>DojoStation.tk</b>"
 //	var/s = ""
 
 //	if (config && config.server_name)
@@ -594,7 +594,11 @@ var/world_topic_spam_protect_time = world.timeofday
 		s += features[1]
 		s += ": [jointext(features, ", ")]"*/
 
-	s += "<br><br><img src = 'https://puu.sh/un7Eu/3e7b90aa08.png' alt = 'a'></img>"
+	var/i1 = "http://bit.ly/2n1chY0"
+	var/i2 = "http://bit.ly/2n16HVL"
+	var/i3 = "http://bit.ly/2ntuLOX"
+
+	s += "<br><br><img src = '[pick(i1,i2,i3)]' alt = 'a' width = '500' height = '200'>"
 
 	/* does this help? I do not know */
 	if (status != s)
