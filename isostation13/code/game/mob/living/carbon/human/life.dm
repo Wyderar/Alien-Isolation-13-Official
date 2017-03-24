@@ -600,7 +600,7 @@
 			var/turf/T = loc
 			var/atom/movable/lighting_overlay/L = locate(/atom/movable/lighting_overlay) in T
 			if(L)
-				light_amount = L.lum_r + L.lum_g + L.lum_b //hardcapped so it's not abused by having a ton of flashlights
+				light_amount = L.luminosity //hardcapped so it's not abused by having a ton of flashlights
 			else
 				light_amount =  10
 		if(light_amount > species.light_dam) //if there's enough light, start dying
@@ -948,7 +948,7 @@
 	if(isturf(loc) && rand(1,1000) == 1)
 		var/turf/T = loc
 		var/atom/movable/lighting_overlay/L = locate(/atom/movable/lighting_overlay) in T
-		if(L && L.lum_r + L.lum_g + L.lum_b == 0)
+		if(L && L.luminosity == 0)
 			playsound_local(src,pick(scarySounds),50, 1, -1)
 
 /mob/living/carbon/human/handle_stomach()

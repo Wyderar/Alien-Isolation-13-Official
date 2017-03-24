@@ -1,7 +1,7 @@
 /datum/game_mode/xeno/normal
 	name = "Xenomorph"
 	round_description = "Something is not quite right on the CEV Eris..."
-	extended_round_description = "Something is not quite right on the CEV Eris..."
+	extended_round_description = ""
 	config_tag = "xeno"
 	required_players = 1
 	required_enemies = 1
@@ -12,10 +12,12 @@
 //	antag_templates = list(MODE_WORKING_JOE)
 	antag_tags = list(MODE_XENOMORPH, MODE_WORKING_JOE)
 
+
 	New()
 		..()
 		if (!config.debug_mode_on)
-			required_players = 2
+			required_players = 3
+			required_enemies = 1
 		shuttle_delay = pick(6,7)
 
 
@@ -62,3 +64,15 @@
 		text += "There were <b>no survivors</b> (<b>[ghosts] ghosts</b>)."
 	text += "</font>"
 	world << text
+
+	var/xenos = 0
+
+	for (var/datum/mind/mind in xenomorphs.current_antagonists)
+		++xenos
+
+	if (xenos && xenos < 5)
+		world << "<span class = 'danger'>Xeno Minor Victory! (4 or less Xenomorphs survived)"
+	else if (xenos && xenos >= 5)
+		world << "<span class = 'danger'>Xeno Major Victory! (5 or more Xenomorphs survived)"
+	else
+		world << "<span class = 'danger'>Station Major Victory! The Hive has been annihilated!"

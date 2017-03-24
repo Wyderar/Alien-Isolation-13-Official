@@ -190,6 +190,8 @@ var/global/datum/emergency_shuttle_controller/emergency_shuttle
 
 //returns 1 if the shuttle is not idle at centcom
 /datum/emergency_shuttle_controller/proc/online()
+	if (ticker && ticker.mode && istype(ticker.mode, /datum/game_mode/xeno/raid))
+		return FALSE
 	if (!shuttle.location)	//not at centcom
 		return TRUE
 	if (wait_for_launch || shuttle.moving_status != SHUTTLE_IDLE)

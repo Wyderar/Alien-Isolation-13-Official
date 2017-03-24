@@ -2,58 +2,34 @@
 
 KingPhilipIII: Cherkir. For the record. This mode will need some map edits. Like the place should already be covered in resin, the power should be out, maybe leave some gibs about. Etc.
 
-fix the one gamemode bullshit
-
-FINAL SOLUTION to breaching
-
-healing still doesn't heal bones
-
-refine mod bullshit for xenos
-
+- autogeneration of weeds (needs work)
+- power out (needs work)
 
 VITAL:
-
-disable ert
-you can join as IHSO on non IH modes, thisi s bad
-fix vents(check)
-LARVAE ARE DAMAGE IMMUNE FUCK(check)
-fuck all can fit on belts(check)
-make ops start with the right headset
+splints can't be applied to hands(check)
+healing via devouring(check)
+raiders can still start on the station, probably when there's only one
+why do I set myself on fire?(fire newcode)(check)
+make roundstart ops start with normal names
+check shields(defenses)
+frags can no longer breach(CHECK)
+disable ert(fuck, where is the file?)
+you can join as IHSO on non IH modes, thisi s bad(check)
+remove unidentifed lifesigns bullshit on raid mode(check)
 shitty active hand tele spot(check)
 dedicated testing server #testingmode on
 you can hear sounds from the SHUTTLE(check)
 prevent round from ending with a system that checks for available antags from all necessary parties
-add special spawn that makes people who didn't toggle anything spawn as ops(do)
 
-OTHER:
-
-This is   Alpha Xenomorph, a Alpha Xenomorph!
-He has blood-stained feet!
-He has a fresh skin on his upper body.
-He has a pair of fresh skins on his lower body.
-He has a fresh skin and what might be a small scab on his head.
-He has a pair of fresh skins on his left arm.
-He has a pair of fresh skins on his right arm.
-He has a fresh skin on his left leg.
-He has a fresh skin on his right leg.
-He has what might be a fresh skin on his right hand.
-He has a small scab on his left foot.
-He has a ugly ripped cut on his right foot.
-His right foot is dented and swollen! <-- all of that takes a long time to heal
-bad_external_organs list, and change how organs heal(external)
-
-xeno regeneration via cocoons
-autorespawn system on xeno_raid(respawn time variable for game mode?
-remove the nuke
-parrying with eswords is shit
-
-fix gamemode ending
+FIX THE NESTS(check)
+fix nest icons(check)
+allow nesting of self even while standing(check)
+fix gamemode ending(check)
 fix the fucking doors
 
 
   Xenomorph Dominatrix: special ops have no money for food on their card
   Xenomorph Dominatrix: they should prob have some thing that lets them use any money-based vendor infinitely
-alphas take WAY TOO MUCH burn damage
 
 allow warping past windows
 make telecode less half-assed
@@ -67,23 +43,10 @@ shields don't block impale
   RandomColonist: ÿ
   Xenomorph Dominatrix: webbing I mean not holsters
 
-You have taken over the station. You know that the humans are coming back to reclaim it. You must defend your new hive to the death!
-You have taken over the station. You know that the humans are coming back to reclaim it. You must defend your new hive to the death!
-You have taken over the station. You know that the humans are coming back to reclaim it. You must defend your new hive to the death! NO WE'RE ALL ALPHAS
-
-where the hell are item states? move from items.dmi flashlight state(FUCK)
-
-end the round when either antag is dead(do)
-make xenos start evolved(check)
-You sense Alpha Xenomorph. They're alive and well at Bridge Hallway!
-You sense Alpha Xenomorph. They're alive and well at Bridge Hallway!
-You sense Alpha Xenomorph. They're alive and well at Bridge Hallway! only 2
-disable shuttle calling
-check victory shit
-impaaa
-
-Alpha Xenomorph has been slain at Escape Hangar B!
-Alpha Xenomorph has been slain at Escape Hangar B!
-Alpha Xenomorph has been slain at Escape Hangar B! only slain once
+end the round when either antag is dead(do)(fuck)
+disable shuttle calling(YOU ARE THE FUCKING ERT)(do)
+check victory shit(check)
 
 allow opening of all airlocks(check)
+
+^^^ happens with round info(check)

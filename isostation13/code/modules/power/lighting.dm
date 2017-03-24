@@ -806,7 +806,7 @@
 	loc = get_turf(parent)
 
 /obj/machinery/light/invisible_light/xeno
-	xeno = TRUE
+	var/xeno = TRUE
 
 /obj/machinery/light/invisible_light/xeno/New(var/obj/machinery/light/parent)
 	..(parent)

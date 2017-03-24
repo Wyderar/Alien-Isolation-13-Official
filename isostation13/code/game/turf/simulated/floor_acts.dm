@@ -1,17 +1,21 @@
 /turf/simulated/floor/ex_act(severity)
-	if (z == 1 && is_exterior() && config.impenetrable_station_exterior)
-		return
+	var/indestructable = FALSE
+
+	if (z == 1 && config.impenetrable_station_exterior)
+		indestructable = TRUE
 	//set src in oview(1)
 	switch(severity)
 		if(1.0)
-			src.ChangeTurf(get_base_turf_by_area(src))
+			if (!indestructable)
+				src.ChangeTurf(get_base_turf_by_area(src))
 		if(2.0)
 			switch(pick(40;1,40;2,3))
 				if (1)
 					if(prob(33)) new /obj/item/stack/material/steel(src)
 					src.ReplaceWithLattice()
 				if(2)
-					src.ChangeTurf(get_base_turf_by_area(src))
+					if (!indestructable)
+						src.ChangeTurf(get_base_turf_by_area(src))
 				if(3)
 					if(prob(33)) new /obj/item/stack/material/steel(src)
 					if(prob(80))

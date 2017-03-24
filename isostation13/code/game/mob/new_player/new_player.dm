@@ -374,6 +374,9 @@
 		if (ticker && MODE_IH_RAIDER in ticker.mode.antag_tags)
 			if (!istype(job, /datum/job/ih_raider))
 				continue
+		else
+			if (istype(job, /datum/job/ih_raider))
+				continue
 
 		if(job && IsJobAvailable(job.title))
 			if(job.minimum_character_age && (client.prefs.age < job.minimum_character_age))

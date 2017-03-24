@@ -154,10 +154,13 @@ Frequency:
 				L["[com.id] (Inactive)"] = com.locked
 	var/list/turfs = list(	)
 
-	if (istype(get_step(user, user.dir), /turf/simulated/wall) || locate(/obj/structure/window) in get_step(user, user.dir))
+	var/turf_in_front = get_step(user, user.dir)
+	var/object_in_front = locate(/obj) in turf_in_front
+
+	if (istype(turf_in_front, /turf/simulated/wall) || object_in_front)
 		var/turf/floor_hunter = get_step(user, user.dir)
 		var/tries = 0
-		while (!istype(floor_hunter, /turf/simulated/floor))
+		while (!istype(floor_hunter, /turf/simulated))
 			floor_hunter = get_step(floor_hunter, floor_hunter.dir)
 			++tries
 			if (tries > 9)

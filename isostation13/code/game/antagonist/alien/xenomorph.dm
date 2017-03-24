@@ -128,6 +128,12 @@ var/list/xenomorph_occupied_vents = list()
 	initial_spawn_target = 15
 
 
+	spawn_announcement = null
+	spawn_announcement_title = null
+	spawn_announcement_sound = null
+	spawn_announcement_delay = 500000
+
+
 /datum/antagonist/xenos/bloated/New(var/no_reference)
 	..()
 

@@ -263,7 +263,7 @@
 
 			var/randn = rand(1, 100)
 			if (ishumanoidalien(M))
-				randn += 15
+				randn += 29
 			if(!(species.flags & NO_SLIP) && randn <= 25)
 				var/armor_check = run_armor_check(affecting, "melee")
 				apply_effect(3, WEAKEN, armor_check)

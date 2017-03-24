@@ -535,7 +535,7 @@ var/world_topic_spam_protect_time = world.timeofday
 
 /world/proc/update_status()
 
-	var/s = "<b><font size = 3><span style = \"color:purple\"><a href = 'https://discord.gg/Xj8qJQr'>Alien Isolation 13 &#8212; CEV Eris</a></span></font></b><br>"
+	var/s = "<b><font size=3><span style =\"color:purple\"><a href = 'https://discord.gg/Xj8qJQr'>Alien Isolation 13 &#8212; CEV Eris</a></span></font></b><br>"
 	s += "Hosted by <b>DojoStation.tk</b>"
 //	var/s = ""
 
@@ -602,7 +602,7 @@ var/world_topic_spam_protect_time = world.timeofday
 		i1 = i3
 		i2 = i3
 
-	s += "<br><br><img src = '[pick(i1,i2,i3)]' alt = 'a' width = '500' height = '200'>"
+	s += "<br><img src='[pick(i1,i2,i3)]' alt = 'a' width = '500' height = '200'>"
 
 	/* does this help? I do not know */
 	if (status != s)

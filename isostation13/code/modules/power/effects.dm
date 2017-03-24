@@ -1,0 +1,6 @@
+/proc/destroy_some_lights(var/list/list_of_areas)
+	for (var/obj/machinery/light/light in world)
+		if (prob(90))
+			var/area = get_area(light)
+			if (!list_of_areas || list_of_areas.Find(area))
+				light.broken(1)

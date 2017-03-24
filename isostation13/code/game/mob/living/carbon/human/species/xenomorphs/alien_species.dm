@@ -202,6 +202,51 @@
 		/mob/living/carbon/human/proc/deweld
 		)
 
+/datum/species/xenos/new_xeno/proc/heal_passive(var/mob/living/carbon/human/H, strong = FALSE)
+	var/limit = strong ? 20 : 10
+
+	var/organ_tags = list()
+
+	for (var/v in H.internal_organs_by_name)
+		organ_tags |= v
+	for (var/v in H.organs_by_name)
+		organ_tags |= v
+
+	var/list/organs_by_name = H.internal_organs_by_name|H.organs_by_name
+
+	for (var/i in 1 to limit)
+		spawn (i * 600)
+			for (var/v in organ_tags)
+				var/obj/item/organ/original = organs_by_name[v]
+				var/original_damage = original.damage
+				var/obj/item/organ/replacement = new original.type
+				replacement.replaced(H, original)
+				if (original_damage)
+					H << "<span class = 'alium'>Your [replacement.name] feels much better.</span>"
+
+
+/datum/species/xenos/new_xeno/proc/heal_once(var/mob/living/carbon/human/H)
+
+	var/organ_tags = list()
+
+	for (var/v in H.internal_organs_by_name)
+		organ_tags |= v
+	for (var/v in H.organs_by_name)
+		organ_tags |= v
+
+	var/list/organs_by_name = H.internal_organs_by_name|H.organs_by_name
+
+	var/obj/item/organ/original = organs_by_name[pick(organ_tags)]
+
+	var/original_damage = original.damage
+
+	var/obj/item/organ/replacement = new original.type
+
+	replacement.replaced(H, original)
+
+	if (original_damage)
+		H << "<span class = 'alium'>Your [replacement.name] feels much better.</span>"
+
 
 /datum/species/xenos/new_xeno/handle_post_spawn(var/mob/living/carbon/human/H)
 	..()
@@ -210,16 +255,11 @@
 	alien_list += H
 
 	if (!istype(src, /datum/species/xenos/new_xeno/alpha) && !istype(src, /datum/species/xenos/new_xeno/queen))
-		if (prob(15))
+		if (prob(15) || prob(35) && MODE_IH_RAIDER in ticker.mode.antag_tags)
 			spawn (15)
 				H << "<span class = 'alium'><font size = 2>You are the Alpha Xenomorph.</font></span>"
 				H.set_species("Alpha Xenomorph")
-		else
-			if (prob(40) && MODE_IH_RAIDER in ticker.mode.antag_tags)
-				spawn (15)
-					H << "<span class = 'alium'><font size = 2>You are the Alpha Xenomorph.</font></span>"
-					H.set_species("Alpha Xenomorph")
-		return
+
 
 /datum/species/xenos/new_xeno/alpha
 	name = "Alpha Xenomorph"

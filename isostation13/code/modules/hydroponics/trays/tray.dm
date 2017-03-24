@@ -577,7 +577,8 @@
 			var/atom/movable/lighting_overlay/L = locate(/atom/movable/lighting_overlay) in T
 			var/light_available
 			if(L)
-				light_available = max(0,min(10,L.lum_r + L.lum_g + L.lum_b)-5)
+				var/lum_r_g_b = 0.5/3
+				light_available = max(0,min(10,lum_r_g_b + lum_r_g_b + lum_r_g_b)-5)
 			else
 				light_available =  5
 			light_string = "a light level of [light_available] lumens"

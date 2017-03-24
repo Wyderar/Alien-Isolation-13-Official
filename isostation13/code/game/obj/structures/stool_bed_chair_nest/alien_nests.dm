@@ -11,18 +11,40 @@
 
 /obj/structure/bed/nest/New()
 	..()
+	icon = 'icons/mob/alien_new.dmi'
+	icon_state = "nest"
+	overlays = null
+	processing_objects += src
 
 /obj/structure/bed/nest/Destroy()
+	processing_objects -= src
 	..()
 
+/obj/structure/bed/nest/process()
+	if (buckled_mob && isalien(buckled_mob) && prob(5))
+		if (!ishumanoidalien(buckled_mob) && istype(buckled_mob, /mob/living/carbon/alien/larva))
+			var/mob/living/carbon/alien/larva/larva = buckled_mob
+			larva.adjustBruteLoss(-10)
+			larva.adjustOxyLoss(-10)
+			larva.adjustToxLoss(-10)
+			larva.adjustFireLoss(-10)
+			larva.adjustCloneLoss(-10)
+		else if (istype(buckled_mob, /mob/living/carbon/human))
+			var/mob/living/carbon/human/xeno = buckled_mob
+			xeno.adjustBruteLoss(-5)
+			xeno.adjustOxyLoss(-5)
+			xeno.adjustToxLoss(-5)
+			xeno.adjustFireLoss(-5)
+			xeno.adjustCloneLoss(-5)
+			var/datum/species/xenos/new_xeno/species = xeno.species
+			species.heal_once(xeno)
 
-/obj/structure/bed/nest/update_icon()
-	return
+
 
 /obj/structure/bed/nest/user_unbuckle_mob(mob/user as mob)
 	if(buckled_mob)
 		if(buckled_mob.buckled == src)
-			if(buckled_mob != user)
+			if(buckled_mob != user || isalien(user))
 				buckled_mob.visible_message(\
 					"<span class='notice'>[user.name] pulls [buckled_mob.name] free from the sticky nest!</span>",\
 					"<span class='notice'>[user.name] pulls you free from the gelatinous resin.</span>",\
@@ -48,29 +70,36 @@
 	return
 
 /obj/structure/bed/nest/user_buckle_mob(mob/M as mob, mob/user as mob)
-	if ( !ismob(M) || (get_dist(src, user) > 1) || (M.loc != src.loc) || user.restrained() || usr.stat || M.buckled || istype(user, /mob/living/silicon/pai) )
-		return
 
-	if (!M.lying && istype(M, /mob/living/carbon)) return
+	if (M != user) //allow the user to strap themselves in
+		if ( !ismob(M) || (get_dist(src, user) > 1) || (M.loc != src.loc) || user.restrained() || usr.stat || M.buckled || istype(user, /mob/living/silicon/pai) )
+			return
+
+		if (!M.lying && istype(M, /mob/living/carbon))
+			return
+
+	else
+		if (user.restrained() || user.stat || user.buckled)
+			return
 
 	unbuckle_mob()
 
 	var/mob/living/carbon/xenos = user
-	var/mob/living/carbon/victim = M
 
-	if(istype(victim) && locate(/obj/item/organ/xenos/hivenode) in victim.internal_organs)
-		return
+	//removed is-victim-a-xeno check so xenos can buckle themselves in
 
 	if(istype(xenos) && !(locate(/obj/item/organ/xenos/hivenode) in xenos.internal_organs))
 		return
 
-	if(M == usr)
-		return
-	else
+
+	if (M != user)
 		M.visible_message(\
 			"<span class='notice'>[user.name] secretes a thick vile goo, securing [M.name] into [src]!</span>",\
 			"<span class='warning'>[user.name] drenches you in a foul-smelling resin, trapping you in the [src]!</span>",\
 			"<span class='notice'>You hear squelching...</span>")
+	else
+		M.visible_message("<span class='alium'>[M.name] tucks themselves into the nest.</span>")
+
 	M.buckled = src
 	M.loc = src.loc
 	M.set_dir(src.dir)

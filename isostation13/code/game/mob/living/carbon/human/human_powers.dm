@@ -49,7 +49,7 @@
 
 /mob/living/carbon/human/proc/impale()
 	set category = "Abilities"
-	set name = "Impale"
+	set name = "Tail Impale"
 	set desc = "Impale a target with your tail."
 
 	if(last_special > world.time)
@@ -61,7 +61,10 @@
 
 	var/mob/living/T = locate(/mob/living) in get_step(src, src.dir)
 
-	if(!T) return
+	if (!T)
+		T = locate(/mob/living) in loc
+
+	if(!T || T == src || isalien(T)) return
 
 	last_special = world.time + pick(50,60)
 
@@ -136,7 +139,7 @@
 					if (prob(65))
 						src.visible_message("<span class='dainger'>\The [src] is blocked by [T]'s sheild!</span>")
 						return FALSE
-			else if (shield)
+			else if (istype(shield))
 				if (prob(55))
 					src.visible_message("<span class='dainger'>\The [src] is blocked by [T]'s sheild!</span>")
 					return FALSE

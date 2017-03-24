@@ -165,4 +165,11 @@
 		admin_attack_log(attacker, target, "Devoured.", "Was devoured by.", "devoured")
 		target.loc = user
 		attacker.stomach_contents.Add(target)
+
+		if (ishumanoidalien(attacker))
+			var/mob/living/carbon/human/H = attacker
+			var/datum/species/xenos/new_xeno/species = H.species
+			species.heal_passive(H, FALSE)
+
 		qdel(src)
+

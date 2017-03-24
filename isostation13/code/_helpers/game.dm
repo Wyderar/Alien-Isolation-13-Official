@@ -498,3 +498,171 @@ datum/projectile_data
 
 /proc/round_is_spooky(var/spookiness_threshold = config.cult_ghostwriter_req_cultists)
 	return (cult.current_antagonists.len > spookiness_threshold)
+
+
+//vg
+
+// Like view but bypasses luminosity check
+/proc/get_hear(var/range, var/atom/source)
+
+
+	var/lum = source.luminosity
+	source.luminosity = 6
+
+	var/list/heard = view(range, source)
+	source.luminosity = lum
+
+	return heard
+
+
+/proc/alone_in_area(var/area/the_area, var/mob/must_be_alone, var/check_type = /mob/living/carbon)
+	var/area/our_area = get_area_master(the_area)
+	for(var/C in living_mob_list)
+		if(!istype(C, check_type))
+			continue
+		if(C == must_be_alone)
+			continue
+		if(our_area == get_area_master(C))
+			return 0
+	return 1
+
+
+/proc/recursive_type_check(atom/O, type = /atom)
+	var/list/processing_list = list(O)
+	var/list/processed_list = new/list()
+	var/found_atoms = new/list()
+
+	while (processing_list.len)
+		var/atom/A = processing_list[1]
+
+		if (istype(A, type))
+			found_atoms |= A
+
+		for (var/atom/B in A)
+			if (!processed_list[B])
+				processing_list |= B
+
+		processing_list.Cut(1, 2)
+		processed_list[A] = A
+
+	return found_atoms
+
+//var/debug_mob = 0
+
+/proc/get_contents_in_object(atom/O, type_path = /atom/movable)
+	if (O)
+		return recursive_type_check(O, type_path) - O
+	else
+		return new/list()
+
+/proc/try_move_adjacent(atom/movable/AM)
+	var/turf/T = get_turf(AM)
+	for(var/direction in cardinal)
+		if(AM.Move(get_step(T, direction)))
+			break
+
+
+/proc/rgb2hsl(var/red, var/grn, var/blu)
+
+	red /= 255
+	grn /= 255
+	blu /= 255
+
+	var/lo = min(red, grn, blu)
+	var/hi = max(red, grn, blu)
+	var/hue = 0
+	var/sat = 0
+	var/lgh = (lo + hi)/2
+
+	if(lo != hi)
+		if(lgh < 0.5)
+			sat = (hi - lo) / (hi + lo)
+		else
+			sat = (hi - lo) / (2 - hi - lo)
+		if(red == hi)
+			hue = (grn - blu) / (hi - lo)
+		else if(grn == hi)
+			hue = 2 + (blu - red) / (hi - lo)
+		else
+			hue = 4 + (red - grn) / (hi - lo)
+		if(hue<0)
+			hue += 6
+
+	lgh = round(lgh * 100, 1)
+	sat = round(sat * 100, 1)
+
+	hue = round((hue / 6) * 360, 1)
+
+	return list(
+		hue,
+		sat,
+		lgh,
+		)
+
+/proc/hsl2rgb(var/hue, var/sat, var/lgh)
+
+	hue /= 360
+	sat /= 100
+	lgh /= 100
+
+	var/red = 0
+	var/grn = 0
+	var/blu = 0
+
+	if(!sat)
+		red = lgh
+		grn = lgh
+		blu = lgh
+	else
+		var/temp1 = 0
+		var/temp2 = 0
+		var/temp3 = 0
+		if(lgh < 0.5)
+			temp2 = lgh * (1 + sat)
+		else
+			temp2 = lgh + sat - lgh * sat
+		temp1 = 2 * lgh - temp2
+
+		temp3 = hue + 1/3
+		if(temp3 > 1)
+			temp3--
+		if(6*temp3<1)
+			red = temp1 + (temp2 - temp1) * 6 * temp3
+		else if(2*temp3<1)
+			red = temp2
+		else if(3*temp3<2)
+			red = temp1 + (temp2 - temp1) * ((2/3) - temp3) * 6
+		else
+			red = temp1
+
+		temp3 = hue
+		if(6*temp3<1)
+			grn = temp1 + (temp2 - temp1) * 6 * temp3
+		else if(2*temp3<1)
+			grn = temp2
+		else if(3*temp3<2)
+			grn = temp1 + (temp2 - temp1) * ((2/3) - temp3) * 6
+		else
+			grn = temp1
+
+		temp3 = hue - 1/3
+		if(temp3 < 0)
+			temp3++
+		if(6*temp3<1)
+			blu = temp1 + (temp2 - temp1) * 6 * temp3
+		else if(2*temp3<1)
+			blu = temp2
+		else if(3*temp3<2)
+			blu = temp1 + (temp2 - temp1) * ((2/3) - temp3) * 6
+		else
+			blu = temp1
+
+	red = round(red*255, 1)
+	grn = round(grn*255, 1)
+	blu = round(blu*255, 1)
+
+	return list(
+		red,
+		grn,
+		blu,
+		)

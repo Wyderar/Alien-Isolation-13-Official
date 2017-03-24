@@ -24,8 +24,24 @@
 						src << "<span class = \"alium\">You sense [m]. They're alive and well at [get_area(m)]!</span>"
 
 /proc/alien_message(t)
+	var/list/messaged = list()
 	for (var/mob/m in alien_list)
-		if (m.client)
+		if (m.client && !messaged.Find(m.client))
+			messaged += m.client
+			if (m.stat == CONSCIOUS)
+				m << "<span class = 'alium'>[t]</span>"
+			else if (m.stat == UNCONSCIOUS)
+				if (prob(50))
+					m << "<span class = 'alium'>[t]</span>"
+				else
+					m << "<span class = 'alium'>You almost hear something over the hivemind...</span>"
+
+var/list/messaged = list()
+
+/proc/initial_alien_message(t)
+	for (var/mob/m in alien_list)
+		if (m.client && !messaged.Find(m.client))
+			messaged += m.client
 			if (m.stat == CONSCIOUS)
 				m << "<span class = 'alium'>[t]</span>"
 			else if (m.stat == UNCONSCIOUS)

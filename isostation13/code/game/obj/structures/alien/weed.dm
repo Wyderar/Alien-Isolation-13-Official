@@ -1,6 +1,26 @@
 var/list/weed_pool = list()
 
 
+proc/generate_weeds()
+	for (var/area/security/area in world)
+		if (area.z == 1)
+			for (var/turf/simulated/floor/floor in area)
+				if (prob(7))
+					new/obj/structure/alien/weed(floor, "")
+
+	for (var/area/medical/area in world)
+		if (area.z == 1)
+			for (var/turf/simulated/floor/floor in area)
+				if (prob(7))
+					new/obj/structure/alien/weed(floor, "")
+
+	for (var/area/engineering/area in world)
+		if (area.z == 1)
+			for (var/turf/simulated/floor/floor in area)
+				if (prob(7))
+					new/obj/structure/alien/weed(floor, "")
+
+
 proc/depool_weed(nloc, state)
 	var/obj/structure/alien/weed = pick(weed_pool)
 	weed_pool -= weed

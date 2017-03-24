@@ -37,8 +37,6 @@
 	/**
 	 * Config vars
 	 */
-	// Process name
-	var/name
 
 	// Process schedule interval
 	// This controls how often the process would run under ideal conditions.

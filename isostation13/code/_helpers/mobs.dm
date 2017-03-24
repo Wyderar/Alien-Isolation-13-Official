@@ -14,6 +14,17 @@
 /mob/get_mob()
 	return src
 
+/atom/proc/beyond_mob(var/mob/m)
+	switch (m.dir)
+		if (NORTH)
+			return y > m.y
+		if (SOUTH)
+			return y < m.y
+		if (EAST)
+			return x > m.x
+		if (WEST)
+			return x < m.x
+
 /proc/mobs_in_view(var/range, var/source)
 	var/list/mobs = list()
 	for(var/atom/movable/AM in view(range, source))
@@ -82,6 +93,10 @@ proc/random_name(gender, species = "Human")
 			return capitalize(pick(first_names_male)) + " " + capitalize(pick(last_names))
 	else
 		return current_species.get_random_name(gender)
+
+
+proc/randomHumanName(var/mob/living/carbon/human/H)
+	return random_name(H.gender, "Human")
 
 proc/random_skin_tone()
 	switch(pick(60;"caucasian", 15;"afroamerican", 10;"african", 10;"latino", 5;"albino"))

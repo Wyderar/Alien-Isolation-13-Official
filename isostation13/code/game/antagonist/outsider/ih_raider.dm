@@ -28,8 +28,6 @@ var/datum/antagonist/ih_raider/ih_raider
 	if(..())
 		deployed = 1
 
-
-
 /datum/antagonist/ih_raider/place_mob(var/mob/living/player)
 
 	player.forceMove(pick(ih_raider_spawn))
@@ -64,7 +62,7 @@ var/datum/antagonist/ih_raider/ih_raider
 /datum/antagonist/ih_raider/update_antag_mob(var/datum/mind/player)
 
 	..()
-
+/*
 	var/syndicate_commando_rank
 
 	if(leader && player == leader)
@@ -75,9 +73,9 @@ var/datum/antagonist/ih_raider/ih_raider
 	var/syndicate_commando_name = pick(last_names)
 
 	var/datum/preferences/A = new() //Randomize appearance for the commando.
-	A.randomize_appearance_for(player.current)
+	A.randomize_appearance_for(player.current)*/
 
-	player.name = "[syndicate_commando_rank] [syndicate_commando_name]"
+	player.name = randomHumanName(player)
 	player.current.name = player.name
 	player.current.real_name = player.current.name
 
