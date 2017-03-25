@@ -42,7 +42,6 @@ var/datum/antagonist/ih_raider/ih_raider
 	if(!..())
 		return
 
-
 	player.equip_to_slot_or_del(new /obj/item/clothing/under/color/black(player), slot_w_uniform)
 	player.equip_to_slot_or_del(new /obj/item/clothing/shoes/swat(player), slot_shoes)
 	player.equip_to_slot_or_del(new /obj/item/clothing/gloves/thick/swat(player), slot_gloves)
@@ -75,13 +74,15 @@ var/datum/antagonist/ih_raider/ih_raider
 	var/datum/preferences/A = new() //Randomize appearance for the commando.
 	A.randomize_appearance_for(player.current)*/
 
-	player.name = randomHumanName(player)
+	var/pgender = pick(MALE, FEMALE)
+
+	player.name = randomHumanName(pgender)
 	player.current.name = player.name
 	player.current.real_name = player.current.name
 
 	var/mob/living/carbon/human/H = player.current
 	if(istype(H))
-		H.gender = pick(MALE, FEMALE)
+		H.gender = pgender
 		H.age = rand(25,45)
 		H.dna.ready_dna(H)
 

@@ -96,8 +96,8 @@ proc/random_name(gender, species = "Human")
 		return current_species.get_random_name(gender)
 
 
-proc/randomHumanName(var/mob/living/carbon/human/H)
-	return random_name(H.gender, "Human")
+proc/randomHumanName(var/gender)
+	return random_name(gender, "Human")
 
 proc/random_skin_tone()
 	switch(pick(60;"caucasian", 15;"afroamerican", 10;"african", 10;"latino", 5;"albino"))

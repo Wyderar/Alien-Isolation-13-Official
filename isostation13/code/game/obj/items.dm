@@ -234,6 +234,8 @@
 
 // called when this item is added into a storage item, which is passed on as S. The loc variable is already set to the storage item.
 /obj/item/proc/on_enter_storage(obj/item/weapon/storage/S as obj)
+	layer = 20.00
+	plane = 2
 	return
 
 // called when "found" in pockets and storage items. Returns 1 if the search should end.
@@ -248,7 +250,7 @@
 
 //NOTE: unequipping is found in mob_inventory.dm, remove_from_mob()
 /obj/item/proc/equipped(var/mob/user, var/slot)
-	layer = 20
+	layer = 20.00
 	plane = 2
 	if(user.client)	user.client.screen |= src
 	if(user.pulling == src) user.stop_pulling()

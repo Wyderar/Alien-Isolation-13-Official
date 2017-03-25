@@ -9,7 +9,7 @@
 		lying = FALSE
 		regenerate_icons()
 		return FALSE
-	else
+	else if (transformed)
 		transformed = FALSE
 		regenerate_icons()
 
