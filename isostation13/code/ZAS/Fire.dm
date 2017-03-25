@@ -112,6 +112,7 @@ turf/proc/hotspot_expose(exposed_temperature, exposed_volume, soh = 0)
 	mouse_opacity = 0
 
 	blend_mode = BLEND_ADD
+	plane = 1//experimental
 
 	icon = 'icons/effects/fire.dmi'
 	icon_state = "1"

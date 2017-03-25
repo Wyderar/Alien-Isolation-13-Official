@@ -4,6 +4,9 @@
 	animate_movement = 2
 	flags = PROXMOVE
 
+	var/transformed = FALSE //when a clientless mob is transformed, they instantly start lying down, and stay lied down
+	// forever even when someone enters their corpse. This prevents falling over.
+
 	var/seen_by_hive = FALSE
 
 	var/datum/mind/mind

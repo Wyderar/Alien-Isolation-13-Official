@@ -17,6 +17,7 @@
 	var/mob/living/parentmob
 	var/process_flag = 0
 	var/hideflag = 0
+	plane = 2//experimental
 
 /obj/screen/New(_name = "unnamed", _screen_loc = "7,7", mob/living/_parentmob)
 	src.parentmob = _parentmob
@@ -322,6 +323,7 @@
 	src.icon_state = _icon_state
 	src.parentmob = _parentmob
 
+
 /obj/screen/inventory/Click()
 	// At this point in client Click() code we have passed the 1/10 sec check and little else
 	// We don't even know if it's a middle click
@@ -354,6 +356,7 @@
 /obj/screen/inventory/hand/New()
 	..()
 	update_icon()
+
 
 /obj/screen/inventory/hand/Click()
 	var/mob/living/carbon/C = parentmob

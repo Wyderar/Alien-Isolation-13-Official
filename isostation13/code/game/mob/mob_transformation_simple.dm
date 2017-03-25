@@ -28,6 +28,8 @@
 	else
 		M = new new_type( src.loc )
 
+	M.transformed = TRUE
+
 	if(!M || !ismob(M))
 		usr << "Type path is not a mob (new_type = [new_type]) in change_mob_type(). Contact a coder."
 		qdel(M)
@@ -53,6 +55,6 @@
 		H.set_species(subspecies)
 
 	if(delete_old_mob)
-		spawn(1)
+		spawn(0)
 			qdel(src)
 	return M

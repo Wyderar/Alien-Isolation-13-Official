@@ -119,6 +119,8 @@ var/global/datum/emergency_shuttle_controller/emergency_shuttle
 		priority_announcement.Announce("The scheduled crew transfer has been cancelled.")
 
 /datum/emergency_shuttle_controller/proc/can_call()
+	if (ticker && ticker.mode && istype(ticker.mode, /datum/game_mode/xeno/raid))
+		return FALSE
 	if (!universe.OnShuttleCall(null))
 		return FALSE
 	if (deny_shuttle)

@@ -4,10 +4,20 @@
 
 	..()
 
+
+	if (transformed && !mind)
+		lying = FALSE
+		regenerate_icons()
+		return FALSE
+	else
+		transformed = FALSE
+		regenerate_icons()
+
 	if (transforming)
 		return
 	if(!loc)
 		return
+
 	var/datum/gas_mixture/environment = loc.return_air()
 
 	if(stat != DEAD)
@@ -54,6 +64,8 @@
 	update_canmove()
 
 	handle_regular_hud_updates()
+
+	return TRUE
 
 /mob/living/proc/handle_breathing()
 	return

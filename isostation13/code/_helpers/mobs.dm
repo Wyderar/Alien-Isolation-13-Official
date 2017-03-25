@@ -24,6 +24,7 @@
 			return x > m.x
 		if (WEST)
 			return x < m.x
+	return FALSE
 
 /proc/mobs_in_view(var/range, var/source)
 	var/list/mobs = list()

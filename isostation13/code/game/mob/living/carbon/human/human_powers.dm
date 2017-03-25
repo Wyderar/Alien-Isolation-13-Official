@@ -64,7 +64,26 @@
 	if (!T)
 		T = locate(/mob/living) in loc
 
-	if(!T || T == src || isalien(T)) return
+	if(!T || T == src || !istype(T) || isalien(T)) return
+
+	var/obj/item/weapon/shield/shield = null
+	if (istype(T.r_hand, /obj/item/weapon/shield))
+		shield = T.r_hand
+	else
+		shield = T.l_hand
+	//tail impale is harder to block than leaping because it's an alpha skill, but there's still a 40-50% chance
+	if (shield)
+		if (istype(shield, /obj/item/weapon/shield/energy))
+			var/obj/item/weapon/shield/energy/energy = shield
+			if (energy.active)
+				if (prob(50))
+					src.visible_message("<span class='dainger'>\The [src]'s tail is blocked by [T]'s sheild!</span>")
+					return FALSE
+		else if (istype(shield))
+			if (prob(40))
+				src.visible_message("<span class='dainger'>\The [src]'s tail is blocked by [T]'s sheild!</span>")
+				return FALSE
+
 
 	last_special = world.time + pick(50,60)
 
@@ -103,6 +122,8 @@
 		++rechecks
 		if (rechecks > 5)
 			return
+
+	if (!istype(T)) return
 
 	if(!T || !src || src.stat) return
 
@@ -144,7 +165,7 @@
 					src.visible_message("<span class='dainger'>\The [src] is blocked by [T]'s sheild!</span>")
 					return FALSE
 
-		T.Weaken(rand(5,7))
+		T.Weaken(rand(7,9))
 
 		return TRUE
 

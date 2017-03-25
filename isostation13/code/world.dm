@@ -557,7 +557,7 @@ var/world_topic_spam_protect_time = world.timeofday
 	s += ")"
 	*/
 
-	var/features = list()
+	//var/features = list()
 /*
 	if(ticker)
 		if(master_mode)

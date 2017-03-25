@@ -20,6 +20,8 @@
 	ui_interact(user)
 
 /obj/machinery/computer/shuttle_control/ui_interact(mob/user, ui_key = "main", var/datum/nanoui/ui = null, var/force_open = 1)
+	var/no_shuttles = (ticker && ticker.mode && istype(ticker.mode, /datum/game_mode/xeno/raid))
+
 	var/data[0]
 	var/datum/shuttle/ferry/shuttle = shuttle_controller.shuttles[shuttle_tag]
 	if (!istype(shuttle))
@@ -34,7 +36,7 @@
 	var/shuttle_status
 	switch (shuttle.process_state)
 		if(IDLE_STATE)
-			if (shuttle.in_use)
+			if (shuttle.in_use || no_shuttles)
 				shuttle_status = "Busy."
 			else if (!shuttle.location)
 				shuttle_status = "Standing-by at station."

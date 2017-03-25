@@ -43,7 +43,7 @@
 		//	return
 
 	if (resuming_stage == STAGE_SOURCES /*|| !resumed*/)
-		if (currentrun_corners && currentrun_corners.len)
+	//	if (currentrun_corners && currentrun_corners.len)
 
 		currentrun_corners  = lighting_update_corners
 		lighting_update_corners  = list()

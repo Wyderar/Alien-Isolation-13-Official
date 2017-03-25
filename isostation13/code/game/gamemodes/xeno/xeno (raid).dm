@@ -54,7 +54,7 @@
 			antag.print_player_summary()
 		sleep(10)
 		print_ownerless_uplinks()
-
+/*
 
 	var/surviving_total = 0
 	var/ghosts = 0
@@ -75,16 +75,16 @@
 
 
 			if(isghost(M))
-				ghosts++
-
+				ghosts++*/
+/*
 	var/text = "<font size = 3>"
 	if(surviving_total > 0)
 		text += "<br>There [surviving_total>1 ? "were <b>[surviving_total] survivors</b>" : "was <b>one survivor</b>"]"
 		text += " (<b>[escaped_total>0 ? escaped_total : "none"] [emergency_shuttle.evac ? "escaped" : "transferred"]</b>) and <b>[ghosts] ghosts</b>.<br>"
 	else
 		text += "There were <b>no survivors</b> (<b>[ghosts] ghosts</b>)."
-	text += "</font>"
-	world << text
+	text += "</font>"*/
+//	world << text
 
 	var/xenos = 0
 
@@ -92,8 +92,8 @@
 		++xenos
 
 	if (xenos && xenos < 5)
-		world << "<span class = 'danger'>Xeno Minor Victory! (4 or less Xenomorphs survived)"
+		world << "<font size = 3><span class = 'danger'>Xeno Minor Victory! (4 or less Xenomorphs survived)</font>"
 	else if (xenos && xenos >= 5)
-		world << "<span class = 'danger'>Xeno Major Victory! (5 or more Xenomorphs survived)"
+		world << "<font size = 3><span class = 'danger'>Xeno Major Victory! (5 or more Xenomorphs survived)</font>"
 	else
-		world << "<span class = 'danger'>Ironhammer Major Victory! The Hive has been annihilated!"
+		world << "<font size = 3><span class = 'danger'>Ironhammer Major Victory! The Hive has been annihilated!</font>"

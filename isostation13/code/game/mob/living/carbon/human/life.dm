@@ -64,7 +64,8 @@
 	if(wearing_rig && wearing_rig.offline)
 		wearing_rig = null
 
-	..()
+	if (!..())
+		return
 
 	if(life_tick%30==15)
 		hud_updateflag = 1022

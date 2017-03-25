@@ -1129,6 +1129,7 @@
 #include "code\game\turf\simulated\wall_icon.dm"
 #include "code\game\turf\simulated\wall_types.dm"
 #include "code\game\turf\simulated\walls.dm"
+#include "code\game\turf\simulated\walls_goon.dm"
 #include "code\game\turf\space\space.dm"
 #include "code\game\turf\space\transit.dm"
 #include "code\game\turf\unsimulated\beach.dm"
@@ -2010,6 +2011,4 @@
 #include "interface\interface.dm"
 #include "interface\skin.dmf"
 #include "maps\CEV_Eris-1.dmm"
-#include "maps\CEV_Eris-2.dmm"
-#include "maps\CEV_Eris-3.dmm"
 // END_INCLUDE

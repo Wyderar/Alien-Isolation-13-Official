@@ -20,18 +20,15 @@
 
 /obj/item/weapon/flamethrower/advanced/flame_turf(turflist)
 	var/mob/owner = loc
-	if (owner)
+	if (owner && istype(owner))
 		if(!lit || operating)	return
 		operating = 1
 		for(var/turf/T in turflist)
 			if (!T.beyond_mob(owner))
 				continue
+			if (T == get_turf(owner))
+				continue
 			if(T.density || istype(T, /turf/space))
-				break
-			if(!previousturf && length(turflist)>1)
-				previousturf = get_turf(src)
-				continue	//so we don't burn the tile we be standin on
-			if(previousturf && LinkBlocked(previousturf, T))
 				break
 			ignite_turf(T)
 			sleep(1)

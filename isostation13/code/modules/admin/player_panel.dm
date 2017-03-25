@@ -123,7 +123,8 @@
 				<b>Rudimentary transformation:</b><font size=2><br>These transformations only create a new mob type and copy stuff over. They do not take into account MMIs and similar mob-specific things. The buttons in 'Transformations' are preferred, when possible.</font><br>
 				<A href='?src=\ref[src];simplemake=observer;mob=\ref[M]'>Observer</A> |
 				\[ Xenos: <A href='?src=\ref[src];simplemake=larva;mob=\ref[M]'>Larva</A>
-				<A href='?src=\ref[src];simplemake=human;species=Xenomorph;mob=\ref[M]'>Adult</A> \] |
+				<A href='?src=\ref[src];simplemake=human;species=Xenomorph;mob=\ref[M]'>Adult</A> \
+				<A href='?src=\ref[src];simplemake=human;species=Alpha Xenomorph;mob=\ref[M]'>Alpha</A> \] |
 				\[ Crew: <A href='?src=\ref[src];simplemake=human;mob=\ref[M]'>Human</A>
 				<A href='?src=\ref[src];simplemake=nymph;mob=\ref[M]'>Nymph</A>
 				<A href='?src=\ref[src];simplemake=workingjoe;mob=\ref[M]'>Working Joe</A>

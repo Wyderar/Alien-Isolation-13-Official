@@ -911,6 +911,7 @@ About the new airlock wires panel:
 	//	return
 	if(!can_open(forced))
 		return FALSE
+
 	use_power(360)	//360 W seems much more appropriate for an actuator moving an industrial door capable of crushing people
 
 	//if the door is unpowered then it doesn't make sense to hear the woosh of a pneumatic actuator
