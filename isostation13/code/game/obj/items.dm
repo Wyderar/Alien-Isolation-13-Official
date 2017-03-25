@@ -69,6 +69,7 @@
 	if(M.r_hand)
 		M.r_hand.update_held_icon()
 
+
 /obj/item/Destroy()
 	if(ismob(loc))
 		var/mob/m = loc
@@ -77,6 +78,7 @@
 		m.update_inv_l_hand()
 		src.loc = null
 	return ..()
+
 
 /obj/item/device
 	icon = 'icons/obj/device.dmi'
@@ -243,8 +245,11 @@
 // slot uses the slot_X defines found in setup.dm
 // for items that can be placed in multiple slots
 // note this isn't called during the initial dressing of a player
+
+//NOTE: unequipping is found in mob_inventory.dm, remove_from_mob()
 /obj/item/proc/equipped(var/mob/user, var/slot)
 	layer = 20
+	plane = 2
 	if(user.client)	user.client.screen |= src
 	if(user.pulling == src) user.stop_pulling()
 	return
