@@ -1,0 +1,315 @@
+
+
+Starting up. (ID: bMK-aCJl) 21:04.12
+---------------------
+[21:04:24] bMK-aCJl MISC: Failed to connect to database in load_admins(). Reverting to legacy system.
+[21:04:26] bMK-aCJl MISC: Database connection failed. Reverting to the legacy ban system.
+
+
+Starting up. (ID: bMK-aDyt) 21:09.33
+---------------------
+[21:09:36] bMK-aDyt MISC: Failed to connect to database in load_admins(). Reverting to legacy system.
+[21:09:36] bMK-aDyt MISC: Database connection failed. Reverting to the legacy ban system.
+[21:09:36] bMK-aDyt DEBUG: Rebuilding Master Controller
+
+
+Starting up. (ID: bMK-aDFN) 21:10.28
+---------------------
+[21:10:30] bMK-aDFN MISC: Failed to connect to database in load_admins(). Reverting to legacy system.
+[21:10:30] bMK-aDFN MISC: Database connection failed. Reverting to the legacy ban system.
+[21:10:30] bMK-aDFN DEBUG: Rebuilding Master Controller
+[21:11:20] bMK-aDyt DEBUG: The server has called a gamemode vote
+[21:12:01] bMK-aDFN DEBUG: The server has called a gamemode vote
+
+
+Starting up. (ID: bMK-aEGM) 21:16.41
+---------------------
+[21:16:43] bMK-aEGM ADMIN: Loading jobban_rank
+[21:16:43] bMK-aEGM ADMIN: jobban_keylist was empty
+[21:16:43] bMK-aEGM ADMIN: Loading Banlist
+[21:16:43] bMK-aEGM DEBUG: Rebuilding Master Controller
+[21:16:43] bMK-aEGM ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-4038160359 || BYOND v511
+[21:18:15] bMK-aEGM VOTE: Gamemode vote started by the server.
+[21:18:15] bMK-aEGM DEBUG: The server has called a gamemode vote
+[21:19:15] bMK-aEGM VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[21:19:45] bMK-aEGM ACCESS: Logout: Furry Chicken/(Furry Chicken)
+
+
+Starting up. (ID: bMK-aGhe) 21:26.57
+---------------------
+[21:26:59] bMK-aGhe ADMIN: Loading jobban_rank
+[21:26:59] bMK-aGhe ADMIN: jobban_keylist was empty
+[21:26:59] bMK-aGhe ADMIN: Loading Banlist
+[21:26:59] bMK-aGhe DEBUG: Rebuilding Master Controller
+[21:26:59] bMK-aGhe ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-4038160359 || BYOND v511
+[21:28:37] bMK-aGhe VOTE: Gamemode vote started by the server.
+[21:28:37] bMK-aGhe DEBUG: The server has called a gamemode vote
+[21:29:37] bMK-aGhe VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[21:29:45] bMK-aGhe ACCESS: Logout: Furry Chicken/(Furry Chicken)
+
+
+Starting up. (ID: bMK-aGUG) 21:31.12
+---------------------
+[21:31:15] bMK-aGUG ADMIN: Loading jobban_rank
+[21:31:15] bMK-aGUG ADMIN: jobban_keylist was empty
+[21:31:15] bMK-aGUG ADMIN: Loading Banlist
+[21:31:15] bMK-aGUG DEBUG: Rebuilding Master Controller
+[21:31:15] bMK-aGUG ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-4038160359 || BYOND v511
+[21:31:58] bMK-aGUG ACCESS: Logout: Furry Chicken/(Furry Chicken)
+
+
+Starting up. (ID: bMK-aHsv) 21:34.27
+---------------------
+[21:34:29] bMK-aHsv ADMIN: Loading jobban_rank
+[21:34:29] bMK-aHsv ADMIN: jobban_keylist was empty
+[21:34:29] bMK-aHsv ADMIN: Loading Banlist
+[21:34:29] bMK-aHsv DEBUG: Rebuilding Master Controller
+[21:34:29] bMK-aHsv ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-4038160359 || BYOND v511
+[21:35:15] bMK-aHsv ADMIN: Furry Chicken has started the game.
+[21:35:23] bMK-aHsv ACCESS: Logout: Furry Chicken/(Furry Chicken)
+
+
+Starting up. (ID: bMK-aH21) 21:38.24
+---------------------
+[21:38:28] bMK-aH21 ADMIN: Loading jobban_rank
+[21:38:28] bMK-aH21 ADMIN: jobban_keylist was empty
+[21:38:28] bMK-aH21 ADMIN: Loading Banlist
+[21:38:28] bMK-aH21 DEBUG: Rebuilding Master Controller
+[21:38:28] bMK-aH21 ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-4038160359 || BYOND v511
+[21:39:02] bMK-aH21 ADMIN: Furry Chicken has started the game.
+[21:39:36] bMK-aH21 ADMIN: Furry Chicken has started the game.
+[21:39:36] bMK-aH21 DEBUG: Furry Chicken had xeno enabled, so we are drafting them.
+[21:39:36] bMK-aH21 DEBUG: Furry Chicken has been selected for Xenomorph by lottery.
+[21:39:36] bMK-aH21 ACCESS: Logout: *no key*/(Furry Chicken)
+[21:39:36] bMK-aH21 ACCESS: Login: Furry Chicken/(Michelle Benford) from localhost-4038160359 || BYOND v511
+[21:39:36] bMK-aH21 DEBUG: The hive node at the alien larva (114) spawned without a proper DNA.
+[21:39:36] bMK-aH21 ACCESS: Logout: *no key*/(Michelle Benford)
+[21:39:36] bMK-aH21 ACCESS: Login: Furry Chicken/(alien larva (114)) from localhost-4038160359 || BYOND v511
+[21:39:36] bMK-aH21 DEBUG: Next event of severity Mundane in 14.988 minutes.
+[21:39:37] bMK-aH21 DEBUG: Next event of severity Moderate in 48.558 minutes.
+[21:39:37] bMK-aH21 DEBUG: Next event of severity Major in 91.845 minutes.
+[21:40:24] bMK-aH21 EMOTE: Ian/ : <B>Ian</B> dances around
+[21:41:29] bMK-aH21 EMOTE: Commander Clucky/ : <B>Commander Clucky</B> pecks at the ground.
+[21:41:51] bMK-aH21 EMOTE: Ian/ : <B>Ian</B> dances around
+[21:41:58] bMK-aH21 SAY: alien larva (114)/Furry Chicken : Yes
+[21:42:06] bMK-aH21 SAY: Betsy/ : moo?
+[21:43:02] bMK-aH21 EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[21:43:23] bMK-aH21 SAY: Commander Clucky/ : Cluck!
+[21:43:27] bMK-aH21 EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[21:43:52] bMK-aH21 SAY: Commander Clucky/ : Cluck!
+[21:43:54] bMK-aH21 EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[21:44:11] bMK-aH21 SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[21:45:32] bMK-aH21 SAY: Runtime/ : HSSSSS
+[21:45:34] bMK-aH21 EMOTE: chicken/ : <B>The chicken</B> clucks.
+[21:45:38] bMK-aH21 EMOTE: Ian/ : <B>Ian</B> dances around
+[21:46:11] bMK-aH21 EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[21:46:32] bMK-aH21 SAY: chicken/ : Cluck!
+[21:46:38] bMK-aH21 SAY: chicken/ : Cluck!
+[21:46:59] bMK-aH21 EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[21:47:16] bMK-aH21 SAY: Experiment 97d/ : EHEHEHEHEH
+[21:47:24] bMK-aH21 EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:47:47] bMK-aH21 EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:48:18] bMK-aH21 SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[21:48:27] bMK-aH21 SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[21:48:54] bMK-aH21 SAY: Experiment 97d/ : EHEHEHEHEH
+[21:48:58] bMK-aH21 EMOTE: chicken/ : <B>The chicken</B> clucks.
+[21:49:14] bMK-aH21 EMOTE: chicken/ : <B>The chicken</B> clucks.
+[21:49:27] bMK-aH21 EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[21:50:21] bMK-aH21 EMOTE: Commander Clucky/ : <B>Commander Clucky</B> pecks at the ground.
+[21:50:50] bMK-aH21 SAY: Runtime/ : Meow!
+[21:51:27] bMK-aH21 SAY: Ian/ : AUUUUUU
+[21:51:34] bMK-aH21 EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[21:52:01] bMK-aH21 EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[21:52:07] bMK-aH21 EMOTE: Commander Clucky/ : <B>Commander Clucky</B> clucks.
+[21:52:51] bMK-aH21 EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[21:52:57] bMK-aH21 ACCESS: Logout: *no key*/(alien larva (114))
+[21:52:57] bMK-aH21 ACCESS: Login: Furry Chicken/(alien sentinel (1)) from localhost-4038160359 || BYOND v511
+[21:53:02] bMK-aH21 GAME: Antagonists at round end were...
+[21:53:02] bMK-aH21 GAME: Larvas: Michelle Benford(Furry Chicken).
+[21:53:04] bMK-aH21 EMOTE: Commander Clucky/ : <B>Commander Clucky</B> flaps its wings viciously.
+[21:53:26] bMK-aH21 SAY: Betsy/ : MOOOOOO
+[21:54:06] bMK-aH21 ACCESS: Logout: Furry Chicken/(alien sentinel (1))
+
+
+Starting up. (ID: bMK-aK17) 21:57.57
+---------------------
+[21:57:59] bMK-aK17 ADMIN: Loading jobban_rank
+[21:57:59] bMK-aK17 ADMIN: jobban_keylist was empty
+[21:57:59] bMK-aK17 ADMIN: Loading Banlist
+[21:58:00] bMK-aK17 DEBUG: Rebuilding Master Controller
+[21:58:00] bMK-aK17 ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-4038160359 || BYOND v511
+[21:58:50] bMK-aK17 ADMIN: Furry Chicken has started the game.
+[21:58:58] bMK-aK17 ACCESS: Logout: *no key*/(Furry Chicken)
+[21:58:58] bMK-aK17 ACCESS: Login: Furry Chicken/(Michelle Benford) from localhost-4038160359 || BYOND v511
+[22:00:04] bMK-aK17 VOTE: Gamemode vote started by the server.
+[22:00:04] bMK-aK17 DEBUG: The server has called a gamemode vote
+[22:00:14] bMK-aK17 ADMIN: Furry Chicken/(Michelle Benford) has used rudimentary transformation on Furry Chicken/(Michelle Benford). Transforming to larva; deletemob=1
+[22:00:14] bMK-aK17 DEBUG: The hive node at the alien larva (481) spawned without a proper DNA.
+[22:00:14] bMK-aK17 ACCESS: Logout: *no key*/(Michelle Benford)
+[22:00:14] bMK-aK17 ACCESS: Login: Furry Chicken/(Michelle Benford) from localhost-4038160359 || BYOND v511
+[22:00:53] bMK-aK17 ADMIN: Furry Chicken/(Michelle Benford) told *no key*/(chicken) to man up and deal with it.
+[22:01:06] bMK-aK17 VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[22:01:53] bMK-aK17 ACCESS: Logout: *no key*/(Michelle Benford)
+[22:01:53] bMK-aK17 ACCESS: Login: Furry Chicken/(Michelle Benford) from localhost-4038160359 || BYOND v511
+[22:02:42] bMK-aK17 ADMIN: Furry Chicken/(Michelle Benford) told @Furry Chicken/(Michelle Benford) to man up and deal with it.
+[22:02:46] bMK-aK17 ADMIN: Furry Chicken/(Michelle Benford) told Furry Chicken/(Michelle Benford) to man up and deal with it.
+[22:02:51] bMK-aK17 ADMIN: Furry Chicken/(Michelle Benford) teleported @Furry Chicken/(Michelle Benford)
+[22:03:00] bMK-aK17 ADMIN: Furry Chicken/(Michelle Benford) teleported @Furry Chicken/(Michelle Benford)
+[22:03:06] bMK-aK17 ACCESS: Logout: *no key*/(Michelle Benford)
+[22:03:06] bMK-aK17 ACCESS: Login: Furry Chicken/(Michelle Benford) from localhost-4038160359 || BYOND v511
+[22:03:50] bMK-aK17 VOTE: Gamemode vote started by the server.
+[22:03:50] bMK-aK17 DEBUG: The server has called a gamemode vote
+[22:04:50] bMK-aK17 VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[22:07:32] bMK-aK17 VOTE: Gamemode vote started by the server.
+[22:07:32] bMK-aK17 DEBUG: The server has called a gamemode vote
+[22:08:05] bMK-aK17 ACCESS: Logout: Furry Chicken/(Michelle Benford)
+
+
+Starting up. (ID: bMK-aM4a) 22:11.00
+---------------------
+[22:11:04] bMK-aM4a ADMIN: Loading jobban_rank
+[22:11:04] bMK-aM4a ADMIN: jobban_keylist was empty
+[22:11:04] bMK-aM4a ADMIN: Loading Banlist
+[22:11:04] bMK-aM4a DEBUG: Rebuilding Master Controller
+[22:11:04] bMK-aM4a ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-4038160359 || BYOND v511
+[22:11:47] bMK-aM4a ADMIN: Furry Chicken has started the game.
+[22:11:58] bMK-aM4a ACCESS: Logout: *no key*/(Furry Chicken)
+[22:11:58] bMK-aM4a ACCESS: Login: Furry Chicken/(Michelle Benford) from localhost-4038160359 || BYOND v511
+[22:12:20] bMK-aM4a ADMIN: Furry Chicken/(Michelle Benford) has used rudimentary transformation on Furry Chicken/(Michelle Benford). Transforming to larva; deletemob=1
+[22:12:20] bMK-aM4a DEBUG: The hive node at the alien larva (577) spawned without a proper DNA.
+[22:12:20] bMK-aM4a ACCESS: Logout: *no key*/(Michelle Benford)
+[22:12:20] bMK-aM4a ACCESS: Login: Furry Chicken/(Michelle Benford) from localhost-4038160359 || BYOND v511
+[22:12:40] bMK-aM4a ACCESS: Logout: Furry Chicken/(Michelle Benford)
+
+
+Starting up. (ID: bMK-aNO1) 22:15.58
+---------------------
+[22:16:02] bMK-aNO1 ADMIN: Loading jobban_rank
+[22:16:02] bMK-aNO1 ADMIN: jobban_keylist was empty
+[22:16:02] bMK-aNO1 ADMIN: Loading Banlist
+[22:16:02] bMK-aNO1 DEBUG: Rebuilding Master Controller
+[22:16:02] bMK-aNO1 ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-4038160359 || BYOND v511
+[22:16:56] bMK-aNO1 ADMIN: Furry Chicken has started the game.
+
+
+Starting up. (ID: bMK-aN3p) 22:17.20
+---------------------
+[22:17:22] bMK-aN3p ADMIN: Loading jobban_rank
+[22:17:22] bMK-aN3p ADMIN: jobban_keylist was empty
+[22:17:22] bMK-aN3p ADMIN: Loading Banlist
+[22:17:22] bMK-aN3p DEBUG: Rebuilding Master Controller
+[22:17:22] bMK-aN3p ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-4038160359 || BYOND v511
+[22:17:25] bMK-aNO1 ADMIN: Furry Chicken has started the game.
+[22:17:25] bMK-aNO1 DEBUG: Furry Chicken had xeno enabled, so we are drafting them.
+[22:17:25] bMK-aNO1 DEBUG: Furry Chicken has been selected for Xenomorph by lottery.
+[22:17:25] bMK-aNO1 ACCESS: Logout: *no key*/(Furry Chicken)
+[22:17:25] bMK-aNO1 ACCESS: Login: Furry Chicken/(Michelle Benford) from localhost-4038160359 || BYOND v511
+[22:17:25] bMK-aNO1 DEBUG: The hive node at the alien larva (569) spawned without a proper DNA.
+[22:17:25] bMK-aNO1 ACCESS: Logout: *no key*/(Michelle Benford)
+[22:17:25] bMK-aNO1 ACCESS: Login: Furry Chicken/(alien larva (569)) from localhost-4038160359 || BYOND v511
+[22:17:25] bMK-aNO1 DEBUG: Next event of severity Mundane in 14.958 minutes.
+[22:17:28] bMK-aNO1 DEBUG: Next event of severity Moderate in 45.652 minutes.
+[22:17:28] bMK-aNO1 DEBUG: Next event of severity Major in 99.4883 minutes.
+[22:17:34] bMK-aNO1 SAY: Betsy/ : moo?
+[22:17:41] bMK-aNO1 SAY: chicken/ : Bwaak bwak.
+[22:18:02] bMK-aNO1 SAY: Ian/ : Woof!
+[22:18:08] bMK-aNO1 SAY: Ian/ : Woof!
+[22:18:37] bMK-aNO1 EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:18:55] bMK-aN3p ACCESS: Logout: Furry Chicken/(Furry Chicken)
+[22:19:31] bMK-aNO1 EMOTE: mouse (914)/ : <B>The mouse (914)</B> squeeks.
+[22:20:01] bMK-aNO1 SAY: mouse (914)/ : Squeek!
+[22:20:17] bMK-aNO1 EMOTE: chicken/ : <B>The chicken</B> clucks.
+[22:20:36] bMK-aNO1 SAY: mouse (914)/ : Squeek!
+[22:20:49] bMK-aNO1 EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[22:20:57] bMK-aNO1 SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[22:21:06] bMK-aNO1 EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[22:21:29] bMK-aNO1 SAY: Commander Clucky/ : BWAAAAARK BWAK BWAK BWAK!
+[22:21:51] bMK-aNO1 SAY: chicken/ : Cluck!
+[22:22:31] bMK-aNO1 SAY: Experiment 97d/ : eh?
+[22:22:39] bMK-aNO1 EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[22:23:00] bMK-aNO1 SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[22:23:29] bMK-aNO1 SAY: Runtime/ : HSSSSS
+[22:23:31] bMK-aNO1 EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[22:23:33] bMK-aNO1 EMOTE: chicken/ : <B>The chicken</B> clucks.
+[22:23:44] bMK-aNO1 EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[22:24:00] bMK-aNO1 EMOTE: Commander Clucky/ : <B>Commander Clucky</B> flaps its wings viciously.
+[22:24:21] bMK-aNO1 EMOTE: chicken/ : <B>The chicken</B> clucks.
+[22:24:21] bMK-aNO1 SAY: Experiment 97d/ : EHEHEHEHEH
+[22:24:28] bMK-aNO1 EMOTE: chicken/ : <B>The chicken</B> clucks.
+[22:24:42] bMK-aNO1 SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[22:25:17] bMK-aNO1 ACCESS: Logout: *no key*/(alien larva (569))
+[22:25:17] bMK-aNO1 ACCESS: Login: Furry Chicken/(alien creature (1)) from localhost-4038160359 || BYOND v511
+[22:25:20] bMK-aNO1 GAME: Antagonists at round end were...
+[22:25:20] bMK-aNO1 GAME: Larvas: Michelle Benford(Furry Chicken).
+[22:25:31] bMK-aNO1 ACCESS: Logout: Furry Chicken/(alien creature (1))
+
+
+Starting up. (ID: bMK-aR5c) 22:42.38
+---------------------
+[22:42:40] bMK-aR5c ADMIN: Loading jobban_rank
+[22:42:40] bMK-aR5c ADMIN: jobban_keylist was empty
+[22:42:40] bMK-aR5c ADMIN: Loading Banlist
+[22:42:40] bMK-aR5c DEBUG: Rebuilding Master Controller
+[22:42:40] bMK-aR5c ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-4038160359 || BYOND v511
+[22:43:19] bMK-aR5c ADMIN: Furry Chicken has started the game.
+[22:43:32] bMK-aR5c ADMIN: Furry Chicken has started the game.
+[22:43:33] bMK-aR5c DEBUG: Furry Chicken had xeno enabled, so we are drafting them.
+[22:43:33] bMK-aR5c DEBUG: Furry Chicken has been selected for Xenomorph by lottery.
+[22:43:33] bMK-aR5c ACCESS: Logout: *no key*/(Furry Chicken)
+[22:43:33] bMK-aR5c ACCESS: Login: Furry Chicken/(Michelle Benford) from localhost-4038160359 || BYOND v511
+[22:43:33] bMK-aR5c DEBUG: The hive node at the alien larva (869) spawned without a proper DNA.
+[22:43:33] bMK-aR5c ACCESS: Logout: *no key*/(Michelle Benford)
+[22:43:33] bMK-aR5c ACCESS: Login: Furry Chicken/(alien larva (869)) from localhost-4038160359 || BYOND v511
+[22:43:33] bMK-aR5c DEBUG: Next event of severity Mundane in 17.646 minutes.
+[22:43:33] bMK-aR5c DEBUG: Next event of severity Moderate in 51.66 minutes.
+[22:43:33] bMK-aR5c DEBUG: Next event of severity Major in 92.825 minutes.
+[22:43:39] bMK-aR5c SAY: chicken/ : Cluck!
+[22:43:59] bMK-aR5c ADMIN: Furry Chicken/(alien larva (869)) created 1 /mob/living/carbon/human/xhunter (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=80;Y=113;Z=1'>JMP</a>)
+[22:44:04] bMK-aR5c ACCESS: Logout: *no key*/(alien larva (869))
+[22:44:04] bMK-aR5c ACCESS: Login: Furry Chicken/(Michelle Benford) from localhost-4038160359 || BYOND v511
+[22:44:13] bMK-aR5c ADMIN: SubtlePM: Furry Chicken/(Michelle Benford) -> @Furry Chicken/(alien larva (869)) : jew
+[22:44:24] bMK-aR5c ACCESS: Logout: *no key*/(Michelle Benford)
+[22:44:24] bMK-aR5c ACCESS: Login: Furry Chicken/(alien larva (869)) from localhost-4038160359 || BYOND v511
+[22:44:45] bMK-aR5c EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:45:31] bMK-aR5c EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[22:46:02] bMK-aR5c EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:46:24] bMK-aR5c ACCESS: Logout: *no key*/(alien larva (869))
+[22:46:24] bMK-aR5c ACCESS: Login: Furry Chicken/(alien creature (1)) from localhost-4038160359 || BYOND v511
+[22:46:28] bMK-aR5c GAME: Antagonists at round end were...
+[22:46:28] bMK-aR5c GAME: Larvas: Michelle Benford(Furry Chicken).
+[22:46:54] bMK-aR5c ACCESS: Logout: Furry Chicken/(alien creature (1))
+
+
+Starting up. (ID: bMK-aUqF) 22:57.47
+---------------------
+[22:57:50] bMK-aUqF ADMIN: Loading jobban_rank
+[22:57:50] bMK-aUqF ADMIN: jobban_keylist was empty
+[22:57:50] bMK-aUqF ADMIN: Loading Banlist
+[22:57:50] bMK-aUqF DEBUG: Rebuilding Master Controller
+[22:57:50] bMK-aUqF ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-4038160359 || BYOND v511
+[22:58:50] bMK-aUqF ADMIN: Furry Chicken has started the game.
+[22:58:51] bMK-aUqF DEBUG: Furry Chicken had xeno enabled, so we are drafting them.
+[22:58:51] bMK-aUqF DEBUG: Furry Chicken has been selected for Xenomorph by lottery.
+[22:58:51] bMK-aUqF ACCESS: Logout: *no key*/(Furry Chicken)
+[22:58:51] bMK-aUqF ACCESS: Login: Furry Chicken/(Michelle Benford) from localhost-4038160359 || BYOND v511
+[22:58:52] bMK-aUqF DEBUG: The hive node at the alien larva (67) spawned without a proper DNA.
+[22:58:52] bMK-aUqF ACCESS: Logout: *no key*/(Michelle Benford)
+[22:58:52] bMK-aUqF ACCESS: Login: Furry Chicken/(alien larva (67)) from localhost-4038160359 || BYOND v511
+[22:58:52] bMK-aUqF DEBUG: Next event of severity Mundane in 16.056 minutes.
+[22:58:52] bMK-aUqF DEBUG: Next event of severity Moderate in 43.444 minutes.
+[22:58:52] bMK-aUqF DEBUG: Next event of severity Major in 97.7067 minutes.
+[22:59:11] bMK-aUqF SAY: chicken/ : Bwaak bwak.
+[22:59:33] bMK-aUqF EMOTE: Commander Clucky/ : <B>Commander Clucky</B> clucks.
+[22:59:56] bMK-aUqF SAY: Ian/ : AUUUUUU
+[23:00:00] bMK-aUqF SAY: chicken/ : Bwaak bwak.
+[23:00:23] bMK-aUqF SAY: Ian/ : YAP
+[23:00:37] bMK-aUqF SAY: chicken/ : Cluck!
+[23:00:40] bMK-aUqF EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[23:01:26] bMK-aUqF EMOTE: Ian/ : <B>Ian</B> dances around
+[23:01:28] bMK-aUqF SAY: Experiment 97d/ : EHEHEHEHEH
+[23:01:32] bMK-aUqF SAY: chicken/ : Bwaak bwak.
+[23:01:39] bMK-aUqF ACCESS: Logout: *no key*/(alien larva (67))
+[23:01:39] bMK-aUqF ACCESS: Login: Furry Chicken/(alien creature (1)) from localhost-4038160359 || BYOND v511
+[23:01:44] bMK-aUqF GAME: Antagonists at round end were...
+[23:01:44] bMK-aUqF GAME: Larvas: Michelle Benford(Furry Chicken).
+[23:01:51] bMK-aUqF ACCESS: Logout: Furry Chicken/(alien creature (1))

@@ -1,0 +1,2262 @@
+
+
+Starting up. (ID: bNv-dot2) 17:24.50
+---------------------
+[17:24:50] bNv-dot2 MISC: Saved mode is 'xeno_raid'
+[17:24:52] bNv-dot2 ADMIN: Loading jobban_rank
+[17:24:52] bNv-dot2 ADMIN: Loading Banlist
+[17:24:52] bNv-dot2 DEBUG: Rebuilding Master Controller
+[17:24:52] bNv-dot2 ACCESS: Login: Guest-4038160359/(Guest-4038160359) from localhost-4038160359 || BYOND v511
+[17:24:57] bNv-dot2 DEBUG: The hive node at Bloody Larva (540) spawned without a proper DNA.
+[17:24:57] bNv-dot2 DEBUG: The hive node at Bloody Larva (617) spawned without a proper DNA.
+[17:24:57] bNv-dot2 DEBUG: The hive node at Bloody Larva (432) spawned without a proper DNA.
+[17:24:57] bNv-dot2 DEBUG: The hive node at Bloody Larva (512) spawned without a proper DNA.
+[17:24:57] bNv-dot2 DEBUG: The hive node at Bloody Larva (50) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (347) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (817) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (956) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (54) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (920) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (872) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (942) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (143) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (552) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (767) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (677) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (417) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (278) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (825) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (267) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (248) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (41) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (423) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (110) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (460) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (728) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (684) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (920) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (790) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (64) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (245) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (354) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (242) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (57) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (230) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (406) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (162) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (160) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (592) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (560) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (623) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (431) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (874) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (347) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (327) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (118) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (100) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (972) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (401) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (281) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (829) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (550) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (96) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (110) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (574) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (285) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (645) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (682) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (800) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (309) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (252) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (5) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (664) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (180) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (93) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (47) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (600) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (65) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (963) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (296) spawned without a proper DNA.
+[17:24:58] bNv-dot2 DEBUG: The hive node at Bloody Larva (827) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (987) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (733) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (631) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (49) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (869) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (730) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (331) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (975) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (855) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (169) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (849) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (561) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (263) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (646) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (478) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (158) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (529) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (446) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (758) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (685) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (439) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (798) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (957) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (536) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (126) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (775) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (775) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (637) spawned without a proper DNA.
+[17:24:59] bNv-dot2 DEBUG: The hive node at Bloody Larva (819) spawned without a proper DNA.
+[17:26:12] bNv-dot2 ACCESS: Logout: Guest-4038160359/(Guest-4038160359)
+
+
+Starting up. (ID: bNv-do1V) 17:28.38
+---------------------
+[17:28:38] bNv-do1V MISC: Saved mode is 'xeno_raid'
+[17:28:41] bNv-do1V ADMIN: Loading jobban_rank
+[17:28:41] bNv-do1V ADMIN: Loading Banlist
+[17:28:41] bNv-do1V DEBUG: Rebuilding Master Controller
+[17:28:41] bNv-do1V ACCESS: Login: Cherkir/(Cherkir) from localhost-4038160359 || BYOND v511
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (121) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (944) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (510) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (856) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (579) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (530) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (736) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (704) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (32) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (755) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (396) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (353) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (774) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (990) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (633) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (721) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (642) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (202) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (350) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (992) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (743) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (66) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (898) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (693) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (987) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (751) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (637) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (642) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (276) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (750) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (272) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (392) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (925) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (913) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (355) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (515) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (24) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (538) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (713) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (358) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (150) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (837) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (231) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (675) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (683) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (552) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (386) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (397) spawned without a proper DNA.
+[17:28:47] bNv-do1V DEBUG: The hive node at Bloody Larva (606) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (963) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (621) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (509) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (725) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (458) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (57) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (948) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (536) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (342) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (647) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (24) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (788) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (405) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (689) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (673) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (718) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (473) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (41) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (16) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (687) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (597) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (747) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (623) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (50) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (589) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (124) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (134) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (485) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (474) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (842) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (701) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (250) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (697) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (312) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (866) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (29) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (986) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (62) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (162) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (520) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (403) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (279) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (676) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (64) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (668) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (932) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (828) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (392) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (54) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (669) spawned without a proper DNA.
+[17:28:48] bNv-do1V DEBUG: The hive node at Bloody Larva (472) spawned without a proper DNA.
+[17:31:23] bNv-do1V ADMIN: Cherkir/(Cherkir) delayed the game.
+[17:32:01] bNv-do1V ACCESS: Logout: Cherkir/(Cherkir)
+
+
+Starting up. (ID: bNv-dp5r) 17:34.49
+---------------------
+[17:34:49] bNv-dp5r MISC: Saved mode is 'xeno_raid'
+[17:34:51] bNv-dp5r ADMIN: Loading jobban_rank
+[17:34:51] bNv-dp5r ADMIN: Loading Banlist
+[17:34:51] bNv-dp5r DEBUG: Rebuilding Master Controller
+[17:34:52] bNv-dp5r ACCESS: Login: Cherkir/(Cherkir) from localhost-4038160359 || BYOND v511
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (648) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (289) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (430) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (649) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (654) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (93) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (912) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (764) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (65) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (804) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (55) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (956) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (69) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (40) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (405) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (108) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (43) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (811) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (690) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (736) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (131) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (860) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (928) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (106) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (539) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (171) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (54) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (630) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (846) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (239) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (462) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (837) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (608) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (747) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (491) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (639) spawned without a proper DNA.
+[17:34:56] bNv-dp5r DEBUG: The hive node at Bloody Larva (936) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (269) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (898) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (945) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (600) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (761) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (613) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (795) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (382) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (150) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (896) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (735) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (174) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (836) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (931) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (217) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (938) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (878) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (582) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (321) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (171) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (606) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (939) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (271) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (358) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (991) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (807) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (246) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (584) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (739) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (772) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (852) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (942) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (22) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (918) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (327) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (116) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (521) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (904) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (606) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (945) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (41) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (765) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (535) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (614) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (771) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (738) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (223) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (412) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (150) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (673) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (416) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (561) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (48) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (373) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (283) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (179) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (184) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (256) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (547) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (758) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (933) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (299) spawned without a proper DNA.
+[17:34:57] bNv-dp5r DEBUG: The hive node at Bloody Larva (260) spawned without a proper DNA.
+[17:35:31] bNv-dp5r ADMIN: Cherkir/(Cherkir) delayed the game.
+[17:36:46] bNv-dp5r ACCESS: Logout: Cherkir/(Cherkir)
+
+
+Starting up. (ID: bNv-dqKa) 17:39.10
+---------------------
+[17:39:10] bNv-dqKa MISC: Saved mode is 'xeno_raid'
+[17:39:12] bNv-dqKa ADMIN: Loading jobban_rank
+[17:39:12] bNv-dqKa ADMIN: Loading Banlist
+[17:39:12] bNv-dqKa DEBUG: Rebuilding Master Controller
+[17:39:12] bNv-dqKa ACCESS: Login: Cherkir/(Cherkir) from localhost-4038160359 || BYOND v511
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (485) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (777) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (46) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (955) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (399) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (269) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (467) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (316) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (467) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (348) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (786) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (980) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (791) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (619) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (223) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (733) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (2) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (734) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (927) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (388) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (682) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (433) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (884) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (391) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (755) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (534) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (242) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (2) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (878) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (298) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (488) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (680) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (760) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (725) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (642) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (103) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (731) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (39) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (28) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (537) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (115) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (887) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (398) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (192) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (53) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (21) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (856) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (317) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (137) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (99) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (327) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (149) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (429) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (774) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (776) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (128) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (149) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (512) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (563) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (234) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (66) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (17) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (512) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (174) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (275) spawned without a proper DNA.
+[17:39:17] bNv-dqKa DEBUG: The hive node at Bloody Larva (555) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (643) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (688) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (435) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (583) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (636) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (493) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (912) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (216) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (123) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (576) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (68) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (153) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (909) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (19) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (521) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (839) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (975) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (817) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (566) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (298) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (868) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (28) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (265) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (850) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (699) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (864) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (374) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (893) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (928) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (739) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (481) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (776) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (138) spawned without a proper DNA.
+[17:39:18] bNv-dqKa DEBUG: The hive node at Bloody Larva (940) spawned without a proper DNA.
+[17:39:50] bNv-dqKa ADMIN: Cherkir/(Cherkir) delayed the game.
+[17:42:02] bNv-dqKa ACCESS: Logout: Cherkir/(Cherkir)
+
+
+Starting up. (ID: bNv-dryY) 17:44.25
+---------------------
+[17:44:25] bNv-dryY MISC: Saved mode is 'xeno_raid'
+[17:44:27] bNv-dryY ADMIN: Loading jobban_rank
+[17:44:27] bNv-dryY ADMIN: Loading Banlist
+[17:44:28] bNv-dryY DEBUG: Rebuilding Master Controller
+[17:44:28] bNv-dryY ACCESS: Login: Cherkir/(Cherkir) from localhost-4038160359 || BYOND v511
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (152) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (127) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (436) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (611) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (105) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (21) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (890) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (456) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (892) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (109) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (563) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (91) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (695) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (934) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (975) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (445) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (292) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (108) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (606) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (489) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (204) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (809) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (299) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (554) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (404) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (966) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (305) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (198) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (340) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (896) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (968) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (994) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (173) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (679) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (740) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (688) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (292) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (758) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (566) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (952) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (699) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (285) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (984) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (144) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (677) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (374) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (732) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (35) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (346) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (960) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (223) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (517) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (982) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (623) spawned without a proper DNA.
+[17:44:33] bNv-dryY DEBUG: The hive node at Bloody Larva (140) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (845) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (906) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (985) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (228) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (7) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (510) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (707) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (737) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (463) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (792) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (492) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (480) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (661) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (938) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (282) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (434) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (596) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (881) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (256) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (103) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (401) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (165) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (472) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (54) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (788) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (147) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (523) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (45) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (605) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (548) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (282) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (222) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (933) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (47) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (857) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (189) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (184) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (164) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (232) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (663) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (44) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (884) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (168) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (813) spawned without a proper DNA.
+[17:44:34] bNv-dryY DEBUG: The hive node at Bloody Larva (100) spawned without a proper DNA.
+[17:45:26] bNv-dryY ACCESS: Logout: Cherkir/(Cherkir)
+
+
+Starting up. (ID: bNv-dsgl) 17:48.47
+---------------------
+[17:48:47] bNv-dsgl MISC: Saved mode is 'xeno_raid'
+[17:48:49] bNv-dsgl ADMIN: Loading jobban_rank
+[17:48:49] bNv-dsgl ADMIN: Loading Banlist
+[17:48:49] bNv-dsgl DEBUG: Rebuilding Master Controller
+[17:48:49] bNv-dsgl ACCESS: Login: Cherkir/(Cherkir) from localhost-4038160359 || BYOND v511
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (612) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (297) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (701) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (159) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (923) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (181) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (34) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (998) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (20) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (185) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (791) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (972) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (140) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (233) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (66) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (514) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (260) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (95) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (884) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (181) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (767) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (619) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (732) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (256) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (889) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (347) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (971) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (617) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (672) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (411) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (360) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (146) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (648) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (679) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (502) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (732) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (508) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (662) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (872) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (968) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (871) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (632) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (73) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (871) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (211) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (864) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (925) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (806) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (422) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (807) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (954) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (239) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (292) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (539) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (450) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (28) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (934) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (791) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (134) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (303) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (190) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (145) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (649) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (907) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (935) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (541) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (167) spawned without a proper DNA.
+[17:48:54] bNv-dsgl DEBUG: The hive node at Bloody Larva (943) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (8) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (523) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (342) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (556) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (548) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (130) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (235) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (825) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (300) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (132) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (248) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (480) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (884) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (176) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (111) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (419) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (233) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (850) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (168) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (449) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (121) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (218) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (196) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (94) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (796) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (226) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (762) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (247) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (369) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (215) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (975) spawned without a proper DNA.
+[17:48:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (800) spawned without a proper DNA.
+[17:50:38] bNv-dsgl ADMIN: Cherkir/(Cherkir) delayed the game.
+[17:54:52] bNv-dsgl ACCESS: Login: WarlordToby/(WarlordToby) from 188.238.24.167-2857508961 || BYOND v511
+[17:55:01] bNv-dsgl OOC: WarlordToby/WarlordToby : Hey Cherkir
+[17:55:08] bNv-dsgl OOC: WarlordToby/WarlordToby : I am still an admin
+[17:55:23] bNv-dsgl OOC: WarlordToby/WarlordToby : So, new gamemode? Neat
+[17:56:05] bNv-dsgl OOC: Cherkir/Cherkir : I removed you from the server list but never updated the config on my machine
+[17:56:12] bNv-dsgl OOC: WarlordToby/WarlordToby : Oh
+[17:56:15] bNv-dsgl OOC: WarlordToby/WarlordToby : Uh huh
+[17:56:20] bNv-dsgl OOC: Cherkir/Cherkir : doesn't really matter
+[17:56:29] bNv-dsgl OOC: Cherkir/Cherkir : I can also do that
+[17:56:31] bNv-dsgl OOC: WarlordToby/WarlordToby : Not that i would fuck around or anything
+[17:56:35] bNv-dsgl OOC: WarlordToby/WarlordToby : Aye
+[17:56:45] bNv-dsgl OOC: WarlordToby/WarlordToby : So, still using the old Eris ship or..?
+[17:56:50] bNv-dsgl OOC: Cherkir/Cherkir : yes
+[17:56:53] bNv-dsgl OOC: WarlordToby/WarlordToby : The Russians are making progress alright
+[17:57:05] bNv-dsgl OOC: Cherkir/Cherkir : yeah, we never ended up porting that stuff
+[17:57:24] bNv-dsgl OOC: WarlordToby/WarlordToby : Why? You got a neat agreement
+[17:57:52] bNv-dsgl OOC: Cherkir/Cherkir : lack of time on my part
+[17:57:56] bNv-dsgl OOC: Cherkir/Cherkir : nobody else codes anymore
+[17:58:14] bNv-dsgl OOC: WarlordToby/WarlordToby : Aww shit, must suck
+[17:58:17] bNv-dsgl OOC: WarlordToby/WarlordToby : So, anything new?
+[17:58:23] bNv-dsgl OOC: Cherkir/Cherkir : some things since you left, yes
+[17:58:33] bNv-dsgl OOC: Cherkir/Cherkir : can't recall exactly what
+[17:58:34] bNv-dsgl OOC: WarlordToby/WarlordToby : I left after cocoons, so...
+[17:58:42] bNv-dsgl OOC: Cherkir/Cherkir : well
+[17:58:46] bNv-dsgl OOC: Cherkir/Cherkir : not a huge amount, then
+[17:58:50] bNv-dsgl OOC: WarlordToby/WarlordToby : Aww shame
+[17:58:55] bNv-dsgl ADMIN: Cherkir has started the game.
+[17:58:55] bNv-dsgl OOC: WarlordToby/WarlordToby : What is planned to be done?
+[17:58:55] bNv-dsgl DEBUG: Cherkir had xeno_bloated enabled, so we are drafting them.
+[17:58:55] bNv-dsgl DEBUG: WarlordToby had xeno_bloated enabled, so we are drafting them.
+[17:58:55] bNv-dsgl DEBUG: WarlordToby has been selected for Xenomorph (Raid Mode) by lottery.
+[17:58:55] bNv-dsgl DEBUG: Cherkir has been selected for Xenomorph (Raid Mode) by lottery.
+[17:58:55] bNv-dsgl DEBUG: WarlordToby was selected for Xenomorph (Raid Mode) by lottery, but they already have a special role.
+[17:58:55] bNv-dsgl DEBUG: Cherkir was selected for Xenomorph (Raid Mode) by lottery, but they already have a special role.
+[17:58:55] bNv-dsgl DEBUG: Cherkir had ih_raider enabled, so we are drafting them.
+[17:58:55] bNv-dsgl DEBUG: WarlordToby had ih_raider enabled, so we are drafting them.
+[17:58:55] bNv-dsgl DEBUG: Cherkir/(Cherkir) is not eligible to become a Ironhammer Special Operative: They already have a special role (Xenomorph (Raid Mode))!
+[17:58:55] bNv-dsgl DEBUG: WarlordToby/(WarlordToby) is not eligible to become a Ironhammer Special Operative: They already have a special role (Xenomorph (Raid Mode))!
+[17:58:55] bNv-dsgl DEBUG: Cherkir was selected for Ironhammer Special Operative by lottery, but they already have a special role.
+[17:58:55] bNv-dsgl DEBUG: WarlordToby was selected for Ironhammer Special Operative by lottery, but they already have a special role.
+[17:58:55] bNv-dsgl ACCESS: Logout: *no key*/(Cherkir)
+[17:58:55] bNv-dsgl ACCESS: Login: Cherkir/(Jonathon Hooker) from localhost-4038160359 || BYOND v511
+[17:58:55] bNv-dsgl ACCESS: Logout: *no key*/(WarlordToby)
+[17:58:55] bNv-dsgl ACCESS: Login: WarlordToby/(Maxwell Hunter) from 188.238.24.167-2857508961 || BYOND v511
+[17:58:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (809) spawned without a proper DNA.
+[17:58:55] bNv-dsgl ACCESS: Logout: *no key*/(Maxwell Hunter)
+[17:58:55] bNv-dsgl ACCESS: Login: WarlordToby/(Bloody Larva (809)) from 188.238.24.167-2857508961 || BYOND v511
+[17:58:55] bNv-dsgl DEBUG: The hive node at Bloody Larva (910) spawned without a proper DNA.
+[17:58:55] bNv-dsgl ACCESS: Logout: *no key*/(Jonathon Hooker)
+[17:58:55] bNv-dsgl ACCESS: Login: Cherkir/(Bloody Larva (910)) from localhost-4038160359 || BYOND v511
+[17:58:55] bNv-dsgl DEBUG: Next event of severity Mundane in 17.884 minutes.
+[17:58:56] bNv-dsgl DEBUG: Next event of severity Moderate in 39.978 minutes.
+[17:58:56] bNv-dsgl DEBUG: Next event of severity Major in 97.0267 minutes.
+[17:58:57] bNv-dsgl SAY: chicken/ : Bwaak bwak.
+[17:59:01] bNv-dsgl GAME: Antagonists at round end were...
+[17:59:01] bNv-dsgl GAME: Larvas: Jonathon Hooker(Cherkir), Maxwell Hunter(WarlordToby).
+[17:59:01] bNv-dsgl OOC: Bloody Larva (910)/Cherkir : oh
+[17:59:02] bNv-dsgl OOC: Bloody Larva (910)/Cherkir : fuck
+[17:59:08] bNv-dsgl OOC: Bloody Larva (809)/WarlordToby : WE WON!
+[17:59:12] bNv-dsgl OOC: Bloody Larva (809)/WarlordToby : SHIT MATE YUS!
+[17:59:15] bNv-dsgl OOC: Bloody Larva (910)/Cherkir : well, this is the main priority for now
+[17:59:27] bNv-dsgl OOC: Bloody Larva (809)/WarlordToby : The... View thing is odd
+[17:59:39] bNv-dsgl OOC: Bloody Larva (809)/WarlordToby : I can rework it to have an alpha layer so that there is that... Field of view
+[17:59:45] bNv-dsgl EMOTE: Ian/ : <B>Ian</B> dances around
+[17:59:49] bNv-dsgl OOC: Bloody Larva (910)/Cherkir : ok
+[17:59:59] bNv-dsgl ADMIN: Cherkir/(Bloody Larva (910)) initiated a reboot.
+[18:00:02] bNv-dsgl ACCESS: Logout: Cherkir/(Bloody Larva (910))
+[18:00:02] bNv-dsgl ACCESS: Logout: WarlordToby/(Bloody Larva (809))
+
+
+Starting up. (ID: bNv-dudl) 18:01.33
+---------------------
+[18:01:33] bNv-dudl MISC: Saved mode is 'xeno_raid'
+[18:01:36] bNv-dudl ADMIN: Loading jobban_rank
+[18:01:36] bNv-dudl ADMIN: Loading Banlist
+[18:01:36] bNv-dudl DEBUG: Rebuilding Master Controller
+[18:01:36] bNv-dudl ACCESS: Login: Cherkir/(Cherkir) from localhost-4038160359 || BYOND v511
+[18:01:39] bNv-dudl ACCESS: Login: WarlordToby/(WarlordToby) from 188.238.24.167-2857508961 || BYOND v511
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (548) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (284) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (553) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (944) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (691) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (456) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (829) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (556) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (988) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (149) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (86) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (487) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (482) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (481) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (74) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (762) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (754) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (681) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (142) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (217) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (637) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (277) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (508) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (562) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (716) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (471) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (199) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (340) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (328) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (398) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (435) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (291) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (261) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (423) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (104) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (70) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (1) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (891) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (116) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (995) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (77) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (777) spawned without a proper DNA.
+[18:01:41] bNv-dudl DEBUG: The hive node at Bloody Larva (312) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (314) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (956) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (572) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (345) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (910) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (845) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (328) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (674) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (210) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (835) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (622) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (547) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (79) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (652) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (993) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (259) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (344) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (608) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (152) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (214) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (689) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (340) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (492) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (109) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (670) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (168) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (598) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (812) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (110) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (849) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (98) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (375) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (912) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (663) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (20) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (544) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (490) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (56) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (49) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (627) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (800) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (11) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (688) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (492) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (838) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (598) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (813) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (850) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (531) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (275) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (810) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (267) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (694) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (410) spawned without a proper DNA.
+[18:01:42] bNv-dudl DEBUG: The hive node at Bloody Larva (226) spawned without a proper DNA.
+[18:01:43] bNv-dudl DEBUG: The hive node at Bloody Larva (497) spawned without a proper DNA.
+[18:01:43] bNv-dudl DEBUG: The hive node at Bloody Larva (597) spawned without a proper DNA.
+[18:03:09] bNv-dudl OOC: WarlordToby/WarlordToby : So you xeno me marine?
+[18:03:26] bNv-dudl ACCESS: Login: Gingersockman/(Gingersockman) from 207.34.169.230-1179560265 || BYOND v511
+[18:03:29] bNv-dudl OOC: Cherkir/Cherkir : sure
+[18:04:12] bNv-dudl OOC: Cherkir/Cherkir : the settings is Ironhammer Special Operative
+[18:04:17] bNv-dudl OOC: Cherkir/Cherkir : setting*
+[18:04:18] bNv-dudl OOC: WarlordToby/WarlordToby : Alright, got it
+[18:04:30] bNv-dudl OOC: WarlordToby/WarlordToby : Did you ever fix the guns i added because that piece of shit github broke?
+[18:04:54] bNv-dudl OOC: WarlordToby/WarlordToby : Just some midnight typos, that is all
+[18:04:59] bNv-dudl OOC: WarlordToby/WarlordToby : Also forgot parenting
+[18:05:12] bNv-dudl DEBUG: Cherkir had xeno_bloated enabled, so we are drafting them.
+[18:05:12] bNv-dudl DEBUG: Cherkir has been selected for Xenomorph (Raid Mode) by lottery.
+[18:05:12] bNv-dudl DEBUG: Cherkir was selected for Xenomorph (Raid Mode) by lottery, but they already have a special role.
+[18:05:12] bNv-dudl DEBUG: WarlordToby had ih_raider enabled, so we are drafting them.
+[18:05:12] bNv-dudl DEBUG: WarlordToby has been selected for Ironhammer Special Operative by lottery.
+[18:05:12] bNv-dudl DEBUG: WarlordToby was selected for Ironhammer Special Operative by lottery, but they already have a special role.
+[18:05:12] bNv-dudl ACCESS: Logout: *no key*/(Cherkir)
+[18:05:12] bNv-dudl ACCESS: Login: Cherkir/(Jonathon Hooker) from localhost-4038160359 || BYOND v511
+[18:05:12] bNv-dudl ACCESS: Logout: *no key*/(WarlordToby)
+[18:05:12] bNv-dudl ACCESS: Login: WarlordToby/(Maxwell Hunter) from 188.238.24.167-2857508961 || BYOND v511
+[18:05:13] bNv-dudl ACCESS: Logout: *no key*/(Gingersockman)
+[18:05:13] bNv-dudl ACCESS: Login: Gingersockman/(NAN) from 207.34.169.230-1179560265 || BYOND v511
+[18:05:13] bNv-dudl DEBUG: The hive node at Bloody Larva (701) spawned without a proper DNA.
+[18:05:13] bNv-dudl ACCESS: Logout: *no key*/(Jonathon Hooker)
+[18:05:13] bNv-dudl ACCESS: Login: Cherkir/(Bloody Larva (701)) from localhost-4038160359 || BYOND v511
+[18:05:13] bNv-dudl DEBUG: Next event of severity Mundane in 12.794 minutes.
+[18:05:13] bNv-dudl DEBUG: Next event of severity Moderate in 44.944 minutes.
+[18:05:13] bNv-dudl DEBUG: Next event of severity Major in 86.3333 minutes.
+[18:05:19] bNv-dudl GAME: Antagonists at round end were...
+[18:05:19] bNv-dudl GAME: Larvas: Jonathon Hooker(Cherkir).
+[18:05:19] bNv-dudl GAME: Ironhammer Special Operatives: Major Walker(WarlordToby).
+[18:05:25] bNv-dudl ADMIN: Cherkir/(Bloody Larva (701)) delayed the round end.
+[18:05:27] bNv-dudl ACCESS: Logout: Gingersockman/(NAN)
+[18:05:29] bNv-dudl OOC: Bloody Larva (701)/Cherkir : well
+[18:05:30] bNv-dudl ACCESS: Login: Argos498/(Argos498) from 98.242.146.28-1713661293 || BYOND v511
+[18:05:33] bNv-dudl OOC: Bloody Larva (701)/Cherkir : what
+[18:05:35] bNv-dudl ACCESS: Logout: *no key*/(Bloody Larva (701))
+[18:05:35] bNv-dudl ACCESS: Login: Cherkir/(Jonathon Hooker) from localhost-4038160359 || BYOND v511
+[18:05:38] bNv-dudl SAY: Runtime/ : HSSSSS
+[18:05:44] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:05:44] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:05:46] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:05:46] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:05:48] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:05:48] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:05:52] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:05:52] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:05:54] bNv-dudl SAY: Runtime/ : HSSSSS
+[18:06:17] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:06:17] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:06:23] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:06:23] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:06:35] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:06:35] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:06:36] bNv-dudl OOC: Major Walker/WarlordToby : So
+[18:06:40] bNv-dudl OOC: Major Walker/WarlordToby : We are doing this?
+[18:06:42] bNv-dudl OOC: Argos498/Argos498 : End the ffffucking game
+[18:06:47] bNv-dudl OOC: Argos498/Argos498 : Or let me spawn smh
+[18:06:51] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:06:51] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:06:53] bNv-dudl EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[18:06:55] bNv-dudl OOC: Jonathon Hooker/Cherkir : one second
+[18:06:58] bNv-dudl OOC: Jonathon Hooker/Cherkir : a bug needs fixing
+[18:07:02] bNv-dudl OOC: Jonathon Hooker/Cherkir : this is a testing server by the way
+[18:07:14] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:07:14] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:07:30] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:07:30] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:07:32] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:07:32] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:07:47] bNv-dudl OOC: Argos498/Argos498 : I don't give a shit, let me sPAWN
+[18:07:48] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:07:48] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:07:54] bNv-dudl EMOTE: mouse (306)/ : <B>The mouse (306)</B> squiks.
+[18:07:56] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:07:56] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:07:58] bNv-dudl EMOTE: Commander Clucky/ : <B>Commander Clucky</B> flaps its wings viciously.
+[18:08:08] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:08:08] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:08:14] bNv-dudl EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[18:08:18] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:08:18] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:08:22] bNv-dudl SAY: chicken/ : Bwaak bwak.
+[18:08:26] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:08:26] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:08:28] bNv-dudl EMOTE: chicken/ : <B>The chicken</B> clucks.
+[18:08:40] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:08:40] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:08:54] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:08:54] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:08:56] bNv-dudl EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[18:08:58] bNv-dudl EMOTE: Ian/ : <B>Ian</B> dances around
+[18:09:02] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:09:02] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:09:10] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:09:10] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:09:14] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:09:14] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:09:24] bNv-dudl SAY: Commander Clucky/ : Cluck!
+[18:09:24] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:09:24] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:09:28] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:09:28] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:09:28] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:09:28] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:09:30] bNv-dudl EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[18:09:32] bNv-dudl EMOTE: Commander Clucky/ : <B>Commander Clucky</B> clucks.
+[18:09:32] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:09:32] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:09:36] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:09:36] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:09:44] bNv-dudl EMOTE: Commander Clucky/ : <B>Commander Clucky</B> clucks.
+[18:09:44] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:09:44] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:09:55] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:09:55] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:09:59] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:09:59] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:10:07] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:10:07] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:10:19] bNv-dudl EMOTE: Commander Clucky/ : <B>Commander Clucky</B> flaps its wings viciously.
+[18:10:21] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:10:21] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:10:23] bNv-dudl EMOTE: Ian/ : <B>Ian</B> dances around
+[18:10:27] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:10:27] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:10:29] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:10:29] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:10:31] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:10:31] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:10:35] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:10:35] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:10:43] bNv-dudl EMOTE: Aiden Otis/ : gasps!
+[18:10:43] bNv-dudl EMOTE: Aiden Otis/ : <B>Aiden Otis</B> gasps!
+[18:11:00] bNv-dudl OOC: Jonathon Hooker/Cherkir : no idea if this will work
+[18:11:17] bNv-dudl OOC: Jonathon Hooker/Cherkir : can you see if everything in the shuttle is alright before I restart?
+[18:11:36] bNv-dudl EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[18:11:37] bNv-dudl ADMIN: Cherkir/(Jonathon Hooker) teleported Argos498/(Argos498)
+[18:11:38] bNv-dudl SAY: Runtime/ : Purr!
+[18:12:00] bNv-dudl EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[18:12:40] bNv-dudl EMOTE: Betsy/ : <B>Betsy</B> brays.
+[18:12:50] bNv-dudl SAY: chicken/ : Bwaak bwak.
+[18:14:13] bNv-dudl SAY: chicken/ : Bwaak bwak.
+[18:14:36] bNv-dudl EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[18:14:50] bNv-dudl SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[18:15:04] bNv-dudl EMOTE: Ian/ : <B>Ian</B> dances around
+[18:15:12] bNv-dudl ADMIN: Cherkir/(Jonathon Hooker) initiated a reboot.
+[18:15:17] bNv-dudl ACCESS: Logout: Cherkir/(Jonathon Hooker)
+[18:15:17] bNv-dudl ACCESS: Logout: WarlordToby/(Major Walker)
+[18:15:17] bNv-dudl ACCESS: Logout: Argos498/(Argos498)
+
+
+Starting up. (ID: bNv-dwBj) 18:17.05
+---------------------
+[18:17:05] bNv-dwBj MISC: Saved mode is 'xeno_raid'
+[18:17:07] bNv-dwBj ADMIN: Loading jobban_rank
+[18:17:07] bNv-dwBj ADMIN: Loading Banlist
+[18:17:07] bNv-dwBj DEBUG: Rebuilding Master Controller
+[18:17:07] bNv-dwBj ACCESS: Login: Cherkir/(Cherkir) from localhost-4038160359 || BYOND v511
+[18:17:10] bNv-dwBj ACCESS: Login: Argos498/(Argos498) from 98.242.146.28-1713661293 || BYOND v511
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (521) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (227) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (409) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (414) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (736) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (338) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (506) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (774) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (582) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (187) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (786) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (321) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (860) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (766) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (128) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (82) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (468) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (515) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (232) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (798) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (767) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (438) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (591) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (307) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (551) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (911) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (409) spawned without a proper DNA.
+[18:17:12] bNv-dwBj DEBUG: The hive node at Bloody Larva (467) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (715) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (553) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (588) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (307) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (17) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (489) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (34) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (558) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (326) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (949) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (548) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (140) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (71) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (64) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (401) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (592) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (956) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (730) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (4) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (888) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (201) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (974) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (783) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (191) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (817) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (282) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (62) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (505) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (343) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (1) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (749) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (656) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (400) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (420) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (929) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (462) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (832) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (805) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (549) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (36) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (22) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (288) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (595) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (689) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (918) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (32) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (343) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (814) spawned without a proper DNA.
+[18:17:13] bNv-dwBj DEBUG: The hive node at Bloody Larva (556) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (318) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (805) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (536) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (70) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (119) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (419) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (562) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (632) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (703) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (793) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (686) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (64) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (984) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (501) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (47) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (863) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (183) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (960) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (795) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (864) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (606) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (319) spawned without a proper DNA.
+[18:17:14] bNv-dwBj DEBUG: The hive node at Bloody Larva (519) spawned without a proper DNA.
+[18:18:53] bNv-dwBj OOC: Cherkir/Cherkir : are your preferences
+[18:18:53] bNv-dwBj OOC: Cherkir/Cherkir : n
+[18:18:54] bNv-dwBj OOC: Cherkir/Cherkir : n
+[18:18:56] bNv-dwBj OOC: Cherkir/Cherkir : on
+[18:19:12] bNv-dwBj OOC: Argos498/Argos498 : sure
+[18:19:17] bNv-dwBj ADMIN: Cherkir has started the game.
+[18:19:17] bNv-dwBj DEBUG: Cherkir had ih_raider enabled, so we are drafting them.
+[18:19:17] bNv-dwBj DEBUG: Cherkir has been selected for Ironhammer Special Operative by lottery.
+[18:19:17] bNv-dwBj DEBUG: Cherkir was selected for Ironhammer Special Operative by lottery, but they already have a special role.
+[18:19:17] bNv-dwBj ACCESS: Logout: *no key*/(Cherkir)
+[18:19:17] bNv-dwBj ACCESS: Login: Cherkir/(Jonathon Hooker) from localhost-4038160359 || BYOND v511
+[18:19:17] bNv-dwBj ACCESS: Logout: *no key*/(Argos498)
+[18:19:17] bNv-dwBj ACCESS: Login: Argos498/(Lorem Maximilian) from 98.242.146.28-1713661293 || BYOND v511
+[18:19:18] bNv-dwBj DEBUG: Next event of severity Mundane in 15.248 minutes.
+[18:19:18] bNv-dwBj DEBUG: Next event of severity Moderate in 45.416 minutes.
+[18:19:18] bNv-dwBj DEBUG: Next event of severity Major in 91.3633 minutes.
+[18:20:06] bNv-dwBj SAY: chicken/ : Bwaak bwak.
+[18:20:39] bNv-dwBj EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:21:27] bNv-dwBj SAY: chicken/ : Cluck!
+[18:21:49] bNv-dwBj EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[18:21:57] bNv-dwBj SAY: Commander Clucky/ : Cluck!
+[18:21:57] bNv-dwBj SAY: Experiment 97d/ : EHEHEHEHEH
+[18:22:01] bNv-dwBj EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[18:22:21] bNv-dwBj SAY: Runtime/ : Purr!
+[18:22:49] bNv-dwBj EMOTE: chicken/ : <B>The chicken</B> clucks.
+[18:23:05] bNv-dwBj EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[18:23:05] bNv-dwBj EMOTE: Ian/ : <B>Ian</B> dances around
+[18:23:09] bNv-dwBj SAY: chicken/ : Cluck!
+[18:23:13] bNv-dwBj EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[18:23:21] bNv-dwBj EMOTE: Commander Clucky/ : <B>Commander Clucky</B> pecks at the ground.
+[18:24:18] bNv-dwBj EMOTE: Betsy/ : <B>Betsy</B> brays.
+[18:24:25] bNv-dwBj ADMIN: Cherkir/(Lieutenant Mingle) jumped to 69,106,4 in the Medbay - CMO's Office
+[18:24:32] bNv-dwBj SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[18:24:38] bNv-dwBj SAY: Lieutenant Mingle/Cherkir : Hey
+[18:25:09] bNv-dwBj SAY: chicken/ : Cluck!
+[18:25:21] bNv-dwBj EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[18:25:25] bNv-dwBj EMOTE: Commander Clucky/ : <B>Commander Clucky</B> clucks.
+[18:25:56] bNv-dwBj SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[18:26:59] bNv-dwBj OOC: Lieutenant Mingle/Cherkir : well
+[18:27:03] bNv-dwBj OOC: Lieutenant Mingle/Cherkir : test is over
+[18:27:08] bNv-dwBj EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[18:27:17] bNv-dwBj OOC: Lieutenant Mingle/Cherkir : bugs need fixing and nobody else joined so we can't really do much, no xenos
+[18:27:23] bNv-dwBj ADMIN: Cherkir/(Lieutenant Mingle) jumped to Argos498/(Lorem Maximilian)
+[18:27:26] bNv-dwBj EMOTE: Runtime/ : <B>Runtime</B> meows.
+[18:27:31] bNv-dwBj ATTACK: Cherkir/(Lieutenant Mingle) attacked Argos498/(Lorem Maximilian) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[18:27:39] bNv-dwBj EMOTE: chicken/ : <B>The chicken</B> clucks.
+[18:27:51] bNv-dwBj ATTACK: Cherkir/(Lieutenant Mingle) attacked Argos498/(Lorem Maximilian) with energy sword (INTENT: HELP) (DAMTYE: BRUTE)
+[18:27:52] bNv-dwBj ATTACK: Cherkir/(Lieutenant Mingle) attacked Argos498/(Lorem Maximilian) with energy sword (INTENT: HELP) (DAMTYE: BRUTE)
+[18:27:52] bNv-dwBj EMOTE: Lieutenant Maximilian/Argos498 : screams!
+[18:27:52] bNv-dwBj EMOTE: Lieutenant Maximilian/Argos498 : <B>Lieutenant Maximilian</B> screams!
+[18:27:54] bNv-dwBj ATTACK: Cherkir/(Lieutenant Mingle) attacked Argos498/(Lorem Maximilian) with energy sword (INTENT: HELP) (DAMTYE: BRUTE)
+[18:27:54] bNv-dwBj EMOTE: Lieutenant Maximilian/Argos498 : screams!
+[18:27:54] bNv-dwBj EMOTE: Lieutenant Maximilian/Argos498 : <B>Lieutenant Maximilian</B> screams!
+[18:27:55] bNv-dwBj EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[18:27:55] bNv-dwBj ATTACK: Cherkir/(Lieutenant Mingle) attacked Argos498/(Lorem Maximilian) with energy sword (INTENT: HELP) (DAMTYE: BRUTE)
+[18:27:55] bNv-dwBj EMOTE: Lieutenant Maximilian/Argos498 : screams!
+[18:27:55] bNv-dwBj EMOTE: Lieutenant Maximilian/Argos498 : <B>Lieutenant Maximilian</B> screams!
+[18:27:56] bNv-dwBj ATTACK: Cherkir/(Lieutenant Mingle) attacked Argos498/(Lorem Maximilian) with energy sword (INTENT: HELP) (DAMTYE: BRUTE)
+[18:27:56] bNv-dwBj EMOTE: Lieutenant Maximilian/Argos498 : screams!
+[18:27:56] bNv-dwBj EMOTE: Lieutenant Maximilian/Argos498 : <B>Lieutenant Maximilian</B> screams!
+[18:27:56] bNv-dwBj ATTACK: Cherkir/(Lieutenant Mingle) attacked Argos498/(Lorem Maximilian) with energy sword (INTENT: HELP) (DAMTYE: BRUTE)
+[18:27:57] bNv-dwBj EMOTE: Lieutenant Maximilian/Argos498 : gasps!
+[18:27:57] bNv-dwBj EMOTE: Lieutenant Maximilian/Argos498 : <B>Lieutenant Maximilian</B> gasps!
+[18:27:57] bNv-dwBj ATTACK: Cherkir/(Lieutenant Mingle) attacked Argos498/(Lorem Maximilian) with energy sword (INTENT: HELP) (DAMTYE: BRUTE)
+[18:27:58] bNv-dwBj ATTACK: Cherkir/(Lieutenant Mingle) attacked Argos498/(Lorem Maximilian) with energy sword (INTENT: HELP) (DAMTYE: BRUTE)
+[18:27:58] bNv-dwBj EMOTE: Lieutenant Maximilian/Argos498 : screams!
+[18:27:59] bNv-dwBj ATTACK: Cherkir/(Lieutenant Mingle) attacked Argos498/(Lorem Maximilian) with energy sword (INTENT: HELP) (DAMTYE: BRUTE)
+[18:28:15] bNv-dwBj ACCESS: Logout: Argos498/(Lorem Maximilian)
+[18:28:15] bNv-dwBj ACCESS: Logout: Cherkir/(Lieutenant Mingle)
+
+
+Starting up. (ID: bNv-dBC1) 18:49.02
+---------------------
+[18:49:02] bNv-dBC1 MISC: Saved mode is 'xeno_raid'
+[18:49:04] bNv-dBC1 ADMIN: Loading jobban_rank
+[18:49:04] bNv-dBC1 ADMIN: Loading Banlist
+[18:49:05] bNv-dBC1 DEBUG: Rebuilding Master Controller
+[18:49:05] bNv-dBC1 ACCESS: Login: Cherkir/(Cherkir) from localhost-4038160359 || BYOND v511
+[18:49:09] bNv-dBC1 DEBUG: The hive node at Bloody Larva (300) spawned without a proper DNA.
+[18:49:09] bNv-dBC1 DEBUG: The hive node at Bloody Larva (923) spawned without a proper DNA.
+[18:49:09] bNv-dBC1 DEBUG: The hive node at Bloody Larva (449) spawned without a proper DNA.
+[18:49:09] bNv-dBC1 DEBUG: The hive node at Bloody Larva (238) spawned without a proper DNA.
+[18:49:09] bNv-dBC1 DEBUG: The hive node at Bloody Larva (851) spawned without a proper DNA.
+[18:49:09] bNv-dBC1 DEBUG: The hive node at Bloody Larva (220) spawned without a proper DNA.
+[18:49:09] bNv-dBC1 DEBUG: The hive node at Bloody Larva (58) spawned without a proper DNA.
+[18:49:09] bNv-dBC1 DEBUG: The hive node at Bloody Larva (460) spawned without a proper DNA.
+[18:49:09] bNv-dBC1 DEBUG: The hive node at Bloody Larva (358) spawned without a proper DNA.
+[18:49:09] bNv-dBC1 DEBUG: The hive node at Bloody Larva (433) spawned without a proper DNA.
+[18:49:09] bNv-dBC1 DEBUG: The hive node at Bloody Larva (22) spawned without a proper DNA.
+[18:49:09] bNv-dBC1 DEBUG: The hive node at Bloody Larva (880) spawned without a proper DNA.
+[18:49:09] bNv-dBC1 DEBUG: The hive node at Bloody Larva (146) spawned without a proper DNA.
+[18:49:09] bNv-dBC1 DEBUG: The hive node at Bloody Larva (96) spawned without a proper DNA.
+[18:49:09] bNv-dBC1 DEBUG: The hive node at Bloody Larva (808) spawned without a proper DNA.
+[18:49:09] bNv-dBC1 DEBUG: The hive node at Bloody Larva (872) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (860) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (200) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (160) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (684) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (667) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (908) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (5) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (112) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (558) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (642) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (387) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (956) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (129) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (244) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (803) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (297) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (234) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (208) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (847) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (445) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (88) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (259) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (935) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (659) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (619) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (506) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (473) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (751) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (813) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (285) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (287) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (383) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (11) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (269) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (529) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (897) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (791) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (320) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (254) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (146) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (276) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (200) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (244) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (601) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (492) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (291) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (10) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (454) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (103) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (599) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (833) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (938) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (726) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (979) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (388) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (120) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (162) spawned without a proper DNA.
+[18:49:10] bNv-dBC1 DEBUG: The hive node at Bloody Larva (603) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (158) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (442) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (628) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (21) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (551) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (65) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (483) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (451) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (90) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (53) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (957) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (411) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (187) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (236) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (68) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (173) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (763) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (47) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (27) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (475) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (387) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (784) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (452) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (429) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (420) spawned without a proper DNA.
+[18:49:11] bNv-dBC1 DEBUG: The hive node at Bloody Larva (113) spawned without a proper DNA.
+[18:52:37] bNv-dBC1 DEBUG: Cherkir had xeno_bloated enabled, so we are drafting them.
+[18:52:37] bNv-dBC1 DEBUG: Cherkir has been selected for Xenomorph (Raid Mode) by lottery.
+[18:52:37] bNv-dBC1 DEBUG: Cherkir was selected for Xenomorph (Raid Mode) by lottery, but they already have a special role.
+[18:52:37] bNv-dBC1 DEBUG: Cherkir had ih_raider enabled, so we are drafting them.
+[18:52:37] bNv-dBC1 DEBUG: Cherkir/(Cherkir) is not eligible to become a Ironhammer Special Operative: They already have a special role (Xenomorph (Raid Mode))!
+[18:52:37] bNv-dBC1 DEBUG: Cherkir was selected for Ironhammer Special Operative by lottery, but they already have a special role.
+[18:52:37] bNv-dBC1 ACCESS: Logout: *no key*/(Cherkir)
+[18:52:37] bNv-dBC1 ACCESS: Login: Cherkir/(Jonathon Hooker) from localhost-4038160359 || BYOND v511
+[18:52:37] bNv-dBC1 DEBUG: The hive node at Bloody Larva (79) spawned without a proper DNA.
+[18:52:37] bNv-dBC1 ACCESS: Logout: *no key*/(Jonathon Hooker)
+[18:52:37] bNv-dBC1 ACCESS: Login: Cherkir/(Bloody Larva (79)) from localhost-4038160359 || BYOND v511
+[18:52:37] bNv-dBC1 DEBUG: Next event of severity Mundane in 14.554 minutes.
+[18:52:38] bNv-dBC1 DEBUG: Next event of severity Moderate in 52.032 minutes.
+[18:52:38] bNv-dBC1 DEBUG: Next event of severity Major in 87.4533 minutes.
+[18:52:41] bNv-dBC1 EMOTE: chicken/ : <B>The chicken</B> clucks.
+[18:52:43] bNv-dBC1 GAME: Antagonists at round end were...
+[18:52:43] bNv-dBC1 GAME: Larvas: Jonathon Hooker(Cherkir).
+[18:52:47] bNv-dBC1 ADMIN: Cherkir/(Bloody Larva (79)) delayed the round end.
+[18:52:54] bNv-dBC1 SAY: Ian/ : YAP
+[18:52:58] bNv-dBC1 SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[18:53:34] bNv-dBC1 SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[18:54:03] bNv-dBC1 EMOTE: Commander Clucky/ : <B>Commander Clucky</B> flaps its wings viciously.
+[18:54:13] bNv-dBC1 EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[18:54:35] bNv-dBC1 SAY: Commander Clucky/ : BWAAAAARK BWAK BWAK BWAK!
+[18:54:54] bNv-dBC1 SAY: Ian/ : Bark!
+[18:55:26] bNv-dBC1 EMOTE: chicken/ : <B>The chicken</B> clucks.
+[18:55:42] bNv-dBC1 EMOTE: Commander Clucky/ : <B>Commander Clucky</B> flaps its wings viciously.
+[18:55:55] bNv-dBC1 EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[18:56:05] bNv-dBC1 SAY: chicken/ : Bwaak bwak.
+[18:56:45] bNv-dBC1 SAY: Commander Clucky/ : Bwaak bwak.
+[18:56:45] bNv-dBC1 ADMIN: Cherkir/(Larva (79)) initiated a reboot.
+[18:56:50] bNv-dBC1 ACCESS: Logout: Cherkir/(Larva (79))
+
+
+Starting up. (ID: bNv-dC6j) 18:58.30
+---------------------
+[18:58:30] bNv-dC6j MISC: Saved mode is 'xeno_raid'
+[18:58:33] bNv-dC6j ADMIN: Loading jobban_rank
+[18:58:33] bNv-dC6j ADMIN: Loading Banlist
+[18:58:33] bNv-dC6j DEBUG: Rebuilding Master Controller
+[18:58:33] bNv-dC6j ACCESS: Login: Cherkir/(Cherkir) from localhost-4038160359 || BYOND v511
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (765) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (80) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (814) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (243) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (491) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (783) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (877) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (647) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (832) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (307) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (10) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (135) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (309) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (147) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (162) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (785) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (303) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (799) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (379) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (594) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (76) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (23) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (55) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (467) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (637) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (752) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (994) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (371) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (81) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (806) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (763) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (848) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (838) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (249) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (763) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (410) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (815) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (796) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (797) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (354) spawned without a proper DNA.
+[18:58:38] bNv-dC6j DEBUG: The hive node at Bloody Larva (409) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (451) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (818) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (614) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (622) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (133) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (234) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (75) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (580) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (399) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (83) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (897) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (547) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (179) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (377) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (696) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (5) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (850) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (461) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (142) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (467) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (397) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (231) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (914) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (425) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (549) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (654) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (595) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (880) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (501) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (230) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (921) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (106) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (170) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (19) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (260) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (46) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (343) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (616) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (166) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (11) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (806) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (417) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (343) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (886) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (179) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (401) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (672) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (479) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (579) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (856) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (781) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (232) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (897) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (37) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (451) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (767) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (487) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (219) spawned without a proper DNA.
+[18:58:39] bNv-dC6j DEBUG: The hive node at Bloody Larva (365) spawned without a proper DNA.
+[19:02:06] bNv-dC6j ACCESS: Login: Lucian977/(Lucian977) from 47.203.83.170-2199382645 || BYOND v511
+[19:02:30] bNv-dC6j ADMIN: Cherkir/(Cherkir) delayed the game.
+[19:02:36] bNv-dC6j OOC: Cherkir/Cherkir : we need a few people to start
+[19:02:41] bNv-dC6j OOC: Lucian977/Lucian977 : gotcha.
+[19:02:44] bNv-dC6j OOC: Lucian977/Lucian977 : what's the gamemode about?
+[19:02:45] bNv-dC6j OOC: Cherkir/Cherkir : make sure your prefs are set up
+[19:02:50] bNv-dC6j OOC: Cherkir/Cherkir : special ops vs xenos
+[19:03:08] bNv-dC6j OOC: Lucian977/Lucian977 : oh boy
+[19:07:50] bNv-dC6j OOC: Cherkir/Cherkir : well fuck it
+[19:07:54] bNv-dC6j OOC: Cherkir/Cherkir : might as well start now
+[19:08:53] bNv-dC6j OOC: Lucian977/Lucian977 : so what do I set my roles to?
+[19:08:54] bNv-dC6j ADMIN: Cherkir has started the game.
+[19:08:54] bNv-dC6j DEBUG: Cherkir had ih_raider enabled, so we are drafting them.
+[19:08:54] bNv-dC6j DEBUG: Cherkir has been selected for Ironhammer Special Operative by lottery.
+[19:08:54] bNv-dC6j DEBUG: Cherkir was selected for Ironhammer Special Operative by lottery, but they already have a special role.
+[19:08:54] bNv-dC6j ACCESS: Logout: *no key*/(Cherkir)
+[19:08:54] bNv-dC6j ACCESS: Login: Cherkir/(Jonathon Hooker) from localhost-4038160359 || BYOND v511
+[19:08:55] bNv-dC6j ACCESS: Logout: *no key*/(Lucian977)
+[19:08:55] bNv-dC6j ACCESS: Login: Lucian977/(Lance Griffith) from 47.203.83.170-2199382645 || BYOND v511
+[19:08:56] bNv-dC6j DEBUG: Next event of severity Mundane in 13.534 minutes.
+[19:08:56] bNv-dC6j DEBUG: Next event of severity Moderate in 52.656 minutes.
+[19:08:56] bNv-dC6j DEBUG: Next event of severity Major in 88.4083 minutes.
+[19:08:57] bNv-dC6j EMOTE: Ian/ : <B>Ian</B> dances around
+[19:09:03] bNv-dC6j OOC: Captain Fea/Cherkir : uh, just elite xeno
+[19:09:06] bNv-dC6j OOC: Lance Griffith/Lucian977 : Welp.
+[19:09:08] bNv-dC6j OOC: Captain Fea/Cherkir : rip
+[19:09:10] bNv-dC6j OOC: Lance Griffith/Lucian977 : Didn't set.
+[19:09:12] bNv-dC6j OOC: Lance Griffith/Lucian977 : whatever.
+[19:09:15] bNv-dC6j SAY: Betsy/ : MOOOOOO
+[19:09:16] bNv-dC6j OOC: Captain Fea/Cherkir : it doesn't seem to be ending anyway
+[19:09:25] bNv-dC6j OOC: Captain Fea/Cherkir : we should restart though
+[19:09:28] bNv-dC6j OOC: Captain Fea/Cherkir : so restarting
+[19:09:39] bNv-dC6j ADMIN: Cherkir/(Captain Fea) initiated a reboot.
+[19:09:44] bNv-dC6j ACCESS: Logout: Cherkir/(Captain Fea)
+[19:09:44] bNv-dC6j ACCESS: Logout: Lucian977/(Lance Griffith)
+
+
+Starting up. (ID: bNv-dE7j) 19:11.24
+---------------------
+[19:11:24] bNv-dE7j MISC: Saved mode is 'xeno_raid'
+[19:11:27] bNv-dE7j ADMIN: Loading jobban_rank
+[19:11:27] bNv-dE7j ADMIN: Loading Banlist
+[19:11:27] bNv-dE7j DEBUG: Rebuilding Master Controller
+[19:11:27] bNv-dE7j ACCESS: Login: Cherkir/(Cherkir) from localhost-4038160359 || BYOND v511
+[19:11:29] bNv-dE7j ACCESS: Login: Lucian977/(Lucian977) from 47.203.83.170-2199382645 || BYOND v511
+[19:11:32] bNv-dE7j DEBUG: The hive node at Bloody Larva (906) spawned without a proper DNA.
+[19:11:32] bNv-dE7j DEBUG: The hive node at Bloody Larva (735) spawned without a proper DNA.
+[19:11:32] bNv-dE7j DEBUG: The hive node at Bloody Larva (390) spawned without a proper DNA.
+[19:11:32] bNv-dE7j DEBUG: The hive node at Bloody Larva (795) spawned without a proper DNA.
+[19:11:32] bNv-dE7j DEBUG: The hive node at Bloody Larva (344) spawned without a proper DNA.
+[19:11:32] bNv-dE7j DEBUG: The hive node at Bloody Larva (243) spawned without a proper DNA.
+[19:11:32] bNv-dE7j DEBUG: The hive node at Bloody Larva (591) spawned without a proper DNA.
+[19:11:32] bNv-dE7j DEBUG: The hive node at Bloody Larva (355) spawned without a proper DNA.
+[19:11:32] bNv-dE7j DEBUG: The hive node at Bloody Larva (745) spawned without a proper DNA.
+[19:11:32] bNv-dE7j DEBUG: The hive node at Bloody Larva (441) spawned without a proper DNA.
+[19:11:32] bNv-dE7j DEBUG: The hive node at Bloody Larva (733) spawned without a proper DNA.
+[19:11:32] bNv-dE7j DEBUG: The hive node at Bloody Larva (667) spawned without a proper DNA.
+[19:11:32] bNv-dE7j DEBUG: The hive node at Bloody Larva (742) spawned without a proper DNA.
+[19:11:32] bNv-dE7j DEBUG: The hive node at Bloody Larva (919) spawned without a proper DNA.
+[19:11:32] bNv-dE7j DEBUG: The hive node at Bloody Larva (830) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (424) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (579) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (279) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (103) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (847) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (319) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (617) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (383) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (950) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (905) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (168) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (373) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (24) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (323) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (286) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (175) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (592) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (66) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (471) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (673) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (434) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (968) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (633) spawned without a proper DNA.
+[19:11:33] bNv-dE7j DEBUG: The hive node at Bloody Larva (184) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (992) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (32) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (50) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (798) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (829) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (377) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (273) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (291) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (133) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (53) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (475) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (447) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (403) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (173) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (829) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (400) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (753) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (291) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (406) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (281) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (551) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (415) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (194) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (611) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (398) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (386) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (72) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (74) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (344) spawned without a proper DNA.
+[19:11:34] bNv-dE7j DEBUG: The hive node at Bloody Larva (881) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (797) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (359) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (404) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (316) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (289) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (622) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (868) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (759) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (305) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (797) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (893) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (87) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (110) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (298) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (857) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (665) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (792) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (778) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (156) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (813) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (976) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (637) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (965) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (903) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (822) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (800) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (579) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (724) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (585) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (3) spawned without a proper DNA.
+[19:11:35] bNv-dE7j DEBUG: The hive node at Bloody Larva (508) spawned without a proper DNA.
+[19:12:32] bNv-dE7j OOC: Cherkir/Cherkir : alright, just set elite xeno
+[19:12:36] bNv-dE7j OOC: Cherkir/Cherkir : and I'll be special ops
+[19:12:54] bNv-dE7j OOC: Cherkir/Cherkir : tell me when ready
+[19:12:58] bNv-dE7j ADMIN: Cherkir/(Cherkir) delayed the game.
+[19:13:43] bNv-dE7j OOC: Lucian977/Lucian977 : okay, gimme a mometn
+[19:16:26] bNv-dE7j OOC: Cherkir/Cherkir : now?
+[19:16:34] bNv-dE7j OOC: Lucian977/Lucian977 : Trying to convince main server guys to come over.
+[19:16:46] bNv-dE7j OOC: Lucian977/Lucian977 : but alright, let's go.
+[19:17:11] bNv-dE7j ADMIN: Cherkir has started the game.
+[19:17:11] bNv-dE7j DEBUG: Lucian977 had xeno_bloated enabled, so we are drafting them.
+[19:17:11] bNv-dE7j DEBUG: Lucian977 has been selected for Elite Xenomorph by lottery.
+[19:17:11] bNv-dE7j DEBUG: Lucian977 was selected for Elite Xenomorph by lottery, but they already have a special role.
+[19:17:11] bNv-dE7j DEBUG: Cherkir had ih_raider enabled, so we are drafting them.
+[19:17:11] bNv-dE7j DEBUG: Cherkir has been selected for Ironhammer Special Operative by lottery.
+[19:17:11] bNv-dE7j DEBUG: Cherkir was selected for Ironhammer Special Operative by lottery, but they already have a special role.
+[19:17:11] bNv-dE7j ACCESS: Logout: *no key*/(Cherkir)
+[19:17:11] bNv-dE7j ACCESS: Login: Cherkir/(Jonathon Hooker) from localhost-4038160359 || BYOND v511
+[19:17:11] bNv-dE7j ACCESS: Logout: *no key*/(Lucian977)
+[19:17:11] bNv-dE7j ACCESS: Login: Lucian977/(Lance Griffith) from 47.203.83.170-2199382645 || BYOND v511
+[19:17:12] bNv-dE7j DEBUG: The hive node at Bloody Larva (285) spawned without a proper DNA.
+[19:17:12] bNv-dE7j ACCESS: Logout: *no key*/(Lance Griffith)
+[19:17:12] bNv-dE7j ACCESS: Login: Lucian977/(Bloody Larva (285)) from 47.203.83.170-2199382645 || BYOND v511
+[19:17:12] bNv-dE7j DEBUG: Next event of severity Mundane in 12.74 minutes.
+[19:17:13] bNv-dE7j DEBUG: Next event of severity Moderate in 37.15 minutes.
+[19:17:13] bNv-dE7j DEBUG: Next event of severity Major in 98.355 minutes.
+[19:17:38] bNv-dE7j EMOTE: Ian/ : <B>Ian</B> pants.
+[19:17:50] bNv-dE7j SAY: chicken/ : Bwaak bwak.
+[19:18:25] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[19:18:27] bNv-dE7j SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[19:18:51] bNv-dE7j EMOTE: Ian/ : <B>Ian</B> dances around
+[19:18:57] bNv-dE7j ACCESS: Login: Hap9786/(Hap9786) from 76.16.190.254-150031729 || BYOND v511
+[19:19:08] bNv-dE7j EMOTE: monkey (593)/ : screams!
+[19:19:08] bNv-dE7j EMOTE: monkey (593)/ : <B>The monkey (593)</B> screams!
+[19:19:11] bNv-dE7j SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[19:19:15] bNv-dE7j EMOTE: monkey (593)/ : gasps!
+[19:19:15] bNv-dE7j EMOTE: monkey (593)/ : <B>The monkey (593)</B> gasps!
+[19:19:20] bNv-dE7j ACCESS: Logout: *no key*/(Hap9786)
+[19:19:20] bNv-dE7j ACCESS: Login: Hap9786/(Kingston Lineman) from 76.16.190.254-150031729 || BYOND v511
+[19:19:21] bNv-dE7j EMOTE: monkey (593)/ : screams!
+[19:19:21] bNv-dE7j EMOTE: monkey (593)/ : <B>The monkey (593)</B> screams!
+[19:19:22] bNv-dE7j EMOTE: monkey (593)/ : screams!
+[19:19:22] bNv-dE7j EMOTE: monkey (593)/ : <B>The monkey (593)</B> screams!
+[19:19:22] bNv-dE7j EMOTE: monkey (593)/ : screams!
+[19:19:24] bNv-dE7j EMOTE: monkey (593)/ : gasps!
+[19:19:24] bNv-dE7j EMOTE: monkey (593)/ : <B>The monkey (593)</B> gasps!
+[19:19:34] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : gasps!
+[19:19:34] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : <B>Kingston Lineman</B> gasps!
+[19:19:34] bNv-dE7j EMOTE: monkey (593)/ : gasps!
+[19:19:34] bNv-dE7j EMOTE: monkey (593)/ : <B>The monkey (593)</B> gasps!
+[19:19:42] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[19:19:48] bNv-dE7j EMOTE: monkey (593)/ : gasps!
+[19:19:48] bNv-dE7j EMOTE: monkey (593)/ : <B>The monkey (593)</B> gasps!
+[19:19:48] bNv-dE7j EMOTE: monkey (593)/ : gasps!
+[19:19:48] bNv-dE7j EMOTE: monkey (593)/ : <B>The monkey (593)</B> gasps!
+[19:19:54] bNv-dE7j EMOTE: monkey (593)/ : gasps!
+[19:19:54] bNv-dE7j EMOTE: monkey (593)/ : <B>The monkey (593)</B> gasps!
+[19:19:56] bNv-dE7j EMOTE: monkey (593)/ : gasps!
+[19:19:56] bNv-dE7j EMOTE: monkey (593)/ : <B>The monkey (593)</B> gasps!
+[19:20:00] bNv-dE7j EMOTE: monkey (593)/ : gasps!
+[19:20:00] bNv-dE7j EMOTE: monkey (593)/ : <B>The monkey (593)</B> gasps!
+[19:20:02] bNv-dE7j EMOTE: Commander Clucky/ : <B>Commander Clucky</B> pecks at the ground.
+[19:20:06] bNv-dE7j EMOTE: monkey (593)/ : gasps!
+[19:20:06] bNv-dE7j EMOTE: monkey (593)/ : <B>The monkey (593)</B> gasps!
+[19:20:08] bNv-dE7j SAY: chicken/ : Cluck!
+[19:20:08] bNv-dE7j EMOTE: monkey (593)/ : gasps!
+[19:20:08] bNv-dE7j EMOTE: monkey (593)/ : <B>The monkey (593)</B> gasps!
+[19:20:10] bNv-dE7j EMOTE: monkey (593)/ : gasps!
+[19:20:10] bNv-dE7j EMOTE: monkey (593)/ : <B>The monkey (593)</B> gasps!
+[19:20:14] bNv-dE7j SAY: chicken/ : Bwaak bwak.
+[19:20:30] bNv-dE7j EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[19:20:37] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) jumped to Hap9786/(Kingston Lineman)
+[19:20:46] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[19:20:56] bNv-dE7j SAY: Experiment 97d/ : eh?
+[19:20:56] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : gasps!
+[19:20:56] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : <B>Kingston Lineman</B> gasps!
+[19:21:04] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : gasps!
+[19:21:04] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : <B>Kingston Lineman</B> gasps!
+[19:21:10] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : gasps!
+[19:21:10] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : <B>Kingston Lineman</B> gasps!
+[19:21:22] bNv-dE7j ACCESS: Logout: *no key*/(Larva (285))
+[19:21:22] bNv-dE7j ACCESS: Login: Lucian977/(Xenomorph (1)) from 47.203.83.170-2199382645 || BYOND v511
+[19:21:25] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : gasps!
+[19:21:25] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : <B>Kingston Lineman</B> gasps!
+[19:21:47] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : gasps!
+[19:21:47] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : <B>Kingston Lineman</B> gasps!
+[19:21:53] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : gasps!
+[19:21:53] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : <B>Kingston Lineman</B> gasps!
+[19:21:55] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : gasps!
+[19:21:55] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : <B>Kingston Lineman</B> gasps!
+[19:21:57] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : gasps!
+[19:21:57] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : <B>Kingston Lineman</B> gasps!
+[19:22:03] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : gasps!
+[19:22:03] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : <B>Kingston Lineman</B> gasps!
+[19:22:17] bNv-dE7j EMOTE: Commander Clucky/ : <B>Commander Clucky</B> clucks.
+[19:22:25] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : gasps!
+[19:22:25] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : <B>Kingston Lineman</B> gasps!
+[19:22:27] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : gasps!
+[19:22:27] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : <B>Kingston Lineman</B> gasps!
+[19:22:29] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) healed / Rrvived Hap9786/(Kingston Lineman)
+[19:22:36] bNv-dE7j OOC: (LOCAL) Kingston Lineman/Hap9786 : oh you fixed me
+[19:23:08] bNv-dE7j EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:23:26] bNv-dE7j SAY: Lieutenant Eliza/Cherkir : prank
+[19:23:30] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[19:23:38] bNv-dE7j SAY: Kingston Lineman/Hap9786 : prank my ass
+[19:23:49] bNv-dE7j ATTACK: Hap9786/(Kingston Lineman) shot (/obj/item/projectile/beam) Cherkir/(Lieutenant Eliza) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=121;Y=9;Z=1'>JMP</a>)
+[19:23:50] bNv-dE7j SAY: Lieutenant Eliza/Cherkir : let's go
+[19:23:51] bNv-dE7j SAY: Kingston Lineman/Hap9786 : PRANK
+[19:23:54] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[19:23:57] bNv-dE7j ATTACK: Hap9786/(Kingston Lineman) has punched Cherkir/(Lieutenant Eliza)
+[19:24:00] bNv-dE7j SAY: Kingston Lineman/Hap9786 : opss
+[19:24:00] bNv-dE7j SAY: Lieutenant Eliza/Cherkir : fuck you
+[19:24:06] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> clucks.
+[19:24:08] bNv-dE7j OOC: (LOCAL) Kingston Lineman/Hap9786 : lel
+[19:24:12] bNv-dE7j GAME: Liquid fuel has spilled in Ironhammer Special Operatives Base (119,9,1)
+[19:24:16] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> clucks.
+[19:24:16] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Hap9786/(Kingston Lineman) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:24:22] bNv-dE7j SAY: Lieutenant Eliza/Cherkir : JUST A PRANK
+[19:24:23] bNv-dE7j SAY: Lieutenant Eliza/Cherkir : BRO
+[19:24:32] bNv-dE7j OOC: Xenomorph (1)/Lucian977 : What's the IP for this?
+[19:24:34] bNv-dE7j SAY: Experiment 97d/ : eh?
+[19:24:36] bNv-dE7j GAME: Liquid fuel has spilled in Ironhammer Special Operatives Base (119,10,1)
+[19:24:37] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Hap9786/(Kingston Lineman) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:24:39] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Hap9786/(Kingston Lineman) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:24:39] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : screams!
+[19:24:39] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : <B>Kingston Lineman</B> screams!
+[19:24:39] bNv-dE7j ATTACK: Hap9786/(Kingston Lineman) has punched Cherkir/(Lieutenant Eliza)
+[19:24:40] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> clucks.
+[19:24:41] bNv-dE7j ATTACK: Hap9786/(Kingston Lineman) has punched Cherkir/(Lieutenant Eliza)
+[19:24:43] bNv-dE7j ATTACK: Hap9786/(Kingston Lineman) has punched Cherkir/(Lieutenant Eliza)
+[19:24:44] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Hap9786/(Kingston Lineman) with energy sword (INTENT: HELP) (DAMTYE: BRUTE)
+[19:24:45] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Hap9786/(Kingston Lineman) with energy sword (INTENT: HELP) (DAMTYE: BRUTE)
+[19:24:46] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Hap9786/(Kingston Lineman) with energy sword (INTENT: HELP) (DAMTYE: BRUTE)
+[19:24:47] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Hap9786/(Kingston Lineman) with energy sword (INTENT: HELP) (DAMTYE: BRUTE)
+[19:24:47] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : screams!
+[19:24:47] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : <B>Kingston Lineman</B> screams!
+[19:24:48] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Hap9786/(Kingston Lineman) with energy sword (INTENT: HELP) (DAMTYE: BRUTE)
+[19:24:48] bNv-dE7j ACCESS: Login: Budrockstar/(Budrockstar) from 70.30.134.153-1300942594 || BYOND v511
+[19:24:48] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Hap9786/(Kingston Lineman) with energy sword (INTENT: HELP) (DAMTYE: BRUTE)
+[19:24:49] bNv-dE7j OOC: Xenomorph (1)/Lucian977 : someone in main server wants
+[19:24:49] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Hap9786/(Kingston Lineman) with energy sword (INTENT: HELP) (DAMTYE: BRUTE)
+[19:24:50] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Hap9786/(Kingston Lineman) with energy sword (INTENT: HELP) (DAMTYE: BRUTE)
+[19:24:51] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Hap9786/(Kingston Lineman) with energy sword (INTENT: HELP) (DAMTYE: BRUTE)
+[19:24:51] bNv-dE7j EMOTE: Kingston Lineman/Hap9786 : screams!
+[19:24:52] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Hap9786/(Kingston Lineman) with energy sword (INTENT: HELP) (DAMTYE: BRUTE)
+[19:24:54] bNv-dE7j ADMIN: Hap9786/(Kingston Lineman) healed / revived Hap9786/(Kingston Lineman)
+[19:24:56] bNv-dE7j SAY: mouse (883)/ : Squeek?
+[19:24:57] bNv-dE7j ATTACK: Hap9786/(Kingston Lineman) attacked Cherkir/(Lieutenant Eliza) with energy sword (INTENT: HARM) (DAMTYE: BRUTE)
+[19:24:57] bNv-dE7j EMOTE: Lieutenant Eliza/Cherkir : screams!
+[19:24:57] bNv-dE7j EMOTE: Lieutenant Eliza/Cherkir : <B>Lieutenant Eliza</B> screams!
+[19:24:58] bNv-dE7j ATTACK: Hap9786/(Kingston Lineman) attacked Cherkir/(Lieutenant Eliza) with energy sword (INTENT: HARM) (DAMTYE: BRUTE)
+[19:24:59] bNv-dE7j ATTACK: Hap9786/(Kingston Lineman) attacked Cherkir/(Lieutenant Eliza) with energy sword (INTENT: HARM) (DAMTYE: BRUTE)
+[19:25:00] bNv-dE7j ATTACK: Hap9786/(Kingston Lineman) attacked Cherkir/(Lieutenant Eliza) with energy sword (INTENT: HARM) (DAMTYE: BRUTE)
+[19:25:03] bNv-dE7j ACCESS: Logout: *no key*/(Budrockstar)
+[19:25:03] bNv-dE7j ACCESS: Login: Budrockstar/(Thomas Johnson) from 70.30.134.153-1300942594 || BYOND v511
+[19:25:05] bNv-dE7j OOC: Lieutenant Eliza/Cherkir : byond://50.133.2.25:6007
+[19:25:09] bNv-dE7j EMOTE: Thomas Johnson/Budrockstar : gasps!
+[19:25:09] bNv-dE7j EMOTE: Thomas Johnson/Budrockstar : <B>Thomas Johnson</B> gasps!
+[19:25:10] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Hap9786/(Kingston Lineman) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:25:13] bNv-dE7j EMOTE: Thomas Johnson/Budrockstar : gasps!
+[19:25:13] bNv-dE7j EMOTE: Thomas Johnson/Budrockstar : <B>Thomas Johnson</B> gasps!
+[19:25:15] bNv-dE7j ACCESS: Logout: Lucian977/(Xenomorph (1))
+[19:25:16] bNv-dE7j ATTACK: Hap9786/(Kingston Lineman) attacked Cherkir/(Lieutenant Eliza) with energy sword (INTENT: HARM) (DAMTYE: BRUTE)
+[19:25:17] bNv-dE7j ATTACK: Hap9786/(Kingston Lineman) attacked Cherkir/(Lieutenant Eliza) with energy sword (INTENT: HARM) (DAMTYE: BRUTE)
+[19:25:18] bNv-dE7j ATTACK: Hap9786/(Kingston Lineman) attacked Cherkir/(Lieutenant Eliza) with energy sword (INTENT: HARM) (DAMTYE: BRUTE)
+[19:25:18] bNv-dE7j EMOTE: Lieutenant Eliza/Cherkir : screams!
+[19:25:19] bNv-dE7j SAY: Thomas Johnson/Budrockstar : DAFUQ
+[19:25:19] bNv-dE7j EMOTE: Lieutenant Eliza/Cherkir : gasps!
+[19:25:19] bNv-dE7j EMOTE: Lieutenant Eliza/Cherkir : <B>Lieutenant Eliza</B> gasps!
+[19:25:19] bNv-dE7j ATTACK: Hap9786/(Kingston Lineman) attacked Cherkir/(Lieutenant Eliza) with energy sword (INTENT: HARM) (DAMTYE: BRUTE)
+[19:25:20] bNv-dE7j ATTACK: Hap9786/(Kingston Lineman) attacked Cherkir/(Lieutenant Eliza) with energy sword (INTENT: HARM) (DAMTYE: BRUTE)
+[19:25:21] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) healed / Rrvived Cherkir/(Lieutenant Eliza)
+[19:25:21] bNv-dE7j ATTACK: Hap9786/(Kingston Lineman) attacked Cherkir/(Lieutenant Eliza) with energy sword (INTENT: HARM) (DAMTYE: BRUTE)
+[19:25:21] bNv-dE7j EMOTE: Lieutenant Eliza/Cherkir : screams!
+[19:25:21] bNv-dE7j EMOTE: Lieutenant Eliza/Cherkir : <B>Lieutenant Eliza</B> screams!
+[19:25:22] bNv-dE7j ATTACK: Hap9786/(Kingston Lineman) attacked Cherkir/(Lieutenant Eliza) with energy sword (INTENT: HARM) (DAMTYE: BRUTE)
+[19:25:29] bNv-dE7j SAY: chicken/ : Bwaak bwak.
+[19:25:35] bNv-dE7j EMOTE: Xenomorph (1)/Lucian977 : snores.
+[19:25:35] bNv-dE7j EMOTE: Xenomorph (1)/Lucian977 : <B>Xenomorph (1)</B> snores.
+[19:25:41] bNv-dE7j SAY: chicken/ : Cluck!
+[19:25:43] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) healed / Rrvived Cherkir/(Lieutenant Eliza)
+[19:25:43] bNv-dE7j SAY: Runtime/ : Meow!
+[19:25:46] bNv-dE7j SAY: Lieutenant Eliza/Cherkir : al-lr-righ-ht-t
+[19:25:49] bNv-dE7j SAY: Lieutenant Eliza/Cherkir : l-le's-s-s ac-ct-t-tual-ll-ly d-do t-th-his-s
+[19:25:59] bNv-dE7j ACCESS: Login: Lucian977/(Xenomorph (1)) from 47.203.83.170-2199382645 || BYOND v511
+[19:26:15] bNv-dE7j EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:26:29] bNv-dE7j EMOTE: Xenomorph (1)/Lucian977 : roars!
+[19:26:29] bNv-dE7j EMOTE: Xenomorph (1)/Lucian977 : <B>Xenomorph (1)</B> roars!
+[19:26:30] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[19:26:32] bNv-dE7j EMOTE: Ian/ : <B>Ian</B> barks.
+[19:26:32] bNv-dE7j SAY: Xenomorph (1)/Lucian977 : Fight me!
+[19:26:48] bNv-dE7j OOC: Lieutenant Eliza/Cherkir : are there any easy ways to get into the station?
+[19:26:53] bNv-dE7j OOC: Lieutenant Eliza/Cherkir : there aren't too many doors
+[19:26:54] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[19:27:01] bNv-dE7j OOC: Kingston Lineman/Hap9786 : well you can blow up a wall to get in
+[19:27:04] bNv-dE7j EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[19:27:17] bNv-dE7j OOC: Lieutenant Eliza/Cherkir : we need a way that doesn't involve breaching
+[19:27:28] bNv-dE7j OOC: Kingston Lineman/Hap9786 : maybe a shuttle
+[19:27:33] bNv-dE7j EMOTE: Ian/ : <B>Ian</B> dances around
+[19:27:36] bNv-dE7j OOC: Kingston Lineman/Hap9786 : going to the station
+[19:27:59] bNv-dE7j EMOTE: Ian/ : <B>Ian</B> dances around
+[19:28:10] bNv-dE7j OOC: Xenomorph (1)/Lucian977 : make a docking port from security or arrivals.
+[19:28:19] bNv-dE7j SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[19:28:23] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) jumped to 87,72,1 in Supply Shuttle Hangar
+[19:28:35] bNv-dE7j OOC: Thomas Johnson/Budrockstar : Maybe a docking port on the lower level of security?
+[19:28:36] bNv-dE7j EMOTE: Runtime/ : <B>Runtime</B> meows.
+[19:28:46] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[19:28:48] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) jumped to 83,68,1 in Supply Shuttle
+[19:28:52] bNv-dE7j EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[19:28:54] bNv-dE7j ADMIN: Hap9786/(Kingston Lineman) spawned /obj/item/weapon/shield/energy at (67,35,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=67;Y=35;Z=4'>JMP</a>)
+[19:29:10] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[19:29:15] bNv-dE7j ACCESS: Login: Dianite57/(Dianite57) from 108.237.73.216-4050700341 || BYOND v511
+[19:29:24] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) jumped to 43,30,1 in Aft Section Deck 1 Port Maintenance
+[19:29:38] bNv-dE7j SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[19:29:40] bNv-dE7j SAY: chicken/ : Bwaak bwak.
+[19:29:43] bNv-dE7j EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:30:00] bNv-dE7j OOC: Lieutenant Eliza/Cherkir : eh
+[19:30:01] bNv-dE7j SAY: chicken/ : Bwaak bwak.
+[19:30:05] bNv-dE7j OOC: Lieutenant Eliza/Cherkir : I might just give operatives hand teles
+[19:30:07] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[19:30:08] bNv-dE7j DEBUG: Next event of severity Mundane in 13.658 minutes.
+[19:30:08] bNv-dE7j DEBUG: Starting event 'Trivial News' of severity Mundane.
+[19:30:08] bNv-dE7j ADMIN: Hap9786/(Kingston Lineman) deleted the security flashlight at (0,0,0)
+[19:30:11] bNv-dE7j OOC: Thomas Johnson/Budrockstar : So whats the point of this right now?
+[19:30:13] bNv-dE7j EMOTE: Runtime/ : <B>Runtime</B> meows.
+[19:30:15] bNv-dE7j OOC: Lieutenant Eliza/Cherkir : it's just a test
+[19:30:17] bNv-dE7j SAY: chicken/ : Bwaak bwak.
+[19:30:19] bNv-dE7j EMOTE: Commander Clucky/ : <B>Commander Clucky</B> pecks at the ground.
+[19:30:21] bNv-dE7j OOC: Thomas Johnson/Budrockstar : ah
+[19:30:30] bNv-dE7j DEBUG: Event 'Trivial News' has completed at 08:13.
+[19:30:37] bNv-dE7j ACCESS: Logout: *no key*/(Dianite57)
+[19:30:37] bNv-dE7j ACCESS: Login: Dianite57/(Alexis Judge) from 108.237.73.216-4050700341 || BYOND v511
+[19:30:45] bNv-dE7j OOC: Kingston Lineman/Hap9786 : alpha xenos should not have leaps
+[19:30:49] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:30:49] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:30:52] bNv-dE7j OOC: Kingston Lineman/Hap9786 : because they are to big for the hallways
+[19:31:01] bNv-dE7j OOC: Kingston Lineman/Hap9786 : and if they jump they will just hit there own heads on it
+[19:31:03] bNv-dE7j OOC: Thomas Johnson/Budrockstar : Hehe
+[19:31:04] bNv-dE7j ACCESS: Logout: Dianite57/(Alexis Judge)
+[19:31:05] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[19:31:11] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:31:11] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:31:13] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:31:13] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:31:18] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) healed / Rrvived Cherkir/(Lieutenant Eliza)
+[19:31:27] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:31:27] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:31:34] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:31:34] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:31:38] bNv-dE7j ACCESS: Login: Dianite57/(Alexis Judge) from 108.237.73.216-4050700341 || BYOND v511
+[19:31:40] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:31:40] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:31:42] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[19:31:48] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> clucks.
+[19:31:52] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> clucks.
+[19:31:52] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:31:52] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:31:55] bNv-dE7j OOC: Lieutenant Eliza/Cherkir : do any ops need a teleport?
+[19:31:56] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[19:32:00] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:32:00] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:32:00] bNv-dE7j OOC: Thomas Johnson/Budrockstar : Moi
+[19:32:12] bNv-dE7j OOC: Alexis Judge/Dianite57 : i spawned and died of oxygen
+[19:32:13] bNv-dE7j OOC: Kingston Lineman/Hap9786 : i'm in the station, i guess i can have one
+[19:32:14] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:32:14] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:32:24] bNv-dE7j OOC: Alexis Judge/Dianite57 : right now
+[19:32:28] bNv-dE7j ADMIN: Hap9786/(Kingston Lineman) spawned /obj/item/weapon/hand_tele at (64,88,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=64;Y=88;Z=3'>JMP</a>)
+[19:32:30] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:32:30] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:32:48] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) toggled respawn to Off.
+[19:32:53] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) toggled respawn to On.
+[19:33:02] bNv-dE7j EMOTE: Runtime/ : <B>Runtime</B> mews.
+[19:33:16] bNv-dE7j OOC: Lieutenant Eliza/Cherkir : ghost and I'll let you respawn whenever
+[19:33:17] bNv-dE7j OOC: Alexis Judge/Dianite57 : how i respawn
+[19:33:19] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:33:19] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:33:21] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:33:21] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:33:26] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) teleported Budrockstar/(Thomas Johnson)
+[19:33:32] bNv-dE7j OOC: Kingston Lineman/Hap9786 : and half of the station is in atmos
+[19:33:32] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) teleported Hap9786/(Kingston Lineman)
+[19:33:34] bNv-dE7j SAY: Thomas Johnson/Budrockstar : Well
+[19:33:40] bNv-dE7j SAY: Thomas Johnson/Budrockstar : I love floating inside
+[19:33:41] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:33:41] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:33:43] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:33:43] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:33:47] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:33:47] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:33:53] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:33:53] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:33:54] bNv-dE7j OOC: Lieutenant Eliza/Cherkir : oh
+[19:33:57] bNv-dE7j EMOTE: Thomas Johnson/Budrockstar : gasps!
+[19:33:57] bNv-dE7j EMOTE: Thomas Johnson/Budrockstar : <B>Thomas Johnson</B> gasps!
+[19:33:59] bNv-dE7j EMOTE: Thomas Johnson/Budrockstar : gasps!
+[19:33:59] bNv-dE7j EMOTE: Thomas Johnson/Budrockstar : <B>Thomas Johnson</B> gasps!
+[19:33:59] bNv-dE7j OOC: Lieutenant Eliza/Cherkir : is gravity fucked
+[19:34:01] bNv-dE7j OOC: Alexis Judge/Dianite57 : can you teleport to me and finish me?
+[19:34:02] bNv-dE7j OOC: Lieutenant Eliza/Cherkir : everywhere?
+[19:34:03] bNv-dE7j SAY: Thomas Johnson/Budrockstar : Oh no air!
+[19:34:05] bNv-dE7j EMOTE: Commander Clucky/ : <B>Commander Clucky</B> flaps its wings viciously.
+[19:34:05] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:34:05] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:34:06] bNv-dE7j SAY: Thomas Johnson/Budrockstar : fun
+[19:34:09] bNv-dE7j SAY: Thomas Johnson/Budrockstar : fuck me bois
+[19:34:11] bNv-dE7j OOC: Lieutenant Eliza/Cherkir : ree what the hell
+[19:34:11] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:34:11] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:34:16] bNv-dE7j OOC: Xenomorph (1)/Lucian977 : are xenos affected by gravity?
+[19:34:24] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:34:24] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:34:26] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:34:26] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:34:31] bNv-dE7j OOC: Lieutenant Eliza/Cherkir : yes
+[19:34:34] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:34:34] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:34:38] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:34:38] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:34:40] bNv-dE7j OOC: Lieutenant Eliza/Cherkir : did you breach?
+[19:34:43] bNv-dE7j SAY: Thomas Johnson/Budrockstar : Air is good
+[19:34:43] bNv-dE7j OOC: Xenomorph (1)/Lucian977 : no
+[19:34:48] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:34:48] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:34:50] bNv-dE7j OOC: Alexis Judge/Dianite57 : can you teleport and finish me?
+[19:34:50] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:34:50] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:35:00] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:35:00] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:35:02] bNv-dE7j EMOTE: Ian/ : <B>Ian</B> dances around
+[19:35:02] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:35:02] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:35:05] bNv-dE7j SAY: Thomas Johnson/Budrockstar : Lets go!
+[19:35:06] bNv-dE7j OOC: Lieutenant Eliza/Cherkir : how so
+[19:35:06] bNv-dE7j OOC: Kingston Lineman/Hap9786 : oh nice found a airlock
+[19:35:17] bNv-dE7j OOC: Xenomorph (1)/Lucian977 : Airlocks don't like to open.
+[19:35:20] bNv-dE7j OOC: Kingston Lineman/Hap9786 : that has no power
+[19:35:24] bNv-dE7j OOC: Kingston Lineman/Hap9786 : they worj
+[19:35:26] bNv-dE7j EMOTE: Ian/ : <B>Ian</B> barks.
+[19:35:26] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:35:26] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:35:27] bNv-dE7j OOC: Kingston Lineman/Hap9786 : they work now
+[19:35:28] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:35:28] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:35:33] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:35:33] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:35:35] bNv-dE7j OOC: Kingston Lineman/Hap9786 : you just have to wait for a long time
+[19:35:40] bNv-dE7j ADMIN: Hap9786/(Kingston Lineman) jumped to 40,85,5 in Second Section Deck 5 Port Maintenance
+[19:35:46] bNv-dE7j ADMIN: Hap9786/(Kingston Lineman) jumped to 43,85,5 in Second Section Deck 5 Port Maintenance
+[19:35:47] bNv-dE7j GAME: <a href='?priv_msg=[0x5000001]'>Dianite57</a>/(Alexis Judge) has ghosted.
+[19:35:47] bNv-dE7j ACCESS: Logout: *no key*/(Alexis Judge)
+[19:35:47] bNv-dE7j ACCESS: Login: Dianite57/(Alexis Judge) from 108.237.73.216-4050700341 || BYOND v511
+[19:35:49] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:35:49] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:35:50] bNv-dE7j GAME: Liquid fuel has spilled in Security Office (76,126,2)
+[19:35:55] bNv-dE7j ADMIN: Hap9786/(Kingston Lineman) jumped to 49,88,5 in Second Section Deck 5 Port Maintenance
+[19:35:57] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:35:57] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:35:58] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) allowed Dianite57/(Alexis Judge) to bypass the 30 minute respawn limit
+[19:36:01] bNv-dE7j EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[19:36:07] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[19:36:12] bNv-dE7j ADMIN: HELP: Dianite57/(Alexis Judge): how i respawn
+[19:36:17] bNv-dE7j ADMIN: PM: Cherkir/(Lieutenant Eliza)->Dianite57/(Alexis Judge): click respawn
+[19:36:25] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) jumped to Lucian977/(Xenomorph (1))
+[19:36:30] bNv-dE7j ADMIN: PM: Hap9786/(Kingston Lineman)->Dianite57/(Alexis Judge): OOC &gt; respawn
+[19:36:35] bNv-dE7j EMOTE: Xenomorph (1)/Lucian977 : roars!
+[19:36:35] bNv-dE7j EMOTE: Xenomorph (1)/Lucian977 : <B>Xenomorph (1)</B> roars!
+[19:36:39] bNv-dE7j EMOTE: Xenomorph (1)/Lucian977 : roars!
+[19:36:39] bNv-dE7j EMOTE: Xenomorph (1)/Lucian977 : <B>Xenomorph (1)</B> roars!
+[19:36:39] bNv-dE7j OOC: Alexis Judge/Dianite57 : respawn
+[19:36:45] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:36:45] bNv-dE7j SAY: Lieutenant Eliza/Cherkir : ree
+[19:36:45] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:36:50] bNv-dE7j OOC: Kingston Lineman/Hap9786 : no it means ooc tab
+[19:36:59] bNv-dE7j OOC: Xenomorph (1)/Lucian977 : wen an op is teleported onto you
+[19:37:02] bNv-dE7j OOC: Alexis Judge/Dianite57 : oh
+[19:37:04] bNv-dE7j GAME: Alexis Judge/Dianite57 used abandon mob.
+[19:37:04] bNv-dE7j ACCESS: Logout: *no key*/(Alexis Judge)
+[19:37:04] bNv-dE7j ACCESS: Login: Dianite57/(new player) from 108.237.73.216-4050700341 || BYOND v511
+[19:37:10] bNv-dE7j ACCESS: Logout: *no key*/(new player)
+[19:37:10] bNv-dE7j ACCESS: Login: Dianite57/(Alexis Judge) from 108.237.73.216-4050700341 || BYOND v511
+[19:37:10] bNv-dE7j SAY: Thomas Johnson/Budrockstar : Ay
+[19:37:18] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:37:19] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:37:20] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:37:20] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:37:21] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:37:22] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:37:22] bNv-dE7j EMOTE: Lieutenant Eliza/Cherkir : screams!
+[19:37:22] bNv-dE7j EMOTE: Lieutenant Eliza/Cherkir : <B>Lieutenant Eliza</B> screams!
+[19:37:23] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:37:27] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:37:29] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:37:30] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:37:30] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:37:30] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:37:31] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:37:32] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:37:32] bNv-dE7j SAY: chicken/ : Cluck!
+[19:37:39] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:37:39] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:37:41] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:37:46] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:37:47] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:37:48] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:37:49] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:37:50] bNv-dE7j OOC: Alexis Judge/Dianite57 : i keep spawning an losing oxygen
+[19:37:57] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:37:57] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:37:59] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[19:38:03] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:38:04] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:38:05] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:38:05] bNv-dE7j EMOTE: Lieutenant Eliza/Cherkir : screams!
+[19:38:05] bNv-dE7j EMOTE: Lieutenant Eliza/Cherkir : <B>Lieutenant Eliza</B> screams!
+[19:38:08] bNv-dE7j GAME: <a href='?priv_msg=[0x5000001]'>Dianite57</a>/(Alexis Judge) has ghosted.
+[19:38:08] bNv-dE7j ACCESS: Logout: *no key*/(Alexis Judge)
+[19:38:08] bNv-dE7j ACCESS: Login: Dianite57/(Alexis Judge) from 108.237.73.216-4050700341 || BYOND v511
+[19:38:11] bNv-dE7j SAY: Thomas Johnson/Budrockstar : nope
+[19:38:13] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[19:38:13] bNv-dE7j ATTACK: Budrockstar/(Thomas Johnson) shot (/obj/item/projectile/beam/midlaser) Hap9786/(Kingston Lineman) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=85;Y=135;Z=5'>JMP</a>)
+[19:38:21] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:38:21] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:38:23] bNv-dE7j EMOTE: Lieutenant Eliza/Cherkir : <B>Lieutenant Eliza</B> is having trouble keeping their eyes open.
+[19:38:24] bNv-dE7j ADMIN: Hap9786/(Kingston Lineman) healed / revived Hap9786/(Kingston Lineman)
+[19:38:29] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) healed / Rrvived Cherkir/(Lieutenant Eliza)
+[19:38:29] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) healed / Rrvived Cherkir/(Lieutenant Eliza)
+[19:38:39] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:38:39] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:38:41] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:38:41] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:38:47] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:38:47] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:38:55] bNv-dE7j OOC: Alexis Judge/Dianite57 : i gotta wait 30 mins to respawn and i died to oxygen again
+[19:39:01] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) allowed Dianite57/(Alexis Judge) to bypass the 30 minute respawn limit
+[19:39:02] bNv-dE7j OOC: Kingston Lineman/Hap9786 : oh yeah i forgot i have cookies
+[19:39:06] bNv-dE7j OOC: Lieutenant Eliza/Cherkir : go upstairs right away
+[19:39:07] bNv-dE7j OOC: Kingston Lineman/Hap9786 : and i can spawn them on me
+[19:39:09] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:39:09] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:39:11] bNv-dE7j SAY: chicken/ : Bwaak bwak.
+[19:39:18] bNv-dE7j OOC: Alexis Judge/Dianite57 : i did
+[19:39:19] bNv-dE7j SAY: chicken/ : Cluck!
+[19:39:26] bNv-dE7j OOC: Xenomorph (1)/Lucian977 : shutters are up actually
+[19:39:29] bNv-dE7j OOC: Xenomorph (1)/Lucian977 : someone breached
+[19:39:29] bNv-dE7j ACCESS: Logout: Budrockstar/(Thomas Johnson)
+[19:39:29] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:39:29] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:39:33] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:39:33] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:39:33] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:39:33] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:39:35] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:39:35] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:39:37] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:39:37] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:39:39] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:39:39] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:39:44] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:39:44] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:39:45] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:39:50] bNv-dE7j SAY: chicken/ : Cluck!
+[19:39:52] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:39:55] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:39:55] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:39:57] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:39:57] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:39:57] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:39:58] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:39:59] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:39:59] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:40:00] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:40:00] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:40:00] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:40:02] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:40:02] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:40:02] bNv-dE7j OOC: (LOCAL) Xenomorph (1)/Lucian977 : ok
+[19:40:02] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:40:04] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:40:04] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:40:06] bNv-dE7j EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[19:40:07] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:40:07] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:40:10] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:40:11] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:40:11] bNv-dE7j ADMIN: ADMIN: Hap9786/(Kingston Lineman) : where are you guys
+[19:40:12] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:40:12] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:40:12] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:40:12] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:40:13] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:40:14] bNv-dE7j EMOTE: Thomas Johnson/Budrockstar : snores.
+[19:40:14] bNv-dE7j EMOTE: Thomas Johnson/Budrockstar : <B>Thomas Johnson</B> snores.
+[19:40:14] bNv-dE7j GAME: Liquid fuel has spilled in Third Section Hallway (75,60,3)
+[19:40:14] bNv-dE7j GAME: Liquid fuel has spilled in Third Section Hallway (75,60,3)
+[19:40:15] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:40:16] bNv-dE7j EMOTE: Commander Clucky/ : <B>Commander Clucky</B> pecks at the ground.
+[19:40:16] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:40:17] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:40:18] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:40:19] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:40:20] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:40:20] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:40:20] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:40:20] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:40:26] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:40:27] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:40:28] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:40:28] bNv-dE7j EMOTE: Lieutenant Eliza/Cherkir : screams!
+[19:40:28] bNv-dE7j EMOTE: Lieutenant Eliza/Cherkir : <B>Lieutenant Eliza</B> screams!
+[19:40:29] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:40:30] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:40:30] bNv-dE7j GAME: Liquid fuel has spilled in Third Section Hallway (76,60,3)
+[19:40:30] bNv-dE7j GAME: Liquid fuel has spilled in Third Section Hallway (76,60,3)
+[19:40:30] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:40:30] bNv-dE7j GAME: Liquid fuel has spilled in Third Section Hallway (76,60,3)
+[19:40:31] bNv-dE7j GAME: Liquid fuel has spilled in Third Section Hallway (76,60,3)
+[19:40:31] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:40:31] bNv-dE7j EMOTE: Lieutenant Eliza/Cherkir : screams!
+[19:40:31] bNv-dE7j EMOTE: Lieutenant Eliza/Cherkir : <B>Lieutenant Eliza</B> screams!
+[19:40:32] bNv-dE7j ATTACK: Cherkir/(Lieutenant Eliza) attacked Lucian977/(Xenomorph (1)) with flamethrower (INTENT: HELP) (DAMTYE: BRUTE)
+[19:40:33] bNv-dE7j GAME: Liquid fuel has spilled in Third Section Hallway (77,61,3)
+[19:40:34] bNv-dE7j GAME: Liquid fuel has spilled in Third Section Hallway (77,61,3)
+[19:40:34] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:40:34] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:40:35] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) has slashed Cherkir/(Lieutenant Eliza)
+[19:40:38] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:40:38] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:40:39] bNv-dE7j ACCESS: Login: TArixy/(TArixy) from 73.82.39.61-4140015354 || BYOND v511
+[19:40:42] bNv-dE7j ADMIN: ADMIN: Hap9786/(Kingston Lineman) : are you in a private room gangbaning?
+[19:40:42] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:40:42] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:40:42] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:40:42] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:40:44] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) grabbed the neck of Cherkir/(Lieutenant Eliza)
+[19:40:44] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:40:44] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:40:46] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:40:46] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:40:48] bNv-dE7j EMOTE: Thomas Johnson/Budrockstar : snores.
+[19:40:48] bNv-dE7j EMOTE: Thomas Johnson/Budrockstar : <B>Thomas Johnson</B> snores.
+[19:40:49] bNv-dE7j ATTACK: Lucian977/(Xenomorph (1)) strangled (kill intent) Cherkir/(Lieutenant Eliza)
+[19:40:50] bNv-dE7j ACCESS: Logout: *no key*/(TArixy)
+[19:40:50] bNv-dE7j ACCESS: Login: TArixy/(Miles Jardine) from 73.82.39.61-4140015354 || BYOND v511
+[19:40:51] bNv-dE7j ADMIN: ADMIN: Hap9786/(Kingston Lineman) : because i can tell from the attack logs
+[19:40:51] bNv-dE7j ACCESS: Logout: *no key*/(Lieutenant Eliza)
+[19:40:51] bNv-dE7j ACCESS: Login: Cherkir/(Lieutenant Eliza) from localhost-4038160359 || BYOND v511
+[19:40:51] bNv-dE7j ACCESS: Logout: *no key*/(Lieutenant Eliza)
+[19:40:51] bNv-dE7j ACCESS: Login: Cherkir/(Lieutenant Eliza) from localhost-4038160359 || BYOND v511
+[19:40:54] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:40:54] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:40:58] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:40:58] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:41:01] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:41:01] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:41:05] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:41:05] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:41:05] bNv-dE7j EMOTE: Miles Jardine/TArixy : gasps!
+[19:41:05] bNv-dE7j EMOTE: Miles Jardine/TArixy : <B>Miles Jardine</B> gasps!
+[19:41:07] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:41:07] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:41:15] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:41:15] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:41:17] bNv-dE7j EMOTE: Miles Jardine/TArixy : gasps!
+[19:41:17] bNv-dE7j EMOTE: Miles Jardine/TArixy : <B>Miles Jardine</B> gasps!
+[19:41:24] bNv-dE7j SAY: chicken/ : Bwaak bwak.
+[19:41:24] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:41:24] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:41:24] bNv-dE7j EMOTE: Miles Jardine/TArixy : gasps!
+[19:41:24] bNv-dE7j EMOTE: Miles Jardine/TArixy : <B>Miles Jardine</B> gasps!
+[19:41:26] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:41:26] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:41:27] bNv-dE7j SAY: Ghost/Cherkir : rip me
+[19:41:28] bNv-dE7j EMOTE: Miles Jardine/TArixy : gasps!
+[19:41:28] bNv-dE7j EMOTE: Miles Jardine/TArixy : <B>Miles Jardine</B> gasps!
+[19:41:30] bNv-dE7j EMOTE: Miles Jardine/TArixy : gasps!
+[19:41:30] bNv-dE7j EMOTE: Miles Jardine/TArixy : <B>Miles Jardine</B> gasps!
+[19:41:34] bNv-dE7j ADMIN: DSAY: Hap9786/(Kingston Lineman) : hmm?
+[19:41:37] bNv-dE7j OOC: Alexis Judge/Dianite57 : let me respawn one more time?
+[19:41:37] bNv-dE7j GAME: <a href='?priv_msg=[0x5000003]'>TArixy</a>/(Miles Jardine) has ghosted.
+[19:41:37] bNv-dE7j ACCESS: Logout: *no key*/(Miles Jardine)
+[19:41:37] bNv-dE7j ACCESS: Login: TArixy/(Miles Jardine) from 73.82.39.61-4140015354 || BYOND v511
+[19:41:40] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:41:40] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:41:42] bNv-dE7j EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:41:42] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:41:42] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:41:44] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:41:44] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:41:46] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:41:46] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:41:48] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:41:48] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:41:48] bNv-dE7j EMOTE: Miles Jardine/ : gasps!
+[19:41:48] bNv-dE7j EMOTE: Miles Jardine/ : <B>Miles Jardine</B> gasps!
+[19:41:52] bNv-dE7j EMOTE: chicken/ : <B>The chicken</B> clucks.
+[19:42:02] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:42:02] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:42:02] bNv-dE7j EMOTE: Miles Jardine/ : gasps!
+[19:42:02] bNv-dE7j EMOTE: Miles Jardine/ : <B>Miles Jardine</B> gasps!
+[19:42:04] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:42:04] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:42:04] bNv-dE7j EMOTE: Miles Jardine/ : gasps!
+[19:42:04] bNv-dE7j EMOTE: Miles Jardine/ : <B>Miles Jardine</B> gasps!
+[19:42:06] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:42:06] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:42:08] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:42:08] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:42:10] bNv-dE7j EMOTE: Miles Jardine/ : gasps!
+[19:42:10] bNv-dE7j EMOTE: Miles Jardine/ : <B>Miles Jardine</B> gasps!
+[19:42:10] bNv-dE7j EMOTE: Alexis Judge/ : gasps!
+[19:42:10] bNv-dE7j EMOTE: Alexis Judge/ : <B>Alexis Judge</B> gasps!
+[19:42:12] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:42:12] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:42:22] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) allowed Dianite57/(Alexis Judge) to bypass the 30 minute respawn limit
+[19:42:22] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:42:22] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:42:25] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) allowed Dianite57/(Alexis Judge) to bypass the 30 minute respawn limit
+[19:42:26] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:42:26] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:42:26] bNv-dE7j EMOTE: Miles Jardine/ : gasps!
+[19:42:26] bNv-dE7j EMOTE: Miles Jardine/ : <B>Miles Jardine</B> gasps!
+[19:42:27] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) allowed Cherkir/(Lieutenant Eliza) to bypass the 30 minute respawn limit
+[19:42:28] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:42:28] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:42:30] bNv-dE7j ADMIN: Cherkir/(Lieutenant Eliza) allowed TArixy/(Miles Jardine) to bypass the 30 minute respawn limit
+[19:42:31] bNv-dE7j GAME: Alexis Judge/Dianite57 used abandon mob.
+[19:42:31] bNv-dE7j ACCESS: Logout: *no key*/(Alexis Judge)
+[19:42:31] bNv-dE7j ACCESS: Login: Dianite57/(new player) from 108.237.73.216-4050700341 || BYOND v511
+[19:42:34] bNv-dE7j EMOTE: Miles Jardine/ : gasps!
+[19:42:34] bNv-dE7j EMOTE: Miles Jardine/ : <B>Miles Jardine</B> gasps!
+[19:42:34] bNv-dE7j EMOTE: Thomas Johnson/Budrockstar : snores.
+[19:42:34] bNv-dE7j EMOTE: Thomas Johnson/Budrockstar : <B>Thomas Johnson</B> snores.
+[19:42:36] bNv-dE7j EMOTE: Miles Jardine/ : gasps!
+[19:42:36] bNv-dE7j EMOTE: Miles Jardine/ : <B>Miles Jardine</B> gasps!
+[19:42:40] bNv-dE7j OOC: Lieutenant Eliza/Cherkir : this is going to go down in a second
+[19:42:40] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:42:40] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:42:42] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:42:42] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:42:51] bNv-dE7j EMOTE: Miles Jardine/ : gasps!
+[19:42:51] bNv-dE7j EMOTE: Miles Jardine/ : <B>Miles Jardine</B> gasps!
+[19:42:53] bNv-dE7j ADMIN: Xenomorph (1)(lucian977) has forced open an emergency shutter.
+[19:42:53] bNv-dE7j EMOTE: Commander Clucky/ : <B>Commander Clucky</B> clucks.
+[19:42:53] bNv-dE7j EMOTE: Miles Jardine/ : gasps!
+[19:42:53] bNv-dE7j EMOTE: Miles Jardine/ : <B>Miles Jardine</B> gasps!
+[19:42:54] bNv-dE7j ADMIN: Xenomorph (1)(lucian977) has forced open an emergency shutter.
+[19:42:54] bNv-dE7j ADMIN: Xenomorph (1)(lucian977) has forced open an emergency shutter.
+[19:42:55] bNv-dE7j ADMIN: Xenomorph (1)(lucian977) has forced open an emergency shutter.
+[19:42:57] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:42:57] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:42:57] bNv-dE7j EMOTE: Miles Jardine/ : gasps!
+[19:42:57] bNv-dE7j EMOTE: Miles Jardine/ : <B>Miles Jardine</B> gasps!
+[19:42:59] bNv-dE7j EMOTE: Miles Jardine/ : gasps!
+[19:42:59] bNv-dE7j EMOTE: Miles Jardine/ : <B>Miles Jardine</B> gasps!
+[19:42:59] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:42:59] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:43:07] bNv-dE7j EMOTE: Miles Jardine/ : gasps!
+[19:43:07] bNv-dE7j EMOTE: Miles Jardine/ : <B>Miles Jardine</B> gasps!
+[19:43:09] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:43:09] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:43:11] bNv-dE7j EMOTE: Miles Jardine/ : gasps!
+[19:43:11] bNv-dE7j EMOTE: Miles Jardine/ : <B>Miles Jardine</B> gasps!
+[19:43:13] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:43:13] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:43:13] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:43:13] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:43:13] bNv-dE7j ACCESS: Logout: TArixy/(Miles Jardine)
+[19:43:17] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:43:17] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:43:21] bNv-dE7j ACCESS: Logout: *no key*/(new player)
+[19:43:21] bNv-dE7j ACCESS: Login: Dianite57/(Alexis Judge) from 108.237.73.216-4050700341 || BYOND v511
+[19:43:21] bNv-dE7j EMOTE: Miles Jardine/ : gasps!
+[19:43:21] bNv-dE7j EMOTE: Miles Jardine/ : <B>Miles Jardine</B> gasps!
+[19:43:23] bNv-dE7j EMOTE: Ian/ : <B>Ian</B> woofs.
+[19:43:23] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:43:23] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:43:23] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:43:23] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:43:23] bNv-dE7j EMOTE: Miles Jardine/ : gasps!
+[19:43:23] bNv-dE7j EMOTE: Miles Jardine/ : <B>Miles Jardine</B> gasps!
+[19:43:27] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:43:27] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:43:29] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:43:29] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:43:29] bNv-dE7j EMOTE: Miles Jardine/ : gasps!
+[19:43:29] bNv-dE7j EMOTE: Miles Jardine/ : <B>Miles Jardine</B> gasps!
+[19:43:29] bNv-dE7j EMOTE: Miles Jardine/ : gasps!
+[19:43:29] bNv-dE7j EMOTE: Miles Jardine/ : <B>Miles Jardine</B> gasps!
+[19:43:29] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : gasps!
+[19:43:29] bNv-dE7j EMOTE: Alexis Judge/Dianite57 : <B>Alexis Judge</B> gasps!
+[19:43:35] bNv-dE7j EMOTE: Miles Jardine/ : gasps!
+[19:43:35] bNv-dE7j EMOTE: Miles Jardine/ : <B>Miles Jardine</B> gasps!
+[19:43:39] bNv-dE7j EMOTE: Grant Lee/ : gasps!
+[19:43:39] bNv-dE7j EMOTE: Grant Lee/ : <B>Grant Lee</B> gasps!
+[19:43:45] bNv-dE7j ACCESS: Logout: Cherkir/(Lieutenant Eliza)
+[19:43:45] bNv-dE7j ACCESS: Logout: Dianite57/(Alexis Judge)
+[19:43:45] bNv-dE7j ACCESS: Logout: Hap9786/(Kingston Lineman)
+[19:43:45] bNv-dE7j ACCESS: Logout: Lucian977/(Xenomorph (1))

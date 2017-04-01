@@ -1,0 +1,471 @@
+
+
+Starting up. (ID: bM6-bjHA) 01:40.33
+---------------------
+[01:40:33] bM6-bjHA MISC: Saved mode is 'xeno'
+[01:40:37] bM6-bjHA ADMIN: Loading jobban_rank
+[01:40:37] bM6-bjHA ADMIN: Loading Banlist
+[01:40:37] bM6-bjHA DEBUG: Rebuilding Master Controller
+[04:12:07] bM6-bjHA DEBUG: The hive node at the alien larva (943) spawned without a proper DNA.
+[04:12:07] bM6-bjHA DEBUG: The hive node at the alien larva (523) spawned without a proper DNA.
+[04:12:07] bM6-bjHA DEBUG: The hive node at the alien larva (2) spawned without a proper DNA.
+[04:12:07] bM6-bjHA DEBUG: The hive node at the alien larva (948) spawned without a proper DNA.
+[04:12:07] bM6-bjHA DEBUG: The hive node at the alien larva (689) spawned without a proper DNA.
+[04:12:07] bM6-bjHA DEBUG: The hive node at the alien larva (383) spawned without a proper DNA.
+[04:12:07] bM6-bjHA DEBUG: The hive node at the alien larva (726) spawned without a proper DNA.
+[04:12:07] bM6-bjHA DEBUG: The hive node at the alien larva (195) spawned without a proper DNA.
+[04:12:07] bM6-bjHA DEBUG: The hive node at the alien larva (1) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (473) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (163) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (978) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (664) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (113) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (929) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (483) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (317) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (281) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (972) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (205) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (779) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (345) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (312) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (12) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (409) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (538) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (480) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (574) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (678) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (903) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (588) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (194) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (795) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (807) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (121) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (349) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (574) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (441) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (813) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (732) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (143) spawned without a proper DNA.
+[04:12:08] bM6-bjHA DEBUG: The hive node at the alien larva (948) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (463) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (656) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (535) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (863) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (742) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (2) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (96) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (384) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (728) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (608) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (385) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (700) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (158) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (419) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (52) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (696) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (170) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (661) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (822) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (816) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (912) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (134) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (805) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (143) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (529) spawned without a proper DNA.
+[04:12:09] bM6-bjHA DEBUG: The hive node at the alien larva (380) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (860) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (720) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (8) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (521) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (565) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (961) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (887) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (501) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (826) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (889) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (232) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (262) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (562) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (415) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (91) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (881) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (64) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (94) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (621) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (111) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (632) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (337) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (292) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (393) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (392) spawned without a proper DNA.
+[04:12:10] bM6-bjHA DEBUG: The hive node at the alien larva (543) spawned without a proper DNA.
+[04:12:11] bM6-bjHA DEBUG: The hive node at the alien larva (593) spawned without a proper DNA.
+[04:12:11] bM6-bjHA DEBUG: The hive node at the alien larva (234) spawned without a proper DNA.
+[04:12:11] bM6-bjHA DEBUG: The hive node at the alien larva (380) spawned without a proper DNA.
+[04:12:11] bM6-bjHA DEBUG: The hive node at the alien larva (292) spawned without a proper DNA.
+[04:12:11] bM6-bjHA DEBUG: The hive node at the alien larva (653) spawned without a proper DNA.
+[04:12:11] bM6-bjHA DEBUG: The hive node at the alien larva (104) spawned without a proper DNA.
+[04:12:24] bM6-bjHA ACCESS: Login: Lelcat/(Lelcat) from 87.154.121.133-1835983922 || BYOND v511
+[04:13:42] bM6-bjHA ACCESS: Logout: *no key*/(Lelcat)
+[04:13:42] bM6-bjHA ACCESS: Login: Lelcat/(Susannah Davis) from 87.154.121.133-1835983922 || BYOND v511
+[04:13:56] bM6-bjHA ACCESS: Logout: Lelcat/(Susannah Davis)
+[05:13:41] bM6-bjHA ACCESS: Login: Telefon303/(Telefon303) from 217.82.35.94-1170386059 || BYOND v511
+[05:14:13] bM6-bjHA ACCESS: Logout: Telefon303/(Telefon303)
+[05:16:04] bM6-bjHA ACCESS: Login: Telefon303/(Telefon303) from 217.82.35.94-1170386059 || BYOND v511
+[05:16:27] bM6-bjHA ACCESS: Logout: Telefon303/(Telefon303)
+[07:00:45] bM6-bjHA ACCESS: Failed Login: Guest-4104528112 - Guests not allowed
+[09:40:49] bM6-bjHA ACCESS: Login: Dragonflamesrest/(Dragonflamesrest) from 24.129.253.245-3639739327 || BYOND v511
+[09:41:01] bM6-bjHA ACCESS: Logout: Dragonflamesrest/(Dragonflamesrest)
+[11:01:36] bM6-bjHA ACCESS: Login: Trieste/(Trieste) from 213.226.141.36-1557735488 || BYOND v511
+[11:02:02] bM6-bjHA ACCESS: Logout: *no key*/(Trieste)
+[11:02:02] bM6-bjHA ACCESS: Login: Trieste/(Jonah Singh) from 213.226.141.36-1557735488 || BYOND v511
+[11:02:47] bM6-bjHA ACCESS: Logout: Trieste/(Jonah Singh)
+[12:40:58] bM6-bjHA ACCESS: Login: Danmarr/(Danmarr) from 86.134.252.151-1308434517 || BYOND v511
+[12:44:40] bM6-bjHA ACCESS: Login: Super3222/(Super3222) from 50.5.242.59-3776705666 || BYOND v511
+[12:45:22] bM6-bjHA ACCESS: Login: Infix/(Infix) from 82.28.186.61-2674815195 || BYOND v510
+[12:45:55] bM6-bjHA ACCESS: Logout: Infix/(Infix)
+[12:47:06] bM6-bjHA DEBUG: Super3222 had xeno enabled, so we are drafting them.
+[12:47:06] bM6-bjHA DEBUG: Super3222 has been selected for Xenomorph by lottery.
+[12:47:06] bM6-bjHA DEBUG: Super3222 was selected for Xenomorph by lottery, but they already have a special role.
+[12:47:06] bM6-bjHA ACCESS: Logout: *no key*/(Super3222)
+[12:47:06] bM6-bjHA ACCESS: Login: Super3222/(Jared Mcintosh) from 50.5.242.59-3776705666 || BYOND v511
+[12:47:07] bM6-bjHA DEBUG: The hive node at the alien larva (326) spawned without a proper DNA.
+[12:47:07] bM6-bjHA ACCESS: Logout: *no key*/(Jared Mcintosh)
+[12:47:07] bM6-bjHA ACCESS: Login: Super3222/(alien larva (326)) from 50.5.242.59-3776705666 || BYOND v511
+[12:47:07] bM6-bjHA DEBUG: Next event of severity Mundane in 13.794 minutes.
+[12:47:07] bM6-bjHA DEBUG: Next event of severity Moderate in 42.908 minutes.
+[12:47:07] bM6-bjHA DEBUG: Next event of severity Major in 84.15 minutes.
+[12:47:12] bM6-bjHA EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[12:47:13] bM6-bjHA GAME: Antagonists at round end were...
+[12:47:13] bM6-bjHA GAME: Larvas: Jared Mcintosh(Super3222).
+[12:47:50] bM6-bjHA EMOTE: Cleveland Moon/ : gasps!
+[12:47:50] bM6-bjHA EMOTE: Cleveland Moon/ : <B>Cleveland Moon</B> gasps!
+[12:47:52] bM6-bjHA EMOTE: Betsy/ : <B>Betsy</B> brays.
+[12:47:52] bM6-bjHA SAY: Ian/ : AUUUUUU
+[12:48:08] bM6-bjHA EMOTE: Cleveland Moon/ : gasps!
+[12:48:08] bM6-bjHA EMOTE: Cleveland Moon/ : <B>Cleveland Moon</B> gasps!
+[12:48:11] bM6-bjHA EMOTE: Cleveland Moon/ : gasps!
+[12:48:11] bM6-bjHA EMOTE: Cleveland Moon/ : <B>Cleveland Moon</B> gasps!
+[12:48:17] bM6-bjHA EMOTE: Cleveland Moon/ : gasps!
+[12:48:17] bM6-bjHA EMOTE: Cleveland Moon/ : <B>Cleveland Moon</B> gasps!
+[12:48:17] bM6-bjHA ACCESS: Logout: Danmarr/(Danmarr)
+[12:48:17] bM6-bjHA ACCESS: Logout: Super3222/(alien larva (326))
+
+
+Starting up. (ID: bM6-c1hX) 12:50.45
+---------------------
+[12:50:45] bM6-c1hX MISC: Saved mode is 'xeno'
+[12:50:49] bM6-c1hX ADMIN: Loading jobban_rank
+[12:50:49] bM6-c1hX ADMIN: Loading Banlist
+[12:50:49] bM6-c1hX DEBUG: Rebuilding Master Controller
+[12:50:54] bM6-c1hX ACCESS: Login: Danmarr/(Danmarr) from 86.134.252.151-1308434517 || BYOND v511
+[12:50:54] bM6-c1hX DEBUG: The hive node at the alien larva (453) spawned without a proper DNA.
+[12:50:54] bM6-c1hX DEBUG: The hive node at the alien larva (553) spawned without a proper DNA.
+[12:50:54] bM6-c1hX DEBUG: The hive node at the alien larva (712) spawned without a proper DNA.
+[12:50:54] bM6-c1hX DEBUG: The hive node at the alien larva (611) spawned without a proper DNA.
+[12:50:54] bM6-c1hX DEBUG: The hive node at the alien larva (867) spawned without a proper DNA.
+[12:50:54] bM6-c1hX DEBUG: The hive node at the alien larva (180) spawned without a proper DNA.
+[12:50:54] bM6-c1hX DEBUG: The hive node at the alien larva (779) spawned without a proper DNA.
+[12:50:54] bM6-c1hX DEBUG: The hive node at the alien larva (304) spawned without a proper DNA.
+[12:50:54] bM6-c1hX DEBUG: The hive node at the alien larva (693) spawned without a proper DNA.
+[12:50:54] bM6-c1hX DEBUG: The hive node at the alien larva (280) spawned without a proper DNA.
+[12:50:54] bM6-c1hX DEBUG: The hive node at the alien larva (386) spawned without a proper DNA.
+[12:50:54] bM6-c1hX DEBUG: The hive node at the alien larva (652) spawned without a proper DNA.
+[12:50:54] bM6-c1hX DEBUG: The hive node at the alien larva (659) spawned without a proper DNA.
+[12:50:54] bM6-c1hX DEBUG: The hive node at the alien larva (279) spawned without a proper DNA.
+[12:50:54] bM6-c1hX DEBUG: The hive node at the alien larva (983) spawned without a proper DNA.
+[12:50:54] bM6-c1hX DEBUG: The hive node at the alien larva (624) spawned without a proper DNA.
+[12:50:54] bM6-c1hX DEBUG: The hive node at the alien larva (104) spawned without a proper DNA.
+[12:50:54] bM6-c1hX DEBUG: The hive node at the alien larva (921) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (981) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (630) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (616) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (47) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (143) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (912) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (956) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (866) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (944) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (799) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (707) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (631) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (402) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (656) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (642) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (867) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (752) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (37) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (503) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (921) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (631) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (792) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (631) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (767) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (239) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (539) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (106) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (291) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (621) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (428) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (825) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (459) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (456) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (479) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (380) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (375) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (615) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (14) spawned without a proper DNA.
+[12:50:55] bM6-c1hX DEBUG: The hive node at the alien larva (639) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (926) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (826) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (29) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (4) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (426) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (102) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (843) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (728) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (4) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (297) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (595) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (228) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (212) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (494) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (79) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (157) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (592) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (998) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (577) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (841) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (383) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (794) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (762) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (392) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (533) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (603) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (551) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (810) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (740) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (827) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (87) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (98) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (446) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (154) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (165) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (447) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (217) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (491) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (366) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (579) spawned without a proper DNA.
+[12:50:56] bM6-c1hX DEBUG: The hive node at the alien larva (396) spawned without a proper DNA.
+[12:50:57] bM6-c1hX DEBUG: The hive node at the alien larva (754) spawned without a proper DNA.
+[12:50:57] bM6-c1hX DEBUG: The hive node at the alien larva (93) spawned without a proper DNA.
+[13:13:12] bM6-c1hX ACCESS: Login: Giblinator1337/(Giblinator1337) from 86.176.2.65-911026289 || BYOND v511
+[13:13:22] bM6-c1hX ACCESS: Logout: Giblinator1337/(Giblinator1337)
+[13:45:18] bM6-c1hX ACCESS: Login: OttavioVaz/(OttavioVaz) from 201.130.23.27-997106224 || BYOND v511
+[13:48:58] bM6-c1hX DEBUG: OttavioVaz had xeno enabled, so we are drafting them.
+[13:48:58] bM6-c1hX DEBUG: OttavioVaz has been selected for Xenomorph by lottery.
+[13:48:58] bM6-c1hX DEBUG: OttavioVaz was selected for Xenomorph by lottery, but they already have a special role.
+[13:48:58] bM6-c1hX ACCESS: Logout: *no key*/(OttavioVaz)
+[13:48:58] bM6-c1hX ACCESS: Login: OttavioVaz/(Ottavio Vaz) from 201.130.23.27-997106224 || BYOND v511
+[13:48:59] bM6-c1hX DEBUG: The hive node at the alien larva (242) spawned without a proper DNA.
+[13:48:59] bM6-c1hX ACCESS: Logout: *no key*/(Ottavio Vaz)
+[13:48:59] bM6-c1hX ACCESS: Login: OttavioVaz/(alien larva (242)) from 201.130.23.27-997106224 || BYOND v511
+[13:48:59] bM6-c1hX DEBUG: Next event of severity Mundane in 15.586 minutes.
+[13:48:59] bM6-c1hX DEBUG: Next event of severity Moderate in 46.054 minutes.
+[13:49:00] bM6-c1hX DEBUG: Next event of severity Major in 96.0633 minutes.
+[13:49:07] bM6-c1hX GAME: Antagonists at round end were...
+[13:49:07] bM6-c1hX GAME: Larvas: Ottavio Vaz(OttavioVaz).
+[13:49:15] bM6-c1hX ACCESS: Logout: Danmarr/(Danmarr)
+[13:49:27] bM6-c1hX SAY: chicken/ : Bwaak bwak.
+[13:49:36] bM6-c1hX ACCESS: Logout: OttavioVaz/(alien larva (242))
+[13:50:23] bM6-c1hX SAY: Runtime/ : HSSSSS
+[13:50:51] bM6-c1hX ACCESS: Login: Spesshy/(Spesshy) from 81.100.16.210-1925466483 || BYOND v511
+[13:50:53] bM6-c1hX ACCESS: Logout: Spesshy/(Spesshy)
+
+
+Starting up. (ID: bM6-c04Q) 13:53.21
+---------------------
+[13:53:21] bM6-c04Q MISC: Saved mode is 'xeno'
+[13:53:24] bM6-c04Q ADMIN: Loading jobban_rank
+[13:53:24] bM6-c04Q ADMIN: Loading Banlist
+[13:53:25] bM6-c04Q DEBUG: Rebuilding Master Controller
+[15:50:46] bM6-c04Q DEBUG: The hive node at the alien larva (603) spawned without a proper DNA.
+[15:50:46] bM6-c04Q DEBUG: The hive node at the alien larva (668) spawned without a proper DNA.
+[15:50:46] bM6-c04Q DEBUG: The hive node at the alien larva (810) spawned without a proper DNA.
+[15:50:46] bM6-c04Q DEBUG: The hive node at the alien larva (678) spawned without a proper DNA.
+[15:50:46] bM6-c04Q DEBUG: The hive node at the alien larva (400) spawned without a proper DNA.
+[15:50:46] bM6-c04Q DEBUG: The hive node at the alien larva (143) spawned without a proper DNA.
+[15:50:46] bM6-c04Q DEBUG: The hive node at the alien larva (664) spawned without a proper DNA.
+[15:50:46] bM6-c04Q DEBUG: The hive node at the alien larva (593) spawned without a proper DNA.
+[15:50:46] bM6-c04Q DEBUG: The hive node at the alien larva (216) spawned without a proper DNA.
+[15:50:46] bM6-c04Q DEBUG: The hive node at the alien larva (89) spawned without a proper DNA.
+[15:50:46] bM6-c04Q DEBUG: The hive node at the alien larva (407) spawned without a proper DNA.
+[15:50:46] bM6-c04Q DEBUG: The hive node at the alien larva (924) spawned without a proper DNA.
+[15:50:46] bM6-c04Q DEBUG: The hive node at the alien larva (144) spawned without a proper DNA.
+[15:50:46] bM6-c04Q DEBUG: The hive node at the alien larva (695) spawned without a proper DNA.
+[15:50:46] bM6-c04Q DEBUG: The hive node at the alien larva (668) spawned without a proper DNA.
+[15:50:46] bM6-c04Q DEBUG: The hive node at the alien larva (736) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (937) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (6) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (416) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (281) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (607) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (806) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (122) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (744) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (117) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (71) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (305) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (202) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (242) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (354) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (802) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (138) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (944) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (124) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (417) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (137) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (337) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (297) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (15) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (478) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (674) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (52) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (766) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (566) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (67) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (561) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (851) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (446) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (623) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (10) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (169) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (425) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (402) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (284) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (964) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (529) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (599) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (372) spawned without a proper DNA.
+[15:50:47] bM6-c04Q DEBUG: The hive node at the alien larva (295) spawned without a proper DNA.
+[15:50:48] bM6-c04Q DEBUG: The hive node at the alien larva (917) spawned without a proper DNA.
+[15:50:48] bM6-c04Q DEBUG: The hive node at the alien larva (538) spawned without a proper DNA.
+[15:50:48] bM6-c04Q DEBUG: The hive node at the alien larva (93) spawned without a proper DNA.
+[15:50:48] bM6-c04Q DEBUG: The hive node at the alien larva (292) spawned without a proper DNA.
+[15:50:48] bM6-c04Q DEBUG: The hive node at the alien larva (934) spawned without a proper DNA.
+[15:50:48] bM6-c04Q DEBUG: The hive node at the alien larva (143) spawned without a proper DNA.
+[15:50:48] bM6-c04Q DEBUG: The hive node at the alien larva (366) spawned without a proper DNA.
+[15:50:48] bM6-c04Q DEBUG: The hive node at the alien larva (10) spawned without a proper DNA.
+[15:50:48] bM6-c04Q DEBUG: The hive node at the alien larva (437) spawned without a proper DNA.
+[15:50:48] bM6-c04Q DEBUG: The hive node at the alien larva (140) spawned without a proper DNA.
+[15:50:48] bM6-c04Q DEBUG: The hive node at the alien larva (866) spawned without a proper DNA.
+[15:50:48] bM6-c04Q DEBUG: The hive node at the alien larva (244) spawned without a proper DNA.
+[15:50:48] bM6-c04Q DEBUG: The hive node at the alien larva (982) spawned without a proper DNA.
+[15:50:48] bM6-c04Q DEBUG: The hive node at the alien larva (365) spawned without a proper DNA.
+[15:50:48] bM6-c04Q DEBUG: The hive node at the alien larva (813) spawned without a proper DNA.
+[15:50:48] bM6-c04Q DEBUG: The hive node at the alien larva (555) spawned without a proper DNA.
+[15:50:48] bM6-c04Q DEBUG: The hive node at the alien larva (453) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (675) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (739) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (199) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (648) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (358) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (609) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (746) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (547) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (884) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (853) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (825) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (832) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (280) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (911) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (428) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (33) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (959) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (307) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (448) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (626) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (764) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (136) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (563) spawned without a proper DNA.
+[15:50:49] bM6-c04Q DEBUG: The hive node at the alien larva (131) spawned without a proper DNA.
+[15:51:39] bM6-c04Q ACCESS: Login: Warhammer40k123/(Warhammer40k123) from 24.141.240.67-3884122813 || BYOND v511
+[15:58:39] bM6-c04Q ACCESS: Logout: Warhammer40k123/(Warhammer40k123)
+[16:29:57] bM6-c04Q ACCESS: Login: Danmarr/(Danmarr) from 86.134.252.151-1308434517 || BYOND v511
+[16:32:20] bM6-c04Q ACCESS: Login: CaptinPicard1166/(CaptinPicard1166) from 99.160.4.91-494874225 || BYOND v511
+[16:32:31] bM6-c04Q OOC: CaptinPicard1166/CaptinPicard1166 : hey
+[16:33:55] bM6-c04Q OOC: CaptinPicard1166/CaptinPicard1166 : hi
+[16:35:55] bM6-c04Q DEBUG: CaptinPicard1166 had xeno enabled, so we are drafting them.
+[16:35:55] bM6-c04Q DEBUG: CaptinPicard1166/(CaptinPicard1166) is not eligible to become a Xenomorph: They are blacklisted for this role!
+[16:35:55] bM6-c04Q DEBUG: CaptinPicard1166 was selected for Xenomorph by lottery, but is not allowed to be that role.
+[16:38:37] bM6-c04Q DEBUG: CaptinPicard1166 had xeno enabled, so we are drafting them.
+[16:38:37] bM6-c04Q DEBUG: CaptinPicard1166/(CaptinPicard1166) is not eligible to become a Xenomorph: They are blacklisted for this role!
+[16:38:37] bM6-c04Q DEBUG: CaptinPicard1166 was selected for Xenomorph by lottery, but is not allowed to be that role.
+[16:38:49] bM6-c04Q OOC: CaptinPicard1166/CaptinPicard1166 : im sorry about the ban
+[16:41:19] bM6-c04Q DEBUG: CaptinPicard1166 had xeno enabled, so we are drafting them.
+[16:41:19] bM6-c04Q DEBUG: CaptinPicard1166/(CaptinPicard1166) is not eligible to become a Xenomorph: They are blacklisted for this role!
+[16:41:19] bM6-c04Q DEBUG: CaptinPicard1166 was selected for Xenomorph by lottery, but is not allowed to be that role.
+[16:44:01] bM6-c04Q DEBUG: CaptinPicard1166 had xeno enabled, so we are drafting them.
+[16:44:01] bM6-c04Q DEBUG: CaptinPicard1166/(CaptinPicard1166) is not eligible to become a Xenomorph: They are blacklisted for this role!
+[16:44:01] bM6-c04Q DEBUG: CaptinPicard1166 was selected for Xenomorph by lottery, but is not allowed to be that role.
+[16:46:43] bM6-c04Q DEBUG: CaptinPicard1166 had xeno enabled, so we are drafting them.
+[16:46:43] bM6-c04Q DEBUG: CaptinPicard1166/(CaptinPicard1166) is not eligible to become a Xenomorph: They are blacklisted for this role!
+[16:46:43] bM6-c04Q DEBUG: CaptinPicard1166 was selected for Xenomorph by lottery, but is not allowed to be that role.
+[16:49:25] bM6-c04Q DEBUG: CaptinPicard1166 had xeno enabled, so we are drafting them.
+[16:49:25] bM6-c04Q DEBUG: CaptinPicard1166/(CaptinPicard1166) is not eligible to become a Xenomorph: They are blacklisted for this role!
+[16:49:25] bM6-c04Q DEBUG: CaptinPicard1166 was selected for Xenomorph by lottery, but is not allowed to be that role.
+[16:49:38] bM6-c04Q ACCESS: Logout: Danmarr/(Danmarr)
+[16:52:07] bM6-c04Q DEBUG: CaptinPicard1166 had xeno enabled, so we are drafting them.
+[16:52:07] bM6-c04Q DEBUG: CaptinPicard1166/(CaptinPicard1166) is not eligible to become a Xenomorph: They are blacklisted for this role!
+[16:52:07] bM6-c04Q DEBUG: CaptinPicard1166 was selected for Xenomorph by lottery, but is not allowed to be that role.
+[16:52:10] bM6-c04Q ACCESS: Logout: CaptinPicard1166/(CaptinPicard1166)
+[17:53:03] bM6-c04Q ACCESS: Login: Swordsith/(Swordsith) from 184.89.85.148-1830433207 || BYOND v511
+[17:53:33] bM6-c04Q ACCESS: Logout: Swordsith/(Swordsith)
+[18:18:50] bM6-c04Q ACCESS: Login: Lucian977/(Lucian977) from 47.203.83.170-2199382645 || BYOND v511
+[18:19:20] bM6-c04Q ACCESS: Logout: Lucian977/(Lucian977)
+[18:19:46] bM6-c04Q ACCESS: Login: Lucian977/(Lucian977) from 47.203.83.170-2199382645 || BYOND v511
+[18:19:47] bM6-c04Q ACCESS: Logout: Lucian977/(Lucian977)
+[18:19:54] bM6-c04Q ACCESS: Login: Lucian977/(Lucian977) from 47.203.83.170-2199382645 || BYOND v511
+[18:20:00] bM6-c04Q ACCESS: Logout: Lucian977/(Lucian977)
+[18:36:54] bM6-c04Q ACCESS: Login: Chuckachu/(Chuckachu) from 99.102.136.173-814914338 || BYOND v511
+[18:37:22] bM6-c04Q ACCESS: Logout: Chuckachu/(Chuckachu)
+[18:38:52] bM6-c04Q ACCESS: Login: DarknessOfEneing/(DarknessOfEneing) from 73.193.97.112-2952941028 || BYOND v511
+[18:39:02] bM6-c04Q ACCESS: Logout: DarknessOfEneing/(DarknessOfEneing)
+[20:11:59] bM6-c04Q ACCESS: Login: Noobpwnt4lif3/(Noobpwnt4lif3) from 50.185.46.62-3109918527 || BYOND v511
+[20:15:43] bM6-c04Q ACCESS: Login: Lucian977/(Lucian977) from 47.203.83.170-2199382645 || BYOND v511
+[20:16:15] bM6-c04Q ACCESS: Logout: Lucian977/(Lucian977)
+[21:33:42] bM6-c04Q ACCESS: Login: Furry Chicken/(Furry Chicken) from 50.133.2.25-1553678715 || BYOND v510
+[22:18:58] bM6-c04Q ACCESS: Login: Lucian977/(Lucian977) from 47.203.83.170-2199382645 || BYOND v511
+[22:19:22] bM6-c04Q OOC: Lucian977/Lucian977 : ay
+[22:20:15] bM6-c04Q OOC: Furry Chicken/Furry Chicken : ay
+[22:20:59] bM6-c04Q OOC: Lucian977/Lucian977 : now
+[22:21:00] bM6-c04Q OOC: Lucian977/Lucian977 : we wait
+[22:24:47] bM6-c04Q ACCESS: Logout: Lucian977/(Lucian977)
+[23:05:04] bM6-c04Q ACCESS: Logout: Noobpwnt4lif3/(Noobpwnt4lif3)
+[23:18:49] bM6-c04Q ACCESS: Logout: Furry Chicken/(Furry Chicken)
+[23:31:30] bM6-c04Q ACCESS: Login: DT Scurvy/(DT Scurvy) from 108.65.134.114-1070128038 || BYOND v511
+[23:35:40] bM6-c04Q ACCESS: Logout: DT Scurvy/(DT Scurvy)
+[02:59:48] bM6-c04Q ACCESS: Login: Wolfor by Kot/(Wolfor by Kot) from 78.81.189.138-153416717 || BYOND v511
+[03:01:57] bM6-c04Q DEBUG: Wolfor by Kot had xeno enabled, so we are drafting them.
+[03:01:57] bM6-c04Q DEBUG: Wolfor by Kot has been selected for Xenomorph by lottery.
+[03:01:57] bM6-c04Q DEBUG: Wolfor by Kot was selected for Xenomorph by lottery, but they already have a special role.
+[03:01:57] bM6-c04Q ACCESS: Logout: *no key*/(Wolfor by Kot)
+[03:01:57] bM6-c04Q ACCESS: Login: Wolfor by Kot/(Alexander Endsley) from 78.81.189.138-153416717 || BYOND v511
+[03:01:57] bM6-c04Q DEBUG: The hive node at the alien larva (240) spawned without a proper DNA.
+[03:01:57] bM6-c04Q ACCESS: Logout: *no key*/(Alexander Endsley)
+[03:01:57] bM6-c04Q ACCESS: Login: Wolfor by Kot/(alien larva (240)) from 78.81.189.138-153416717 || BYOND v511
+[03:01:57] bM6-c04Q DEBUG: Next event of severity Mundane in 12.696 minutes.
+[03:01:58] bM6-c04Q DEBUG: Next event of severity Moderate in 52.542 minutes.
+[03:01:58] bM6-c04Q DEBUG: Next event of severity Major in 83.2283 minutes.
+[03:02:05] bM6-c04Q GAME: Antagonists at round end were...
+[03:02:05] bM6-c04Q GAME: Larvas: Alexander Endsley(Wolfor by Kot).
+[03:02:05] bM6-c04Q VOTE: Crew_transfer vote started by the server.
+[03:02:05] bM6-c04Q DEBUG: The server has called a crew transfer vote
+[03:02:06] bM6-c04Q EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[03:02:11] bM6-c04Q ACCESS: Login: The_Hero13/(The_Hero13) from 78.36.99.88-3613791747 || BYOND v511
+[03:02:58] bM6-c04Q SAY: Experiment 97d/ : EHEHEHEHEH
+[03:03:02] bM6-c04Q SAY: mouse (409)/ : Squeek!
+[03:03:07] bM6-c04Q VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[03:03:07] bM6-c04Q ACCESS: Logout: Wolfor by Kot/(alien larva (240))
+[03:03:07] bM6-c04Q ACCESS: Logout: The_Hero13/(The_Hero13)

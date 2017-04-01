@@ -1,0 +1,1436 @@
+
+
+Starting up. (ID: bM5-bP3H) 05:07.44
+---------------------
+[05:07:44] bM5-bP3H MISC: Saved mode is 'xeno'
+[05:07:48] bM5-bP3H ADMIN: Loading jobban_rank
+[05:07:48] bM5-bP3H ADMIN: Loading Banlist
+[05:07:48] bM5-bP3H DEBUG: Rebuilding Master Controller
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (295) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (7) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (140) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (524) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (390) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (610) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (460) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (601) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (749) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (62) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (735) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (918) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (889) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (347) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (221) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (848) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (23) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (164) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (265) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (841) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (361) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (655) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (24) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (62) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (878) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (464) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (411) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (184) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (64) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (741) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (133) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (898) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (1000) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (465) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (840) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (613) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (750) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (810) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (812) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (261) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (690) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (946) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (265) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (527) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (939) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (315) spawned without a proper DNA.
+[05:08:01] bM5-bP3H DEBUG: The hive node at the alien larva (366) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (926) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (506) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (518) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (815) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (935) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (198) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (138) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (237) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (873) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (830) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (350) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (640) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (702) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (149) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (656) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (610) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (144) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (237) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (523) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (29) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (400) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (82) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (65) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (771) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (373) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (822) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (384) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (332) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (292) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (366) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (281) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (77) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (865) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (297) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (168) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (691) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (852) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (752) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (885) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (756) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (684) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (85) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (803) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (276) spawned without a proper DNA.
+[05:08:02] bM5-bP3H DEBUG: The hive node at the alien larva (986) spawned without a proper DNA.
+[05:08:03] bM5-bP3H DEBUG: The hive node at the alien larva (271) spawned without a proper DNA.
+[05:08:03] bM5-bP3H DEBUG: The hive node at the alien larva (533) spawned without a proper DNA.
+[05:08:03] bM5-bP3H DEBUG: The hive node at the alien larva (806) spawned without a proper DNA.
+[05:08:03] bM5-bP3H DEBUG: The hive node at the alien larva (530) spawned without a proper DNA.
+[05:08:03] bM5-bP3H DEBUG: The hive node at the alien larva (444) spawned without a proper DNA.
+[05:08:03] bM5-bP3H DEBUG: The hive node at the alien larva (931) spawned without a proper DNA.
+[05:08:03] bM5-bP3H DEBUG: The hive node at the alien larva (618) spawned without a proper DNA.
+[05:08:03] bM5-bP3H DEBUG: The hive node at the alien larva (108) spawned without a proper DNA.
+[05:09:10] bM5-bP3H ACCESS: Login: Wolfor by Kot/(Wolfor by Kot) from 178.68.96.220-153416717 || BYOND v511
+[05:11:23] bM5-bP3H DEBUG: Wolfor by Kot had xeno enabled, so we are drafting them.
+[05:11:23] bM5-bP3H DEBUG: Wolfor by Kot has been selected for Xenomorph by lottery.
+[05:11:23] bM5-bP3H DEBUG: Wolfor by Kot was selected for Xenomorph by lottery, but they already have a special role.
+[05:11:23] bM5-bP3H ACCESS: Logout: *no key*/(Wolfor by Kot)
+[05:11:23] bM5-bP3H ACCESS: Login: Wolfor by Kot/(Alexander Endsley) from 178.68.96.220-153416717 || BYOND v511
+[05:11:23] bM5-bP3H DEBUG: The hive node at the alien larva (776) spawned without a proper DNA.
+[05:11:23] bM5-bP3H ACCESS: Logout: *no key*/(Alexander Endsley)
+[05:11:23] bM5-bP3H ACCESS: Login: Wolfor by Kot/(alien larva (776)) from 178.68.96.220-153416717 || BYOND v511
+[05:11:24] bM5-bP3H ACCESS: Logout: Wolfor by Kot/(alien larva (776))
+[05:11:24] bM5-bP3H DEBUG: Next event of severity Mundane in 17.986 minutes.
+[05:39:29] bM5-bP3H DEBUG: Next event of severity Moderate in 46.028 minutes.
+[05:39:29] bM5-bP3H DEBUG: Next event of severity Major in 82.4033 minutes.
+[05:39:39] bM5-bP3H GAME: Antagonists at round end were...
+[05:39:39] bM5-bP3H GAME: Larvas: Alexander Endsley(Wolfor by Kot).
+[05:39:44] bM5-bP3H SAY: chicken/ : Bwaak bwak.
+[05:40:01] bM5-bP3H ACCESS: Login: Lezus_Konrad/(Lezus_Konrad) from 82.17.116.125-3955108823 || BYOND v511
+[05:40:13] bM5-bP3H SAY: Experiment 97d/ : EHEHEHEHEH
+[05:40:42] bM5-bP3H ACCESS: Logout: Lezus_Konrad/(Lezus_Konrad)
+
+
+Starting up. (ID: bM5-bVxJ) 05:42.59
+---------------------
+[05:42:59] bM5-bVxJ MISC: Saved mode is 'xeno'
+[05:43:04] bM5-bVxJ ADMIN: Loading jobban_rank
+[05:43:04] bM5-bVxJ ADMIN: Loading Banlist
+[05:43:04] bM5-bVxJ DEBUG: Rebuilding Master Controller
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (679) spawned without a proper DNA.
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (977) spawned without a proper DNA.
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (723) spawned without a proper DNA.
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (861) spawned without a proper DNA.
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (60) spawned without a proper DNA.
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (381) spawned without a proper DNA.
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (883) spawned without a proper DNA.
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (390) spawned without a proper DNA.
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (797) spawned without a proper DNA.
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (377) spawned without a proper DNA.
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (720) spawned without a proper DNA.
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (505) spawned without a proper DNA.
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (820) spawned without a proper DNA.
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (886) spawned without a proper DNA.
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (863) spawned without a proper DNA.
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (455) spawned without a proper DNA.
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (862) spawned without a proper DNA.
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (719) spawned without a proper DNA.
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (708) spawned without a proper DNA.
+[05:43:15] bM5-bVxJ DEBUG: The hive node at the alien larva (102) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (648) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (535) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (330) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (59) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (329) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (400) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (778) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (350) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (717) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (151) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (390) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (357) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (286) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (902) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (124) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (946) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (720) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (776) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (56) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (802) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (163) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (386) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (918) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (112) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (19) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (558) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (386) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (571) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (70) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (781) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (966) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (337) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (407) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (805) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (974) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (585) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (251) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (459) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (443) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (4) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (97) spawned without a proper DNA.
+[05:43:16] bM5-bVxJ DEBUG: The hive node at the alien larva (784) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (397) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (394) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (381) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (151) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (111) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (805) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (999) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (474) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (785) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (641) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (279) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (74) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (732) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (112) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (42) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (883) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (663) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (126) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (676) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (603) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (806) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (549) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (33) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (636) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (106) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (42) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (923) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (712) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (63) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (113) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (22) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (100) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (258) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (252) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (823) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (20) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (133) spawned without a proper DNA.
+[05:43:17] bM5-bVxJ DEBUG: The hive node at the alien larva (982) spawned without a proper DNA.
+[05:43:58] bM5-bVxJ ACCESS: Login: Lezus_Konrad/(Lezus_Konrad) from 82.17.116.125-3955108823 || BYOND v511
+[05:56:29] bM5-bVxJ ACCESS: Logout: Lezus_Konrad/(Lezus_Konrad)
+[08:41:25] bM5-bVxJ ACCESS: Login: Infix/(Infix) from 82.28.186.61-2674815195 || BYOND v510
+[08:43:43] bM5-bVxJ ACCESS: Logout: Infix/(Infix)
+[10:22:16] bM5-bVxJ ACCESS: Login: Telefon303/(Telefon303) from 217.82.36.233-1170386059 || BYOND v511
+[10:22:39] bM5-bVxJ ACCESS: Logout: *no key*/(Telefon303)
+[10:22:39] bM5-bVxJ ACCESS: Login: Telefon303/(Jacaline Gray) from 217.82.36.233-1170386059 || BYOND v511
+[10:24:49] bM5-bVxJ ACCESS: Logout: Telefon303/(Jacaline Gray)
+[10:25:47] bM5-bVxJ ACCESS: Login: Telefon303/(Jacaline Gray) from 217.82.36.233-1170386059 || BYOND v511
+[10:27:57] bM5-bVxJ ACCESS: Logout: Telefon303/(Jacaline Gray)
+[10:43:09] bM5-bVxJ ACCESS: Login: Ragolution/(Ragolution) from 24.250.1.3-3927906054 || BYOND v510
+[10:43:30] bM5-bVxJ ACCESS: Logout: *no key*/(Ragolution)
+[10:43:30] bM5-bVxJ ACCESS: Login: Ragolution/(Adan Conrad) from 24.250.1.3-3927906054 || BYOND v510
+[10:44:24] bM5-bVxJ ACCESS: Logout: Ragolution/(Adan Conrad)
+[10:53:21] bM5-bVxJ ACCESS: Login: DrEVOPVP/(DrEVOPVP) from 24.197.104.50-1148116622 || BYOND v511
+[10:53:54] bM5-bVxJ ACCESS: Logout: DrEVOPVP/(DrEVOPVP)
+[10:58:56] bM5-bVxJ ACCESS: Login: TheWiznard/(TheWiznard) from 173.19.25.113-1025929454 || BYOND v511
+[11:01:32] bM5-bVxJ ACCESS: Logout: TheWiznard/(TheWiznard)
+[11:03:35] bM5-bVxJ ACCESS: Login: Rampo/(Rampo) from 91.225.227.226-1669275814 || BYOND v510
+[11:05:41] bM5-bVxJ DEBUG: Rampo had xeno enabled, so we are drafting them.
+[11:05:41] bM5-bVxJ DEBUG: Rampo has been selected for Xenomorph by lottery.
+[11:05:41] bM5-bVxJ DEBUG: Rampo was selected for Xenomorph by lottery, but they already have a special role.
+[11:05:42] bM5-bVxJ ACCESS: Logout: *no key*/(Rampo)
+[11:05:42] bM5-bVxJ ACCESS: Login: Rampo/(Hailey Cox) from 91.225.227.226-1669275814 || BYOND v510
+[11:05:42] bM5-bVxJ DEBUG: The hive node at the alien larva (774) spawned without a proper DNA.
+[11:05:42] bM5-bVxJ ACCESS: Logout: *no key*/(Hailey Cox)
+[11:05:42] bM5-bVxJ ACCESS: Login: Rampo/(alien larva (774)) from 91.225.227.226-1669275814 || BYOND v510
+[11:05:42] bM5-bVxJ DEBUG: Next event of severity Mundane in 12.458 minutes.
+[11:05:43] bM5-bVxJ DEBUG: Next event of severity Moderate in 53.12 minutes.
+[11:05:43] bM5-bVxJ DEBUG: Next event of severity Major in 86.2867 minutes.
+[11:06:08] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:06:08] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:06:12] bM5-bVxJ SAY: mouse (983)/ : SQUEEK!
+[11:06:18] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:06:18] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:06:20] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:06:20] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:06:22] bM5-bVxJ EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[11:06:22] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:06:22] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:06:25] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:06:25] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:06:33] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:06:33] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:06:35] bM5-bVxJ SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[11:06:39] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:06:39] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:06:43] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:06:43] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:06:55] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:06:55] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:07:15] bM5-bVxJ SAY: chicken/ : Cluck!
+[11:07:38] bM5-bVxJ EMOTE: mouse (983)/ : <B>The mouse (983)</B> shakes.
+[11:07:49] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:07:49] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:07:55] bM5-bVxJ EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[11:08:04] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:08:04] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:08:20] bM5-bVxJ EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[11:08:25] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:08:25] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:08:39] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:08:39] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:08:41] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:08:41] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:08:50] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:08:50] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:08:57] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:08:57] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:08:59] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:08:59] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:09:03] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:09:03] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:09:07] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:09:07] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:09:09] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:09:09] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:09:16] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:09:16] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:09:22] bM5-bVxJ SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[11:09:22] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:09:22] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:09:24] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:09:24] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:09:30] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:09:30] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:09:30] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:09:30] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:09:45] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:09:45] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:09:47] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:09:47] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:09:47] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:09:47] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:09:51] bM5-bVxJ EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[11:09:51] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:09:51] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:09:51] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:09:51] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:09:59] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:09:59] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:10:02] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:10:02] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:10:10] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:10:10] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:10:12] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:10:12] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:10:14] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:10:14] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:10:18] bM5-bVxJ ACCESS: Logout: *no key*/(alien larva (774))
+[11:10:18] bM5-bVxJ ACCESS: Login: Rampo/(Xenomorph (1)) from 91.225.227.226-1669275814 || BYOND v510
+[11:10:22] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:10:22] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:10:29] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:10:29] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:10:29] bM5-bVxJ EMOTE: Max Enderly/ : gasps!
+[11:10:29] bM5-bVxJ EMOTE: Max Enderly/ : <B>Max Enderly</B> gasps!
+[11:10:49] bM5-bVxJ EMOTE: chicken/ : <B>The chicken</B> clucks.
+[11:11:32] bM5-bVxJ EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[11:11:41] bM5-bVxJ ACCESS: Login: Dankorsar93/(Dankorsar93) from 188.32.54.83-4273060721 || BYOND v511
+[11:12:07] bM5-bVxJ ACCESS: Logout: Dankorsar93/(Dankorsar93)
+[11:12:23] bM5-bVxJ EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[11:12:48] bM5-bVxJ SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[11:12:50] bM5-bVxJ EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:12:53] bM5-bVxJ EMOTE: Ian/ : <B>Ian</B> dances around
+[11:13:38] bM5-bVxJ EMOTE: mouse (983)/ : <B>The mouse (983)</B> squeaks.
+[11:13:55] bM5-bVxJ EMOTE: Commander Clucky/ : <B>Commander Clucky</B> flaps its wings viciously.
+[11:14:11] bM5-bVxJ EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[11:14:36] bM5-bVxJ EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[11:14:50] bM5-bVxJ SAY: Commander Clucky/ : Cluck!
+[11:15:14] bM5-bVxJ EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[11:15:24] bM5-bVxJ SAY: chicken/ : Cluck!
+[11:15:45] bM5-bVxJ EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[11:15:49] bM5-bVxJ SAY: chicken/ : Bwaak bwak.
+[11:16:17] bM5-bVxJ EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[11:16:21] bM5-bVxJ EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[11:16:23] bM5-bVxJ SAY: Commander Clucky/ : Bwaak bwak.
+[11:16:46] bM5-bVxJ SAY: chicken/ : Bwaak bwak.
+[11:17:03] bM5-bVxJ EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[11:17:29] bM5-bVxJ EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[11:18:16] bM5-bVxJ EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[11:18:22] bM5-bVxJ EMOTE: chicken/ : <B>The chicken</B> clucks.
+[11:18:34] bM5-bVxJ DEBUG: Next event of severity Mundane in 16.916 minutes.
+[11:18:34] bM5-bVxJ DEBUG: Starting event 'Economic News' of severity Mundane.
+[11:19:59] bM5-bVxJ SAY: chicken/ : Cluck!
+[11:20:34] bM5-bVxJ EMOTE: Ian/ : <B>Ian</B> dances around
+[11:21:16] bM5-bVxJ SAY: chicken/ : Bwaak bwak.
+[11:21:24] bM5-bVxJ SAY: Commander Clucky/ : Bwaak bwak.
+[11:21:35] bM5-bVxJ SAY: Betsy/ : moo?
+[11:21:35] bM5-bVxJ EMOTE: Commander Clucky/ : <B>Commander Clucky</B> pecks at the ground.
+[11:21:49] bM5-bVxJ EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[11:22:31] bM5-bVxJ EMOTE: chicken/ : <B>The chicken</B> clucks.
+[11:22:52] bM5-bVxJ EMOTE: Ian/ : <B>Ian</B> dances around
+[11:23:15] bM5-bVxJ EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[11:23:29] bM5-bVxJ DEBUG: Event 'Economic News' has completed at 06:17.
+[11:23:57] bM5-bVxJ SAY: Commander Clucky/ : Bwaak bwak.
+[11:24:23] bM5-bVxJ SAY: chicken/ : Cluck!
+[11:24:27] bM5-bVxJ EMOTE: chicken/ : <B>The chicken</B> clucks.
+[11:25:07] bM5-bVxJ EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[11:25:07] bM5-bVxJ EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:25:25] bM5-bVxJ SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[11:25:38] bM5-bVxJ SAY: chicken/ : Bwaak bwak.
+[11:25:44] bM5-bVxJ EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[11:26:21] bM5-bVxJ SAY: chicken/ : Cluck!
+[11:26:33] bM5-bVxJ SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[11:26:37] bM5-bVxJ SAY: Ian/ : Bark!
+[11:26:45] bM5-bVxJ EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:26:51] bM5-bVxJ SAY: Betsy/ : MOOOOOO
+[11:26:57] bM5-bVxJ EMOTE: chicken/ : <B>The chicken</B> clucks.
+[11:27:00] bM5-bVxJ SAY: Betsy/ : moo
+[11:27:32] bM5-bVxJ EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[11:28:05] bM5-bVxJ EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[11:29:34] bM5-bVxJ SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[11:29:40] bM5-bVxJ ACCESS: Login: ChickenAndMe/(ChickenAndMe) from 65.87.252.132-512004672 || BYOND v511
+[11:30:22] bM5-bVxJ ACCESS: Logout: ChickenAndMe/(ChickenAndMe)
+[11:31:03] bM5-bVxJ EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[11:31:08] bM5-bVxJ ACCESS: Login: ChickenAndMe/(ChickenAndMe) from 65.87.252.132-512004672 || BYOND v511
+[11:31:11] bM5-bVxJ EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[11:31:24] bM5-bVxJ EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[11:31:46] bM5-bVxJ SAY: Runtime/ : Esp!
+[11:31:59] bM5-bVxJ ACCESS: Logout: Rampo/(Xenomorph (1))
+[11:32:04] bM5-bVxJ GAME: Antagonists at round end were...
+[11:32:04] bM5-bVxJ GAME: Larvas: Hailey Cox(Rampo).
+[11:32:07] bM5-bVxJ SAY: chicken/ : Cluck!
+[11:33:06] bM5-bVxJ ACCESS: Logout: ChickenAndMe/(ChickenAndMe)
+
+
+Starting up. (ID: bM5-cOx8) 11:35.35
+---------------------
+[11:35:35] bM5-cOx8 MISC: Saved mode is 'xeno'
+[11:35:39] bM5-cOx8 ADMIN: Loading jobban_rank
+[11:35:39] bM5-cOx8 ADMIN: Loading Banlist
+[11:35:40] bM5-cOx8 DEBUG: Rebuilding Master Controller
+[11:36:14] bM5-cOx8 DEBUG: The hive node at the alien larva (42) spawned without a proper DNA.
+[11:36:14] bM5-cOx8 DEBUG: The hive node at the alien larva (423) spawned without a proper DNA.
+[11:36:14] bM5-cOx8 DEBUG: The hive node at the alien larva (565) spawned without a proper DNA.
+[11:36:14] bM5-cOx8 DEBUG: The hive node at the alien larva (537) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (759) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (960) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (915) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (918) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (68) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (847) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (396) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (759) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (676) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (119) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (859) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (988) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (525) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (554) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (70) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (667) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (382) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (202) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (266) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (900) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (719) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (14) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (837) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (546) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (880) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (140) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (505) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (959) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (55) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (743) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (108) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (660) spawned without a proper DNA.
+[11:36:15] bM5-cOx8 DEBUG: The hive node at the alien larva (677) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (787) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (530) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (991) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (39) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (173) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (685) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (355) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (68) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (612) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (953) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (19) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (270) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (789) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (270) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (311) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (21) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (390) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (700) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (375) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (787) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (839) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (480) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (525) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (140) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (794) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (194) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (647) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (70) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (180) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (854) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (839) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (367) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (5) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (53) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (198) spawned without a proper DNA.
+[11:36:16] bM5-cOx8 DEBUG: The hive node at the alien larva (577) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (998) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (259) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (444) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (668) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (485) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (292) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (412) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (700) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (842) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (738) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (112) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (864) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (660) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (181) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (390) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (418) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (149) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (523) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (489) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (760) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (237) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (524) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (65) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (555) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (324) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (594) spawned without a proper DNA.
+[11:36:17] bM5-cOx8 DEBUG: The hive node at the alien larva (229) spawned without a proper DNA.
+[11:36:34] bM5-cOx8 ACCESS: Login: ChickenAndMe/(ChickenAndMe) from 65.87.252.132-512004672 || BYOND v511
+[11:38:43] bM5-cOx8 ACCESS: Logout: ChickenAndMe/(ChickenAndMe)
+[11:41:16] bM5-cOx8 ACCESS: Login: ChickenAndMe/(ChickenAndMe) from 65.87.252.132-512004672 || BYOND v511
+[11:41:45] bM5-cOx8 ACCESS: Logout: ChickenAndMe/(ChickenAndMe)
+[13:04:00] bM5-cOx8 ACCESS: Login: Natorix/(Natorix) from 79.235.185.67-1430292835 || BYOND v511
+[13:07:52] bM5-cOx8 ACCESS: Logout: *no key*/(Natorix)
+[13:07:52] bM5-cOx8 ACCESS: Login: Natorix/(Charles Fairweather) from 79.235.185.67-1430292835 || BYOND v511
+[13:09:18] bM5-cOx8 ACCESS: Login: Igniscorvus/(Igniscorvus) from 88.23.158.215-3681444490 || BYOND v511
+[13:12:23] bM5-cOx8 ACCESS: Logout: Natorix/(Charles Fairweather)
+[13:12:57] bM5-cOx8 ACCESS: Logout: Igniscorvus/(Igniscorvus)
+[13:28:44] bM5-cOx8 ACCESS: Login: Igniscorvus/(Igniscorvus) from 88.23.158.215-3681444490 || BYOND v511
+[13:30:31] bM5-cOx8 ACCESS: Logout: Igniscorvus/(Igniscorvus)
+[13:47:35] bM5-cOx8 ACCESS: Login: ZaakD/(ZaakD) from 2.30.247.172-4134480801 || BYOND v511
+[13:50:35] bM5-cOx8 DEBUG: ZaakD had xeno enabled, so we are drafting them.
+[13:50:35] bM5-cOx8 DEBUG: ZaakD has been selected for Xenomorph by lottery.
+[13:50:35] bM5-cOx8 DEBUG: ZaakD was selected for Xenomorph by lottery, but they already have a special role.
+[13:50:35] bM5-cOx8 ACCESS: Logout: *no key*/(ZaakD)
+[13:50:35] bM5-cOx8 ACCESS: Login: ZaakD/(Davis Harley) from 2.30.247.172-4134480801 || BYOND v511
+[13:50:35] bM5-cOx8 DEBUG: The hive node at the alien larva (224) spawned without a proper DNA.
+[13:50:35] bM5-cOx8 ACCESS: Logout: *no key*/(Davis Harley)
+[13:50:35] bM5-cOx8 ACCESS: Login: ZaakD/(alien larva (224)) from 2.30.247.172-4134480801 || BYOND v511
+[13:50:35] bM5-cOx8 DEBUG: Next event of severity Mundane in 17.494 minutes.
+[13:50:36] bM5-cOx8 DEBUG: Next event of severity Moderate in 52.742 minutes.
+[13:50:36] bM5-cOx8 DEBUG: Next event of severity Major in 81.3917 minutes.
+[13:50:43] bM5-cOx8 EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[13:50:49] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:50:49] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:50:51] bM5-cOx8 EMOTE: Ian/ : <B>Ian</B> dances around
+[13:50:51] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:50:51] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:51:10] bM5-cOx8 SAY: Experiment 97d/ : EHEHEHEHEH
+[13:51:12] bM5-cOx8 ACCESS: Login: WarlordToby/(WarlordToby) from 188.238.39.207-2601143466 || BYOND v511
+[13:51:18] bM5-cOx8 EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[13:51:24] bM5-cOx8 SAY: Betsy/ : MOOOOOO
+[13:51:25] bM5-cOx8 OOC: WarlordToby/WarlordToby : Wololo
+[13:51:30] bM5-cOx8 OOC: WarlordToby/WarlordToby : Hello there, ZaakD
+[13:51:31] bM5-cOx8 OOC: alien larva (224)/ZaakD : REEEE
+[13:51:35] bM5-cOx8 OOC: alien larva (224)/ZaakD : hello
+[13:51:46] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:51:46] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:51:47] bM5-cOx8 ACCESS: Logout: *no key*/(WarlordToby)
+[13:51:47] bM5-cOx8 ACCESS: Login: WarlordToby/(Maxwell Hunter) from 188.238.39.207-2601143466 || BYOND v511
+[13:51:54] bM5-cOx8 OOC: alien larva (224)/ZaakD : I'm an alien so watch out cuck
+[13:52:05] bM5-cOx8 EMOTE: Ian/ : <B>Ian</B> dances around
+[13:52:15] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:52:15] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:52:17] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:52:17] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:52:18] bM5-cOx8 OOC: Maxwell Hunter/WarlordToby : Yeah i saw that via who verb
+[13:52:23] bM5-cOx8 EMOTE: Ian/ : <B>Ian</B> barks.
+[13:52:25] bM5-cOx8 SAY: mouse (941)/ : Squeek?
+[13:52:25] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:52:25] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:52:33] bM5-cOx8 GAME: Maxwell Hunter/WarlordToby used abandon mob.
+[13:52:33] bM5-cOx8 ACCESS: Logout: *no key*/(Maxwell Hunter)
+[13:52:33] bM5-cOx8 ACCESS: Login: WarlordToby/(new player) from 188.238.39.207-2601143466 || BYOND v511
+[13:52:34] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:52:34] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:52:40] bM5-cOx8 EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[13:52:40] bM5-cOx8 ACCESS: Logout: *no key*/(new player)
+[13:52:40] bM5-cOx8 ACCESS: Login: WarlordToby/(Maxwell Hunter) from 188.238.39.207-2601143466 || BYOND v511
+[13:52:56] bM5-cOx8 SAY: Commander Clucky/ : Cluck!
+[13:53:02] bM5-cOx8 OOC: alien larva (224)/ZaakD : trying to learn the ins and outs of alien life
+[13:53:15] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : You can test on me
+[13:53:17] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:53:17] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:53:21] bM5-cOx8 SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[13:53:21] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:53:21] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:53:27] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:53:27] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:53:30] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : You should bind abilities
+[13:53:36] bM5-cOx8 OOC: alien larva (224)/ZaakD : how?
+[13:53:40] bM5-cOx8 ACCESS: Logout: *no key*/(alien larva (224))
+[13:53:40] bM5-cOx8 ACCESS: Login: ZaakD/(Xenomorph (1)) from 2.30.247.172-4134480801 || BYOND v511
+[13:53:40] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:53:40] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:53:42] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:53:42] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:53:50] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : Right click top bar and open "Macros..."
+[13:53:51] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:53:51] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:53:51] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:53:51] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:54:04] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : You can hover your mouse on abilities to see their exact command name
+[13:54:15] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : And then fill up the macros window
+[13:54:17] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:54:17] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:54:19] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:54:19] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:54:27] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:54:27] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:54:31] bM5-cOx8 EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[13:54:31] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:54:31] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:54:35] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : For example, you could press spacebar to leap on humans
+[13:54:40] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:54:40] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:54:46] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : Or control + spacebar to spit neurotoxin
+[13:54:53] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:54:53] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:54:53] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:54:53] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:55:18] bM5-cOx8 EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[13:55:25] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:55:25] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:55:27] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:55:27] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:55:31] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:55:31] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:55:36] bM5-cOx8 OOC: Xenomorph (1)/ZaakD : Think I get it.
+[13:55:41] bM5-cOx8 EMOTE: Commander Clucky/ : <B>Commander Clucky</B> clucks.
+[13:55:43] bM5-cOx8 EMOTE: Jaxon Wright/ : gasps!
+[13:55:43] bM5-cOx8 EMOTE: Jaxon Wright/ : <B>Jaxon Wright</B> gasps!
+[13:56:09] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : Great, you have completed stage 1 of "How to alien 404"
+[13:56:24] bM5-cOx8 SAY: Betsy/ : MOOOOOO
+[13:56:24] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : I can help you with other stuff if needed
+[13:56:33] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : Like combat tips etc
+[13:56:45] bM5-cOx8 EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[13:57:07] bM5-cOx8 OOC: Xenomorph (1)/ZaakD : Tell me about alien combat tips
+[13:57:09] bM5-cOx8 ACCESS: Login: XXProXx10/(XXProXx10) from 141.226.172.112-453389617 || BYOND v511
+[13:57:14] bM5-cOx8 EMOTE: chicken/ : <B>The chicken</B> clucks.
+[13:57:29] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : Well, you can grab people aggressively and then target their leg to break their knees
+[13:57:36] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : Also, use your new macros often
+[13:57:49] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : Keep spreading weeds everywhere to store some neurotoxin
+[13:58:02] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : And to heal during combat
+[13:58:29] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : Aliens can't see in the darkness, but neither can humans
+[13:58:37] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : So you should lurk near light
+[13:58:45] bM5-cOx8 OOC: Xenomorph (1)/ZaakD : Yeah knew that, how do I delete a macro?
+[13:59:06] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : Press a macro so it is painted and press delete button
+[13:59:17] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : Delete button on keyboard
+[13:59:19] bM5-cOx8 ATTACK: ZaakD/(Xenomorph (1)) has slashed ZaakD/(Xenomorph (1))
+[13:59:24] bM5-cOx8 OOC: (LOCAL) Sergeant Hunter/WarlordToby : We get lots of new players
+[13:59:30] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : We get lots of new players
+[13:59:39] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : So i can't expect that everyone knows how to xeno
+[13:59:58] bM5-cOx8 ACCESS: Logout: XXProXx10/(XXProXx10)
+[14:00:03] bM5-cOx8 EMOTE: Commander Clucky/ : <B>Commander Clucky</B> flaps its wings viciously.
+[14:00:07] bM5-cOx8 EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[14:00:13] bM5-cOx8 SAY: chicken/ : Cluck!
+[14:00:29] bM5-cOx8 OOC: Xenomorph (1)/ZaakD : Thanks
+[14:00:34] bM5-cOx8 EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[14:00:44] bM5-cOx8 ACCESS: Login: OriginalKiwiNinja/(OriginalKiwiNinja) from 50.163.120.50-1393141723 || BYOND v511
+[14:00:58] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : Hi KiwiNinja
+[14:01:11] bM5-cOx8 SAY: Betsy/ : moo
+[14:01:15] bM5-cOx8 SAY: Sergeant Hunter/WarlordToby : The hell?
+[14:01:21] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : waves.
+[14:01:21] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> waves.
+[14:01:22] bM5-cOx8 SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[14:01:28] bM5-cOx8 EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[14:01:29] bM5-cOx8 OOC: OriginalKiwiNinja/OriginalKiwiNinja : thats creepy
+[14:01:48] bM5-cOx8 SAY: Sergeant Hunter/WarlordToby : I saw something odd in public hydrophonics... Some large lizard.
+[14:02:15] bM5-cOx8 EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[14:02:40] bM5-cOx8 EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[14:02:44] bM5-cOx8 SAY: Sergeant Hunter/WarlordToby : SECURITY!
+[14:02:52] bM5-cOx8 OOC: Xenomorph (1)/ZaakD : This server's really cool just needs more players
+[14:02:52] bM5-cOx8 EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:03:08] bM5-cOx8 OOC: Sergeant Hunter/WarlordToby : Aye
+[14:03:11] bM5-cOx8 EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:03:27] bM5-cOx8 ATTACK: WarlordToby/(Maxwell Hunter) shot (/obj/item/projectile/bullet/SMG_sol/rubber) *no key*/(Betsy) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=68;Y=61;Z=1'>JMP</a>)
+[14:03:34] bM5-cOx8 ATTACK: ZaakD/(Xenomorph (1)) has slashed WarlordToby/(Maxwell Hunter)
+[14:03:36] bM5-cOx8 ATTACK: ZaakD/(Xenomorph (1)) was blocked by WarlordToby/(Maxwell Hunter)
+[14:03:51] bM5-cOx8 ATTACK: ZaakD/(Xenomorph (1)) grabbed the neck of WarlordToby/(Maxwell Hunter)
+[14:03:52] bM5-cOx8 SAY: Experiment 97d/ : EHEHEHEHEH
+[14:03:56] bM5-cOx8 ATTACK: ZaakD/(Xenomorph (1)) devoured WarlordToby/(Maxwell Hunter) (INTENT: HARM) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=68;Y=61;Z=1'>JMP</a>)
+[14:04:14] bM5-cOx8 EMOTE: Commander Clucky/ : <B>Commander Clucky</B> clucks.
+[14:04:31] bM5-cOx8 SAY: chicken/ : Bwaak bwak.
+[14:04:47] bM5-cOx8 SAY: Commander Clucky/ : Cluck!
+[14:04:53] bM5-cOx8 ACCESS: Logout: WarlordToby/(Maxwell Hunter)
+[14:05:07] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : snores.
+[14:05:07] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> snores.
+[14:05:11] bM5-cOx8 OOC: Xenomorph (1)/ZaakD : How do you break people's knee's again?
+[14:05:34] bM5-cOx8 ACCESS: Login: Igniscorvus/(Igniscorvus) from 88.23.158.215-3681444490 || BYOND v511
+[14:05:42] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : snores.
+[14:05:42] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> snores.
+[14:05:46] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : snores.
+[14:05:46] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> snores.
+[14:05:49] bM5-cOx8 ACCESS: Logout: *no key*/(Igniscorvus)
+[14:05:49] bM5-cOx8 ACCESS: Login: Igniscorvus/(Kristopher Muggins) from 88.23.158.215-3681444490 || BYOND v511
+[14:05:49] bM5-cOx8 DEBUG:  try check a HUD, but HUDdatums not have "ErisStyle-noborder!"
+[14:05:49] bM5-cOx8 DEBUG:  try check a HUD, but HUDdatums not have "ErisStyle-noborder!"
+[14:05:51] bM5-cOx8 DEBUG:  try check a HUD, but HUDdatums not have "ErisStyle-noborder!"
+[14:05:57] bM5-cOx8 OOC: Kristopher Muggins/Igniscorvus : hi
+[14:06:04] bM5-cOx8 SAY: chicken/ : Cluck!
+[14:06:08] bM5-cOx8 OOC: Xenomorph (1)/ZaakD : heyo
+[14:06:08] bM5-cOx8 EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[14:06:14] bM5-cOx8 SAY: Ian/ : Woof!
+[14:06:32] bM5-cOx8 OOC: Kristopher Muggins/Igniscorvus : reeee no to much people
+[14:06:44] bM5-cOx8 OOC: Xenomorph (1)/ZaakD : ders one alien
+[14:06:56] bM5-cOx8 OOC: Kristopher Muggins/Igniscorvus : reee muh inmersion
+[14:07:12] bM5-cOx8 EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:07:43] bM5-cOx8 ACCESS: Logout: Igniscorvus/(Kristopher Muggins)
+[14:07:53] bM5-cOx8 SAY: chicken/ : Cluck!
+[14:08:29] bM5-cOx8 ACCESS: Logout: *no key*/(OriginalKiwiNinja)
+[14:08:29] bM5-cOx8 ACCESS: Login: OriginalKiwiNinja/(Jaynie Sanders) from 50.163.120.50-1393141723 || BYOND v511
+[14:08:46] bM5-cOx8 DEBUG: Next event of severity Mundane in 12.622 minutes.
+[14:08:46] bM5-cOx8 DEBUG: Starting event 'Economic News' of severity Mundane.
+[14:08:52] bM5-cOx8 ACCESS: Logout: OriginalKiwiNinja/(Jaynie Sanders)
+[14:09:15] bM5-cOx8 EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[14:10:06] bM5-cOx8 SAY: chicken/ : Cluck!
+[14:10:08] bM5-cOx8 EMOTE: Kristopher Muggins/Igniscorvus : sleeps soundly.
+[14:10:08] bM5-cOx8 EMOTE: Kristopher Muggins/Igniscorvus : <B>Kristopher Muggins</B> sleeps soundly.
+[14:11:03] bM5-cOx8 DEBUG: Event 'Economic News' has completed at 01:19.
+[14:11:08] bM5-cOx8 EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[14:11:27] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : snores.
+[14:11:27] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> snores.
+[14:11:33] bM5-cOx8 EMOTE: Kristopher Muggins/Igniscorvus : sleeps soundly.
+[14:11:33] bM5-cOx8 EMOTE: Kristopher Muggins/Igniscorvus : <B>Kristopher Muggins</B> sleeps soundly.
+[14:11:37] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : snores.
+[14:11:37] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : <B>Jaynie Sanders</B> snores.
+[14:11:41] bM5-cOx8 SAY: Runtime/ : Purr!
+[14:11:49] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : snores.
+[14:11:49] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : <B>Jaynie Sanders</B> snores.
+[14:12:02] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : snores.
+[14:12:02] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> snores.
+[14:12:37] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : twitches violently.
+[14:12:37] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> twitches violently.
+[14:12:39] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : sighs.
+[14:12:39] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> sighs.
+[14:12:47] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : snores.
+[14:12:47] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> snores.
+[14:13:07] bM5-cOx8 SAY: Runtime/ : Meow!
+[14:13:10] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : snores.
+[14:13:10] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : <B>Jaynie Sanders</B> snores.
+[14:13:20] bM5-cOx8 SAY: chicken/ : Cluck!
+[14:13:25] bM5-cOx8 ACCESS: Logout: ZaakD/(Xenomorph (1))
+[14:38:07] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : cries.
+[14:38:07] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> cries.
+[14:38:25] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : cries.
+[14:38:25] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> cries.
+[14:38:27] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : cries.
+[14:38:27] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> cries.
+[14:38:28] bM5-cOx8 EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:38:29] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : snores.
+[14:38:29] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : <B>Jaynie Sanders</B> snores.
+[14:38:41] bM5-cOx8 ACCESS: Login: Szotu/(Szotu) from 83.4.154.85-1967343363 || BYOND v510
+[14:38:44] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : cries.
+[14:38:44] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> cries.
+[14:39:00] bM5-cOx8 EMOTE: chicken/ : <B>The chicken</B> clucks.
+[14:39:02] bM5-cOx8 EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:39:13] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : cries.
+[14:39:13] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> cries.
+[14:39:31] bM5-cOx8 EMOTE: Xenomorph (1)/ZaakD : snores.
+[14:39:31] bM5-cOx8 EMOTE: Xenomorph (1)/ZaakD : <B>Xenomorph (1)</B> snores.
+[14:39:33] bM5-cOx8 EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[14:39:42] bM5-cOx8 ACCESS: Logout: Szotu/(Szotu)
+[14:40:32] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : screams!
+[14:40:32] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> screams!
+[14:40:34] bM5-cOx8 ACCESS: Login: Szotu/(Szotu) from 83.4.154.85-1967343363 || BYOND v510
+[14:40:45] bM5-cOx8 ACCESS: Logout: *no key*/(Szotu)
+[14:40:45] bM5-cOx8 ACCESS: Login: Szotu/(Lief Woodworth) from 83.4.154.85-1967343363 || BYOND v510
+[14:40:48] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : cries.
+[14:40:48] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> cries.
+[14:41:46] bM5-cOx8 EMOTE: Xenomorph (1)/ZaakD : snores.
+[14:41:46] bM5-cOx8 EMOTE: Xenomorph (1)/ZaakD : <B>Xenomorph (1)</B> snores.
+[14:41:50] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : sighs.
+[14:41:50] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> sighs.
+[14:42:01] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : gasps!
+[14:42:01] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> gasps!
+[14:42:03] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : sighs.
+[14:42:03] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> sighs.
+[14:42:03] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : gasps!
+[14:42:03] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> gasps!
+[14:42:12] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : gasps!
+[14:42:12] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> gasps!
+[14:42:16] bM5-cOx8 SAY: Captain Woodworth/Szotu : Lads? Anyone here?
+[14:42:27] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : snores.
+[14:42:27] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : <B>Jaynie Sanders</B> snores.
+[14:43:00] bM5-cOx8 SAY: Runtime/ : Purr!
+[14:43:09] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : sighs.
+[14:43:09] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> sighs.
+[14:43:18] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : cries.
+[14:43:18] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> cries.
+[14:43:24] bM5-cOx8 ACCESS: Logout: Szotu/(Lief Woodworth)
+[15:34:37] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : gasps!
+[15:34:37] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> gasps!
+[15:34:51] bM5-cOx8 EMOTE: Xenomorph (1)/ZaakD : snores.
+[15:34:51] bM5-cOx8 EMOTE: Xenomorph (1)/ZaakD : <B>Xenomorph (1)</B> snores.
+[15:34:55] bM5-cOx8 SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[15:34:56] bM5-cOx8 SAY: Runtime/ : Meow!
+[15:34:56] bM5-cOx8 EMOTE: Ian/ : <B>Ian</B> barks.
+[15:34:57] bM5-cOx8 ACCESS: Login: Danmarr/(Danmarr) from 86.134.252.151-1308434517 || BYOND v511
+[15:35:00] bM5-cOx8 EMOTE: Xenomorph (1)/ZaakD : snores.
+[15:35:00] bM5-cOx8 EMOTE: Xenomorph (1)/ZaakD : <B>Xenomorph (1)</B> snores.
+[15:35:02] bM5-cOx8 EMOTE: Captain Woodworth/Szotu : snores.
+[15:35:02] bM5-cOx8 EMOTE: Captain Woodworth/Szotu : <B>Captain Woodworth</B> snores.
+[15:35:08] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : snores.
+[15:35:08] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> snores.
+[15:35:11] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : shivers.
+[15:35:11] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> shivers.
+[15:35:13] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : snores.
+[15:35:13] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : <B>Jaynie Sanders</B> snores.
+[15:35:31] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : shivers.
+[15:35:31] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> shivers.
+[15:35:34] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : sighs.
+[15:35:34] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> sighs.
+[15:35:44] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : snores.
+[15:35:44] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : <B>Jaynie Sanders</B> snores.
+[15:35:44] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : gasps!
+[15:35:44] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> gasps!
+[15:35:58] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : snores.
+[15:35:58] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : <B>Jaynie Sanders</B> snores.
+[15:36:07] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : snores.
+[15:36:07] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : <B>Jaynie Sanders</B> snores.
+[15:36:13] bM5-cOx8 EMOTE: Ian/ : <B>Ian</B> dances around
+[15:36:27] bM5-cOx8 GAME: Antagonists at round end were...
+[15:36:27] bM5-cOx8 GAME: Larvas: Davis Harley(ZaakD).
+[15:36:31] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : snores.
+[15:36:31] bM5-cOx8 EMOTE: Jaynie Sanders/OriginalKiwiNinja : <B>Jaynie Sanders</B> snores.
+[15:36:38] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : snores.
+[15:36:38] bM5-cOx8 EMOTE: Sergeant Hunter/WarlordToby : <B>Sergeant Hunter</B> snores.
+[15:36:59] bM5-cOx8 SAY: chicken/ : Bwaak bwak.
+[15:37:11] bM5-cOx8 EMOTE: Xenomorph (1)/ZaakD : snores.
+[15:37:11] bM5-cOx8 EMOTE: Xenomorph (1)/ZaakD : <B>Xenomorph (1)</B> snores.
+[15:37:30] bM5-cOx8 ACCESS: Logout: Danmarr/(Danmarr)
+
+
+Starting up. (ID: bM5-dqHa) 15:39.49
+---------------------
+[15:39:49] bM5-dqHa MISC: Saved mode is 'xeno'
+[15:39:53] bM5-dqHa ADMIN: Loading jobban_rank
+[15:39:53] bM5-dqHa ADMIN: Loading Banlist
+[15:39:53] bM5-dqHa DEBUG: Rebuilding Master Controller
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (782) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (524) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (272) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (282) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (734) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (285) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (54) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (385) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (972) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (354) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (598) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (576) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (723) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (1) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (204) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (843) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (215) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (5) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (865) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (418) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (687) spawned without a proper DNA.
+[15:40:30] bM5-dqHa DEBUG: The hive node at the alien larva (134) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (371) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (346) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (749) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (171) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (779) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (907) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (214) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (555) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (83) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (404) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (840) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (683) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (229) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (52) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (473) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (161) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (769) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (146) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (906) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (721) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (690) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (25) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (876) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (875) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (286) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (93) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (885) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (215) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (987) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (135) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (795) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (246) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (137) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (372) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (28) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (810) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (892) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (87) spawned without a proper DNA.
+[15:40:31] bM5-dqHa DEBUG: The hive node at the alien larva (64) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (544) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (974) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (69) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (171) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (690) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (232) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (838) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (465) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (379) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (278) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (389) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (504) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (109) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (842) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (187) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (630) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (742) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (722) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (932) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (862) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (826) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (626) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (289) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (753) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (242) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (448) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (750) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (831) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (570) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (124) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (840) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (671) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (21) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (737) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (661) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (781) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (266) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (469) spawned without a proper DNA.
+[15:40:32] bM5-dqHa DEBUG: The hive node at the alien larva (621) spawned without a proper DNA.
+[15:40:32] bM5-dqHa ACCESS: Login: Danmarr/(Danmarr) from 86.134.252.151-1308434517 || BYOND v511
+[15:42:21] bM5-dqHa ACCESS: Login: Shamzie/(Shamzie) from 198.13.252.3-3006058878 || BYOND v511
+[15:43:11] bM5-dqHa ACCESS: Logout: Shamzie/(Shamzie)
+[15:44:18] bM5-dqHa ACCESS: Logout: Danmarr/(Danmarr)
+[16:42:20] bM5-dqHa ACCESS: Login: DarknessOfEneing/(DarknessOfEneing) from 73.193.97.112-2952941028 || BYOND v511
+[16:42:35] bM5-dqHa ACCESS: Logout: DarknessOfEneing/(DarknessOfEneing)
+[18:12:20] bM5-dqHa ACCESS: Login: Danmarr/(Danmarr) from 86.134.252.151-1308434517 || BYOND v511
+[18:19:46] bM5-dqHa ACCESS: Logout: Danmarr/(Danmarr)
+[18:53:16] bM5-dqHa ACCESS: Login: Dragonflamesrest/(Dragonflamesrest) from 24.129.253.245-3639739327 || BYOND v511
+[18:54:27] bM5-dqHa ACCESS: Logout: Dragonflamesrest/(Dragonflamesrest)
+[19:09:50] bM5-dqHa ACCESS: Login: Mxykikker/(Mxykikker) from 104.220.132.139-1801727301 || BYOND v511
+[19:10:51] bM5-dqHa DEBUG: Mxykikker had xeno enabled, so we are drafting them.
+[19:10:51] bM5-dqHa DEBUG: Mxykikker has been selected for Xenomorph by lottery.
+[19:10:51] bM5-dqHa DEBUG: Mxykikker was selected for Xenomorph by lottery, but they already have a special role.
+[19:10:51] bM5-dqHa ACCESS: Logout: *no key*/(Mxykikker)
+[19:10:51] bM5-dqHa ACCESS: Login: Mxykikker/(Silas Otis) from 104.220.132.139-1801727301 || BYOND v511
+[19:10:51] bM5-dqHa DEBUG: The hive node at the alien larva (627) spawned without a proper DNA.
+[19:10:51] bM5-dqHa ACCESS: Logout: *no key*/(Silas Otis)
+[19:10:51] bM5-dqHa ACCESS: Login: Mxykikker/(alien larva (627)) from 104.220.132.139-1801727301 || BYOND v511
+[19:10:52] bM5-dqHa DEBUG: Next event of severity Mundane in 12.038 minutes.
+[19:10:52] bM5-dqHa DEBUG: Next event of severity Moderate in 36.882 minutes.
+[19:10:52] bM5-dqHa DEBUG: Next event of severity Major in 83.25 minutes.
+[19:11:00] bM5-dqHa EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[19:11:27] bM5-dqHa SAY: chicken/ : Bwaak bwak.
+[19:11:29] bM5-dqHa SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[19:11:48] bM5-dqHa EMOTE: Ian/ : <B>Ian</B> dances around
+[19:11:50] bM5-dqHa SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[19:12:09] bM5-dqHa EMOTE: Commander Clucky/ : <B>Commander Clucky</B> flaps its wings viciously.
+[19:12:11] bM5-dqHa SAY: chicken/ : Cluck!
+[19:12:25] bM5-dqHa SAY: Ian/ : Bark!
+[19:12:44] bM5-dqHa SAY: mouse (927)/ : Squeek!
+[19:12:46] bM5-dqHa SAY: mouse (927)/ : SQUEEK!
+[19:12:50] bM5-dqHa ACCESS: Login: ChickenAndMe/(ChickenAndMe) from 65.87.252.132-512004672 || BYOND v511
+[19:13:04] bM5-dqHa SAY: chicken/ : Cluck!
+[19:13:10] bM5-dqHa SAY: chicken/ : Cluck!
+[19:13:16] bM5-dqHa EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[19:13:31] bM5-dqHa EMOTE: mouse (927)/ : <B>The mouse (927)</B> squeeks.
+[19:13:42] bM5-dqHa ACCESS: Logout: *no key*/(alien larva (627))
+[19:13:42] bM5-dqHa ACCESS: Login: Mxykikker/(Xenomorph (1)) from 104.220.132.139-1801727301 || BYOND v511
+[19:14:16] bM5-dqHa ACCESS: Logout: *no key*/(ChickenAndMe)
+[19:14:16] bM5-dqHa ACCESS: Login: ChickenAndMe/(Shane Batten) from 65.87.252.132-512004672 || BYOND v511
+[19:14:16] bM5-dqHa ACCESS: Logout: *no key*/(Shane Batten)
+[19:14:16] bM5-dqHa ACCESS: Login: ChickenAndMe/(U-TM) from 65.87.252.132-512004672 || BYOND v511
+[19:14:30] bM5-dqHa EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[19:14:51] bM5-dqHa EMOTE: chicken/ : <B>The chicken</B> clucks.
+[19:15:10] bM5-dqHa EMOTE: mouse (927)/ : <B>The mouse (927)</B> squiks.
+[19:15:39] bM5-dqHa SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[19:16:29] bM5-dqHa EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[19:16:38] bM5-dqHa EMOTE: Runtime/ : <B>Runtime</B> mews.
+[19:17:03] bM5-dqHa EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[19:17:39] bM5-dqHa EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[19:17:47] bM5-dqHa ACCESS: Login: Dragonflamesrest/(Dragonflamesrest) from 24.129.253.245-3639739327 || BYOND v511
+[19:17:47] bM5-dqHa EMOTE: chicken/ : <B>The chicken</B> clucks.
+[19:18:00] bM5-dqHa EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[19:18:57] bM5-dqHa SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[19:18:59] bM5-dqHa EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[19:19:02] bM5-dqHa SAY: ChickenAndMe/(Fi.) : Current Active Laws:
+[19:19:02] bM5-dqHa SAY: Fi./ChickenAndMe : Current Active Laws:
+[19:19:03] bM5-dqHa SAY: ChickenAndMe/(Fi.) : 1. Safeguard: Protect your assigned space station from damage to the best of your abilities.
+[19:19:03] bM5-dqHa SAY: Fi./ChickenAndMe : 1. Safeguard: Protect your assigned space station from damage to the best of your abilities.
+[19:19:04] bM5-dqHa SAY: ChickenAndMe/(Fi.) : 2. Serve: Serve NanoTrasen personnel to the best of your abilities, with priority as according to their rank and role.
+[19:19:04] bM5-dqHa SAY: Fi./ChickenAndMe : 2. Serve: Serve NanoTrasen personnel to the best of your abilities, with priority as according to their rank and role.
+[19:19:05] bM5-dqHa SAY: ChickenAndMe/(Fi.) : 3. Protect: Protect NanoTrasen personnel to the best of your abilities, with priority as according to their rank and role.
+[19:19:05] bM5-dqHa SAY: Fi./ChickenAndMe : 3. Protect: Protect NanoTrasen personnel to the best of your abilities, with priority as according to their rank and role.
+[19:19:06] bM5-dqHa SAY: ChickenAndMe/(Fi.) : 4. Preserve: Do not allow unauthorized personnel to tamper with your equipment.
+[19:19:06] bM5-dqHa SAY: Fi./ChickenAndMe : 4. Preserve: Do not allow unauthorized personnel to tamper with your equipment.
+[19:19:20] bM5-dqHa EMOTE: chicken/ : <B>The chicken</B> clucks.
+[19:19:30] bM5-dqHa ACCESS: Logout: *no key*/(Dragonflamesrest)
+[19:19:30] bM5-dqHa ACCESS: Login: Dragonflamesrest/(Valentina Wise) from 24.129.253.245-3639739327 || BYOND v511
+[19:19:33] bM5-dqHa EMOTE: Runtime/ : <B>Runtime</B> mews.
+[19:19:43] bM5-dqHa SAY: Betsy/ : moo?
+[19:19:47] bM5-dqHa SAY: Betsy/ : moo
+[19:20:29] bM5-dqHa SAY: chicken/ : Cluck!
+[19:20:31] bM5-dqHa SAY: Operative Wise/Dragonflamesrest : hello?
+[19:20:33] bM5-dqHa EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:20:40] bM5-dqHa SAY: Operative Wise/Dragonflamesrest : the fuck
+[19:20:44] bM5-dqHa SAY: Operative Wise/Dragonflamesrest : comms down?
+[19:21:20] bM5-dqHa SAY: Operative Wise/Dragonflamesrest : fuck
+[19:21:25] bM5-dqHa SAY: Betsy/ : MOOOOOO
+[19:21:27] bM5-dqHa SAY: Betsy/ : moo?
+[19:21:29] bM5-dqHa SAY: Runtime/ : Purr!
+[19:21:48] bM5-dqHa EMOTE: Ian/ : <B>Ian</B> dances around
+[19:22:20] bM5-dqHa SAY: chicken/ : Cluck!
+[19:22:39] bM5-dqHa SAY: Ian/ : Bark!
+[19:22:49] bM5-dqHa SAY: Operative Wise/Dragonflamesrest : fucking hell
+[19:22:51] bM5-dqHa SAY: chicken/ : Cluck!
+[19:22:55] bM5-dqHa SAY: chicken/ : Cluck!
+[19:22:59] bM5-dqHa ACCESS: Logout: Mxykikker/(Xenomorph (1))
+[19:23:03] bM5-dqHa GAME: Antagonists at round end were...
+[19:23:03] bM5-dqHa GAME: Larvas: Silas Otis(Mxykikker).
+[19:23:04] bM5-dqHa EMOTE: Xenomorph (1)/Mxykikker : snores.
+[19:23:04] bM5-dqHa EMOTE: Xenomorph (1)/Mxykikker : <B>Xenomorph (1)</B> snores.
+[19:23:10] bM5-dqHa EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:23:22] bM5-dqHa DEBUG: Next event of severity Mundane in 15.504 minutes.
+[19:23:22] bM5-dqHa DEBUG: Starting event 'Brand Intelligence' of severity Mundane.
+[19:24:06] bM5-dqHa ACCESS: Logout: ChickenAndMe/(Fi.)
+[19:24:06] bM5-dqHa ACCESS: Logout: Dragonflamesrest/(Valentina Wise)
+
+
+Starting up. (ID: bM6-aniG) 19:26.36
+---------------------
+[19:26:36] bM6-aniG MISC: Saved mode is 'xeno'
+[19:26:39] bM6-aniG ADMIN: Loading jobban_rank
+[19:26:39] bM6-aniG ADMIN: Loading Banlist
+[19:26:39] bM6-aniG DEBUG: Rebuilding Master Controller
+[19:27:12] bM6-aniG DEBUG: The hive node at the alien larva (780) spawned without a proper DNA.
+[19:27:12] bM6-aniG DEBUG: The hive node at the alien larva (981) spawned without a proper DNA.
+[19:27:12] bM6-aniG DEBUG: The hive node at the alien larva (351) spawned without a proper DNA.
+[19:27:12] bM6-aniG DEBUG: The hive node at the alien larva (711) spawned without a proper DNA.
+[19:27:12] bM6-aniG DEBUG: The hive node at the alien larva (328) spawned without a proper DNA.
+[19:27:12] bM6-aniG DEBUG: The hive node at the alien larva (94) spawned without a proper DNA.
+[19:27:12] bM6-aniG DEBUG: The hive node at the alien larva (127) spawned without a proper DNA.
+[19:27:12] bM6-aniG DEBUG: The hive node at the alien larva (540) spawned without a proper DNA.
+[19:27:12] bM6-aniG DEBUG: The hive node at the alien larva (937) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (704) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (484) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (164) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (506) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (146) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (356) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (592) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (459) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (242) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (751) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (856) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (582) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (340) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (602) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (643) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (721) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (335) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (851) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (265) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (544) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (301) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (792) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (391) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (254) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (467) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (228) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (650) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (301) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (376) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (622) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (321) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (599) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (449) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (610) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (732) spawned without a proper DNA.
+[19:27:13] bM6-aniG DEBUG: The hive node at the alien larva (670) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (631) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (489) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (460) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (373) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (799) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (371) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (491) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (487) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (751) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (111) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (345) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (852) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (337) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (88) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (638) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (375) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (473) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (170) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (45) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (98) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (755) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (699) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (268) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (709) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (688) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (854) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (915) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (820) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (690) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (833) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (91) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (177) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (203) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (992) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (302) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (341) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (290) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (558) spawned without a proper DNA.
+[19:27:14] bM6-aniG DEBUG: The hive node at the alien larva (720) spawned without a proper DNA.
+[19:27:15] bM6-aniG DEBUG: The hive node at the alien larva (156) spawned without a proper DNA.
+[19:27:15] bM6-aniG DEBUG: The hive node at the alien larva (510) spawned without a proper DNA.
+[19:27:15] bM6-aniG DEBUG: The hive node at the alien larva (121) spawned without a proper DNA.
+[19:27:15] bM6-aniG DEBUG: The hive node at the alien larva (660) spawned without a proper DNA.
+[19:27:15] bM6-aniG DEBUG: The hive node at the alien larva (79) spawned without a proper DNA.
+[19:27:15] bM6-aniG DEBUG: The hive node at the alien larva (904) spawned without a proper DNA.
+[19:27:15] bM6-aniG DEBUG: The hive node at the alien larva (777) spawned without a proper DNA.
+[19:27:15] bM6-aniG DEBUG: The hive node at the alien larva (301) spawned without a proper DNA.
+[19:27:15] bM6-aniG DEBUG: The hive node at the alien larva (236) spawned without a proper DNA.
+[19:27:15] bM6-aniG DEBUG: The hive node at the alien larva (784) spawned without a proper DNA.
+[19:27:15] bM6-aniG DEBUG: The hive node at the alien larva (899) spawned without a proper DNA.
+[19:27:15] bM6-aniG DEBUG: The hive node at the alien larva (358) spawned without a proper DNA.
+[19:27:15] bM6-aniG DEBUG: The hive node at the alien larva (417) spawned without a proper DNA.
+[19:27:15] bM6-aniG DEBUG: The hive node at the alien larva (964) spawned without a proper DNA.
+[19:27:15] bM6-aniG DEBUG: The hive node at the alien larva (381) spawned without a proper DNA.
+[19:27:15] bM6-aniG DEBUG: The hive node at the alien larva (944) spawned without a proper DNA.
+[19:27:36] bM6-aniG ACCESS: Login: ChickenAndMe/(ChickenAndMe) from 65.87.252.132-512004672 || BYOND v511
+[19:27:36] bM6-aniG ACCESS: Login: Dragonflamesrest/(Dragonflamesrest) from 24.129.253.245-3639739327 || BYOND v511
+[19:27:44] bM6-aniG ACCESS: Logout: Dragonflamesrest/(Dragonflamesrest)
+[19:28:50] bM6-aniG ACCESS: Logout: ChickenAndMe/(ChickenAndMe)
+[19:36:24] bM6-aniG ACCESS: Login: Danmarr/(Danmarr) from 86.134.252.151-1308434517 || BYOND v511
+[19:36:35] bM6-aniG ACCESS: Logout: Danmarr/(Danmarr)
+[20:26:12] bM6-aniG ACCESS: Login: Furry Chicken/(Furry Chicken) from 50.133.2.25-1553678715 || BYOND v510
+[20:26:33] bM6-aniG ADMIN: Furry Chicken/(Furry Chicken) initiated a reboot.
+[20:26:38] bM6-aniG ACCESS: Logout: Furry Chicken/(Furry Chicken)
+
+
+Starting up. (ID: bM6-aw47) 20:29.36
+---------------------
+[20:29:36] bM6-aw47 MISC: Saved mode is 'xeno'
+[20:29:46] bM6-aw47 ADMIN: Loading jobban_rank
+[20:29:46] bM6-aw47 ADMIN: Loading Banlist
+[20:29:47] bM6-aw47 DEBUG: Rebuilding Master Controller
+[20:30:18] bM6-aw47 DEBUG: The hive node at the alien larva (974) spawned without a proper DNA.
+[20:30:18] bM6-aw47 DEBUG: The hive node at the alien larva (714) spawned without a proper DNA.
+[20:30:18] bM6-aw47 DEBUG: The hive node at the alien larva (624) spawned without a proper DNA.
+[20:30:18] bM6-aw47 DEBUG: The hive node at the alien larva (743) spawned without a proper DNA.
+[20:30:18] bM6-aw47 DEBUG: The hive node at the alien larva (770) spawned without a proper DNA.
+[20:30:18] bM6-aw47 DEBUG: The hive node at the alien larva (663) spawned without a proper DNA.
+[20:30:18] bM6-aw47 DEBUG: The hive node at the alien larva (657) spawned without a proper DNA.
+[20:30:18] bM6-aw47 DEBUG: The hive node at the alien larva (109) spawned without a proper DNA.
+[20:30:18] bM6-aw47 DEBUG: The hive node at the alien larva (63) spawned without a proper DNA.
+[20:30:18] bM6-aw47 DEBUG: The hive node at the alien larva (629) spawned without a proper DNA.
+[20:30:18] bM6-aw47 DEBUG: The hive node at the alien larva (407) spawned without a proper DNA.
+[20:30:18] bM6-aw47 DEBUG: The hive node at the alien larva (61) spawned without a proper DNA.
+[20:30:18] bM6-aw47 DEBUG: The hive node at the alien larva (564) spawned without a proper DNA.
+[20:30:18] bM6-aw47 DEBUG: The hive node at the alien larva (266) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (779) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (621) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (57) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (185) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (278) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (537) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (56) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (269) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (737) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (371) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (815) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (602) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (747) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (371) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (959) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (408) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (335) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (467) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (18) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (327) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (58) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (689) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (370) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (549) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (136) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (268) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (282) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (638) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (883) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (987) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (729) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (992) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (493) spawned without a proper DNA.
+[20:30:19] bM6-aw47 DEBUG: The hive node at the alien larva (938) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (970) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (226) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (338) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (385) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (154) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (513) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (286) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (470) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (976) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (174) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (262) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (580) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (507) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (41) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (226) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (862) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (237) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (644) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (723) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (310) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (166) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (276) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (146) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (638) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (388) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (854) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (725) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (637) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (396) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (527) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (330) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (126) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (476) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (8) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (540) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (608) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (750) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (458) spawned without a proper DNA.
+[20:30:20] bM6-aw47 DEBUG: The hive node at the alien larva (858) spawned without a proper DNA.
+[20:30:21] bM6-aw47 DEBUG: The hive node at the alien larva (894) spawned without a proper DNA.
+[20:30:21] bM6-aw47 DEBUG: The hive node at the alien larva (666) spawned without a proper DNA.
+[20:30:21] bM6-aw47 DEBUG: The hive node at the alien larva (254) spawned without a proper DNA.
+[20:30:21] bM6-aw47 DEBUG: The hive node at the alien larva (540) spawned without a proper DNA.
+[20:30:21] bM6-aw47 DEBUG: The hive node at the alien larva (537) spawned without a proper DNA.
+[20:30:21] bM6-aw47 DEBUG: The hive node at the alien larva (791) spawned without a proper DNA.
+[20:30:21] bM6-aw47 DEBUG: The hive node at the alien larva (17) spawned without a proper DNA.
+[20:30:21] bM6-aw47 DEBUG: The hive node at the alien larva (974) spawned without a proper DNA.
+[20:30:21] bM6-aw47 DEBUG: The hive node at the alien larva (116) spawned without a proper DNA.
+[20:30:21] bM6-aw47 DEBUG: The hive node at the alien larva (668) spawned without a proper DNA.
+[20:30:21] bM6-aw47 DEBUG: The hive node at the alien larva (771) spawned without a proper DNA.
+[20:30:21] bM6-aw47 DEBUG: The hive node at the alien larva (700) spawned without a proper DNA.
+[20:30:21] bM6-aw47 DEBUG: The hive node at the alien larva (39) spawned without a proper DNA.
+[20:30:39] bM6-aw47 ACCESS: Login: Furry Chicken/(Furry Chicken) from 50.133.2.25-1553678715 || BYOND v510
+[20:33:20] bM6-aw47 DEBUG: Furry Chicken had xeno enabled, so we are drafting them.
+[20:33:20] bM6-aw47 DEBUG: Furry Chicken has been selected for Xenomorph by lottery.
+[20:33:20] bM6-aw47 DEBUG: Furry Chicken was selected for Xenomorph by lottery, but they already have a special role.
+[20:33:20] bM6-aw47 DEBUG: Furry Chicken had workingjoe enabled, so we are drafting them.
+[20:33:20] bM6-aw47 DEBUG: Furry Chicken/(Furry Chicken) is not eligible to become a Working Joe: They already have a special role (Xenomorph)!
+[20:33:20] bM6-aw47 DEBUG: Furry Chicken was selected for Working Joe by lottery, but they already have a special role.
+[20:33:20] bM6-aw47 ACCESS: Logout: *no key*/(Furry Chicken)
+[20:33:20] bM6-aw47 ACCESS: Login: Furry Chicken/(Vaclav Havel) from 50.133.2.25-1553678715 || BYOND v510
+[20:33:21] bM6-aw47 DEBUG: The hive node at the alien larva (9) spawned without a proper DNA.
+[20:33:21] bM6-aw47 ACCESS: Logout: *no key*/(Vaclav Havel)
+[20:33:21] bM6-aw47 ACCESS: Login: Furry Chicken/(alien larva (9)) from 50.133.2.25-1553678715 || BYOND v510
+[20:33:21] bM6-aw47 DEBUG: Next event of severity Mundane in 17.132 minutes.
+[20:33:21] bM6-aw47 DEBUG: Next event of severity Moderate in 39.278 minutes.
+[20:33:21] bM6-aw47 DEBUG: Next event of severity Major in 99.7867 minutes.
+[20:33:27] bM6-aw47 GAME: Antagonists at round end were...
+[20:33:27] bM6-aw47 GAME: Larvas: Vaclav Havel(Furry Chicken).
+[20:34:12] bM6-aw47 SAY: chicken/ : Bwaak bwak.
+[20:34:18] bM6-aw47 SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[20:34:30] bM6-aw47 EMOTE: chicken/ : <B>The chicken</B> clucks.
+[20:34:30] bM6-aw47 ACCESS: Logout: Furry Chicken/(alien larva (9))
+
+
+Starting up. (ID: bM6-ayh4) 20:37.00
+---------------------
+[20:37:00] bM6-ayh4 MISC: Saved mode is 'xeno'
+[20:37:05] bM6-ayh4 ADMIN: Loading jobban_rank
+[20:37:05] bM6-ayh4 ADMIN: Loading Banlist
+[20:37:06] bM6-ayh4 DEBUG: Rebuilding Master Controller
+[20:37:53] bM6-ayh4 DEBUG: The hive node at the alien larva (287) spawned without a proper DNA.
+[20:37:53] bM6-ayh4 DEBUG: The hive node at the alien larva (8) spawned without a proper DNA.
+[20:37:53] bM6-ayh4 DEBUG: The hive node at the alien larva (158) spawned without a proper DNA.
+[20:37:53] bM6-ayh4 DEBUG: The hive node at the alien larva (942) spawned without a proper DNA.
+[20:37:53] bM6-ayh4 DEBUG: The hive node at the alien larva (659) spawned without a proper DNA.
+[20:37:53] bM6-ayh4 DEBUG: The hive node at the alien larva (439) spawned without a proper DNA.
+[20:37:53] bM6-ayh4 DEBUG: The hive node at the alien larva (589) spawned without a proper DNA.
+[20:37:53] bM6-ayh4 DEBUG: The hive node at the alien larva (765) spawned without a proper DNA.
+[20:37:53] bM6-ayh4 DEBUG: The hive node at the alien larva (966) spawned without a proper DNA.
+[20:37:53] bM6-ayh4 DEBUG: The hive node at the alien larva (643) spawned without a proper DNA.
+[20:37:53] bM6-ayh4 DEBUG: The hive node at the alien larva (534) spawned without a proper DNA.
+[20:37:53] bM6-ayh4 DEBUG: The hive node at the alien larva (891) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (423) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (159) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (204) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (666) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (67) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (252) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (978) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (783) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (651) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (893) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (449) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (64) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (792) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (914) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (562) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (635) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (629) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (667) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (782) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (208) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (603) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (149) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (895) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (956) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (197) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (324) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (934) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (408) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (94) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (684) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (195) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (651) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (290) spawned without a proper DNA.
+[20:37:54] bM6-ayh4 DEBUG: The hive node at the alien larva (965) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (650) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (806) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (504) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (712) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (195) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (945) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (486) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (162) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (219) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (575) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (684) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (359) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (939) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (38) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (721) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (652) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (538) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (610) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (778) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (961) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (729) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (895) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (53) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (377) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (953) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (973) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (801) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (319) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (202) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (400) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (738) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (576) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (76) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (620) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (412) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (898) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (638) spawned without a proper DNA.
+[20:37:55] bM6-ayh4 DEBUG: The hive node at the alien larva (253) spawned without a proper DNA.
+[20:37:56] bM6-ayh4 DEBUG: The hive node at the alien larva (16) spawned without a proper DNA.
+[20:37:56] bM6-ayh4 DEBUG: The hive node at the alien larva (884) spawned without a proper DNA.
+[20:37:56] bM6-ayh4 DEBUG: The hive node at the alien larva (696) spawned without a proper DNA.
+[20:37:56] bM6-ayh4 DEBUG: The hive node at the alien larva (378) spawned without a proper DNA.
+[20:37:56] bM6-ayh4 DEBUG: The hive node at the alien larva (234) spawned without a proper DNA.
+[20:37:56] bM6-ayh4 DEBUG: The hive node at the alien larva (828) spawned without a proper DNA.
+[20:37:56] bM6-ayh4 DEBUG: The hive node at the alien larva (240) spawned without a proper DNA.
+[20:37:56] bM6-ayh4 DEBUG: The hive node at the alien larva (878) spawned without a proper DNA.
+[20:37:56] bM6-ayh4 DEBUG: The hive node at the alien larva (217) spawned without a proper DNA.
+[20:37:56] bM6-ayh4 DEBUG: The hive node at the alien larva (951) spawned without a proper DNA.
+[20:37:56] bM6-ayh4 DEBUG: The hive node at the alien larva (508) spawned without a proper DNA.
+[20:37:56] bM6-ayh4 DEBUG: The hive node at the alien larva (840) spawned without a proper DNA.
+[20:37:56] bM6-ayh4 DEBUG: The hive node at the alien larva (201) spawned without a proper DNA.
+[20:37:56] bM6-ayh4 DEBUG: The hive node at the alien larva (572) spawned without a proper DNA.
+[20:37:56] bM6-ayh4 DEBUG: The hive node at the alien larva (156) spawned without a proper DNA.
+[20:37:56] bM6-ayh4 DEBUG: The hive node at the alien larva (941) spawned without a proper DNA.
+[21:10:56] bM6-ayh4 ACCESS: Login: Swordsith/(Swordsith) from 184.89.85.148-1830433207 || BYOND v511
+[21:11:07] bM6-ayh4 ACCESS: Logout: Swordsith/(Swordsith)
+[21:13:06] bM6-ayh4 ACCESS: Login: Swordsith/(Swordsith) from 184.89.85.148-1830433207 || BYOND v511
+[21:14:39] bM6-ayh4 ACCESS: Login: Furry Chicken/(Furry Chicken) from 50.133.2.25-1553678715 || BYOND v510
+[21:15:08] bM6-ayh4 OOC: Furry Chicken/Furry Chicken : hey
+[21:15:37] bM6-ayh4 ADMIN: Swordsith has started the game.
+[21:16:38] bM6-ayh4 OOC: Swordsith/Swordsith : heyo
+[21:16:43] bM6-ayh4 OOC: Swordsith/Swordsith : didn't see ya
+[21:17:37] bM6-ayh4 ACCESS: Logout: Swordsith/(Swordsith)
+[21:18:22] bM6-ayh4 ACCESS: Logout: Furry Chicken/(Furry Chicken)
+[21:24:11] bM6-ayh4 ACCESS: Login: Mxykikker/(Mxykikker) from 104.220.132.139-1801727301 || BYOND v511
+[21:25:43] bM6-ayh4 ACCESS: Logout: Mxykikker/(Mxykikker)
+[22:22:35] bM6-ayh4 ACCESS: Login: Guywh/(Guywh) from 37.194.182.43-670929298 || BYOND v511
+[22:25:44] bM6-ayh4 DEBUG: Guywh had xeno enabled, so we are drafting them.
+[22:25:44] bM6-ayh4 DEBUG: Guywh has been selected for Xenomorph by lottery.
+[22:25:44] bM6-ayh4 DEBUG: Guywh was selected for Xenomorph by lottery, but they already have a special role.
+[22:25:44] bM6-ayh4 ACCESS: Logout: *no key*/(Guywh)
+[22:25:44] bM6-ayh4 ACCESS: Login: Guywh/(Byrne Garrison) from 37.194.182.43-670929298 || BYOND v511
+[22:25:44] bM6-ayh4 DEBUG: The hive node at the alien larva (922) spawned without a proper DNA.
+[22:25:44] bM6-ayh4 ACCESS: Logout: *no key*/(Byrne Garrison)
+[22:25:44] bM6-ayh4 ACCESS: Login: Guywh/(alien larva (922)) from 37.194.182.43-670929298 || BYOND v511
+[22:25:44] bM6-ayh4 DEBUG: Next event of severity Mundane in 12.48 minutes.
+[22:25:45] bM6-ayh4 DEBUG: Next event of severity Moderate in 38.74 minutes.
+[22:25:45] bM6-ayh4 DEBUG: Next event of severity Major in 97.2517 minutes.
+[22:25:51] bM6-ayh4 EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[22:25:52] bM6-ayh4 GAME: Antagonists at round end were...
+[22:25:52] bM6-ayh4 GAME: Larvas: Byrne Garrison(Guywh).
+[22:26:08] bM6-ayh4 EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:26:12] bM6-ayh4 EMOTE: Runtime/ : <B>Runtime</B> meows.
+[22:26:18] bM6-ayh4 EMOTE: Commander Clucky/ : <B>Commander Clucky</B> pecks at the ground.
+[22:26:24] bM6-ayh4 ACCESS: Logout: Guywh/(alien larva (922))
+[01:37:49] bM6-ayh4 SAY: Runtime/ : Purr!
+[01:37:49] bM6-ayh4 EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:38:14] bM6-ayh4 ACCESS: Login: Nicker_PS/(Nicker_PS) from 185.32.135.58-473982930 || BYOND v511
+[01:38:15] bM6-ayh4 ACCESS: Logout: Nicker_PS/(Nicker_PS)

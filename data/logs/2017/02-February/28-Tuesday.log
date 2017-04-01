@@ -1,0 +1,361 @@
+
+
+Starting up. (ID: bNg-dBDV) 17:48.57
+---------------------
+[17:48:57] bNg-dBDV MISC: Saved mode is 'xeno'
+[17:48:59] bNg-dBDV ADMIN: Loading jobban_rank
+[17:48:59] bNg-dBDV ADMIN: Loading Banlist
+[17:48:59] bNg-dBDV DEBUG: Rebuilding Master Controller
+[17:48:59] bNg-dBDV ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-3013913043 || BYOND v511
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (355) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (125) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (231) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (996) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (991) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (68) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (712) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (778) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (37) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (985) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (358) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (192) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (468) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (951) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (802) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (81) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (415) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (835) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (832) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (708) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (846) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (30) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (371) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (982) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (785) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (722) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (897) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (390) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (724) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (911) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (375) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (854) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (87) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (414) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (952) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (129) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (584) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (625) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (341) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (28) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (793) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (33) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (47) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (471) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (788) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (710) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (105) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (363) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (498) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (193) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (693) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (507) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (160) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (50) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (6) spawned without a proper DNA.
+[17:49:04] bNg-dBDV DEBUG: The hive node at Bloody Larva (323) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (605) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (113) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (733) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (557) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (652) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (396) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (453) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (149) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (158) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (925) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (704) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (696) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (544) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (814) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (810) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (374) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (1) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (696) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (185) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (265) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (485) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (243) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (168) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (80) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (769) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (144) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (612) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (697) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (18) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (622) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (782) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (636) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (674) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (254) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (573) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (992) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (328) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (766) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (713) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (382) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (177) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (687) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (810) spawned without a proper DNA.
+[17:49:05] bNg-dBDV DEBUG: The hive node at Bloody Larva (467) spawned without a proper DNA.
+[17:54:06] bNg-dBDV ACCESS: Logout: Furry Chicken/(Furry Chicken)
+
+
+Starting up. (ID: bNg-dCT1) 17:57.07
+---------------------
+[17:57:07] bNg-dCT1 MISC: Saved mode is 'xeno'
+[17:57:09] bNg-dCT1 ADMIN: Loading jobban_rank
+[17:57:09] bNg-dCT1 ADMIN: Loading Banlist
+[17:57:10] bNg-dCT1 DEBUG: Rebuilding Master Controller
+[17:57:10] bNg-dCT1 ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-3013913043 || BYOND v511
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (791) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (689) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (698) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (706) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (209) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (831) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (456) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (328) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (748) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (746) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (209) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (920) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (948) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (924) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (94) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (401) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (911) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (937) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (53) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (128) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (786) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (808) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (56) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (201) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (708) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (670) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (142) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (648) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (45) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (72) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (644) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (186) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (505) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (299) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (196) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (518) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (714) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (194) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (232) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (769) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (925) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (465) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (441) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (607) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (81) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (576) spawned without a proper DNA.
+[17:57:15] bNg-dCT1 DEBUG: The hive node at Bloody Larva (454) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (43) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (802) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (608) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (423) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (821) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (831) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (192) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (612) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (861) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (117) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (579) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (874) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (199) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (219) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (190) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (173) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (689) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (194) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (669) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (37) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (316) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (447) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (392) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (698) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (276) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (636) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (260) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (211) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (346) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (720) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (783) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (852) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (883) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (716) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (983) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (909) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (633) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (469) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (559) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (68) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (801) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (482) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (777) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (504) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (583) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (16) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (320) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (853) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (945) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (968) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (30) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (865) spawned without a proper DNA.
+[17:57:16] bNg-dCT1 DEBUG: The hive node at Bloody Larva (730) spawned without a proper DNA.
+[17:58:41] bNg-dCT1 ADMIN: Furry Chicken has started the game.
+[17:58:41] bNg-dCT1 DEBUG: Furry Chicken had xeno enabled, so we are drafting them.
+[17:58:41] bNg-dCT1 DEBUG: Furry Chicken has been selected for Xenomorph by lottery.
+[17:58:41] bNg-dCT1 DEBUG: Furry Chicken was selected for Xenomorph by lottery, but they already have a special role.
+[17:58:41] bNg-dCT1 ACCESS: Logout: *no key*/(Furry Chicken)
+[17:58:41] bNg-dCT1 ACCESS: Login: Furry Chicken/(Vaclav Havel) from localhost-3013913043 || BYOND v511
+[17:58:42] bNg-dCT1 DEBUG: The hive node at Bloody Larva (468) spawned without a proper DNA.
+[17:58:42] bNg-dCT1 ACCESS: Logout: *no key*/(Vaclav Havel)
+[17:58:42] bNg-dCT1 ACCESS: Login: Furry Chicken/(Bloody Larva (468)) from localhost-3013913043 || BYOND v511
+[17:58:42] bNg-dCT1 DEBUG: Next event of severity Mundane in 17.588 minutes.
+[17:58:42] bNg-dCT1 DEBUG: Next event of severity Moderate in 42.756 minutes.
+[17:58:43] bNg-dCT1 DEBUG: Next event of severity Major in 89.6083 minutes.
+[17:59:41] bNg-dCT1 SAY: Experiment 97d/ : eh?
+[18:00:29] bNg-dCT1 EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[18:00:37] bNg-dCT1 SAY: Ian/ : Woof!
+[18:00:48] bNg-dCT1 EMOTE: Ian/ : <B>Ian</B> dances around
+[18:00:48] bNg-dCT1 ACCESS: Logout: Furry Chicken/(Larva (468))
+
+
+Starting up. (ID: bNg-dDWs) 18:03.50
+---------------------
+[18:03:50] bNg-dDWs MISC: Saved mode is 'xeno'
+[18:03:52] bNg-dDWs ADMIN: Loading jobban_rank
+[18:03:52] bNg-dDWs ADMIN: Loading Banlist
+[18:03:52] bNg-dDWs DEBUG: Rebuilding Master Controller
+[18:03:52] bNg-dDWs ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-3013913043 || BYOND v511
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (84) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (504) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (590) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (661) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (605) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (472) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (597) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (237) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (429) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (184) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (128) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (120) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (86) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (12) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (750) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (757) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (595) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (730) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (479) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (39) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (279) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (619) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (507) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (792) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (716) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (423) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (126) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (845) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (708) spawned without a proper DNA.
+[18:03:58] bNg-dDWs DEBUG: The hive node at Bloody Larva (609) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (99) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (714) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (372) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (750) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (988) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (160) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (267) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (989) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (115) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (731) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (132) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (200) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (915) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (441) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (56) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (56) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (568) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (654) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (984) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (813) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (985) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (427) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (681) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (677) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (21) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (510) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (267) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (768) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (581) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (90) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (435) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (73) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (535) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (236) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (464) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (469) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (398) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (839) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (183) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (581) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (285) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (216) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (763) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (429) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (802) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (359) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (543) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (479) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (182) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (957) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (66) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (422) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (32) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (44) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (661) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (85) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (321) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (785) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (50) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (221) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (482) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (432) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (55) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (240) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (251) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (218) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (55) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (647) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (683) spawned without a proper DNA.
+[18:03:59] bNg-dDWs DEBUG: The hive node at Bloody Larva (491) spawned without a proper DNA.
+[18:04:40] bNg-dDWs ADMIN: Furry Chicken has started the game.
+[18:04:44] bNg-dDWs ADMIN: Furry Chicken has started the game.
+[18:04:53] bNg-dDWs ADMIN: Furry Chicken has started the game.
+[18:04:54] bNg-dDWs DEBUG: Furry Chicken had xeno enabled, so we are drafting them.
+[18:04:54] bNg-dDWs DEBUG: Furry Chicken has been selected for Xenomorph by lottery.
+[18:04:54] bNg-dDWs DEBUG: Furry Chicken was selected for Xenomorph by lottery, but they already have a special role.
+[18:04:54] bNg-dDWs ACCESS: Logout: *no key*/(Furry Chicken)
+[18:04:54] bNg-dDWs ACCESS: Login: Furry Chicken/(Vaclav Havel) from localhost-3013913043 || BYOND v511
+[18:04:54] bNg-dDWs DEBUG: The hive node at Bloody Larva (116) spawned without a proper DNA.
+[18:04:54] bNg-dDWs ACCESS: Logout: *no key*/(Vaclav Havel)
+[18:04:54] bNg-dDWs ACCESS: Login: Furry Chicken/(Bloody Larva (116)) from localhost-3013913043 || BYOND v511
+[18:04:54] bNg-dDWs DEBUG: Next event of severity Mundane in 17.644 minutes.
+[18:04:54] bNg-dDWs DEBUG: Next event of severity Moderate in 42.668 minutes.
+[18:04:54] bNg-dDWs DEBUG: Next event of severity Major in 95.0533 minutes.
+[18:05:00] bNg-dDWs EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[18:05:16] bNg-dDWs ACCESS: Logout: Furry Chicken/(Bloody Larva (116))

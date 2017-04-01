@@ -1,0 +1,100 @@
+
+version = 12
+UI_style = "ErisStyle"
+UI_style_color = "#ffffff"
+UI_style_alpha = 255
+ooccolor = "#010000"
+lastchangelog = ""
+default_slot = 1
+preferences = list(
+		"SOUND_MIDI",
+		"SOUND_LOBBY",
+		"SOUND_AMBIENCE",
+		"CHAT_GHOSTEARS",
+		"CHAT_GHOSTSIGHT",
+		"CHAT_GHOSTRADIO",
+		"CHAT_SHOWICONS",
+		"SHOW_TYPING",
+		"CHAT_OOC",
+		"CHAT_LOOC",
+		"CHAT_DEAD",
+		"SHOW_PROGRESS",
+		"CHAT_PRAYER",
+		"SOUND_ADMINHELP")
+preferences_disabled = list("CHAT_ATTACKLOGS","CHAT_DEBUGLOGS")
+language_prefixes = list(",","#","-")
+character1
+	version = 12
+	real_name = "Lisa Taylor"
+	name_is_always_random = 0
+	gender = "female"
+	body_build = "Default"
+	age = 30
+	spawnpoint = "Cryogenic Storage"
+	OOC_Notes = ""
+	language = list()
+	species = "Human"
+	hair_red = 254
+	hair_green = 210
+	hair_blue = 76
+	facial_red = 0
+	facial_green = 0
+	facial_blue = 0
+	skin_tone = 0
+	skin_red = 0
+	skin_green = 0
+	skin_blue = 0
+	hair_style_name = "Overeye Long"
+	facial_style_name = "Shaved"
+	eyes_red = 0
+	eyes_green = 51
+	eyes_blue = 102
+	b_type = "O+"
+	disabilities = 0
+	organ_data = list()
+	rlimb_data = list()
+	all_underwear = list("Underwear, top" = "Bra, white","Underwear, bottom" = "Panties, white","Undershirt" = "None")
+	backbag = 2
+	med_record = ""
+	sec_record = ""
+	gen_record = ""
+	home_system = "Unset"
+	citizenship = "None"
+	faction = "None"
+	religion = "None"
+	nanotrasen_relation = "Neutral"
+	flavor_texts_general = null
+	flavor_texts_head = null
+	flavor_texts_face = null
+	flavor_texts_eyes = null
+	flavor_texts_torso = null
+	flavor_texts_arms = null
+	flavor_texts_hands = null
+	flavor_texts_legs = null
+	flavor_texts_feet = null
+	flavour_texts_robot_Default = null
+	flavour_texts_robot_Standard = null
+	flavour_texts_robot_Engineering = null
+	flavour_texts_robot_Surgeon = null
+	flavour_texts_robot_Crisis = null
+	flavour_texts_robot_Miner = null
+	flavour_texts_robot_Janitor = null
+	flavour_texts_robot_Service = null
+	flavour_texts_robot_Clerical = null
+	flavour_texts_robot_Security = null
+	flavour_texts_robot_Research = null
+	alternate_option = 0
+	job_civilian_high = 0
+	job_civilian_med = 0
+	job_civilian_low = 0
+	job_medsci_high = 0
+	job_medsci_med = 0
+	job_medsci_low = 0
+	job_engsec_high = 0
+	job_engsec_med = 0
+	job_engsec_low = 0
+	player_alt_titles = list()
+	be_special = list()
+	uplinklocation = "PDA"
+	exploit_record = ""
+	gear = list()

@@ -1,0 +1,1579 @@
+
+
+Starting up. (ID: bNg-aa2k) 19:06.55
+---------------------
+[19:06:55] bNg-aa2k MISC: Saved mode is 'xeno'
+[19:06:57] bNg-aa2k ADMIN: Loading jobban_rank
+[19:06:57] bNg-aa2k ADMIN: Loading Banlist
+[19:06:57] bNg-aa2k DEBUG: Rebuilding Master Controller
+[19:06:58] bNg-aa2k ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-3013913043 || BYOND v511
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (482) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (895) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (991) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (325) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (32) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (705) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (988) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (859) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (547) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (356) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (491) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (617) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (652) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (136) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (561) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (459) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (71) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (468) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (617) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (770) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (685) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (635) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (584) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (932) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (250) spawned without a proper DNA.
+[19:07:07] bNg-aa2k DEBUG: The hive node at Bloody Larva (484) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (349) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (835) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (68) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (251) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (806) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (763) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (777) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (613) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (931) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (975) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (868) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (32) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (493) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (433) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (267) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (354) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (961) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (662) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (681) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (823) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (925) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (747) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (499) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (658) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (567) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (754) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (288) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (231) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (76) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (212) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (729) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (318) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (688) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (320) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (77) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (330) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (26) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (359) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (229) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (743) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (997) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (650) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (732) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (740) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (136) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (878) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (37) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (14) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (273) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (983) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (840) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (474) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (229) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (104) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (891) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (729) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (273) spawned without a proper DNA.
+[19:07:08] bNg-aa2k DEBUG: The hive node at Bloody Larva (487) spawned without a proper DNA.
+[19:07:09] bNg-aa2k DEBUG: The hive node at Bloody Larva (561) spawned without a proper DNA.
+[19:07:09] bNg-aa2k DEBUG: The hive node at Bloody Larva (639) spawned without a proper DNA.
+[19:07:09] bNg-aa2k DEBUG: The hive node at Bloody Larva (777) spawned without a proper DNA.
+[19:07:09] bNg-aa2k DEBUG: The hive node at Bloody Larva (138) spawned without a proper DNA.
+[19:07:09] bNg-aa2k DEBUG: The hive node at Bloody Larva (433) spawned without a proper DNA.
+[19:07:09] bNg-aa2k DEBUG: The hive node at Bloody Larva (443) spawned without a proper DNA.
+[19:07:09] bNg-aa2k DEBUG: The hive node at Bloody Larva (859) spawned without a proper DNA.
+[19:07:09] bNg-aa2k DEBUG: The hive node at Bloody Larva (744) spawned without a proper DNA.
+[19:07:09] bNg-aa2k DEBUG: The hive node at Bloody Larva (813) spawned without a proper DNA.
+[19:07:09] bNg-aa2k DEBUG: The hive node at Bloody Larva (497) spawned without a proper DNA.
+[19:07:09] bNg-aa2k DEBUG: The hive node at Bloody Larva (549) spawned without a proper DNA.
+[19:07:09] bNg-aa2k DEBUG: The hive node at Bloody Larva (872) spawned without a proper DNA.
+[19:07:09] bNg-aa2k DEBUG: The hive node at Bloody Larva (517) spawned without a proper DNA.
+[19:07:09] bNg-aa2k DEBUG: The hive node at Bloody Larva (277) spawned without a proper DNA.
+[19:07:09] bNg-aa2k DEBUG: The hive node at Bloody Larva (675) spawned without a proper DNA.
+[19:07:09] bNg-aa2k DEBUG: The hive node at Bloody Larva (799) spawned without a proper DNA.
+[19:10:19] bNg-aa2k ADMIN: Furry Chicken has started the game.
+[19:10:20] bNg-aa2k DEBUG: Furry Chicken had xeno enabled, so we are drafting them.
+[19:10:20] bNg-aa2k DEBUG: Furry Chicken has been selected for Xenomorph by lottery.
+[19:10:20] bNg-aa2k DEBUG: Furry Chicken was selected for Xenomorph by lottery, but they already have a special role.
+[19:10:20] bNg-aa2k ACCESS: Logout: *no key*/(Furry Chicken)
+[19:10:20] bNg-aa2k ACCESS: Login: Furry Chicken/(Vaclav Havel) from localhost-3013913043 || BYOND v511
+[19:10:20] bNg-aa2k DEBUG: The hive node at Bloody Larva (349) spawned without a proper DNA.
+[19:10:20] bNg-aa2k ACCESS: Logout: *no key*/(Vaclav Havel)
+[19:10:20] bNg-aa2k ACCESS: Login: Furry Chicken/(Bloody Larva (349)) from localhost-3013913043 || BYOND v511
+[19:10:20] bNg-aa2k DEBUG: Next event of severity Mundane in 17.752 minutes.
+[19:10:22] bNg-aa2k DEBUG: Next event of severity Moderate in 49.58 minutes.
+[19:10:22] bNg-aa2k DEBUG: Next event of severity Major in 97.3633 minutes.
+[19:10:25] bNg-aa2k EMOTE: Commander Clucky/ : <B>Commander Clucky</B> pecks at the ground.
+[19:10:27] bNg-aa2k GAME: Antagonists at round end were...
+[19:10:27] bNg-aa2k GAME: Larvas: Vaclav Havel(Furry Chicken).
+[19:10:31] bNg-aa2k ADMIN: Furry Chicken/(Bloody Larva (349)) delayed the round end.
+[19:11:14] bNg-aa2k SAY: mouse (39)/ : Squeek?
+[19:11:40] bNg-aa2k SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[19:11:42] bNg-aa2k EMOTE: Commander Clucky/ : <B>Commander Clucky</B> pecks at the ground.
+[19:11:49] bNg-aa2k EMOTE: Betsy/ : <B>Betsy</B> brays.
+[19:12:13] bNg-aa2k EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[19:13:21] bNg-aa2k SAY: chicken/ : Bwaak bwak.
+[19:13:25] bNg-aa2k SAY: chicken/ : Cluck!
+[19:13:53] bNg-aa2k EMOTE: Ian/ : <B>Ian</B> dances around
+[19:14:22] bNg-aa2k ADMIN: Furry Chicken/(Larva (349)) modified Larva (349)'s amount_grown to 123123
+[19:14:24] bNg-aa2k ACCESS: Logout: *no key*/(Larva (349))
+[19:14:24] bNg-aa2k ACCESS: Login: Furry Chicken/(Xenomorph (1)) from localhost-3013913043 || BYOND v511
+[19:14:25] bNg-aa2k EMOTE: Runtime/ : <B>Runtime</B> meows.
+[19:14:34] bNg-aa2k EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[19:14:35] bNg-aa2k ADMIN: Furry Chicken/(Xenomorph (1)) has used rudimentary transformation on Furry Chicken/(Xenomorph (1)). Transforming to larva; deletemob=1
+[19:14:35] bNg-aa2k DEBUG: The hive node at Bloody Larva (57) spawned without a proper DNA.
+[19:14:35] bNg-aa2k ACCESS: Logout: *no key*/(Xenomorph (1))
+[19:14:35] bNg-aa2k ACCESS: Login: Furry Chicken/(Xenomorph (1)) from localhost-3013913043 || BYOND v511
+[19:14:43] bNg-aa2k ADMIN: Furry Chicken/(Bloody Larva (57)) modified Bloody Larva (57)'s amount_grown to 123123
+[19:14:45] bNg-aa2k ACCESS: Logout: *no key*/(Larva (57))
+[19:14:45] bNg-aa2k ACCESS: Login: Furry Chicken/(Xenomorph (2)) from localhost-3013913043 || BYOND v511
+[19:14:49] bNg-aa2k ADMIN: Furry Chicken/(Xenomorph (2)) has used rudimentary transformation on Furry Chicken/(Xenomorph (2)). Transforming to larva; deletemob=1
+[19:14:49] bNg-aa2k DEBUG: The hive node at Bloody Larva (198) spawned without a proper DNA.
+[19:14:49] bNg-aa2k ACCESS: Logout: *no key*/(Xenomorph (2))
+[19:14:49] bNg-aa2k ACCESS: Login: Furry Chicken/(Xenomorph (2)) from localhost-3013913043 || BYOND v511
+[19:14:54] bNg-aa2k ADMIN: Furry Chicken/(Bloody Larva (198)) modified Bloody Larva (198)'s amount_grown to 1.23123e+006
+[19:14:56] bNg-aa2k EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[19:14:56] bNg-aa2k ACCESS: Logout: *no key*/(Larva (198))
+[19:14:56] bNg-aa2k ACCESS: Login: Furry Chicken/(Xenomorph (3)) from localhost-3013913043 || BYOND v511
+[19:15:04] bNg-aa2k ADMIN: Furry Chicken/(Xenomorph (3)) has used rudimentary transformation on Furry Chicken/(Xenomorph (3)). Transforming to larva; deletemob=1
+[19:15:04] bNg-aa2k DEBUG: The hive node at Bloody Larva (345) spawned without a proper DNA.
+[19:15:04] bNg-aa2k ACCESS: Logout: *no key*/(Xenomorph (3))
+[19:15:04] bNg-aa2k ACCESS: Login: Furry Chicken/(Xenomorph (3)) from localhost-3013913043 || BYOND v511
+[19:15:07] bNg-aa2k ADMIN: Furry Chicken/(Bloody Larva (345)) modified Bloody Larva (345)'s amount_grown to 12321
+[19:15:09] bNg-aa2k ACCESS: Logout: *no key*/(Larva (345))
+[19:15:09] bNg-aa2k ACCESS: Login: Furry Chicken/(Xenomorph (4)) from localhost-3013913043 || BYOND v511
+[19:15:15] bNg-aa2k ADMIN: Furry Chicken/(Xenomorph (4)) has used rudimentary transformation on Furry Chicken/(Xenomorph (4)). Transforming to larva; deletemob=1
+[19:15:15] bNg-aa2k DEBUG: The hive node at Bloody Larva (391) spawned without a proper DNA.
+[19:15:15] bNg-aa2k ACCESS: Logout: *no key*/(Xenomorph (4))
+[19:15:15] bNg-aa2k ACCESS: Login: Furry Chicken/(Xenomorph (4)) from localhost-3013913043 || BYOND v511
+[19:15:17] bNg-aa2k ADMIN: Furry Chicken/(Bloody Larva (391)) modified Bloody Larva (391)'s amount_grown to 123232
+[19:15:19] bNg-aa2k EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:15:25] bNg-aa2k ACCESS: Logout: *no key*/(Larva (391))
+[19:15:25] bNg-aa2k ACCESS: Login: Furry Chicken/(Xenomorph (5)) from localhost-3013913043 || BYOND v511
+[19:15:33] bNg-aa2k ADMIN: Furry Chicken/(Xenomorph (5)) has used rudimentary transformation on Furry Chicken/(Xenomorph (5)). Transforming to larva; deletemob=1
+[19:15:33] bNg-aa2k DEBUG: The hive node at Bloody Larva (706) spawned without a proper DNA.
+[19:15:33] bNg-aa2k ACCESS: Logout: *no key*/(Xenomorph (5))
+[19:15:33] bNg-aa2k ACCESS: Login: Furry Chicken/(Xenomorph (5)) from localhost-3013913043 || BYOND v511
+[19:15:36] bNg-aa2k ADMIN: Furry Chicken/(Bloody Larva (706)) modified Bloody Larva (706)'s amount_grown to 4.56565e+008
+[19:15:38] bNg-aa2k ACCESS: Logout: *no key*/(Larva (706))
+[19:15:38] bNg-aa2k ACCESS: Login: Furry Chicken/(Xenomorph (6)) from localhost-3013913043 || BYOND v511
+[19:16:27] bNg-aa2k EMOTE: chicken/ : <B>The chicken</B> clucks.
+[19:16:41] bNg-aa2k ADMIN: Furry Chicken/(Xenomorph (6)) has paralyzed Furry Chicken/(Xenomorph (6)). (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=57;Y=106;Z=1'>JMP</a>)
+[19:16:56] bNg-aa2k ADMIN: Furry Chicken/(Xenomorph (6)) called Xenomorph (6)'s set_species() with the arguments Alpha+Xenomorph.
+[19:17:19] bNg-aa2k EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[19:17:22] bNg-aa2k ADMIN: Furry Chicken/(Alien Queen) healed / Rrvived Furry Chicken/(Alien Queen)
+[19:17:53] bNg-aa2k EMOTE: chicken/ : <B>The chicken</B> clucks.
+[19:17:59] bNg-aa2k ACCESS: Logout: Furry Chicken/(Alien Queen)
+
+
+Starting up. (ID: bNg-aeMD) 19:31.11
+---------------------
+[19:31:11] bNg-aeMD MISC: Saved mode is 'xeno'
+[19:31:16] bNg-aeMD ADMIN: Loading jobban_rank
+[19:31:16] bNg-aeMD ADMIN: Loading Banlist
+[19:31:16] bNg-aeMD DEBUG: Rebuilding Master Controller
+[19:31:16] bNg-aeMD ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-3013913043 || BYOND v511
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (979) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (748) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (628) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (656) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (859) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (606) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (226) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (485) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (683) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (58) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (242) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (886) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (461) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (673) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (934) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (899) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (919) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (38) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (464) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (427) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (238) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (745) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (29) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (910) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (798) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (615) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (773) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (602) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (331) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (401) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (76) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (654) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (226) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (994) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (17) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (231) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (584) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (243) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (90) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (129) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (317) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (337) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (32) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (441) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (731) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (719) spawned without a proper DNA.
+[19:31:31] bNg-aeMD DEBUG: The hive node at Bloody Larva (546) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (562) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (787) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (888) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (323) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (461) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (967) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (889) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (305) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (799) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (204) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (889) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (119) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (901) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (416) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (137) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (439) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (36) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (828) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (83) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (842) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (623) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (185) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (383) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (551) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (995) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (248) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (645) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (664) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (144) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (767) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (959) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (907) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (594) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (358) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (754) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (540) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (710) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (165) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (329) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (444) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (801) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (372) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (461) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (285) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (221) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (71) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (548) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (705) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (164) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (907) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (420) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (211) spawned without a proper DNA.
+[19:31:32] bNg-aeMD DEBUG: The hive node at Bloody Larva (187) spawned without a proper DNA.
+[19:33:40] bNg-aeMD ACCESS: Logout: Furry Chicken/(Furry Chicken)
+
+
+Starting up. (ID: bNg-afDB) 19:36.30
+---------------------
+[19:36:30] bNg-afDB MISC: Saved mode is 'xeno'
+[19:36:33] bNg-afDB ADMIN: Loading jobban_rank
+[19:36:33] bNg-afDB ADMIN: Loading Banlist
+[19:36:33] bNg-afDB DEBUG: Rebuilding Master Controller
+[19:36:33] bNg-afDB ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-3013913043 || BYOND v511
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (97) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (4) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (641) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (135) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (578) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (672) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (327) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (716) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (657) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (486) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (21) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (295) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (791) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (427) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (953) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (833) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (587) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (543) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (594) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (727) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (760) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (433) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (253) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (623) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (89) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (789) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (409) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (795) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (303) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (686) spawned without a proper DNA.
+[19:36:42] bNg-afDB DEBUG: The hive node at Bloody Larva (737) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (64) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (763) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (558) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (856) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (416) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (861) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (417) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (129) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (854) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (172) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (386) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (164) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (509) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (943) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (996) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (447) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (320) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (348) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (935) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (311) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (216) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (521) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (19) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (631) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (563) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (26) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (973) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (380) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (378) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (450) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (901) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (31) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (239) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (979) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (341) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (997) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (766) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (533) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (475) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (112) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (737) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (51) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (295) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (284) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (702) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (647) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (208) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (403) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (917) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (255) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (809) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (786) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (739) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (92) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (104) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (115) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (967) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (735) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (974) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (825) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (549) spawned without a proper DNA.
+[19:36:43] bNg-afDB DEBUG: The hive node at Bloody Larva (603) spawned without a proper DNA.
+[19:36:44] bNg-afDB DEBUG: The hive node at Bloody Larva (858) spawned without a proper DNA.
+[19:36:44] bNg-afDB DEBUG: The hive node at Bloody Larva (777) spawned without a proper DNA.
+[19:36:44] bNg-afDB DEBUG: The hive node at Bloody Larva (526) spawned without a proper DNA.
+[19:36:44] bNg-afDB DEBUG: The hive node at Bloody Larva (541) spawned without a proper DNA.
+[19:36:44] bNg-afDB DEBUG: The hive node at Bloody Larva (102) spawned without a proper DNA.
+[19:36:44] bNg-afDB DEBUG: The hive node at Bloody Larva (674) spawned without a proper DNA.
+[19:36:44] bNg-afDB DEBUG: The hive node at Bloody Larva (305) spawned without a proper DNA.
+[19:43:29] bNg-afDB ACCESS: Logout: Furry Chicken/(Furry Chicken)
+
+
+Starting up. (ID: bNg-ahMB) 19:50.17
+---------------------
+[19:50:17] bNg-ahMB MISC: Saved mode is 'xeno'
+[19:50:19] bNg-ahMB ADMIN: Loading jobban_rank
+[19:50:19] bNg-ahMB ADMIN: Loading Banlist
+[19:50:19] bNg-ahMB DEBUG: Rebuilding Master Controller
+[19:50:19] bNg-ahMB ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-3013913043 || BYOND v511
+[19:50:28] bNg-ahMB DEBUG: The hive node at Bloody Larva (827) spawned without a proper DNA.
+[19:50:28] bNg-ahMB DEBUG: The hive node at Bloody Larva (521) spawned without a proper DNA.
+[19:50:28] bNg-ahMB DEBUG: The hive node at Bloody Larva (588) spawned without a proper DNA.
+[19:50:28] bNg-ahMB DEBUG: The hive node at Bloody Larva (667) spawned without a proper DNA.
+[19:50:28] bNg-ahMB DEBUG: The hive node at Bloody Larva (648) spawned without a proper DNA.
+[19:50:28] bNg-ahMB DEBUG: The hive node at Bloody Larva (387) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (483) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (421) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (198) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (959) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (797) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (623) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (34) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (467) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (975) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (889) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (887) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (733) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (31) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (663) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (781) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (912) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (769) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (677) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (495) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (140) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (433) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (332) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (488) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (830) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (784) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (718) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (58) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (105) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (515) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (3) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (153) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (401) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (29) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (469) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (934) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (368) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (745) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (395) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (485) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (902) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (483) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (742) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (232) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (678) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (695) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (943) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (928) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (285) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (926) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (731) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (745) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (191) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (513) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (394) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (251) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (159) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (912) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (892) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (383) spawned without a proper DNA.
+[19:50:29] bNg-ahMB DEBUG: The hive node at Bloody Larva (414) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (940) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (607) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (385) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (706) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (779) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (283) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (636) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (602) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (487) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (566) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (868) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (847) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (997) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (349) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (579) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (229) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (48) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (280) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (77) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (51) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (791) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (286) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (278) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (77) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (512) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (255) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (88) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (981) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (893) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (78) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (518) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (442) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (967) spawned without a proper DNA.
+[19:50:30] bNg-ahMB DEBUG: The hive node at Bloody Larva (92) spawned without a proper DNA.
+[19:51:24] bNg-ahMB ADMIN: Furry Chicken has started the game.
+[19:51:25] bNg-ahMB DEBUG: Furry Chicken had xeno enabled, so we are drafting them.
+[19:51:25] bNg-ahMB DEBUG: Furry Chicken has been selected for Xenomorph by lottery.
+[19:51:25] bNg-ahMB DEBUG: Furry Chicken was selected for Xenomorph by lottery, but they already have a special role.
+[19:51:25] bNg-ahMB ACCESS: Logout: *no key*/(Furry Chicken)
+[19:51:25] bNg-ahMB ACCESS: Login: Furry Chicken/(Vaclav Havel) from localhost-3013913043 || BYOND v511
+[19:51:25] bNg-ahMB DEBUG: The hive node at Bloody Larva (555) spawned without a proper DNA.
+[19:51:25] bNg-ahMB ACCESS: Logout: *no key*/(Vaclav Havel)
+[19:51:25] bNg-ahMB ACCESS: Login: Furry Chicken/(Bloody Larva (555)) from localhost-3013913043 || BYOND v511
+[19:51:25] bNg-ahMB DEBUG: Next event of severity Mundane in 15.234 minutes.
+[19:51:26] bNg-ahMB DEBUG: Next event of severity Moderate in 48.662 minutes.
+[19:51:26] bNg-ahMB DEBUG: Next event of severity Major in 82.0583 minutes.
+[19:51:29] bNg-ahMB ADMIN: Furry Chicken/(Bloody Larva (555)) delayed the round end.
+[19:51:29] bNg-ahMB EMOTE: chicken/ : <B>The chicken</B> clucks.
+[19:51:30] bNg-ahMB GAME: Antagonists at round end were...
+[19:51:30] bNg-ahMB GAME: Larvas: Vaclav Havel(Furry Chicken).
+[19:52:10] bNg-ahMB SAY: Runtime/ : Esp!
+[19:52:32] bNg-ahMB EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[19:53:26] bNg-ahMB EMOTE: Runtime/ : <B>Runtime</B> mews.
+[19:53:40] bNg-ahMB SAY: chicken/ : Cluck!
+[19:54:33] bNg-ahMB ADMIN: Furry Chicken/(Larva (555)) told Furry Chicken/(Larva (555)) to man up and deal with it.
+[19:54:40] bNg-ahMB ADMIN: Furry Chicken/(Larva (555)) modified Larva (555)'s amount_grown to 12312
+[19:54:43] bNg-ahMB ACCESS: Logout: *no key*/(Larva (555))
+[19:54:43] bNg-ahMB ACCESS: Login: Furry Chicken/(Xenomorph (1)) from localhost-3013913043 || BYOND v511
+[19:54:47] bNg-ahMB EMOTE: Ian/ : <B>Ian</B> dances around
+[19:54:51] bNg-ahMB SAY: Runtime/ : Meow!
+[19:55:01] bNg-ahMB SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[19:55:17] bNg-ahMB EMOTE: Ian/ : <B>Ian</B> dances around
+[19:55:21] bNg-ahMB EMOTE: Commander Clucky/ : <B>Commander Clucky</B> flaps its wings viciously.
+[19:55:41] bNg-ahMB EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[19:56:05] bNg-ahMB SAY: chicken/ : Cluck!
+[19:56:17] bNg-ahMB SAY: chicken/ : Cluck!
+[19:56:37] bNg-ahMB EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[19:56:47] bNg-ahMB SAY: chicken/ : Cluck!
+[19:57:28] bNg-ahMB SAY: chicken/ : Bwaak bwak.
+[19:57:44] bNg-ahMB EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[19:58:17] bNg-ahMB ADMIN: Furry Chicken/(Xenomorph (1)) modified Security Maintenance's welded to 1
+[19:58:28] bNg-ahMB ADMIN: Furry Chicken/(Xenomorph (1)) called Security Maintenance's update_icon() with no arguments.
+[19:59:14] bNg-ahMB SAY: chicken/ : Bwaak bwak.
+[19:59:28] bNg-ahMB EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[20:00:04] bNg-ahMB EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[20:00:10] bNg-ahMB SAY: Runtime/ : Purr!
+[20:00:32] bNg-ahMB SAY: chicken/ : Cluck!
+[20:00:38] bNg-ahMB SAY: Commander Clucky/ : Cluck!
+[20:00:50] bNg-ahMB EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[20:01:12] bNg-ahMB EMOTE: Commander Clucky/ : <B>Commander Clucky</B> flaps its wings viciously.
+[20:01:14] bNg-ahMB EMOTE: Ian/ : <B>Ian</B> dances around
+[20:01:58] bNg-ahMB SAY: Xenomorph (1)/Furry Chicken : Yes
+[20:03:00] bNg-ahMB SAY: Commander Clucky/ : Bwaak bwak.
+[20:03:22] bNg-ahMB EMOTE: Commander Clucky/ : <B>Commander Clucky</B> flaps its wings viciously.
+[20:03:22] bNg-ahMB EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[20:03:32] bNg-ahMB SAY: chicken/ : Bwaak bwak.
+[20:04:36] bNg-ahMB EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[20:04:36] bNg-ahMB EMOTE: Runtime/ : <B>Runtime</B> mews.
+[20:05:22] bNg-ahMB EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[20:05:26] bNg-ahMB SAY: chicken/ : Cluck!
+[20:05:48] bNg-ahMB EMOTE: Commander Clucky/ : <B>Commander Clucky</B> clucks.
+[20:05:50] bNg-ahMB SAY: Runtime/ : Meow!
+[20:06:50] bNg-ahMB DEBUG: Next event of severity Mundane in 16.066 minutes.
+[20:06:50] bNg-ahMB DEBUG: Starting event 'Nothing' of severity Mundane.
+[20:06:52] bNg-ahMB DEBUG: Event 'Nothing' has completed at 07:15.
+[20:07:06] bNg-ahMB EMOTE: Ian/ : <B>Ian</B> dances around
+[20:07:17] bNg-ahMB ACCESS: Logout: Furry Chicken/(Xenomorph (1))
+
+
+Starting up. (ID: bNg-alhc) 20:12.44
+---------------------
+[20:12:44] bNg-alhc MISC: Saved mode is 'xeno'
+[20:12:46] bNg-alhc ADMIN: Loading jobban_rank
+[20:12:46] bNg-alhc ADMIN: Loading Banlist
+[20:12:46] bNg-alhc DEBUG: Rebuilding Master Controller
+[20:12:46] bNg-alhc ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-3013913043 || BYOND v511
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (331) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (511) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (991) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (921) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (183) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (407) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (374) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (815) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (858) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (545) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (407) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (84) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (879) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (172) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (415) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (722) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (941) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (867) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (137) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (616) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (142) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (936) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (277) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (701) spawned without a proper DNA.
+[20:12:52] bNg-alhc DEBUG: The hive node at Bloody Larva (346) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (628) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (34) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (215) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (722) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (740) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (744) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (970) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (942) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (39) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (911) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (443) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (103) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (174) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (936) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (558) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (72) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (561) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (88) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (81) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (200) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (801) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (172) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (659) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (321) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (467) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (803) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (500) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (570) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (252) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (537) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (601) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (847) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (25) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (345) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (366) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (425) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (167) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (392) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (650) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (186) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (791) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (451) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (160) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (416) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (589) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (441) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (996) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (368) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (787) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (364) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (398) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (991) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (277) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (290) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (452) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (647) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (697) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (216) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (423) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (442) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (184) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (779) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (96) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (778) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (419) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (421) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (882) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (794) spawned without a proper DNA.
+[20:12:53] bNg-alhc DEBUG: The hive node at Bloody Larva (711) spawned without a proper DNA.
+[20:12:54] bNg-alhc DEBUG: The hive node at Bloody Larva (616) spawned without a proper DNA.
+[20:12:54] bNg-alhc DEBUG: The hive node at Bloody Larva (977) spawned without a proper DNA.
+[20:12:54] bNg-alhc DEBUG: The hive node at Bloody Larva (876) spawned without a proper DNA.
+[20:12:54] bNg-alhc DEBUG: The hive node at Bloody Larva (59) spawned without a proper DNA.
+[20:12:54] bNg-alhc DEBUG: The hive node at Bloody Larva (791) spawned without a proper DNA.
+[20:12:54] bNg-alhc DEBUG: The hive node at Bloody Larva (167) spawned without a proper DNA.
+[20:13:57] bNg-alhc ADMIN: Furry Chicken has started the game.
+[20:13:58] bNg-alhc DEBUG: Furry Chicken had xeno enabled, so we are drafting them.
+[20:13:58] bNg-alhc DEBUG: Furry Chicken has been selected for Xenomorph by lottery.
+[20:13:58] bNg-alhc DEBUG: Furry Chicken was selected for Xenomorph by lottery, but they already have a special role.
+[20:13:58] bNg-alhc ACCESS: Logout: *no key*/(Furry Chicken)
+[20:13:58] bNg-alhc ACCESS: Login: Furry Chicken/(Vaclav Havel) from localhost-3013913043 || BYOND v511
+[20:13:58] bNg-alhc DEBUG: The hive node at Bloody Larva (480) spawned without a proper DNA.
+[20:13:58] bNg-alhc ACCESS: Logout: *no key*/(Vaclav Havel)
+[20:13:58] bNg-alhc ACCESS: Login: Furry Chicken/(Bloody Larva (480)) from localhost-3013913043 || BYOND v511
+[20:13:58] bNg-alhc DEBUG: Next event of severity Mundane in 16.058 minutes.
+[20:13:59] bNg-alhc DEBUG: Next event of severity Moderate in 37.192 minutes.
+[20:13:59] bNg-alhc DEBUG: Next event of severity Major in 84.6883 minutes.
+[20:14:04] bNg-alhc GAME: Antagonists at round end were...
+[20:14:04] bNg-alhc GAME: Larvas: Vaclav Havel(Furry Chicken).
+[20:14:05] bNg-alhc ADMIN: Furry Chicken/(Bloody Larva (480)) delayed the round end.
+[20:15:35] bNg-alhc EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[20:15:42] bNg-alhc EMOTE: Runtime/ : <B>Runtime</B> mews.
+[20:15:54] bNg-alhc EMOTE: chicken/ : <B>The chicken</B> clucks.
+[20:15:55] bNg-alhc EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[20:16:13] bNg-alhc SAY: Commander Clucky/ : BWAAAAARK BWAK BWAK BWAK!
+[20:16:23] bNg-alhc EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[20:16:41] bNg-alhc EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[20:17:01] bNg-alhc SAY: chicken/ : Bwaak bwak.
+[20:17:09] bNg-alhc SAY: chicken/ : Cluck!
+[20:17:26] bNg-alhc ADMIN: Furry Chicken/(Larva (480)) modified Larva (480)'s amount_grown to 12312
+[20:17:28] bNg-alhc ACCESS: Logout: *no key*/(Larva (480))
+[20:17:28] bNg-alhc ACCESS: Login: Furry Chicken/(Xenomorph (1)) from localhost-3013913043 || BYOND v511
+[20:17:53] bNg-alhc EMOTE: Commander Clucky/ : <B>Commander Clucky</B> pecks at the ground.
+[20:18:01] bNg-alhc EMOTE: Ian/ : <B>Ian</B> shivers.
+[20:18:16] bNg-alhc SAY: chicken/ : Bwaak bwak.
+[20:18:18] bNg-alhc EMOTE: mouse (842)/ : <B>The mouse (842)</B> runs in a circle.
+[20:18:24] bNg-alhc ADMIN: Furry Chicken/(Xenomorph (1)) has used rudimentary transformation on Furry Chicken/(Xenomorph (1)). Transforming to human; deletemob=1
+[20:18:24] bNg-alhc ACCESS: Logout: *no key*/(Xenomorph (1))
+[20:18:24] bNg-alhc ACCESS: Login: Furry Chicken/(Xenomorph (1)) from localhost-3013913043 || BYOND v511
+[20:18:48] bNg-alhc EMOTE: Ian/ : <B>Ian</B> woofs.
+[20:19:01] bNg-alhc ADMIN: Furry Chicken/(Xenomorph (1)) created 1 /obj/item/weapon/gun/projectile/automatic/m4a4 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=47;Y=110;Z=1'>JMP</a>)
+[20:19:23] bNg-alhc SAY: chicken/ : Bwaak bwak.
+[20:19:29] bNg-alhc SAY: Ian/ : YAP
+[20:19:33] bNg-alhc EMOTE: Ian/ : <B>Ian</B> shivers.
+[20:20:07] bNg-alhc EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[20:20:08] bNg-alhc ADMIN: Furry Chicken/(Xenomorph (1)) has made the round end normally.
+[20:20:11] bNg-alhc ACCESS: Logout: *no key*/(Xenomorph (1))
+[20:20:11] bNg-alhc ACCESS: Login: Furry Chicken/(Vaclav Havel) from localhost-3013913043 || BYOND v511
+[20:20:16] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:20:16] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:20:24] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:20:24] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:20:26] bNg-alhc SAY: chicken/ : Cluck!
+[20:20:30] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:20:30] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:20:31] bNg-alhc ADMIN: Furry Chicken/(Vaclav Havel) modified Xenomorph (1)'s alien_embryo to 
+[20:20:32] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:20:32] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:20:40] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:20:40] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:20:47] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:20:47] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:20:53] bNg-alhc SAY: Commander Clucky/ : Bwaak bwak.
+[20:21:10] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:21:10] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:21:23] bNg-alhc ADMIN: Furry Chicken/(Vaclav Havel) created 1 /obj/item/clothing/mask/facehugger (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=50;Y=110;Z=1'>JMP</a>)
+[20:21:32] bNg-alhc SAY: Commander Clucky/ : Bwaak bwak.
+[20:21:32] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:21:32] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:21:36] bNg-alhc EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[20:21:44] bNg-alhc SAY: chicken/ : Bwaak bwak.
+[20:21:44] bNg-alhc EMOTE: Xenomorph (1)/@Furry Chicken : shivers.
+[20:21:44] bNg-alhc EMOTE: Xenomorph (1)/@Furry Chicken : <B>Xenomorph (1)</B> shivers.
+[20:21:46] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:21:46] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:21:47] bNg-alhc ADMIN: Furry Chicken/(Vaclav Havel) modified organ's ticks to 1231
+[20:21:51] bNg-alhc EMOTE: Xenomorph (1)/@Furry Chicken : cries.
+[20:21:51] bNg-alhc EMOTE: Xenomorph (1)/@Furry Chicken : <B>Xenomorph (1)</B> cries.
+[20:21:57] bNg-alhc EMOTE: Xenomorph (1)/@Furry Chicken : twitches violently.
+[20:21:57] bNg-alhc EMOTE: Xenomorph (1)/@Furry Chicken : <B>Xenomorph (1)</B> twitches violently.
+[20:22:04] bNg-alhc ACCESS: Logout: *no key*/(Vaclav Havel)
+[20:22:04] bNg-alhc ACCESS: Login: Furry Chicken/(Xenomorph (1)) from localhost-3013913043 || BYOND v511
+[20:22:04] bNg-alhc DEBUG: The hive node at Bloody Larva (87) spawned without a proper DNA.
+[20:22:04] bNg-alhc ACCESS: Logout: *no key*/(Xenomorph (1))
+[20:22:04] bNg-alhc ACCESS: Login: Furry Chicken/(Bloody Larva (87)) from localhost-3013913043 || BYOND v511
+[20:22:11] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:22:11] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:22:19] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:22:19] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:22:22] bNg-alhc ACCESS: Logout: *no key*/(Bloody Larva (87))
+[20:22:22] bNg-alhc ACCESS: Login: Furry Chicken/(Vaclav Havel) from localhost-3013913043 || BYOND v511
+[20:22:26] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:22:26] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:22:41] bNg-alhc SAY: chicken/ : Bwaak bwak.
+[20:22:48] bNg-alhc ADMIN: Furry Chicken/(Vaclav Havel) created 1 /mob/living/carbon/human/monkey/punpun (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=54;Y=110;Z=1'>JMP</a>)
+[20:22:49] bNg-alhc ADMIN: Pun Pun try find_inv_position a 14, but not have that slot!
+[20:23:00] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:23:00] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:23:12] bNg-alhc ADMIN: Furry Chicken/(Vaclav Havel) created 1 /obj/item/clothing/mask/facehugger (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=54;Y=111;Z=1'>JMP</a>)
+[20:23:16] bNg-alhc ADMIN: Furry Chicken/(Vaclav Havel) created 1 /obj/item/clothing/mask/facehugger (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=56;Y=112;Z=1'>JMP</a>)
+[20:23:17] bNg-alhc ADMIN: Furry Chicken/(Vaclav Havel) created 1 /obj/item/clothing/mask/facehugger (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=56;Y=112;Z=1'>JMP</a>)
+[20:23:17] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:23:17] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:23:17] bNg-alhc ADMIN: Furry Chicken/(Vaclav Havel) created 1 /obj/item/clothing/mask/facehugger (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=56;Y=112;Z=1'>JMP</a>)
+[20:23:17] bNg-alhc ADMIN: Furry Chicken/(Vaclav Havel) created 1 /obj/item/clothing/mask/facehugger (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=56;Y=112;Z=1'>JMP</a>)
+[20:23:21] bNg-alhc ADMIN: Pun Pun try find_inv_position a 2, but not have that slot!
+[20:23:34] bNg-alhc EMOTE: Pun Pun/ : twitches violently.
+[20:23:34] bNg-alhc EMOTE: Pun Pun/ : <B>Pun Pun</B> twitches violently.
+[20:23:35] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:23:35] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:23:37] bNg-alhc EMOTE: mouse (842)/ : <B>The mouse (842)</B> squeaks.
+[20:23:44] bNg-alhc SAY: chicken/ : Bwaak bwak.
+[20:23:44] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:23:44] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:23:49] bNg-alhc SAY: chicken/ : Cluck!
+[20:23:49] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:23:49] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:23:50] bNg-alhc ADMIN: Furry Chicken/(Vaclav Havel) modified organ's ticks to 12312
+[20:23:51] bNg-alhc EMOTE: Pun Pun/ : cries.
+[20:23:51] bNg-alhc EMOTE: Pun Pun/ : <B>Pun Pun</B> cries.
+[20:23:53] bNg-alhc EMOTE: Pun Pun/ : sighs.
+[20:23:53] bNg-alhc EMOTE: Pun Pun/ : <B>Pun Pun</B> sighs.
+[20:23:55] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:23:55] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:23:56] bNg-alhc EMOTE: Pun Pun/ : cries.
+[20:23:56] bNg-alhc EMOTE: Pun Pun/ : <B>Pun Pun</B> cries.
+[20:23:58] bNg-alhc EMOTE: Pun Pun/ : sighs.
+[20:23:58] bNg-alhc EMOTE: Pun Pun/ : <B>Pun Pun</B> sighs.
+[20:24:00] bNg-alhc EMOTE: Pun Pun/ : twitches violently.
+[20:24:00] bNg-alhc EMOTE: Pun Pun/ : <B>Pun Pun</B> twitches violently.
+[20:24:02] bNg-alhc EMOTE: Pun Pun/ : cries.
+[20:24:02] bNg-alhc EMOTE: Pun Pun/ : <B>Pun Pun</B> cries.
+[20:24:03] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:24:03] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:24:04] bNg-alhc EMOTE: Pun Pun/ : twitches violently.
+[20:24:04] bNg-alhc EMOTE: Pun Pun/ : <B>Pun Pun</B> twitches violently.
+[20:24:05] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:24:05] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:24:07] bNg-alhc EMOTE: Pun Pun/ : sighs.
+[20:24:07] bNg-alhc EMOTE: Pun Pun/ : <B>Pun Pun</B> sighs.
+[20:24:09] bNg-alhc EMOTE: Pun Pun/ : cries.
+[20:24:09] bNg-alhc EMOTE: Pun Pun/ : <B>Pun Pun</B> cries.
+[20:24:09] bNg-alhc EMOTE: Pun Pun/ : gasps!
+[20:24:09] bNg-alhc EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[20:24:11] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:24:11] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:24:12] bNg-alhc EMOTE: Pun Pun/ : twitches violently.
+[20:24:12] bNg-alhc EMOTE: Pun Pun/ : <B>Pun Pun</B> twitches violently.
+[20:24:14] bNg-alhc EMOTE: Pun Pun/ : twitches violently.
+[20:24:14] bNg-alhc EMOTE: Pun Pun/ : <B>Pun Pun</B> twitches violently.
+[20:24:17] bNg-alhc EMOTE: Pun Pun/ : cries.
+[20:24:17] bNg-alhc EMOTE: Pun Pun/ : <B>Pun Pun</B> cries.
+[20:24:25] bNg-alhc ADMIN: Pun Pun try find_inv_position a 14, but not have that slot!
+[20:24:25] bNg-alhc ADMIN: Pun Pun try find_inv_position a 14, but not have that slot!
+[20:24:25] bNg-alhc ADMIN: Pun Pun try find_inv_position a 14, but not have that slot!
+[20:24:25] bNg-alhc ADMIN: Pun Pun try find_inv_position a 14, but not have that slot!
+[20:24:25] bNg-alhc ADMIN: Pun Pun try find_inv_position a 14, but not have that slot!
+[20:24:25] bNg-alhc ADMIN: Pun Pun try find_inv_position a 14, but not have that slot!
+[20:24:25] bNg-alhc ADMIN: Pun Pun try find_inv_position a 14, but not have that slot!
+[20:24:25] bNg-alhc ADMIN: Pun Pun try find_inv_position a 14, but not have that slot!
+[20:24:25] bNg-alhc ADMIN: Pun Pun try find_inv_position a 14, but not have that slot!
+[20:24:25] bNg-alhc ADMIN: Pun Pun try find_inv_position a 14, but not have that slot!
+[20:24:25] bNg-alhc ACCESS: Logout: *no key*/(Vaclav Havel)
+[20:24:25] bNg-alhc ACCESS: Login: Furry Chicken/(Bloody Larva (87)) from localhost-3013913043 || BYOND v511
+[20:24:25] bNg-alhc DEBUG: The hive node at Bloody Larva (63) spawned without a proper DNA.
+[20:24:25] bNg-alhc ACCESS: Logout: *no key*/(Bloody Larva (87))
+[20:24:25] bNg-alhc ACCESS: Login: Furry Chicken/(Bloody Larva (63)) from localhost-3013913043 || BYOND v511
+[20:24:26] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:24:26] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:24:32] bNg-alhc SAY: Experiment 97d/ : EHEHEHEHEH
+[20:24:33] bNg-alhc ACCESS: Logout: *no key*/(Bloody Larva (63))
+[20:24:33] bNg-alhc ACCESS: Login: Furry Chicken/(Vaclav Havel) from localhost-3013913043 || BYOND v511
+[20:24:36] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:24:36] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:24:43] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:24:43] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:24:44] bNg-alhc ADMIN: Furry Chicken/(Vaclav Havel) created 1 /mob/living/carbon/human/dummy (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=55;Y=111;Z=1'>JMP</a>)
+[20:24:45] bNg-alhc ADMIN: Jeremy Swabey try find_inv_position a 2, but not have that slot!
+[20:24:59] bNg-alhc EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[20:24:59] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:24:59] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:25:10] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:25:10] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:25:17] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:25:17] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:25:22] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:25:22] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:25:24] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:25:24] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:25:25] bNg-alhc ADMIN: Furry Chicken/(Vaclav Havel) modified organ's ticks to 12312
+[20:25:25] bNg-alhc ADMIN: Furry Chicken/(Vaclav Havel) modified organ's ticks to 10
+[20:25:26] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:25:26] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:25:27] bNg-alhc EMOTE: Jeremy Swabey/ : twitches violently.
+[20:25:27] bNg-alhc EMOTE: Jeremy Swabey/ : <B>Jeremy Swabey</B> twitches violently.
+[20:25:29] bNg-alhc ADMIN: Furry Chicken/(Vaclav Havel) modified organ's ticks to 1.23121e+006
+[20:25:29] bNg-alhc EMOTE: Jeremy Swabey/ : twitches violently.
+[20:25:29] bNg-alhc EMOTE: Jeremy Swabey/ : <B>Jeremy Swabey</B> twitches violently.
+[20:25:31] bNg-alhc EMOTE: Jeremy Swabey/ : shivers.
+[20:25:31] bNg-alhc EMOTE: Jeremy Swabey/ : <B>Jeremy Swabey</B> shivers.
+[20:25:32] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:25:32] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:25:33] bNg-alhc EMOTE: Jeremy Swabey/ : cries.
+[20:25:33] bNg-alhc EMOTE: Jeremy Swabey/ : <B>Jeremy Swabey</B> cries.
+[20:25:35] bNg-alhc EMOTE: Jeremy Swabey/ : cries.
+[20:25:35] bNg-alhc EMOTE: Jeremy Swabey/ : <B>Jeremy Swabey</B> cries.
+[20:25:36] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:25:36] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:25:37] bNg-alhc EMOTE: Jeremy Swabey/ : twitches violently.
+[20:25:37] bNg-alhc EMOTE: Jeremy Swabey/ : <B>Jeremy Swabey</B> twitches violently.
+[20:25:38] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:25:38] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:25:39] bNg-alhc EMOTE: Jeremy Swabey/ : sighs.
+[20:25:39] bNg-alhc EMOTE: Jeremy Swabey/ : <B>Jeremy Swabey</B> sighs.
+[20:25:41] bNg-alhc EMOTE: Jeremy Swabey/ : sighs.
+[20:25:41] bNg-alhc EMOTE: Jeremy Swabey/ : <B>Jeremy Swabey</B> sighs.
+[20:25:43] bNg-alhc EMOTE: Jeremy Swabey/ : cries.
+[20:25:43] bNg-alhc EMOTE: Jeremy Swabey/ : <B>Jeremy Swabey</B> cries.
+[20:25:44] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:25:44] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:25:45] bNg-alhc EMOTE: Jeremy Swabey/ : sighs.
+[20:25:45] bNg-alhc EMOTE: Jeremy Swabey/ : <B>Jeremy Swabey</B> sighs.
+[20:25:47] bNg-alhc EMOTE: Jeremy Swabey/ : cries.
+[20:25:47] bNg-alhc EMOTE: Jeremy Swabey/ : <B>Jeremy Swabey</B> cries.
+[20:25:49] bNg-alhc EMOTE: Jeremy Swabey/ : shivers.
+[20:25:49] bNg-alhc EMOTE: Jeremy Swabey/ : <B>Jeremy Swabey</B> shivers.
+[20:25:51] bNg-alhc EMOTE: Jeremy Swabey/ : shivers.
+[20:25:51] bNg-alhc EMOTE: Jeremy Swabey/ : <B>Jeremy Swabey</B> shivers.
+[20:25:52] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:25:52] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:25:52] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:25:52] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:25:53] bNg-alhc EMOTE: Jeremy Swabey/ : sighs.
+[20:25:53] bNg-alhc EMOTE: Jeremy Swabey/ : <B>Jeremy Swabey</B> sighs.
+[20:25:54] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:25:54] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:25:55] bNg-alhc EMOTE: Jeremy Swabey/ : sighs.
+[20:25:55] bNg-alhc EMOTE: Jeremy Swabey/ : <B>Jeremy Swabey</B> sighs.
+[20:26:02] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:26:02] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:26:16] bNg-alhc EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[20:26:20] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:26:20] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:26:20] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:26:20] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:26:24] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:26:24] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:26:28] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:26:28] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:26:40] bNg-alhc EMOTE: Betsy/ : <B>Betsy</B> shakes its head.
+[20:26:40] bNg-alhc EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[20:26:42] bNg-alhc ACCESS: Logout: *no key*/(Vaclav Havel)
+[20:26:42] bNg-alhc ACCESS: Login: Furry Chicken/(Bloody Larva (63)) from localhost-3013913043 || BYOND v511
+[20:26:47] bNg-alhc EMOTE: Mekhi Staymates/ : gasps!
+[20:26:47] bNg-alhc EMOTE: Mekhi Staymates/ : <B>Mekhi Staymates</B> gasps!
+[20:26:50] bNg-alhc ADMIN: Furry Chicken/(Bloody Larva (63)) modified Bloody Larva (63)'s amount_grown to 12312
+[20:26:52] bNg-alhc ACCESS: Logout: *no key*/(Larva (63))
+[20:26:52] bNg-alhc ACCESS: Login: Furry Chicken/(Xenomorph (2)) from localhost-3013913043 || BYOND v511
+[20:27:59] bNg-alhc ADMIN: Furry Chicken/(Xenomorph (2)) modified Central Maintenance's welded to 1
+[20:28:17] bNg-alhc EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:28:20] bNg-alhc EMOTE: mouse (842)/ : <B>The mouse (842)</B> squiks.
+[20:28:21] bNg-alhc ADMIN: Furry Chicken/(Xenomorph (2)) modified Clothing Storage Vent Pump #2's welded to 1
+[20:28:38] bNg-alhc EMOTE: Ian/ : <B>Ian</B> dances around
+[20:28:56] bNg-alhc SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[20:29:21] bNg-alhc ADMIN: Furry Chicken/(Xenomorph (2)) called Xenomorph (2)'s set_species() with the arguments Alpha+Xenomorph.
+[20:29:23] bNg-alhc SAY: chicken/ : Bwaak bwak.
+[20:29:25] bNg-alhc SAY: chicken/ : Bwaak bwak.
+[20:29:26] bNg-alhc EMOTE: Jeremy Swabey/ : screams!
+[20:29:26] bNg-alhc EMOTE: Jeremy Swabey/ : <B>Jeremy Swabey</B> screams!
+[20:30:04] bNg-alhc ADMIN: Furry Chicken/(Alpha Xenomorph) deleted the cyborg recharging station at (60,112,1)
+[20:30:09] bNg-alhc EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[20:30:13] bNg-alhc EMOTE: Betsy/ : <B>Betsy</B> brays.
+[20:30:17] bNg-alhc EMOTE: Commander Clucky/ : <B>Commander Clucky</B> pecks at the ground.
+[20:30:23] bNg-alhc EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[20:30:31] bNg-alhc EMOTE: Ian/ : <B>Ian</B> dances around
+[20:30:37] bNg-alhc EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[20:30:51] bNg-alhc EMOTE: chicken/ : <B>The chicken</B> clucks.
+[20:31:18] bNg-alhc EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:31:30] bNg-alhc DEBUG: Next event of severity Mundane in 13.814 minutes.
+[20:31:30] bNg-alhc DEBUG: Starting event 'Mundane News' of severity Mundane.
+[20:31:30] bNg-alhc EMOTE: Ian/ : <B>Ian</B> dances around
+[20:31:36] bNg-alhc SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[20:31:40] bNg-alhc EMOTE: Ian/ : <B>Ian</B> woofs.
+[20:31:52] bNg-alhc DEBUG: Event 'Mundane News' has completed at 07:16.
+[20:32:01] bNg-alhc ADMIN: Furry Chicken/(Alpha Xenomorph) jumped to 76,105,3 in First Section Hallway
+[20:32:26] bNg-alhc ADMIN: Furry Chicken/(Alpha Xenomorph) has used rudimentary transformation on Furry Chicken/(Alpha Xenomorph). Transforming to workingjoe; deletemob=1
+[20:32:47] bNg-alhc SAY: Runtime/ : Meow!
+[20:33:00] bNg-alhc ACCESS: Logout: Furry Chicken/(Alpha Xenomorph)
+
+
+Starting up. (ID: bNg-apm8) 20:38.42
+---------------------
+[20:38:42] bNg-apm8 MISC: Saved mode is 'xeno'
+[20:38:44] bNg-apm8 ADMIN: Loading jobban_rank
+[20:38:44] bNg-apm8 ADMIN: Loading Banlist
+[20:38:44] bNg-apm8 DEBUG: Rebuilding Master Controller
+[20:38:44] bNg-apm8 ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-3013913043 || BYOND v511
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (484) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (489) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (757) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (493) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (851) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (711) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (473) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (724) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (324) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (917) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (514) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (160) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (455) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (56) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (958) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (19) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (708) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (273) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (642) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (797) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (93) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (891) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (297) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (902) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (496) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (394) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (620) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (232) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (942) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (164) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (876) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (765) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (67) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (466) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (678) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (314) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (864) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (352) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (407) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (961) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (7) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (798) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (64) spawned without a proper DNA.
+[20:38:55] bNg-apm8 DEBUG: The hive node at Bloody Larva (29) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (528) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (849) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (916) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (767) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (716) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (552) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (371) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (777) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (694) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (161) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (122) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (256) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (443) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (176) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (144) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (969) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (882) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (790) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (374) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (768) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (429) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (674) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (586) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (778) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (559) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (528) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (322) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (534) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (820) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (528) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (904) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (149) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (59) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (917) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (934) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (251) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (792) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (459) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (227) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (629) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (396) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (250) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (801) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (609) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (348) spawned without a proper DNA.
+[20:38:56] bNg-apm8 DEBUG: The hive node at Bloody Larva (209) spawned without a proper DNA.
+[20:38:57] bNg-apm8 DEBUG: The hive node at Bloody Larva (525) spawned without a proper DNA.
+[20:38:57] bNg-apm8 DEBUG: The hive node at Bloody Larva (509) spawned without a proper DNA.
+[20:38:57] bNg-apm8 DEBUG: The hive node at Bloody Larva (7) spawned without a proper DNA.
+[20:38:57] bNg-apm8 DEBUG: The hive node at Bloody Larva (662) spawned without a proper DNA.
+[20:38:57] bNg-apm8 DEBUG: The hive node at Bloody Larva (30) spawned without a proper DNA.
+[20:38:57] bNg-apm8 DEBUG: The hive node at Bloody Larva (440) spawned without a proper DNA.
+[20:38:57] bNg-apm8 DEBUG: The hive node at Bloody Larva (506) spawned without a proper DNA.
+[20:38:57] bNg-apm8 DEBUG: The hive node at Bloody Larva (66) spawned without a proper DNA.
+[20:38:57] bNg-apm8 DEBUG: The hive node at Bloody Larva (360) spawned without a proper DNA.
+[20:38:57] bNg-apm8 DEBUG: The hive node at Bloody Larva (575) spawned without a proper DNA.
+[20:40:31] bNg-apm8 ADMIN: Furry Chicken has started the game.
+[20:40:31] bNg-apm8 DEBUG: Furry Chicken had xeno enabled, so we are drafting them.
+[20:40:31] bNg-apm8 DEBUG: Furry Chicken has been selected for Xenomorph by lottery.
+[20:40:31] bNg-apm8 DEBUG: Furry Chicken was selected for Xenomorph by lottery, but they already have a special role.
+[20:40:31] bNg-apm8 ACCESS: Logout: *no key*/(Furry Chicken)
+[20:40:31] bNg-apm8 ACCESS: Login: Furry Chicken/(Vaclav Havel) from localhost-3013913043 || BYOND v511
+[20:40:31] bNg-apm8 DEBUG: The hive node at Bloody Larva (258) spawned without a proper DNA.
+[20:40:31] bNg-apm8 ACCESS: Logout: *no key*/(Vaclav Havel)
+[20:40:31] bNg-apm8 ACCESS: Login: Furry Chicken/(Bloody Larva (258)) from localhost-3013913043 || BYOND v511
+[20:40:31] bNg-apm8 DEBUG: Next event of severity Mundane in 14.038 minutes.
+[20:40:32] bNg-apm8 DEBUG: Next event of severity Moderate in 45.314 minutes.
+[20:40:32] bNg-apm8 DEBUG: Next event of severity Major in 83.49 minutes.
+[20:40:35] bNg-apm8 ADMIN: Furry Chicken/(Bloody Larva (258)) delayed the round end.
+[20:40:37] bNg-apm8 GAME: Antagonists at round end were...
+[20:40:37] bNg-apm8 GAME: Larvas: Vaclav Havel(Furry Chicken).
+[20:40:50] bNg-apm8 ADMIN: Furry Chicken/(Bloody Larva (258)) modified Bloody Larva (258)'s amount_grown to 12312
+[20:40:53] bNg-apm8 ACCESS: Logout: *no key*/(Larva (258))
+[20:40:53] bNg-apm8 ACCESS: Login: Furry Chicken/(Xenomorph (1)) from localhost-3013913043 || BYOND v511
+[20:41:04] bNg-apm8 SAY: chicken/ : Cluck!
+[20:41:24] bNg-apm8 EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:41:51] bNg-apm8 EMOTE: Ian/ : <B>Ian</B> barks.
+[20:42:01] bNg-apm8 ADMIN: Furry Chicken/(Xenomorph (1)) has used rudimentary transformation on Furry Chicken/(Xenomorph (1)). Transforming to human; deletemob=1
+[20:42:01] bNg-apm8 ACCESS: Logout: *no key*/(Xenomorph (1))
+[20:42:01] bNg-apm8 ACCESS: Login: Furry Chicken/(Xenomorph (1)) from localhost-3013913043 || BYOND v511
+[20:42:38] bNg-apm8 ADMIN: Furry Chicken/(Xenomorph (1)) created 1 /obj/item/weapon/gun/projectile/automatic/m4a1 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=75;Y=107;Z=1'>JMP</a>)
+[20:42:52] bNg-apm8 EMOTE: Xenomorph (1)/Furry Chicken : screams!
+[20:42:52] bNg-apm8 EMOTE: Xenomorph (1)/Furry Chicken : <B>Xenomorph (1)</B> screams!
+[20:42:54] bNg-apm8 EMOTE: Xenomorph (1)/Furry Chicken : screams!
+[20:42:54] bNg-apm8 EMOTE: Xenomorph (1)/Furry Chicken : <B>Xenomorph (1)</B> screams!
+[20:42:55] bNg-apm8 EMOTE: Xenomorph (1)/Furry Chicken : screams!
+[20:42:55] bNg-apm8 EMOTE: Xenomorph (1)/Furry Chicken : <B>Xenomorph (1)</B> screams!
+[20:42:56] bNg-apm8 EMOTE: Xenomorph (1)/Furry Chicken : screams!
+[20:42:56] bNg-apm8 EMOTE: Xenomorph (1)/Furry Chicken : <B>Xenomorph (1)</B> screams!
+[20:42:57] bNg-apm8 EMOTE: Xenomorph (1)/Furry Chicken : screams!
+[20:42:57] bNg-apm8 EMOTE: Xenomorph (1)/Furry Chicken : <B>Xenomorph (1)</B> screams!
+[20:42:59] bNg-apm8 EMOTE: Xenomorph (1)/Furry Chicken : gasps!
+[20:42:59] bNg-apm8 EMOTE: Xenomorph (1)/Furry Chicken : <B>Xenomorph (1)</B> gasps!
+[20:43:01] bNg-apm8 ACCESS: Logout: *no key*/(Xenomorph (1))
+[20:43:01] bNg-apm8 ACCESS: Login: Furry Chicken/(Vaclav Havel) from localhost-3013913043 || BYOND v511
+[20:43:06] bNg-apm8 EMOTE: Alan Pritchard/ : gasps!
+[20:43:06] bNg-apm8 EMOTE: Alan Pritchard/ : <B>Alan Pritchard</B> gasps!
+[20:43:06] bNg-apm8 EMOTE: Xenomorph (1)/@Furry Chicken : gasps!
+[20:43:06] bNg-apm8 EMOTE: Xenomorph (1)/@Furry Chicken : <B>Xenomorph (1)</B> gasps!
+[20:43:08] bNg-apm8 EMOTE: Xenomorph (1)/@Furry Chicken : gasps!
+[20:43:08] bNg-apm8 EMOTE: Xenomorph (1)/@Furry Chicken : <B>Xenomorph (1)</B> gasps!
+[20:43:12] bNg-apm8 EMOTE: Alan Pritchard/ : gasps!
+[20:43:12] bNg-apm8 EMOTE: Alan Pritchard/ : <B>Alan Pritchard</B> gasps!
+[20:43:18] bNg-apm8 EMOTE: Alan Pritchard/ : gasps!
+[20:43:18] bNg-apm8 EMOTE: Alan Pritchard/ : <B>Alan Pritchard</B> gasps!
+[20:43:30] bNg-apm8 EMOTE: Ian/ : <B>Ian</B> woofs.
+[20:43:30] bNg-apm8 EMOTE: Alan Pritchard/ : gasps!
+[20:43:30] bNg-apm8 EMOTE: Alan Pritchard/ : <B>Alan Pritchard</B> gasps!
+[20:43:44] bNg-apm8 EMOTE: Alan Pritchard/ : gasps!
+[20:43:44] bNg-apm8 EMOTE: Alan Pritchard/ : <B>Alan Pritchard</B> gasps!
+[20:43:51] bNg-apm8 ADMIN: Furry Chicken/(Vaclav Havel) has used rudimentary transformation on Furry Chicken/(Vaclav Havel). Transforming to human; deletemob=1
+[20:43:51] bNg-apm8 ACCESS: Logout: *no key*/(Vaclav Havel)
+[20:43:51] bNg-apm8 ACCESS: Login: Furry Chicken/(Vaclav Havel) from localhost-3013913043 || BYOND v511
+[20:43:52] bNg-apm8 EMOTE: Alan Pritchard/ : gasps!
+[20:43:52] bNg-apm8 EMOTE: Alan Pritchard/ : <B>Alan Pritchard</B> gasps!
+[20:43:55] bNg-apm8 ACCESS: Logout: *no key*/(Vaclav Havel)
+[20:43:55] bNg-apm8 ACCESS: Login: Furry Chicken/(Xenomorph (2)) from localhost-3013913043 || BYOND v511
+[20:44:01] bNg-apm8 SAY: chicken/ : Bwaak bwak.
+[20:44:01] bNg-apm8 EMOTE: Alan Pritchard/ : gasps!
+[20:44:01] bNg-apm8 EMOTE: Alan Pritchard/ : <B>Alan Pritchard</B> gasps!
+[20:44:05] bNg-apm8 EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[20:44:13] bNg-apm8 EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:44:28] bNg-apm8 EMOTE: Alan Pritchard/ : gasps!
+[20:44:28] bNg-apm8 EMOTE: Alan Pritchard/ : <B>Alan Pritchard</B> gasps!
+[20:44:31] bNg-apm8 ADMIN: Furry Chicken/(Xenomorph (2)) called Xenomorph (2)'s set_species() with the arguments Alpha+Xenomorph.
+[20:44:32] bNg-apm8 EMOTE: Alan Pritchard/ : gasps!
+[20:44:32] bNg-apm8 EMOTE: Alan Pritchard/ : <B>Alan Pritchard</B> gasps!
+[20:44:36] bNg-apm8 EMOTE: Commander Clucky/ : <B>Commander Clucky</B> clucks.
+[20:44:40] bNg-apm8 EMOTE: Alan Pritchard/ : gasps!
+[20:44:40] bNg-apm8 EMOTE: Alan Pritchard/ : <B>Alan Pritchard</B> gasps!
+[20:44:43] bNg-apm8 ACCESS: Logout: Furry Chicken/(Alpha Xenomorph)
+
+
+Starting up. (ID: bNg-aqNA) 20:48.01
+---------------------
+[20:48:01] bNg-aqNA MISC: Saved mode is 'xeno'
+[20:48:03] bNg-aqNA ADMIN: Loading jobban_rank
+[20:48:03] bNg-aqNA ADMIN: Loading Banlist
+[20:48:03] bNg-aqNA DEBUG: Rebuilding Master Controller
+[20:48:03] bNg-aqNA ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-3013913043 || BYOND v511
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (887) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (227) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (488) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (183) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (593) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (582) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (922) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (42) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (224) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (401) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (564) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (498) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (570) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (501) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (665) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (66) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (961) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (988) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (32) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (604) spawned without a proper DNA.
+[20:48:12] bNg-aqNA DEBUG: The hive node at Bloody Larva (750) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (665) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (314) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (114) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (544) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (697) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (231) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (528) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (49) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (821) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (396) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (521) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (987) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (327) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (684) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (932) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (260) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (961) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (467) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (677) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (382) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (209) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (582) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (467) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (90) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (345) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (618) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (804) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (936) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (129) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (79) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (376) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (41) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (372) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (216) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (474) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (645) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (348) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (17) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (841) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (689) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (43) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (341) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (888) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (637) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (83) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (759) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (357) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (636) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (536) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (772) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (514) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (435) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (736) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (299) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (550) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (266) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (405) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (703) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (80) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (33) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (849) spawned without a proper DNA.
+[20:48:13] bNg-aqNA DEBUG: The hive node at Bloody Larva (674) spawned without a proper DNA.
+[20:48:14] bNg-aqNA DEBUG: The hive node at Bloody Larva (949) spawned without a proper DNA.
+[20:48:14] bNg-aqNA DEBUG: The hive node at Bloody Larva (126) spawned without a proper DNA.
+[20:48:14] bNg-aqNA DEBUG: The hive node at Bloody Larva (426) spawned without a proper DNA.
+[20:48:14] bNg-aqNA DEBUG: The hive node at Bloody Larva (33) spawned without a proper DNA.
+[20:48:14] bNg-aqNA DEBUG: The hive node at Bloody Larva (849) spawned without a proper DNA.
+[20:48:14] bNg-aqNA DEBUG: The hive node at Bloody Larva (698) spawned without a proper DNA.
+[20:48:14] bNg-aqNA DEBUG: The hive node at Bloody Larva (527) spawned without a proper DNA.
+[20:48:14] bNg-aqNA DEBUG: The hive node at Bloody Larva (508) spawned without a proper DNA.
+[20:48:14] bNg-aqNA DEBUG: The hive node at Bloody Larva (537) spawned without a proper DNA.
+[20:48:14] bNg-aqNA DEBUG: The hive node at Bloody Larva (506) spawned without a proper DNA.
+[20:48:14] bNg-aqNA DEBUG: The hive node at Bloody Larva (684) spawned without a proper DNA.
+[20:48:14] bNg-aqNA DEBUG: The hive node at Bloody Larva (799) spawned without a proper DNA.
+[20:48:14] bNg-aqNA DEBUG: The hive node at Bloody Larva (990) spawned without a proper DNA.
+[20:48:14] bNg-aqNA DEBUG: The hive node at Bloody Larva (494) spawned without a proper DNA.
+[20:48:14] bNg-aqNA DEBUG: The hive node at Bloody Larva (211) spawned without a proper DNA.
+[20:48:14] bNg-aqNA DEBUG: The hive node at Bloody Larva (358) spawned without a proper DNA.
+[20:48:14] bNg-aqNA DEBUG: The hive node at Bloody Larva (615) spawned without a proper DNA.
+[20:49:27] bNg-aqNA ADMIN: Furry Chicken has started the game.
+[20:49:27] bNg-aqNA DEBUG: Furry Chicken had xeno enabled, so we are drafting them.
+[20:49:27] bNg-aqNA DEBUG: Furry Chicken has been selected for Xenomorph by lottery.
+[20:49:27] bNg-aqNA DEBUG: Furry Chicken was selected for Xenomorph by lottery, but they already have a special role.
+[20:49:27] bNg-aqNA ACCESS: Logout: *no key*/(Furry Chicken)
+[20:49:27] bNg-aqNA ACCESS: Login: Furry Chicken/(Vaclav Havel) from localhost-3013913043 || BYOND v511
+[20:49:27] bNg-aqNA DEBUG: The hive node at Bloody Larva (970) spawned without a proper DNA.
+[20:49:27] bNg-aqNA ACCESS: Logout: *no key*/(Vaclav Havel)
+[20:49:27] bNg-aqNA ACCESS: Login: Furry Chicken/(Bloody Larva (970)) from localhost-3013913043 || BYOND v511
+[20:49:27] bNg-aqNA DEBUG: Next event of severity Mundane in 12.104 minutes.
+[20:49:28] bNg-aqNA DEBUG: Next event of severity Moderate in 44.33 minutes.
+[20:49:28] bNg-aqNA DEBUG: Next event of severity Major in 95.5533 minutes.
+[20:49:41] bNg-aqNA GAME: Antagonists at round end were...
+[20:49:41] bNg-aqNA GAME: Larvas: Vaclav Havel(Furry Chicken).
+[20:49:41] bNg-aqNA EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:49:43] bNg-aqNA ADMIN: Furry Chicken/(Bloody Larva (970)) delayed the round end.
+[20:49:48] bNg-aqNA ADMIN: Furry Chicken/(Bloody Larva (970)) modified Bloody Larva (970)'s amount_grown to 123123
+[20:49:50] bNg-aqNA EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[20:49:50] bNg-aqNA ACCESS: Logout: *no key*/(Larva (970))
+[20:49:50] bNg-aqNA ACCESS: Login: Furry Chicken/(Xenomorph (1)) from localhost-3013913043 || BYOND v511
+[20:50:06] bNg-aqNA ADMIN: Furry Chicken/(Xenomorph (1)) has used rudimentary transformation on Furry Chicken/(Xenomorph (1)). Transforming to larva; deletemob=1
+[20:50:06] bNg-aqNA DEBUG: The hive node at Bloody Larva (974) spawned without a proper DNA.
+[20:50:06] bNg-aqNA ACCESS: Logout: *no key*/(Xenomorph (1))
+[20:50:06] bNg-aqNA ACCESS: Login: Furry Chicken/(Xenomorph (1)) from localhost-3013913043 || BYOND v511
+[20:50:14] bNg-aqNA EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[20:50:16] bNg-aqNA ADMIN: Furry Chicken/(Bloody Larva (974)) modified Bloody Larva (974)'s amount_grown to 234234
+[20:50:18] bNg-aqNA ACCESS: Logout: *no key*/(Larva (974))
+[20:50:18] bNg-aqNA ACCESS: Login: Furry Chicken/(Xenomorph (2)) from localhost-3013913043 || BYOND v511
+[20:50:27] bNg-aqNA ADMIN: Furry Chicken/(Xenomorph (2)) has used rudimentary transformation on Furry Chicken/(Xenomorph (2)). Transforming to larva; deletemob=1
+[20:50:27] bNg-aqNA DEBUG: The hive node at Bloody Larva (39) spawned without a proper DNA.
+[20:50:27] bNg-aqNA ACCESS: Logout: *no key*/(Xenomorph (2))
+[20:50:27] bNg-aqNA ACCESS: Login: Furry Chicken/(Xenomorph (2)) from localhost-3013913043 || BYOND v511
+[20:50:31] bNg-aqNA ADMIN: Furry Chicken/(Bloody Larva (39)) modified Bloody Larva (39)'s amount_grown to 2.23432e+006
+[20:50:34] bNg-aqNA ACCESS: Logout: *no key*/(Larva (39))
+[20:50:34] bNg-aqNA ACCESS: Login: Furry Chicken/(Xenomorph (3)) from localhost-3013913043 || BYOND v511
+[20:50:44] bNg-aqNA ADMIN: Furry Chicken/(Xenomorph (3)) has used rudimentary transformation on Furry Chicken/(Xenomorph (3)). Transforming to larva; deletemob=1
+[20:50:44] bNg-aqNA DEBUG: The hive node at Bloody Larva (535) spawned without a proper DNA.
+[20:50:44] bNg-aqNA ACCESS: Logout: *no key*/(Xenomorph (3))
+[20:50:44] bNg-aqNA ACCESS: Login: Furry Chicken/(Xenomorph (3)) from localhost-3013913043 || BYOND v511
+[20:50:52] bNg-aqNA EMOTE: Commander Clucky/ : <B>Commander Clucky</B> flaps its wings viciously.
+[20:50:53] bNg-aqNA ADMIN: Furry Chicken/(Bloody Larva (535)) modified Bloody Larva (535)'s amount_grown to 234234
+[20:50:54] bNg-aqNA ACCESS: Logout: *no key*/(Larva (535))
+[20:50:55] bNg-aqNA ACCESS: Login: Furry Chicken/(Xenomorph (4)) from localhost-3013913043 || BYOND v511
+[20:51:07] bNg-aqNA ADMIN: Furry Chicken/(Xenomorph (4)) has used rudimentary transformation on Furry Chicken/(Xenomorph (4)). Transforming to larva; deletemob=1
+[20:51:07] bNg-aqNA DEBUG: The hive node at Bloody Larva (212) spawned without a proper DNA.
+[20:51:07] bNg-aqNA ACCESS: Logout: *no key*/(Xenomorph (4))
+[20:51:07] bNg-aqNA ACCESS: Login: Furry Chicken/(Xenomorph (4)) from localhost-3013913043 || BYOND v511
+[20:51:10] bNg-aqNA SAY: chicken/ : Bwaak bwak.
+[20:51:14] bNg-aqNA ADMIN: Furry Chicken/(Bloody Larva (212)) modified Bloody Larva (212)'s amount_grown to 234234
+[20:51:15] bNg-aqNA ACCESS: Logout: *no key*/(Larva (212))
+[20:51:15] bNg-aqNA ACCESS: Login: Furry Chicken/(Xenomorph (5)) from localhost-3013913043 || BYOND v511
+[20:51:27] bNg-aqNA ADMIN: Furry Chicken/(Xenomorph (5)) has used rudimentary transformation on Furry Chicken/(Xenomorph (5)). Transforming to larva; deletemob=1
+[20:51:27] bNg-aqNA DEBUG: The hive node at Bloody Larva (317) spawned without a proper DNA.
+[20:51:27] bNg-aqNA ACCESS: Logout: *no key*/(Xenomorph (5))
+[20:51:27] bNg-aqNA ACCESS: Login: Furry Chicken/(Xenomorph (5)) from localhost-3013913043 || BYOND v511
+[20:51:35] bNg-aqNA ADMIN: Furry Chicken/(Bloody Larva (317)) modified Bloody Larva (317)'s amount_grown to 4.23424e+007
+[20:51:37] bNg-aqNA EMOTE: Runtime/ : <B>Runtime</B> mews.
+[20:51:38] bNg-aqNA ACCESS: Logout: *no key*/(Larva (317))
+[20:51:38] bNg-aqNA ACCESS: Login: Furry Chicken/(Xenomorph (6)) from localhost-3013913043 || BYOND v511
+[20:52:12] bNg-aqNA ACCESS: Logout: Furry Chicken/(Xenomorph (6))
+
+
+Starting up. (ID: bNg-arXy) 20:55.31
+---------------------
+[20:55:31] bNg-arXy MISC: Saved mode is 'xeno'
+[20:55:34] bNg-arXy ADMIN: Loading jobban_rank
+[20:55:34] bNg-arXy ADMIN: Loading Banlist
+[20:55:34] bNg-arXy DEBUG: Rebuilding Master Controller
+[20:55:34] bNg-arXy ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-3013913043 || BYOND v511
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (673) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (994) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (869) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (122) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (936) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (592) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (68) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (521) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (314) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (423) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (390) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (894) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (913) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (468) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (968) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (120) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (617) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (188) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (706) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (385) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (208) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (50) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (713) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (699) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (589) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (23) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (322) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (782) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (880) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (924) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (206) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (827) spawned without a proper DNA.
+[20:55:56] bNg-arXy DEBUG: The hive node at Bloody Larva (3) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (484) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (950) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (485) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (846) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (585) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (977) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (466) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (745) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (508) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (831) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (504) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (618) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (843) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (825) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (555) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (63) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (616) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (896) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (773) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (986) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (482) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (906) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (198) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (707) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (45) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (940) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (240) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (602) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (660) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (571) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (961) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (62) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (51) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (224) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (573) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (469) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (507) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (362) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (731) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (123) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (271) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (751) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (289) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (817) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (32) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (164) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (739) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (546) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (644) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (789) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (478) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (687) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (119) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (799) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (895) spawned without a proper DNA.
+[20:55:57] bNg-arXy DEBUG: The hive node at Bloody Larva (82) spawned without a proper DNA.
+[20:55:58] bNg-arXy DEBUG: The hive node at Bloody Larva (455) spawned without a proper DNA.
+[20:55:58] bNg-arXy DEBUG: The hive node at Bloody Larva (788) spawned without a proper DNA.
+[20:55:58] bNg-arXy DEBUG: The hive node at Bloody Larva (755) spawned without a proper DNA.
+[20:55:58] bNg-arXy DEBUG: The hive node at Bloody Larva (521) spawned without a proper DNA.
+[20:55:58] bNg-arXy DEBUG: The hive node at Bloody Larva (689) spawned without a proper DNA.
+[20:55:58] bNg-arXy DEBUG: The hive node at Bloody Larva (949) spawned without a proper DNA.
+[20:55:58] bNg-arXy DEBUG: The hive node at Bloody Larva (752) spawned without a proper DNA.
+[20:55:58] bNg-arXy DEBUG: The hive node at Bloody Larva (318) spawned without a proper DNA.
+[20:55:58] bNg-arXy DEBUG: The hive node at Bloody Larva (813) spawned without a proper DNA.
+[20:55:58] bNg-arXy DEBUG: The hive node at Bloody Larva (240) spawned without a proper DNA.
+[20:55:58] bNg-arXy DEBUG: The hive node at Bloody Larva (134) spawned without a proper DNA.
+[20:56:44] bNg-arXy ADMIN: Furry Chicken has started the game.
+[20:56:44] bNg-arXy DEBUG: Furry Chicken had xeno enabled, so we are drafting them.
+[20:56:44] bNg-arXy DEBUG: Furry Chicken has been selected for Xenomorph by lottery.
+[20:56:44] bNg-arXy DEBUG: Furry Chicken was selected for Xenomorph by lottery, but they already have a special role.
+[20:56:44] bNg-arXy ACCESS: Logout: *no key*/(Furry Chicken)
+[20:56:44] bNg-arXy ACCESS: Login: Furry Chicken/(Vaclav Havel) from localhost-3013913043 || BYOND v511
+[20:56:44] bNg-arXy DEBUG: The hive node at Bloody Larva (295) spawned without a proper DNA.
+[20:56:44] bNg-arXy ACCESS: Logout: *no key*/(Vaclav Havel)
+[20:56:44] bNg-arXy ACCESS: Login: Furry Chicken/(Bloody Larva (295)) from localhost-3013913043 || BYOND v511
+[20:56:44] bNg-arXy DEBUG: Next event of severity Mundane in 15.116 minutes.
+[20:56:45] bNg-arXy DEBUG: Next event of severity Moderate in 38.19 minutes.
+[20:56:45] bNg-arXy DEBUG: Next event of severity Major in 96.37 minutes.
+[20:56:48] bNg-arXy EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[20:56:54] bNg-arXy ADMIN: Furry Chicken/(Bloody Larva (295)) modified Bloody Larva (295)'s amount_grown to 234234
+[20:56:56] bNg-arXy ACCESS: Logout: *no key*/(Larva (295))
+[20:56:56] bNg-arXy ACCESS: Login: Furry Chicken/(Xenomorph (1)) from localhost-3013913043 || BYOND v511
+[20:57:02] bNg-arXy GAME: Antagonists at round end were...
+[20:57:02] bNg-arXy GAME: Larvas: Vaclav Havel(Furry Chicken).
+[20:57:14] bNg-arXy SAY: chicken/ : BWAAAAARK BWAK BWAK BWAK!
+[20:57:16] bNg-arXy EMOTE: chicken/ : <B>The chicken</B> flaps its wings viciously.
+[20:57:18] bNg-arXy EMOTE: Commander Clucky/ : <B>Commander Clucky</B> clucks.
+[20:57:20] bNg-arXy ACCESS: Logout: Furry Chicken/(Xenomorph (1))
+
+
+Starting up. (ID: bNg-atvt) 21:05.09
+---------------------
+[21:05:09] bNg-atvt MISC: Saved mode is 'xeno'
+[21:05:11] bNg-atvt ADMIN: Loading jobban_rank
+[21:05:11] bNg-atvt ADMIN: Loading Banlist
+[21:05:12] bNg-atvt DEBUG: Rebuilding Master Controller
+[21:05:12] bNg-atvt ACCESS: Login: Furry Chicken/(Furry Chicken) from localhost-3013913043 || BYOND v511
+[21:05:20] bNg-atvt DEBUG: The hive node at Bloody Larva (759) spawned without a proper DNA.
+[21:05:20] bNg-atvt DEBUG: The hive node at Bloody Larva (970) spawned without a proper DNA.
+[21:05:20] bNg-atvt DEBUG: The hive node at Bloody Larva (263) spawned without a proper DNA.
+[21:05:20] bNg-atvt DEBUG: The hive node at Bloody Larva (584) spawned without a proper DNA.
+[21:05:20] bNg-atvt DEBUG: The hive node at Bloody Larva (596) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (812) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (626) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (63) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (773) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (401) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (776) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (207) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (421) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (35) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (855) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (949) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (13) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (71) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (640) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (810) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (120) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (917) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (320) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (168) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (27) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (217) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (72) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (990) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (996) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (594) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (740) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (942) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (559) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (335) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (608) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (637) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (509) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (733) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (619) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (878) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (918) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (432) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (135) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (345) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (640) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (621) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (536) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (370) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (34) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (884) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (141) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (239) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (537) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (232) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (32) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (447) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (938) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (85) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (427) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (185) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (349) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (657) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (922) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (105) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (560) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (84) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (33) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (142) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (917) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (79) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (935) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (762) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (958) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (75) spawned without a proper DNA.
+[21:05:21] bNg-atvt DEBUG: The hive node at Bloody Larva (148) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (930) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (482) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (682) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (737) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (367) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (984) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (971) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (659) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (844) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (271) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (677) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (224) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (681) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (496) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (507) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (404) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (356) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (483) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (617) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (695) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (459) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (221) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (801) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (411) spawned without a proper DNA.
+[21:05:22] bNg-atvt DEBUG: The hive node at Bloody Larva (667) spawned without a proper DNA.
+[21:05:52] bNg-atvt ADMIN: Furry Chicken has started the game.
+[21:05:52] bNg-atvt DEBUG: Furry Chicken had xeno enabled, so we are drafting them.
+[21:05:52] bNg-atvt DEBUG: Furry Chicken has been selected for Xenomorph by lottery.
+[21:05:52] bNg-atvt DEBUG: Furry Chicken was selected for Xenomorph by lottery, but they already have a special role.
+[21:05:52] bNg-atvt ACCESS: Logout: *no key*/(Furry Chicken)
+[21:05:52] bNg-atvt ACCESS: Login: Furry Chicken/(Vaclav Havel) from localhost-3013913043 || BYOND v511
+[21:05:52] bNg-atvt DEBUG: The hive node at Bloody Larva (889) spawned without a proper DNA.
+[21:05:52] bNg-atvt ACCESS: Logout: *no key*/(Vaclav Havel)
+[21:05:52] bNg-atvt ACCESS: Login: Furry Chicken/(Bloody Larva (889)) from localhost-3013913043 || BYOND v511
+[21:05:53] bNg-atvt DEBUG: Next event of severity Mundane in 12.078 minutes.
+[21:05:53] bNg-atvt DEBUG: Next event of severity Moderate in 39.406 minutes.
+[21:05:53] bNg-atvt DEBUG: Next event of severity Major in 98.0433 minutes.
+[21:06:01] bNg-atvt ADMIN: Furry Chicken/(Bloody Larva (889)) modified Bloody Larva (889)'s amount_grown to 12312
+[21:06:04] bNg-atvt ACCESS: Logout: *no key*/(Larva (889))
+[21:06:04] bNg-atvt ACCESS: Login: Furry Chicken/(Xenomorph (1)) from localhost-3013913043 || BYOND v511
+[21:06:27] bNg-atvt SAY: Furry Chicken/(Alpha Xenomorph) : (Hivemind) yes
+[21:06:32] bNg-atvt SAY: Furry Chicken/(Alpha Xenomorph) : (Hivemind) it is I
+[21:06:34] bNg-atvt EMOTE: chicken/ : <B>The chicken</B> pecks at the ground.
+[21:06:35] bNg-atvt SAY: Furry Chicken/(Alpha Xenomorph) : (Hivemind) ayaa
+[21:06:39] bNg-atvt ACCESS: Logout: Furry Chicken/(Alpha Xenomorph)
